@@ -1,0 +1,41 @@
+#!/usr/bin/env python3
+
+import glob
+import json
+
+import requests
+
+
+def read_orgs():
+    orgs = []
+    for org in glob.iglob("./orgs/*.json"):
+        with open(org) as f:
+            orgs.append(json.load(f))
+    return orgs
+
+
+def get_upcoming_meetup_events(urlname):
+    lower_urlname = urlname.lower()
+    return requests.get(
+        "https://www.meetup.com/mu_api/urlname/events?"
+        + "queries=(endpoint:noop,flags:!(),meta:(metaRequestHeaders:!(),method:get),params:(),ref:headers,type:headers),"
+        # + "(endpoint:Bristol-Machine-Learning,meta:(flags:!(),method:get),params:(country:us,fields:'',state:''),ref:group,type:group),"
+        + f"(endpoint:{urlname}/events,list:(dynamicRef:list_events_{lower_urlname}_upcoming_cancelled),meta:(method:get),params:(desc:!f,fields:'plain_text_no_images_description,series,self,venue,venue_visibility',has_ended:!f,page:10,status:'upcoming,cancelled'),ref:events_{lower_urlname}_upcoming_cancelled)"
+    ).json()
+
+
+def get_events(org):
+    events = []
+
+    meetup_urlname = org.get("meetup", {}).get("urlname")
+    if meetup_urlname:
+        events.append(get_upcoming_meetup_events(meetup_urlname))
+
+    return events
+
+
+if __name__ == "__main__":
+    orgs = read_orgs()
+
+    for org in orgs:
+        print(get_events(org))
