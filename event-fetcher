@@ -39,13 +39,43 @@ def read_orgs():
     return orgs
 
 
+def meetup_events_to_events(event_dict, org_id):
+    events = []
+    for event in event_dict:
+        desc = event.get("description")
+        time = event.get("time")
+        title = event.get("name")
+        id = event.get("id")
+        events.append(Event(title, desc, org_id, time, id))
+    return events
+
+
+def get_past_meetup_events(urlname, org_id):
+    lower_urlname = urlname.lower()
+
+    resp = requests.get(
+        "https://www.meetup.com/mu_api/urlname/events/past?"
+        + "queries=(endpoint:noop,meta:(metaRequestHeaders:!(),method:get),params:(),ref:headers,type:headers),"
+        + f"(endpoint:{urlname}/events,list:(dynamicRef:list_events_{lower_urlname}_past_cancelled),meta:(method:get),params:(desc:!t,fields:'comment_count,event_hosts,featured_photo,plain_text_no_images_description,series,self,rsvp_rules,rsvp_sample,venue,venue_visibility',has_ended:!t,page:100,status:'upcoming,past,cancelled'),ref:events_{lower_urlname}_past_cancelled)"
+    ).json()
+
+    endpoint_resps = resp.get("responses")
+
+    events = []
+    for endpoint in endpoint_resps:
+        if "_past_cancelled" in endpoint.get("ref", ""):
+            value = endpoint.get("value")
+            events += meetup_events_to_events(value, org_id)
+
+    return events
+
+
 def get_upcoming_meetup_events(urlname, org_id):
     lower_urlname = urlname.lower()
     resp = requests.get(
         "https://www.meetup.com/mu_api/urlname/events?"
         + "queries=(endpoint:noop,flags:!(),meta:(metaRequestHeaders:!(),method:get),params:(),ref:headers,type:headers),"
-        # + "(endpoint:Bristol-Machine-Learning,meta:(flags:!(),method:get),params:(country:us,fields:'',state:''),ref:group,type:group),"
-        + f"(endpoint:{urlname}/events,list:(dynamicRef:list_events_{lower_urlname}_upcoming_cancelled),meta:(method:get),params:(desc:!f,fields:'plain_text_no_images_description,series,self,venue,venue_visibility',has_ended:!f,page:10,status:'upcoming,cancelled'),ref:events_{lower_urlname}_upcoming_cancelled)"
+        + f"(endpoint:{urlname}/events,list:(dynamicRef:list_events_{lower_urlname}_upcoming_cancelled),meta:(method:get),params:(desc:!f,fields:'plain_text_no_images_description,series,self,venue,venue_visibility',page:100,status:'upcoming,cancelled'),ref:events_{lower_urlname}_upcoming_cancelled)"
     ).json()
 
     endpoint_resps = resp.get("responses")
@@ -54,12 +84,7 @@ def get_upcoming_meetup_events(urlname, org_id):
     for endpoint in endpoint_resps:
         if "_upcoming_cancelled" in endpoint.get("ref", ""):
             value = endpoint.get("value")
-            for event in value:
-                desc = event.get("description")
-                time = event.get("time")
-                title = event.get("name")
-                id = event.get("id")
-                events.append(Event(title, desc, org_id, time, id))
+            events += meetup_events_to_events(value, org_id)
 
     return events
 
@@ -68,11 +93,16 @@ def get_events(org):
     events = []
 
     org_id = org.get("id")
+    print(f"getting events for {org_id}")
     meetup_urlname = org.get("meetup", {}).get("urlname")
     if meetup_urlname:
-        meetup_events = get_upcoming_meetup_events(meetup_urlname, org_id)
-        if meetup_events:
-            events.append(*meetup_events)
+        upcoming_meetup_events = get_upcoming_meetup_events(meetup_urlname, org_id)
+        if upcoming_meetup_events:
+            events += upcoming_meetup_events
+
+        past_meetup_events = get_past_meetup_events(meetup_urlname, org_id)
+        if past_meetup_events:
+            events += past_meetup_events
 
     return events
 
