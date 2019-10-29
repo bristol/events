@@ -1,9 +1,34 @@
 #!/usr/bin/env python3
 
+import os
 import glob
 import json
+from dataclasses import dataclass
 
 import requests
+
+
+@dataclass
+class Event:
+    title: str
+    description: str
+    org: str
+    time: int
+    id: str
+
+    def to_json(self):
+        return {
+            "title": self.title,
+            "org": self.org,
+            "date": self.time,
+            "description": self.description,
+        }
+
+    def filename(self):
+        return f"{self.dir()}/{self.id}.json"
+
+    def dir(self):
+        return f"events/{self.org}"
 
 
 def read_orgs():
@@ -14,28 +39,57 @@ def read_orgs():
     return orgs
 
 
-def get_upcoming_meetup_events(urlname):
+def get_upcoming_meetup_events(urlname, org_id):
     lower_urlname = urlname.lower()
-    return requests.get(
+    resp = requests.get(
         "https://www.meetup.com/mu_api/urlname/events?"
         + "queries=(endpoint:noop,flags:!(),meta:(metaRequestHeaders:!(),method:get),params:(),ref:headers,type:headers),"
         # + "(endpoint:Bristol-Machine-Learning,meta:(flags:!(),method:get),params:(country:us,fields:'',state:''),ref:group,type:group),"
         + f"(endpoint:{urlname}/events,list:(dynamicRef:list_events_{lower_urlname}_upcoming_cancelled),meta:(method:get),params:(desc:!f,fields:'plain_text_no_images_description,series,self,venue,venue_visibility',has_ended:!f,page:10,status:'upcoming,cancelled'),ref:events_{lower_urlname}_upcoming_cancelled)"
     ).json()
 
+    endpoint_resps = resp.get("responses")
+
+    events = []
+    for endpoint in endpoint_resps:
+        if "_upcoming_cancelled" in endpoint.get("ref", ""):
+            value = endpoint.get("value")
+            for event in value:
+                desc = event.get("description")
+                time = event.get("time")
+                title = event.get("name")
+                id = event.get("id")
+                events.append(Event(title, desc, org_id, time, id))
+
+    return events
+
 
 def get_events(org):
     events = []
 
+    org_id = org.get("id")
     meetup_urlname = org.get("meetup", {}).get("urlname")
     if meetup_urlname:
-        events.append(get_upcoming_meetup_events(meetup_urlname))
+        meetup_events = get_upcoming_meetup_events(meetup_urlname, org_id)
+        if meetup_events:
+            events.append(*meetup_events)
 
     return events
+
+
+def write_events(events):
+    for event in events:
+        if not os.path.exists(event.dir()):
+            os.makedirs(event.dir())
+        with open(event.filename(), "w") as f:
+            json.dump(
+                event.to_json(), f, sort_keys=True, indent=4, separators=(",", ": ")
+            )
 
 
 if __name__ == "__main__":
     orgs = read_orgs()
 
     for org in orgs:
-        print(get_events(org))
+        events = get_events(org)
+        write_events(events)
