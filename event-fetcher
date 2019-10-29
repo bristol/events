@@ -9,20 +9,48 @@ import requests
 
 
 @dataclass
+class Location:
+    latitude: float
+    longitude: float
+    name: str
+    address: str
+    city: str
+    country: str
+
+    def to_json(self):
+        return {
+            "latitude": self.latitude,
+            "longitude": self.longitude,
+            "name": self.name,
+            "address": self.address,
+            "city": self.city,
+            "country": self.country,
+        }
+
+
+@dataclass
 class Event:
     title: str
     description: str
     org: str
     time: int
     id: str
+    link: str
+    location: Location
 
     def to_json(self):
-        return {
+        d = {
             "title": self.title,
             "org": self.org,
             "date": self.time,
             "description": self.description,
+            "link": self.link,
         }
+        if self.location is not None:
+            d["location"] = self.location.to_json()
+        else:
+            d["location"] = None
+        return d
 
     def filename(self):
         return f"{self.dir()}/{self.id}.json"
@@ -39,14 +67,35 @@ def read_orgs():
     return orgs
 
 
+def meetup_venue_to_location(venue_dict):
+    name = venue_dict.get("name")
+    lat = venue_dict.get("lat")
+    lon = venue_dict.get("lon")
+    name = venue_dict.get("name")
+    address = venue_dict.get("address_1")
+    city = venue_dict.get("city")
+    country = venue_dict.get("country")
+    return Location(lat, lon, name, address, city, country)
+
+
 def meetup_events_to_events(event_dict, org_id):
     events = []
     for event in event_dict:
+        print(event)
+        status = event.get("status")
         desc = event.get("description")
         time = event.get("time")
         title = event.get("name")
         id = event.get("id")
-        events.append(Event(title, desc, org_id, time, id))
+        link = event.get("link")
+
+        venue = event.get("venue")
+        if venue is not None:
+            location = meetup_venue_to_location(venue)
+        else:
+            location = None
+
+        events.append(Event(title, desc, org_id, time // 1000, id, link, location))
     return events
 
 
@@ -56,7 +105,7 @@ def get_past_meetup_events(urlname, org_id):
     resp = requests.get(
         "https://www.meetup.com/mu_api/urlname/events/past?"
         + "queries=(endpoint:noop,meta:(metaRequestHeaders:!(),method:get),params:(),ref:headers,type:headers),"
-        + f"(endpoint:{urlname}/events,list:(dynamicRef:list_events_{lower_urlname}_past_cancelled),meta:(method:get),params:(desc:!t,fields:'comment_count,event_hosts,featured_photo,plain_text_no_images_description,series,self,rsvp_rules,rsvp_sample,venue,venue_visibility',has_ended:!t,page:100,status:'upcoming,past,cancelled'),ref:events_{lower_urlname}_past_cancelled)"
+        + f"(endpoint:{urlname}/events,list:(dynamicRef:list_events_{lower_urlname}_past_cancelled),meta:(method:get),params:(desc:!t,fields:'plain_text_no_images_description,series,self,venue,venue_visibility',has_ended:!t,page:100,status:'upcoming,past,cancelled'),ref:events_{lower_urlname}_past_cancelled)"
     ).json()
 
     endpoint_resps = resp.get("responses")
