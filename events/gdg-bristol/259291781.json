@@ -1,0 +1,15 @@
+{
+    "date": 1556213400,
+    "description": "<p>Join us for this year's Next Extended event! We are excited to bring together the local developer community to be part of the Google Next '19 experience and learn more about exciting new tools and services straight out of Next '19 in San Francisco. We will be presenting and demoing some of the new product launches and then collaborating on a live code lab together. All skill levels welcome!</p> <p>Everyone who attends will get free Qwiklabs credits to complete the Kubernetes Solutions quest. That's 10 different labs to complete in your own time (about $50 worth!)</p> <p>And if that's not enough, there will also be swag!</p> <p>Plus beer, non-beer, pizza and a great bunch of humans. Bring your laptop!</p> <p>Pizza will be ready for 18:30 so please come and grab some early on :)</p> ",
+    "link": "https://www.meetup.com/GDG-Bristol/events/259291781/",
+    "location": {
+        "address": "2nd Floor Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "Just Eat"
+    },
+    "org": "gdg-bristol",
+    "title": "Next '19 Extended Bristol"
+}

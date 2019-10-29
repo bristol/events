@@ -1,0 +1,15 @@
+{
+    "date": 1459359000,
+    "description": "<p>\ud83d\udd59 \u00a0Doors open at\u00a018:30, talks start at\u00a019:00</p> <p>\ud83c\udf7a \u00a0&amp; \ud83c\udf55\u00a0\u00a0Beer &amp; Pizza courtesy of our sponsor JustEat :)</p> <p>\ud83d\udc96 \u00a0Also sponsored by <a href=\"http://pusher.com\">Pusher</a>, <a href=\"http://www.novate-it.co.uk/\">Novate</a> IT &amp; <a href=\"https://p.ota.to/\">Potato Bristol</a></p> <p><b>D3.js - Chris Price</b></p> <p><i>D3 is often called out as the solution to all things charting: the jQuery of SVG.\u00a0In that case: why does a quick Google throw up so many charting libraries built on top of D3? Many claim to enhance D3 without removing its awesome power, yet all that I have found result in the usual API bloat.\u00a0Based on first hand experience, I\u2019ll talk you through the logical leaps and the painful doubling-backs of building on D3.</i></p> <p><b>GSAP - Paul Thomas</b></p> <p><i>I'll be looking at some of the basics of the GreenSock Animation Platform (GSAP) and why you may want to use it over other libraries and CSS. We'll briefly\u00a0visit JS vs CSS performance</i>.\u00a0We'll take a look at where I've used it in real projects and some of the more unlikely places you might be able to use it. If anyone has any particular queries or something they would like to see, then please let me know in advance so I can try and address them.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/227095159/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "bristoljs",
+    "title": "D3.js + GSAP"
+}

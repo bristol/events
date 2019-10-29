@@ -1,0 +1,15 @@
+{
+    "date": 1492623900,
+    "description": "<p>Neil Ford - Hacking Animatronic Dinosaurs with the Raspberry Pi and Node-RED</p> <p>Neil Ford, hacker, programmer and educator, has recently been to the Blackgang Chine attraction on the Isle of White to teach their staff how to get more out of their animatronic dinosaurs. Neil will be showing us what you can do with a Raspberry Pi and Node-Red to juice up your robot t-rex (you've got one of those, right?).</p> <p>Simon Emms - You Aren't Writing Enough Tests.</p> <p>Simon has been developing for over a decade and been using NodeJS since 2012, building RESTful APIs for the likes of DPD, Specsavers and LV. The one thing he's learnt is most people don't write enough automated tests. With a few simple ideas, you can be getting 100% test coverage and good end-to-end coverage so you can write robust, enterprise-level software.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/238742469/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "bristoljs",
+    "title": "Neil Ford - Hacking Dinosaurs with RPi & Node-RED & Simon Emms on Testing"
+}

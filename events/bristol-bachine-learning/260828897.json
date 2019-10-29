@@ -1,0 +1,15 @@
+{
+    "date": 1557943200,
+    "description": "<p>Welcome to the 4th Bristol Machine Learning Meetup. This time the social one. We are going to join PyData Bristol Meetup this time: <a href=\"https://www.meetup.com/PyData-Bristol/events/260679477/\" class=\"linkified\">https://www.meetup.com/PyData-Bristol/events/260679477/</a></p> <p>Please make sure you RSVP there!</p> ",
+    "link": "https://www.meetup.com/Bristol-Machine-Learning/events/260828897/",
+    "location": {
+        "address": "1 Rivergate",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45096969604492,
+        "longitude": -2.582879066467285,
+        "name": "OVO Energy"
+    },
+    "org": "bristol-bachine-learning",
+    "title": "Bristol Machine Learning #4 - Social One"
+}

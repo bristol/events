@@ -1,0 +1,15 @@
+{
+    "date": 1417028400,
+    "description": "<p><a href=\"http://www.ractivejs.org\">Ractive.js</a> handles the View component of MV* applications. It uses two-way data-binding to reduce the amount of code needed to do complex UI interactions. Like Facebook's React library it uses a virtual DOM to track changes and only updates the necessary DOM elements; this makes it much more efficient for operations that hit the DOM regularly as it avoids unnecessary repaints.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/191380682/",
+    "location": {
+        "address": "4th Floor, The Pithay, BS1 2ND ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45576858520508,
+        "longitude": -2.592099905014038,
+        "name": "BaseKit Office (Bristol)"
+    },
+    "org": "bristoljs",
+    "title": "Ractive.js"
+}

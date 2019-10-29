@@ -1,0 +1,15 @@
+{
+    "date": 1474480800,
+    "description": "<p><b>Understanding cities using ViziCities and 3D data visualisation - Robin Hawkes</b></p> <p>ViziCities is an open-source 3D city visualisation platform powered by OpenStreetMap, WebGL and many other cutting-edge Web technologies. ViziCities not only allows you to explore any city in the world in 3D in your browser, it also lets you overlay data like live transport, crime, pollution, live social data, and weather. Think SimCity meets the real world!</p> <p>In this talk, Robin Hawkes, ViziCities' creator will introduce you to the project and demonstrate its powerful methods for visualising the complex data locked within our cities.</p> <p><b>Contextual Communications: What, Why and How? - Phil Leggetter</b></p> <p>You've probably heard the term \"Contextual Communications\" over the past year. But what does it mean? Why does it matter? And how would you use contextual communications within an application that you are building?</p> <p>In this talk I will share the What, Why and How of contextual communications. Think SMS, in-app messaging, voice and mix in things like location, time, history and all the data around this.</p> <p>Will also bring Ruth some cake! It is her birthday.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/230514129/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "bristoljs",
+    "title": "Visualising Cities using ViziCities & Contextual Communications"
+}

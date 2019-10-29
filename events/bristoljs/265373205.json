@@ -1,0 +1,15 @@
+{
+    "date": 1572460200,
+    "description": "<p>Talk #1 - Rabeb Othmani - Best Practices for Building Voice-First Apps</p> <p>Voice-first applications are already flooding the market, paving the path for the voice era. Users are increasingly dispensing with swipes, taps, and tiny keyboards and expecting to interact with applications in a more flexible and contextualized way: voice.</p> <p>Is it a good time to consider building voice-first apps? It definitely is. So how do you even get started? How to design for voice? How do you reduce development errors? Grow your user base? Avoid mistakes? Build engaging experiences? Join BiBi in this talk to learn about some design and development considerations when building voice experiences.</p> <p>Talk #2 - Mairead Preece - Building a multi-player interactive game with React/Redux, NextJS, PeerJS, Styled-JSX</p> <p>Mairead will be discussing the creation of an interactive multi-user game prototype. Sounds simple? Should be. These things never are.</p> <p>We will be talking through the choice of tech stack, including creation of a NextJS app with Jest test suite and Babel config, Integration of PeerJS to add multi-user interaction, Redux to store global user state, Styled-JSX (CSS in JS style authoring) and deployment of the app to Heroku.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/265373205/",
+    "location": {
+        "address": "The Brew House",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.455047607421875,
+        "longitude": -2.584230899810791,
+        "name": "Zone Digital"
+    },
+    "org": "bristoljs",
+    "title": "Building Voice-First Apps & Building a multi-player interactive game"
+}

@@ -1,0 +1,8 @@
+{
+    "date": 1368730800,
+    "description": "<p>As Javascript code gets more advanced and we start using frameworks like Backbone.js, it becomes ever more prudent to have tests for our Javascript code.\u00a0Tests allow us to be\u00a0confident that\u00a0we don't break our application when installing new versions of jQuery or adding new functionality.</p> <p>In this talk I'll introduce using Jasmine for testing your Javascript code along with using grunt and Node.js so you can test your code as part of a build process. Such build processes are vital in an era of continuous deployment.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/105157712/",
+    "location": null,
+    "org": "bristoljs",
+    "title": "Testing"
+}

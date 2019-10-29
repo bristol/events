@@ -1,0 +1,15 @@
+{
+    "date": 1488913200,
+    "description": "<p>Adam's let me start a new monthly(?) sub-group to discuss Functional JavaScript.</p> <p>We'll meet in a pub in town and talk about all things functional. All abilities welcome.</p> <p>We'll be at the back of the Royal Navy Volunteer - it's booked under \"Bristol JS\".</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/237874855/",
+    "location": {
+        "address": "17-18 Kings Street, Old City, BS1 4EF",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451751708984375,
+        "longitude": -2.596774101257324,
+        "name": "The Famous Royal Navy Volunteer"
+    },
+    "org": "bristoljs",
+    "title": "Sub-Group: The Function Room"
+}

@@ -1,0 +1,15 @@
+{
+    "date": 1453919400,
+    "description": "<p>Our first talk night of the year!</p> <p><b>7pm:\u00a0</b>NativeScript - Sebastian Witalec\u00a0</p> <p>NativeScript is an OpenSource framework that lets you use JavaScript to build native mobile applications utilising platform specific, native API calls. It supports iOS, Android, and soon Windows Universal. In this talk, you will learn how to build a native mobile app with just a bit of JavaScript and XML.</p> <p><b>7:45pm:\u00a0</b><b>Lightning Talks</b></p> <p><b>Thinking about testability - Roy Smith</b></p> <p>When writing JS apps we tend to structure our code for elegance, DRY, future-expansion, reusability, and readability. In my experience, bottom of the list of concerns tends to be testability. I'll show two techniques that I use that have proven invaluable in speeding up iterative development as well as facilitating automated tests.</p> <p><b>BristolJS: The Story so Far - Adam Butler</b></p> <p>Adam shares some stats about the group and outlines the plans for growing and expanding over the coming year.</p> <p><b>8pm: Pizza, beer and head to the pub</b></p> <p>Our talk nights are made possible with our sponsors, in particular:</p> <p>\u2022 cxpartners - our generous hosts</p> <p>\u2022 Just EAT - providing the pizza-based sustenance</p> <p>\u2022 Pusher - our newest sponsor! More details on Wednesday.</p> <p>We're also fortunate to invite deskbeers.com to the party. They have kindly provided refreshment in the form of craft beers for Wednesday night, and have an offer available for BristolJS members - 50% off the first box when you set up a regular delivery with them. Come along on Wednesday to taste their wares, and if you're interested <a href=\"https://www.deskbeers.com/deliveries/regular/about?promo=BRISTOLJS\">click here</a> to redeem the offer.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/223732493/",
+    "location": {
+        "address": "2 College Square",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45281219482422,
+        "longitude": -2.6004979610443115,
+        "name": "cxpartners"
+    },
+    "org": "bristoljs",
+    "title": "NativeScript"
+}

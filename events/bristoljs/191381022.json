@@ -1,0 +1,15 @@
+{
+    "date": 1411581600,
+    "description": "<p>An introduction to building for accessibility while coding up your modern, dynamic web applications in JavaScript.</p> <p>In this talk, Jon Gibbins will explain how dynamic content works with assistive technology and demonstrate a few accessible coding techniques.\u00a0Assuming some knowledge of JavaScript, he'll introduce WAI-ARIA and show what it can do, and tool you up with some best practices for some common accessibility problems.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/191381022/",
+    "location": {
+        "address": "4th Floor, The Pithay, BS1 2ND ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45576858520508,
+        "longitude": -2.592099905014038,
+        "name": "BaseKit Office (Bristol)"
+    },
+    "org": "bristoljs",
+    "title": "JavaScript for accessible websites"
+}

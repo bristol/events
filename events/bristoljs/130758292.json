@@ -1,0 +1,8 @@
+{
+    "date": 1376591400,
+    "description": "<p>PhantomJS is a headless browser. That means it has no UI at all and has to be interacted with programatically.</p> <p>Eh? What's the point in that then? In my talk, I hope to be able to answer that question!</p> <p>I'll start with a quick 101 introduction to the concept and the basic syntax.</p> <p>Then I'll deep dive into a couple of real world uses.</p> <p>I'll talk about something that I've actually used it for - filling in a horrible, non-standards compliant web form that doesn't just accept a POST request with the form filling add-on CasperJS.</p> <p>Then I'll finish up with some examples of a use case that I want to learn more about - Having Phantom run functional tests against a website, using popular testing framework Mocha. Is this a viable alternative to Selenium?</p> <p>Hope plenty of you can turn up!</p> <p>\u00a0</p> <p>\u00a0</p> <p>\u00a0</p> <p>\u00a0</p> <p>\u00a0</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/130758292/",
+    "location": null,
+    "org": "bristoljs",
+    "title": "PhantomJS"
+}

@@ -1,0 +1,15 @@
+{
+    "date": 1561658400,
+    "description": "<p>We are excited to host our first lightning talks evening, featuring a bunch of exciting talks from our amazing community members!</p> <p>Talks confirmed so far:</p> <p>Social Sentiment Analysis with Dan Jones<br/>We Are Neurodiverse with Sam Downie<br/>Tekton: Kubernetes Native CI/CD Pipelines with Aled James<br/>Telepresence for Integration Testing with Ben King<br/>Sprinkle some Fusion on your Data with Mandy Bailey</p> <p>There is still space if you'd like to join in! Talks can feature any Google topic: Android, Cloud, ML/AI, Data, Flutter, Tensorflow, app dev, you name it! Talks should be 5-10 minutes long and can take any format. You don't need shiny slides if you don't want them, just have something interesting to tell us about in a friendly, welcoming and inclusive atmosphere.</p> <p>Please submit your talks here: <a href=\"https://forms.gle/SB5Lh21QFgQrCNNv6\" class=\"linkified\">https://forms.gle/SB5Lh21QFgQrCNNv6</a></p> ",
+    "link": "https://www.meetup.com/GDG-Bristol/events/259533551/",
+    "location": {
+        "address": "2nd Floor Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "Just Eat"
+    },
+    "org": "gdg-bristol",
+    "title": "Lightning Talks!"
+}

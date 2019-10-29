@@ -1,0 +1,15 @@
+{
+    "date": 1548873000,
+    "description": "<p>\u26a1\ufe0fLightning Talk - Adam Butler - Ship frequently with CodePush</p> <p>CodePush is an App Center tool that allows you to release background changes to your apps on demand. In this short talk I'll run you through what CodePush is, how to implement and use it in an example React Native app.</p> <p>Duncan Porter - Web testing that doesn't suck</p> <p>Make test driven development your default workflow, but this time without the pain, delivering more robust applications, faster</p> <p>James Flight - RxJS</p> <p>RxJS (Reactive Extensions for Javascript) is a library for reactive programming using Observables. It offers some exciting possibilities for neatly composing asyncrounous code, and has many possible appication both on the front end, and back end.</p> <p>In this talk James will aim to give an overview of the latest version of RxJS (version 6), explain the key concepts, and go through some of the more common use cases.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/257739335/",
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
+    "org": "bristoljs",
+    "title": "Adam Butler - CodePush | Duncan Porter - Web Testing | James Flight - RxJS"
+}

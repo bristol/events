@@ -1,0 +1,15 @@
+{
+    "date": 1551294000,
+    "description": "<p>Welcome to the first Bristol Machine Learning Meetup! This is an informal/social one with the goal of meeting each other and having some drinks.</p> <p>Hopefully, if there is a demand for a monthly ML meet-up in Bristol, the next ones are going to be more organised and structured, with a proper place to have talks/presentations.</p> <p>If you have any questions or suggestions feel free to message me!</p> ",
+    "link": "https://www.meetup.com/Bristol-Machine-Learning/events/258264618/",
+    "location": {
+        "address": "17-18 King St",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451751708984375,
+        "longitude": -2.5945849418640137,
+        "name": "The Famous Royal Navy Volunteer"
+    },
+    "org": "bristol-bachine-learning",
+    "title": "Bristol Machine Learning: First Meetup"
+}

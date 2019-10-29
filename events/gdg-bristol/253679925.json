@@ -1,0 +1,15 @@
+{
+    "date": 1550687400,
+    "description": "<p>18:30 - Arrive and interact with other humans!<br/>19:00 - Firebase from within Kubernetes - A show-n-tell from Andre<br/>19:30 - Serverless Video Intelligence - A round up of serverless options in GCP with a live demo from Tim<br/>20:30 - You don't have to go home but you can't stay here :-)</p> <p>We will also hand out Qwiklabs vouchers so you can try out the code from the serverless demo yourself.</p> <p>Venue hire and light refreshments are sponsored by www.claranet.co.uk!</p> ",
+    "link": "https://www.meetup.com/GDG-Bristol/events/253679925/",
+    "location": {
+        "address": "1 Temple Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454830169677734,
+        "longitude": -2.5828421115875244,
+        "name": "DeskLodge Old Market"
+    },
+    "org": "gdg-bristol",
+    "title": "Firebase, Kubernetes and Serverless Video Intelligence"
+}

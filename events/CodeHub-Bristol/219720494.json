@@ -1,0 +1,15 @@
+{
+    "date": 1424556000,
+    "description": "<p>Please check <a href=\"http://www.meetup.com/NodeSchool-Bristol/events/218934901/\" class=\"linkified\">http://www.meetup.com/NodeSchool-Bristol/events/218934901/</a> and RSVP there</p> ",
+    "link": "https://www.meetup.com/CodeHub-Bristol/events/219720494/",
+    "location": {
+        "address": "Prudential Buildings, 11-19 Wine St., Bristol, BS1 2PH, Bristol",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45545196533203,
+        "longitude": -2.592360019683838,
+        "name": "MixRadio"
+    },
+    "org": "CodeHub-Bristol",
+    "title": "NodeSchool Bristol"
+}

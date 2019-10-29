@@ -1,0 +1,15 @@
+{
+    "date": 1400695200,
+    "description": "<p>Andrew Nesbitt is going to talk about hacking with\u00a0</p> <p>Nodecopters!</p> <p>We'll learn how to operate a quadcopter using code rather than your phone, make it take off, fly around and flip with just a few lines of javascript.</p> <p>Then we'll push it even futher and try out some of the open source projects to control them in weird and wonderful ways with face detection, QR code controllers, streaming video and the latest web browser technologies.</p> <p>MORE INFORMATION IN THE COMMENTS.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/170455842/",
+    "location": {
+        "address": "Prudential Buildings, 11-19 Wine St., Bristol",
+        "city": "BS1 2PH",
+        "country": "gb",
+        "latitude": 51.4552116394043,
+        "longitude": -2.5922799110412598,
+        "name": "Nokia Bristol"
+    },
+    "org": "bristoljs",
+    "title": "Nodecopter - Commanding flying robots with Javascript"
+}

@@ -1,0 +1,15 @@
+{
+    "date": 1556127000,
+    "description": "<p>Rachel Davies - Hidden Benefits of Unit Tests</p> <p>Unit tests provide a quick way for us to confirm our code is working as we expect but many developers remain unconvinced whether it's worth investing time writing unit tests especially in front-end projects. Once we have implemented a working solution, there's often pressure to move on to adding more crowd-pleasing features rather than trying to wrap our code with tests. However, the benefit of writing unit tests is not limited to automated checking our code still works. In this talk, I'll share some less obvious benefits for investing time writing unit tests with some examples drawn from a recent project using GraphQL.</p> <p>Wyc Slingsby - Storybook and React Native</p> <p>Storybook is a popular tool for the development of UI components in many of the leading web frameworks including React, Vue and Angular. It provides a convenient environment for developing components in isolation from the main app, making the testing of hard-to-reach edge cases easier. Storybook also supports React Native, bringing the same advantages to mobile developers. In this talk I'll look at how we have used Storybook in the development of a new React Native app, sharing some of the key things we have learned along the way. We will also look at how the structural testing of React Native UI components can be automated using Storybook and Jest snapshots, providing an additional option for static front-end testing.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/260471135/",
+    "location": {
+        "address": "The Brew House",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45501708984375,
+        "longitude": -2.5844249725341797,
+        "name": "Zone Digital"
+    },
+    "org": "bristoljs",
+    "title": "Rachel Davies - Hidden Benefits of Unit Tests & Wyc Slingsby - Storybook"
+}

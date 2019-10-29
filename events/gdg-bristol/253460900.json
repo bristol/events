@@ -1,0 +1,15 @@
+{
+    "date": 1538589600,
+    "description": "<p>This will be our first meetup and hopefully a great start to our new Google Developer Group. We have 2 talks scheduled, and we are kindly being hosted by Just Eat who will provide beer and pizza. I wonder if they'll use their own app to order it?</p> <p>Rough Schedule:</p> <p>19:00 - Meet and greet, have a drink and get to know each other!</p> <p>19:30 - Intro to the GDG, Google's global developer community</p> <p>19:45 - Andre will give a show and tell on Google Pub/Sub, the asynchronous messaging service that Google use to send 500 million messages per second.</p> <p>20:15 - Tim will give a demonstration of automating Google Cloud infrastructure with Terraform.</p> <p>20:45 - Closing comments, further beer &amp; pizza.</p> <p>We hope to see you there, and in the meantime please find out more about our group on our main meetup page.</p> ",
+    "link": "https://www.meetup.com/GDG-Bristol/events/253460900/",
+    "location": {
+        "address": "2nd Floor Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "Just Eat"
+    },
+    "org": "gdg-bristol",
+    "title": "Our inaugural meetup!"
+}

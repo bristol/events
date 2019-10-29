@@ -1,0 +1,15 @@
+{
+    "date": 1427310000,
+    "description": "<p>Since OS X Yosemite came out its now possible to build\u00a0<i>truly</i>\u00a0native application with JavaScript. In this talk we'll cover this as well as some of the\u00a0hurdles along the way as well as alternative techniques including Alfred, Node.js &amp; nw.js.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/210227672/",
+    "location": {
+        "address": "4th Floor, The Pithay, BS1 2ND ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45576858520508,
+        "longitude": -2.592099905014038,
+        "name": "BaseKit Office (Bristol)"
+    },
+    "org": "bristoljs",
+    "title": "Building OS X Apps with Javascript"
+}

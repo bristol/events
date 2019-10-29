@@ -1,0 +1,15 @@
+{
+    "date": 1456340400,
+    "description": "<p>Espruino - JavaScript for Hardware</p> <p>A look at some of the challenges of developing with hardware, and how using JavaScript can let you create power-efficient software quickly and easily - with a few demos along the way!</p> <p><a href=\"https://twitter.com/ChrisMcKirgan\">Chris McKirgan</a> - Hacking with hardware</p> <p>Hardware such as the Arduino Leonardo allows us to emulate various devices, opening up a great deal of yet unseen creative opportunities with not always honest intentions.\u00a0</p> <p><b>Sam Machin - CHIP, RaspberryPi and the $10 Echo</b></p> <p>Sam will be talking about the various 'cheap' computers that have emerged and some of the pros/cons of a couple of them. He'll also talk briefly about his $10 Echo project turning a CHIP into an Amazon Echo.\u00a0</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/224723406/",
+    "location": {
+        "address": "South Wing, One Castlepark, Tower Hill, Bristol,  BS2 0JA",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454708099365234,
+        "longitude": -2.5854411125183105,
+        "name": "BaseKit (NEW OFFICE)"
+    },
+    "org": "bristoljs",
+    "title": "Hardware"
+}

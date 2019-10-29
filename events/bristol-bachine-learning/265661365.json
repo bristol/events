@@ -1,0 +1,15 @@
+{
+    "date": 1574272800,
+    "description": "<p>We've very pleased to announce that our next meet-up is going to be hosted by FiveAI at their Bristol offices - <a href=\"https://five.ai/\" class=\"linkified\">https://five.ai/</a></p> <p>As many of you will already know, FiveAI is a venture-funded UK company based in London, Cambridge, Oxford, Bristol, Edinburgh and Millbrook.</p> <p>They are developing the software that will make autonomous vehicle services a reality in Europe, and are already testing their systems on the streets of London.</p> <p>Talks:</p> <p>- \"Scene Understanding at FiveAI\" - Blaine Rogers. Blaine is a Research Engineer working in FiveAI's Perception Team.</p> <p>- \"Where to commit a crime and get away with it using PySpark\" - Alistair Rogers. Alistair is a data scientist at OnCorps, a company that applies ML to the Asset Management and Sales sector. Alistair has worked with a number of organisations within the Healthcare, Banking and Government spaces.</p> <p>Schedule:</p> <p>18:00 - Doors/Food/Drinks/Networking<br/>18:50 - Opening Introduction/Community Messages<br/>19:00 - Alistair Rogers - \"Where to commit a crime and get away with it using PySpark\"<br/>19:30 - Short Break<br/>19:40 - Blaine Rogers - \"Scene Understanding at FiveAI\"<br/>20:30ish - Tidy up &amp; head to a local pub to continue the conversation</p> <p>Please note the talks will be filmed.</p> <p>The Bristol ML meet-up is defined by its community. If you have ideas for speakers, venues or suggestions for how we can in anyway improve please don't hesitate to contact one of the organisers.</p> <p>This is a going to be a really great set of talks, hope to see you there!</p> ",
+    "link": "https://www.meetup.com/Bristol-Machine-Learning/events/265661365/",
+    "location": {
+        "address": "Lower Approach Rd",
+        "city": "City of Bristol",
+        "country": "gb",
+        "latitude": 51.44875717163086,
+        "longitude": -2.5823209285736084,
+        "name": "Lower Approach Road"
+    },
+    "org": "bristol-bachine-learning",
+    "title": "Bristol Machine Learning #9 - FiveAI"
+}

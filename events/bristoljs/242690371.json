@@ -1,0 +1,15 @@
+{
+    "date": 1508952600,
+    "description": "<p><b>James Thomas - Serverless Node.js Applications</b></p> <p>Servers are killing your productivity. Rather than building better software for your users, you end up constantly distracted by maintaining computers. Wasn't the \"cloud\" supposed to fix this? It sounded so promising until we realised it was just renting VMs in someone else's datacenter. We couldn't escape \"servers\". Until now...</p> <p>In this session, developers will learn how to build Node.js microservices without servers, using modern\u00a0\u201cserverless\u201d cloud platforms. We\u2019ll look at common challenges (and solutions) to building applications using\u00a0\u201cserverless\u201d stacks. Exploring emerging \u201cserverless\u201d design patterns will give developers the knowledge to build application architectures using these new platforms.\u00a0</p> <p><b><br/></b></p> <p><b>George Crawford -\u00a0An introduction to Docker and Kubernetes for Node.js developers</b></p> <p>Node.js apps can run on a multitude of platforms. But when you ship code to production, how can you be sure that it will behave in the same way it did on your local dev machine? Containerisation is one way to mitigate this risk: by building a virtual 'image' which includes the OS, software and source code that your application needs to run, you can ensure a reproducible build you can trust, which runs in the same way in every environment.</p> <p>But containerisation isn't the whole picture. Take the concept of reproducible, declarative builds to its natural conclusion and you get 'container orchestration': a representation of all of your applications and servers and how they relate together.</p> <p>This talk will introduce containerisation with Docker; how you can use it to make your workflows more predictable and your servers more reliable; and using Kubernetes to spin up your applications in the cloud using nothing but YAML files, with monitoring, logging, scaling and networking all taken care of. We'll be looking at some real-world examples, some tips and tricks, advice on developing on your local machine, and some of the more painful discoveries from a few months of deploying to production.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/242690371/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "bristoljs",
+    "title": "James Thomas - Serverless Node & George Crawford - Node.js, Docker & Kubernetes"
+}

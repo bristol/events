@@ -1,0 +1,15 @@
+{
+    "date": 1564077600,
+    "description": "<p>Join us in welcoming our new robot overlords as we discuss all things big data, machine learning and artificial intelligence. We'll explore Google's range of off-the-shelf automated machine learning services and APIs and get hands-on with a Google AIY Vision Kit!</p> <p>See <a href=\"https://aiyprojects.withgoogle.com/\" class=\"linkified\">https://aiyprojects.withgoogle.com/</a> for more information.</p> <p>Agenda:</p> <p>19:00 - Meet/Greet/Eat Pizza<br/>19:30 - Google AIY Vision Kit with Fahad<br/>20:00 - Google ML APIs with Tim<br/>20:30 - Time permitting, we may stick around for additional food/drink and to tinker with the Voice Kit!</p> <p>As per usual, pizza, beer, non-beer and a great bunch of humans will be provided!</p> ",
+    "link": "https://www.meetup.com/GDG-Bristol/events/261538438/",
+    "location": {
+        "address": "2nd Floor Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "Just Eat"
+    },
+    "org": "gdg-bristol",
+    "title": "Mr. Data's ML, AI and AIY Workshop"
+}

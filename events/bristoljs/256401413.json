@@ -1,0 +1,15 @@
+{
+    "date": 1543429800,
+    "description": "<p>Doors from 18:30, talks from 19:00<br/>Drinks and food will be provided from 18:30</p> <p>Lightning Talk - Drew McLellan - Measuring Performance with Server Timing</p> <p>Talk #1 - Pete West - TypeScript: easy mode to challenge mode</p> <p>TypeScript is a language that extends JavaScript to support static typing.<br/>It complements the open, malleable design principles of JavaScript, while catching bugs and improving code understandability.<br/>In this talk, you'll learn how to use TypeScript in your existing project and how you can iteratively improve your code with stronger typing.</p> <p>Talk #2 - Mike Oram - The Web API</p> <p>The web API has been a vital part of the JavaScript ecosystem for quite some time now, giving us AJAX, window timers and more. With the rise of progressive web apps, the web API's functionality is increasing like never before. To compete with native applications, the web API has some fantastic and powerful new features, with some awesome, and scary results. During this talk we will explore some of the newer web API features, how to use them and more importantly, the risks that they pose.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/256401413/",
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
+    "org": "bristoljs",
+    "title": "November 2018 - The Web API / TypeScript / Lightning Talks"
+}

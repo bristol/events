@@ -1,0 +1,15 @@
+{
+    "date": 1450290600,
+    "description": "<p>The last meetup of the year is our Christmas social.\u00a0</p> <p>Come along to Kong's bar for a chat and a drink or two!</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/227338237/",
+    "location": {
+        "address": "13-15 King Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.46272659301758,
+        "longitude": -2.522196054458618,
+        "name": "Kongs of King Street"
+    },
+    "org": "bristoljs",
+    "title": "Christmas Social"
+}

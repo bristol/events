@@ -1,0 +1,15 @@
+{
+    "date": 1535562000,
+    "description": "<p>-- This event will be run as a joint event with the Python DBBUG Meetup (<a href=\"https://www.meetup.com/python-dbbug/\" class=\"linkified\">https://www.meetup.com/python-dbbug/</a>). You will be able to sign up there as well shortly --</p> <p>What is a Code Dojo?</p> <p>People who train in martial arts attend dojos where they practice and try to expand their skills and achieve self-improvement. The idea is that in order to become an expert in anything you need to repeatedly perform *deliberate practice*. Dojos are also places where people of variable experience levels can engage with each other, share knowledge and give support.</p> <p>A Code Dojo tries to take those ideas and apply them in the process of master programming languages. Our version of the Dojo was inspired by the London Python Dojo (<a href=\"http://ldnpydojo.org.uk/\" class=\"linkified\">http://ldnpydojo.org.uk/</a>).</p> <p>--</p> <p>This is what a typical session could look like:</p> <p>- Arrive, meet and greet</p> <p>- Decide on a topic/\"exercise\" to work on:</p> <p>-- Suggest ideas (anyone can suggest things, it could be a game like tic-tac-toe, connect5 etc or an algorithm, or a tweet generator...)</p> <p>-- Vote to decide on 1 exercise to work on</p> <p>- Randomly split into teams of 2-4 people</p> <p>- Each team works together (using Python) to solve the exercise at hand</p> <p>- Each team presents their (complete or incomplete!) solution, talking through their creative process.</p> <p>As with the rest of the hack-night, the spirit of the Dojo will be:</p> <p>* Non-competitive, collaborative, fun environment</p> <p>*** WELCOMING ALL SKILL LEVELS ***</p> <p>* Safe to try new ideas</p> <p>--</p> <p>### IMPORTANT THINGS:</p> <p>- We will be using Python as our programming language.</p> <p>Even if you don't have much experience and only know some basics you can still participate!</p> <p>- To participate in the Dojo you will need to come to the venue.</p> <p>This is because we will need to run things at specific times and do some presentations at the end, which may make it tricky to incorporate remote people (for now!).</p> <p>- Please aim to arrive on time.</p> <p>We should be making introductions and voting on ideas in the first 30 minutes, so we will form teams and get started on the exercise by around 6.30.</p> ",
+    "link": "https://www.meetup.com/CodeHub-Bristol/events/253458609/",
+    "location": {
+        "address": "17-18 King Street, Harbourside",
+        "city": "Bristol",
+        "country": "GB",
+        "latitude": 51.451751708984375,
+        "longitude": -2.5945849418640137,
+        "name": "The Famous Royal Naval Volunteer"
+    },
+    "org": "CodeHub-Bristol",
+    "title": "Python Code Dojo"
+}

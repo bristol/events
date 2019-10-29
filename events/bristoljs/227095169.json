@@ -1,0 +1,15 @@
+{
+    "date": 1461780000,
+    "description": "<p><b>An introduction to ReactJS - </b>Jack Franklin</p> <p>ReactJS has really taken the community by storm in the last year or so, bringing new ideas, new syntax and new approaches to front end web application development. In this talk we'll dive into React and look at how we can build web applications using it. We'll tackle dealing with data and state changes, handling URLs and even look briefly at server side rendering.</p> <p>PS: if there's any specific React Qs you have, please let me know ahead of time! \u00a0</p> <p><b>---</b></p> <p><b>Geeking out about React Native - </b>Colin Eberhardt</p> <p>ReactJS, Virtual DOM, JSX, a hackable editor, ES6 modules, classes, arrow functions, node, iOS, native-UI, flexbox, ... and while we're at it, why not throw in a bit of redux and time travel?</p> <p>In this talk I\u2019ll be geeking out about all the seriously cool tech that makes React Native possible.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/227095169/",
+    "location": {
+        "address": "2 College Square",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.450443267822266,
+        "longitude": -2.6014609336853027,
+        "name": "cxpartners"
+    },
+    "org": "bristoljs",
+    "title": "ReactJS & React Native"
+}

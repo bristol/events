@@ -1,0 +1,15 @@
+{
+    "date": 1495647000,
+    "description": "<p><b>Gordon Williams - Web Bluetooth, Espruino and Puck.js</b></p> <p>Gordon has been working on JavaScript-powered embedded devices for over 5 years now, running 3 successful KickStarter campaigns from a home office in Oxfordshire. He'll show us how we can use the Web Bluetooth APIs and JavaScript to control things in the real world, straight from a webpage.</p> <p><b>L\u00e9onie Watson -\u00a0You're only supposed to blow the bloody doors off</b></p> <p>What do these imortal words, from Charlie Crocker (AKA Michael Caine) in The Italian Job, have to do with JavaScript? More than you might think...</p> <p>It is often said that JavaScript makes things inaccessible with a screen reader. This is not true though. It is possible to do good and bad things with JavaScript (as with any other language, or even dynamite) - but it helps if you understand accessibility mechanics in the browser if you want to avoid unexpected consequences.</p> <p>If you have ever used JavaScript to provide keyboard shortcuts, or used the ARIA application role to enable accessible software UI interactions on the web, there is a good chance it had unintended consequences for screen reader users.</p> <p>Using code examples and screen reader demos, L\u00e9onie will look at accessibility mechanics in the browser, the new Accessibility Object Model (AOM) JavaScript API, and how to use JavaScript so you only blow the bloody doors off!</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/238836553/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "bristoljs",
+    "title": "Gordon Williams - Web Bluetooth, Espruino & L\u00e9onie Watson - Accessibility"
+}

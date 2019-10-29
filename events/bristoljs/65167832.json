@@ -1,0 +1,15 @@
+{
+    "date": 1344450600,
+    "description": "<p>How to Unit test JavaScript applications with Jasmine with a showcase of JS Mocha by Jamie Dyer.</p> <p>Unit Testing, test driven development, stress testing, load testing, live testing (I made that up) - one way or another we all test our code. Usually we leave it to the user and deal with it later. This is unfair on the user and unprofessional.</p> <p>Engineer your tests, make them interesting to write, get in to the practice of writing tests as a matter of course. Get setup at the beginning and updates as you go along a small bit of pain today will save you from the headaches tomorrow.</p> <p>Got a lightning talk you can talk about? \u00a0Let us know.</p> <p>Got any dev tips you want to share? \u00a0Let us know.</p> <p>Got a JS project that's shiny and new and you can showcase? \u00a0Let us know.</p> <p>Got the urge to try your presentation skills but don't know what to discuss? \u00a0Let us know.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/65167832/",
+    "location": {
+        "address": "Unit G, Albion Dockside Building, Hanover Place, Bristol, BS1 6UT",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44763946533203,
+        "longitude": -2.6096301078796387,
+        "name": "Simpleweb HQ"
+    },
+    "org": "bristoljs",
+    "title": "Testing: Jasmine JS and JS Mocha"
+}

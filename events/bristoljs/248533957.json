@@ -1,0 +1,15 @@
+{
+    "date": 1522258200,
+    "description": "<p>Using React.js to extend your CMS - Nicola Richardson</p> <p>The range of CMSs available gives us a huge amount of variety with the possible ways to architect and build content-driven websites. However, even though most platforms support custom templating and theming, they aren't necessarily the best tools for delivering a modern front-end experience. Sometimes we want the front-end of our websites to do things that CMSs aren\u2019t designed to do.</p> <p>So what if, instead, we used the best technologies for the task: taking the data-store backend of the CMS, and plugging it into a flexible, decoupled frontend? This talk will focus on how JS frameworks or libraries, such as React.js, can be bolted onto headless CMSs to provide the immersive experience that we want our apps and websites to have, without needing to compromise on the complexity of the data structure on the backend. Using React.js and Drupal 8 as an example, we\u2019ll take a look at a project currently in development where both technologies have been combined, and explore how it works, why it works and what you need to think about when trying this for yourself.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/248533957/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "bristoljs",
+    "title": "Using React.js to extend your CMS - Nicola Richardson"
+}

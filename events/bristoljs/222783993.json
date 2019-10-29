@@ -1,0 +1,15 @@
+{
+    "date": 1448476200,
+    "description": "<p><b>Real-Time Web Apps in 2015 &amp; Beyond </b>-\u00a0Phil Leggetter</p> <p>It has been possible to instantly push information from a web server to a web browser for around 15 years, but it's 2015 and real-time web technology has been mainstream for a while thanks to the experiences offered by applications like Twitter, Facebook, Uber, Google Docs and the rise of the Internet of Things (IoT). Technology advancements have also played their part with raw technology improvements such as WebSockets, and solutions like Socket.IO, SignalR, Faye, Firebase and Pusher.\u00a0</p> <p>In this talk I'll cover the past, present and future of real-time communication technology, the real-time web and provide a number of use cases and demonstrations of how the technology is actually used today (it's not just chat and spaceship games).</p> <p><b>Visualising Runkeeper Data with the Web</b> \u2013 Ben Foxall</p> <p>I'll take us through some features of the web platform that allow us to retrieve, process, and visualise data. We\u2019ll cover stuff like service workers, indexeddb, canvas, d3, webgl.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/222783993/",
+    "location": {
+        "address": "2nd Floor Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "Just Eat"
+    },
+    "org": "bristoljs",
+    "title": "Real-Time Web Apps in 2015 & Beyond | Visualising Runkeeper Data with the Web"
+}

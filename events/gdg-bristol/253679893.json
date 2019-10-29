@@ -1,0 +1,15 @@
+{
+    "date": 1544032800,
+    "description": "<p>We're having a party!</p> <p>On 4th December Google are hosting Flutter Live! - An event where they will be sharing a variety of news and updates about Flutter.</p> <p>The session on 4th starts early, so we hosting a viewing party the day after on Wed 5th Dec where you can come and eat pizza, have some drinks, and watch the re-run of the livestream with us. You will also have the opportunity to network with your peers and ask us any questions that you may have.</p> <p>After the stream, we will do a code lab which we encourage you to follow along. You'll be able to see just how easy it is to put together a fully functional Android/iOS app with a single codebase written in Dart.</p> <p>Here's the agenda:</p> <p>6:00 pm - Attendee arrival, drinks and networking<br/>6:30 pm - Flutter Live! keynote speeches<br/>8:00 pm - Break/drinks/pizza<br/>8:15 pm - Flutter Code Lab<br/>9:00 Close/pub</p> <p>We really hope you will be able to join us. There will be some great highlights from the keynote!</p> <p>For further info about Flutter see below:</p> <p>Flutter homepage - <a href=\"http://flutter.io\" class=\"linkified\">http://flutter.io</a><br/>Intro to Flutter - <a href=\"https://youtu.be/fq4N0hgOWzU\" class=\"embedded\">https://youtu.be/fq4N0hgOWzU</a><br/>Twitter - @flutterio</p> ",
+    "link": "https://www.meetup.com/GDG-Bristol/events/253679893/",
+    "location": {
+        "address": "2nd Floor Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "Just Eat"
+    },
+    "org": "gdg-bristol",
+    "title": "Flutter Live! Viewing Party"
+}

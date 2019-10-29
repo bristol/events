@@ -1,0 +1,15 @@
+{
+    "date": 1517423400,
+    "description": "<p>Mark Withers - Back to the Futures</p> <p>Asynchronous programming in JavaScript has been on an exciting journey over the life of the language. We've always needed to avoid blocking UI to do computation, and various solutions have been explored over the years - events, callbacks, Observables, Promises...</p> <p>It's likely that you've encountered Promises if you've been writing any JavaScript in the last few years, and with native Promise implementations in NodeJS and all modern browsers, combined with the introduction of async/await in ES2017, they've never been more ubiquitous or useful.</p> <p>It may seem like a crazy time to be looking for alternatives when Promises have so clearly 'won' the async battle, but I think there is a lot to be learned from an older technique from functional programming. A technique that is lazy (we functional folk consider this a good thing), cancellable, and conforms to the monadic interface, opening up a world of interactions with other useful functional techniques. I think it's time to try Promise's algebraic cousin, the Future.</p> <p>Kornel Lesi\u0144ski - Server-sent events</p> <p>Overview of the Server-Sent Events API, which is a lightweight alternative to WebSockets.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/246514511/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "bristoljs",
+    "title": "Mark Withers - Back to the Futures & Kornel Lesi\u0144ski  - Server-sent events"
+}

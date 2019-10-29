@@ -1,0 +1,15 @@
+{
+    "date": 1406052000,
+    "description": "<p>Our very own Adam Butler is going to be talking about building declarative, high performance, modular and scalable web applications using AngularJS.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/182513542/",
+    "location": {
+        "address": "210 North Street BS3 1JF",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44069290161133,
+        "longitude": -2.610887050628662,
+        "name": "The Hen & Chicken"
+    },
+    "org": "bristoljs",
+    "title": "AngularJS for data driven web applications"
+}

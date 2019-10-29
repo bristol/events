@@ -1,0 +1,15 @@
+{
+    "date": 1464199200,
+    "description": "<p>&lt;a&gt;<b>Ionic -\u00a0Tom Kelsey</b>&lt;/a&gt;</p> <p>Ionic is a framework built on top of Cordova for developing mobile apps with HTML, CSS and Javascript.\u00a0</p> <p>I\u2019ll run through my own experiences with Ionic, reel off some pros/cons and try to give some guidance as to what apps/situations best lend themselves to a hybrid framework like Ionic.</p> <p>If there\u2019s time - I\u2019ll squeeze in a bit about the Ionic ecosystem and try and cover what\u2019s happening with the development of Ionic v2.</p> <p>I doubt they\u2019ll be much, if any, actual code (I\u2019m not sure if that\u2019ll be met with sighs of relief or sadness?) but perhaps Joseph will wet your appetite on that front with his Angular 2 talk.</p> <p>&lt;a&gt;<b>Angular 2 - Joseph Woodward</b>&lt;/a&gt;</p> <p><i>You've probably heard of all the drama surrounding \u00a0the Angular 1 to Angular 2 upgrade. I'll take you through what's changed, and why, features and lessons learned whilst building a number of applications using Angular 2 and TypeScript.</i></p> ",
+    "link": "https://www.meetup.com/BristolJS/events/228277862/",
+    "location": {
+        "address": "South Wing, One Castlepark, Tower Hill, Bristol,  BS2 0JA",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454708099365234,
+        "longitude": -2.5854411125183105,
+        "name": "BaseKit (NEW OFFICE)"
+    },
+    "org": "bristoljs",
+    "title": "Ionic & Angular 2"
+}

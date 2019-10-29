@@ -1,0 +1,15 @@
+{
+    "date": 1490810400,
+    "description": "<p><b>Ben Reid - Flow</b></p> <p>(\"I'll be talking about Flow, \"a static type checker for JavaScript\". The principles around Flow and type checking in general are fairly simple, but I'll run through how and why you should try out type checking and Flow specifically but then dive into some of the other benefits and side effects you get from using it.\": string);</p> <p><b>Martin Kearn - Machine Learning for Muggles</b></p> <p>Artificial Intelligence is the latest hotness. Machine Learning sits behind artificial intelligence and on the surface it may seem like a deeply technical, scientific topic. We are here to tell you that it is more accessible than you think. We\u2019ll look at some of the basics around the Azure Machine Learning service. We\u2019ll also look some of the Microsoft Cognitive Services APIs which make it very easy to implement artificial intelligence \u2018smarts\u2019 into your application with simple, standard REST calls. We'll focus on JavaScript for any demos, but this technology is largely platform agnostic and can be used for any type of app in any language.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/236632629/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "bristoljs",
+    "title": "Ben Reid - Flow / Martin Kearn - Machine Learning for Muggles"
+}

@@ -1,0 +1,15 @@
+{
+    "date": 1443634200,
+    "description": "<p>Over the last couple of years Facebook has been open sourcing many of the technologies it uses to build it's web and native applications, namely React and now GraphQL and Relay. This talk gives a dive into what React is, why it's method of JS view construction is so different and how that all works alongside Facebook's new query language GraphQL. Additionally I use a Leap Motion demo to show off React state model and server hot module loading during development.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/221885213/",
+    "location": {
+        "address": "4th Floor, The Pithay, BS1 2ND ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45576858520508,
+        "longitude": -2.592099905014038,
+        "name": "BaseKit Office (Bristol)"
+    },
+    "org": "bristoljs",
+    "title": "React, GraphQL & Relay... A new way to write JS application?"
+}

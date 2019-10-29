@@ -1,0 +1,15 @@
+{
+    "date": 1572685200,
+    "description": "<p>We are excited to run our first annual DevFest! The schedule is still to be confirmed but we are planning to host tracks mostly in Cloud, Mobile and AI, featuring talks, demos and workshops. Space at our generous sponsor's venue is limited, so please only register if you can definitely make it!</p> <p>See the event website for all details: <a href=\"https://devfest2019.gdgbristol.org/\" class=\"linkified\">https://devfest2019.gdgbristol.org/</a></p> <p>PLEASE REGISTER VIA EVENTBRITE if you wish to attend DevFest :-)<br/>Admission is free but to control capacity we can't admit anyone without an EventBrite ticket: <a href=\"https://www.eventbrite.co.uk/e/devfest-bristol-2019-tickets-72702865227\" class=\"linkified\">https://www.eventbrite.co.uk/e/devfest-bristol-2019-tickets-72702865227</a></p> <p>We are now looking for speakers! Please see our CFP here: <a href=\"https://forms.gle/74f3pv3cieLwbpAx9\" class=\"linkified\">https://forms.gle/74f3pv3cieLwbpAx9</a></p> <p>For more details see <a href=\"https://devfest.withgoogle.com\" class=\"linkified\">https://devfest.withgoogle.com</a></p> ",
+    "link": "https://www.meetup.com/GDG-Bristol/events/263672870/",
+    "location": {
+        "address": "Broad Quay House",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45170974731445,
+        "longitude": -2.596795082092285,
+        "name": "ForgeRock"
+    },
+    "org": "gdg-bristol",
+    "title": "DevFest Bristol 2019"
+}

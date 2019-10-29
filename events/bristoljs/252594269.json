@@ -1,0 +1,15 @@
+{
+    "date": 1532539800,
+    "description": "<p>Jordan Lord - Introduction to PureScript<br/>Jordan will talk through a few examples as well as explaining how to get up and running with PureScript. He'll also be discussing the advantages and disadvantages of using PureScript over JavaScript.</p> <p>Noby Fujioka - My first attempts to build a blockchain dapp (with Solidity and React)<br/>1. My understanding of blockchain technologies so far<br/>2. What I have learnt so far as a newbie on how to build a decentralised application (dapp) and how we can interact with the blockchain from client side (React).<br/>3. Thinking about possible impact on how we are going to build a javascript application in the future (on 3rd generation blockchain technologies...?)</p> <p>This is my exploratory talk on blockchain and javascript application built on top of it, sharing what I have learnt so far on the topic.</p> <p>PLEASE NOTE THE CHANGE OF VENUE!! We are going to be meeting at the offices of Zone Digital, The Brew House, Tower Hill, Bristol BS2 0EQ . This will hopefully be our regular meeting place for the future.</p> <p>Doors are at 6.30pm with talks starting around 7pm. There will be Pizza and drinks provided at the venue.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/252594269/",
+    "location": {
+        "address": "The Brew House",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45497131347656,
+        "longitude": -2.5844929218292236,
+        "name": "Zone Digital"
+    },
+    "org": "bristoljs",
+    "title": "Jordan Lord - PureScript & Noby Fujioka - blockchain dapp with Solidity & React"
+}

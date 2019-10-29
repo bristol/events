@@ -1,0 +1,15 @@
+{
+    "date": 1569520800,
+    "description": "<p>We're excited to present an evening of talks on this new thing you may not have heard of yet: Kubernetes. Apparently it's all the rage! We'll be discussing some moderately advanced features of this ubiquitous technology, detailed in the agenda below:</p> <p>19:00 Arrival, pizza and drinks (including non-beer options)<br/>19:30 \"Regional Distributed Persistent Storage with GKE, Rook &amp; Ceph\" - Tim Berry (Claranet, acloud.guru) explores the pitfalls of persisting GCP volumes in regional GKE clusters and how you can make it work with rook.io.<br/>20:00 \"An Introduction to Kustomize\" - Dan Jones (Paxport) will teach us how to avoid Helm altogether by composing configurable declarations with native Kubernetes tools.<br/>20:30 Finish drinks, do the recycling etc.</p> <p>We hope to see you there, fellow Kubernistas!</p> ",
+    "link": "https://www.meetup.com/GDG-Bristol/events/262575195/",
+    "location": {
+        "address": "2nd Floor Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "Just Eat"
+    },
+    "org": "gdg-bristol",
+    "title": "September YAKM! (Yet Another Kubernetes Meetup)"
+}

@@ -1,0 +1,15 @@
+{
+    "date": 1403719200,
+    "description": "<p><img src=\"http://photos2.meetupstatic.com/photos/event/7/a/0/0/600_376111232.jpeg\" /></p> <p>In this meetup Mark Lundin, a local Interaction Developer , will be talking about how he and a team at Google built the Rubik's cube doodle.\u00a0</p> <p>This year marked the 40th anniversary of the Rubik's Cube; to celebrate Google launched one of their most ambitious interactive doodles yet, the\u00a0<a href=\"https://www.google.com/logos/2014/rubiks/rubiks.html\">Rubik's Cube</a>.</p> <p>In this meetup I'll be walking you through the technical challenges of developing for the google home page, handling over 85 million plays and how we failed to break the internet.</p> <p>We'll take a brief tour of the Rubik's cube itself - how they're built and the maths behind them - before downloading the code and taking a deeper look at the technical aspects. We'll cover some of the fundamentals of working with 3D for the web; \u00a0CSS 3D, canvas and webgl, we'll look at the technical constraints of developing a doodle</p> <p>By the end you'll have a firm understanding of how to develop your own doodle, how to customise and style your own Rubik's cube, and how to start creating interactive 3D online.</p> <p>--</p> <p><b>Important announcement -</b></p> <p>In case you missed the previous memo <b>Tonights meetup is at BaseKit</b> NOT Simpleweb since we overshot our capacity.</p> <p>Also please ensure you <b>RSVP by 18:00</b> you will not be given access to the building unless you do so.</p> <p><b>Tonight -</b></p> <p>Tonight Mark Lundin will be talking on \"The Rubik's Cube doodle; how we built it and how not to break the Internet\". The talk starts at around 19:00 but you can arrive from 18:30. I've got some beers and soft drinks for tonight, after the talk we will head over to Start the Bus for beers (and food if people are hungry*).</p> <p>For the map see above, hopefully see you tonight!</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/184135212/",
+    "location": {
+        "address": "4th Floor, The Pithay, BS1 2ND ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45576858520508,
+        "longitude": -2.592099905014038,
+        "name": "BaseKit Office (Bristol)"
+    },
+    "org": "bristoljs",
+    "title": "The Rubik's Cube doodle; how we built it and how not to break the Internet"
+}

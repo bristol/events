@@ -1,0 +1,15 @@
+{
+    "date": 1435168800,
+    "description": "<p>It is easy to talk about the benefits of applying functional programming to Javascript but last year David Nolen turned the client-side world upside by showing that that using immutable data and virtual DOM rendering is faster and safer than any other SPA solution design there has ever been.</p> <p>I want to talk about how it he did and what the implications are for Javascript programming in general. Even if you don't want to learn about Clojure there has been a massive impact in terms of libraries created as a result and framework design in general that applies to all kinds of client-side programming. There are also huge implications for the future of Javascript if the language is committed to being ES1 compatible.</p> <p>Immutable, event-driven, functional, atomic! It's the future of Javascript!</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/221352298/",
+    "location": {
+        "address": "4th Floor, The Pithay, BS1 2ND ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45576858520508,
+        "longitude": -2.592099905014038,
+        "name": "BaseKit Office (Bristol)"
+    },
+    "org": "bristoljs",
+    "title": "Clojurescript, Om and the future of the single page app"
+}

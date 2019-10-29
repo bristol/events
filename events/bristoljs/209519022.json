@@ -1,0 +1,15 @@
+{
+    "date": 1424890800,
+    "description": "<p>Alternate title: Yak Shaving That Pays Off.</p> <p>Do you serve more JS files to your end users than you have fingers, leaving them at the merciless wrath of the cruel mistress that is network latency? Do you hand-edit a giant CSS file by hand to include the latest version of a framework?</p> <p>Build tools can make your life a lot simpler, but there's a lot of hurdles to jump. I will take you through the basic similarities and differences between the main build tools and task runners that exist today, and then dive into specific examples that you can accomplish with build tools. These will range from:</p> <p>- concatenating and minifying CSS and JavaScript<br/>- minifying images<br/>- automatically reloading your files on the fly once they're saved, and where possible, avoiding a page reload<br/>- only processing the files that have been saved, not all of the files (a time huge saver in large projects)<br/>- extracting 'critical path' CSS to serve inline (<a href=\"http://www.feedthebot.com/pagespeed/critical-render-path.html\" class=\"linkified\">http://www.feedthebot.com/pagespeed/critical-render-path.html</a>)<br/>- scanning an entire site to find and strip out unused CSS. If you use a full-fat framework like Bootstrap or Foundation in production, this can pay off hugely.</p> <p>If I'm feeling brave, there'll be live coding. Even if I'm not, come along! I promise quirky Scandi-English accents, JavaScript, and a good time.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/209519022/",
+    "location": {
+        "address": "2 College Square",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45281219482422,
+        "longitude": -2.6004979610443115,
+        "name": "cxpartners"
+    },
+    "org": "bristoljs",
+    "title": "Build Tools (Gulp/Grunt)"
+}

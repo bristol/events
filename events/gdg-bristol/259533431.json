@@ -1,0 +1,15 @@
+{
+    "date": 1559239200,
+    "description": "<p>Join us for this year's I/O Extended event! I/O brings together developers from around the globe for talks, hands-on learning with Google experts, and a first look at Google\u2019s latest developer products.</p> <p>7pm - Pizza!</p> <p>7:20pm - Fahad has returned from I/O in Mountain View and will be giving us all the latest news on MotionLayout, Jetpack Compose, Stadia (Google's new streaming console-as-a-service), and more!</p> <p>7:50pm - Tim will give a quick demo of Cloud Code, the new Skaffold/GKE functionality for VSCode and IntelliJ.</p> <p>8:10pm - Google I/O branded swag giveaway, followed by tech chat social time!</p> <p>Beer, soft-drinks and a great bunch of humans will be provided!</p> ",
+    "link": "https://www.meetup.com/GDG-Bristol/events/259533431/",
+    "location": {
+        "address": "2nd Floor Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "Just Eat"
+    },
+    "org": "gdg-bristol",
+    "title": "Google I/O Extended 2019 Bristol"
+}

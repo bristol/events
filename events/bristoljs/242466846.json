@@ -1,0 +1,15 @@
+{
+    "date": 1503421200,
+    "description": "<p>Given that the CodeHub hack night is on hold, we're restarting the functional JS hack night.</p> <p>Come along and hack on some functional code: be it JS, PureScript, Elm, or Haskell.</p> <p>Space is very limited, so please only sign up if you're sure you can come.</p> <p>Unfortunately food and drink will not be provided, but feel free to bring something along.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/242466846/",
+    "location": {
+        "address": "54-56 Park St, BS1 5JN",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454769134521484,
+        "longitude": -2.6026558876037598,
+        "name": "Deckchair"
+    },
+    "org": "bristoljs",
+    "title": "Sub-Group: Hackamorphism"
+}

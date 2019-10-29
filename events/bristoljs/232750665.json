@@ -1,0 +1,15 @@
+{
+    "date": 1477504800,
+    "description": "<p><b>Prototyping With Phaser: Game Jam to Release - Josh Regan</b></p> <p>I'll be talking about how I used Phaser for rapid prototyping during the development of my game, To The Throne.</p> <p><b>Phaser JS - Richard Davey</b></p> <p>I'll flesh this out closer to the event, but I'll be talking about game development with my framework <a href=\"http://phaser.io\">Phaser</a>.</p> <p>I'm curious to know how to target this: You're all experienced JS devs already of course, so I don't want to do a complete beginners talk. Although I'll definitely start with a brief overview.</p> <p>If there are specific topics you'd like covered then please leave a comment. Maybe it might be worth talking a little about what it's like managing such a large open source project? Or perhaps just stick to the games? :)</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/232750665/",
+    "location": {
+        "address": "2 College Square",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45048522949219,
+        "longitude": -2.6015279293060303,
+        "name": "cxpartners"
+    },
+    "org": "bristoljs",
+    "title": "HTML5 Game Development with Phaser"
+}

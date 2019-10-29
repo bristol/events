@@ -1,0 +1,15 @@
+{
+    "date": 1553711400,
+    "description": "<p>Vue.js in action - Simone Cuomo</p> <p>The JavaScript ecosystem has been ever-changing for over a decade, meaning front-end developers have had to stay busy to keep track of new technologies. After tirelessly experimenting with different JavaScript frameworks and libraries for over five years, I have now found the one that works for me: Vue.js. In this tutorial, I will share essential resources and explain the basic structure of a Vue app.</p> <p>This session will cover: * Project Setup * Definition of components * Mixins * Unit test</p> <p>Resources used: * Vue CLI * Codesandbox * JEST * SCSS * Advanced Javascript</p> <p>The goal of this session is to give the audience a good understanding of the framework, that will enable them to kick-start their own Vue project.</p> <p>-</p> <p>An introduction to Gatsby and GraphQL - George Smerin</p> <p>Gatsby is a modern front-end framework for React, powered by GraphQL. It has become hugely popular amongst developers for building their personal websites, but is capable of much more than that. In this talk, we'll look at what makes the Gatsby developer experience so good, and how you can get started with it right away. We'll also get an insight into the benefits of GraphQL, and why Gatsby is the perfect starting point for trying out this powerful querying language.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/259385974/",
+    "location": {
+        "address": "The Brew House",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45505142211914,
+        "longitude": -2.584188938140869,
+        "name": "Zone Digital"
+    },
+    "org": "bristoljs",
+    "title": "Vue.js - Simone Cuomo | Gatsby - George Smerin"
+}

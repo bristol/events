@@ -1,0 +1,15 @@
+{
+    "date": 1422471600,
+    "description": "<p>Are you interested in making games with javascript?\u00a0Come learn with Jeff Schomay how to go from blank page to a fully playable game in 2 hours.</p> <p><img src=\"http://phaser.io/images/phaser-header.png\" /></p> <p>\u2022\u00a0Learn basic game engine mechanics through a live coding demonstration\u00a0</p> <p>\u2022\u00a0Learn about\u00a0<a href=\"http://phaser.io/\">Phaser.js</a></p> <p>\u2022\u00a0Follow along while building a tutorial game in Phaser from start to finish</p> <p>This presentation is aimed at developers who understand javascript, but may not have made games before. \u00a0The goal of this presentation is to give a chance to watch the process unfold of going from empty canvas to polished game, one step at a time.</p> <p>Bring your laptop, as you will be able to follow along with the code and play/tweak the game on your own machine at each step of the presentation.</p> <p>Links to follow along:\u00a0<br/>-------------------------</p> <p>Live coding in jsbin:\u00a0<br/><a href=\"http://jsbin.com/bulena/4/watch?js,output\" class=\"linkified\">http://jsbin.com/bulena/4/watch?js,output</a></p> <p>The full project on github:\u00a0<br/><a href=\"https://github.com/jschomay/phaser-demo-game/\"><a href=\"https://github.com/jschomay/phaser-demo-game/\" class=\"linkified\">https://github.com/jschomay/phaser-demo-game/</a></a>\u00a0</p> <p>Tutorial blog post:\u00a0<br/><a href=\"http://codeperfectionist.com/articles/phaser-js-tutorial-building-a-polished-space-shooter-game-part-1/\"><a href=\"http://codeperfectionist.com/articles/phaser-js-tutorial-building-a-polished-space-shooter-game-part-1/\" class=\"linkified\">http://codeperfectionist.com/articles/phaser-js-tutorial-building-a-polished-space-shooter-game-part-1/</a></a></p> <p>------------------------------------------------------------</p> <p>About the presenter\u00a0</p> <p>Jeff Schomay\u00a0is a javascript expert from the US with a focus on game dev and game design. He has lived and worked in Colorado and Los Angeles, and has recently moved to Bristol. Aside from coding, he also has a background in screenwriting and graphic design.\u00a0<br/><a href=\"http://jeffschomay.com/\">jeffschomay.com</a>\u00a0<br/><a href=\"https://twitter.com/jschomay\">@jschomay</a></p> ",
+    "link": "https://www.meetup.com/BristolJS/events/193907242/",
+    "location": {
+        "address": "4th Floor, The Pithay, BS1 2ND ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45576858520508,
+        "longitude": -2.592099905014038,
+        "name": "BaseKit Office (Bristol)"
+    },
+    "org": "bristoljs",
+    "title": "HTML5 game development in Phaser.js"
+}

@@ -1,0 +1,15 @@
+{
+    "date": 1480531500,
+    "description": "<p><b>Mark Wales - Functional Programming with JavaScript</b></p> <p>I'll be talking about functional programming from the point of view of a non-mathematically inclined programmer. I'll leave out talk of functors, monads, and category theory and instead focus on some practical functional programming that you can start using straight away. We'll start with `filter`, `map`, and `reduce`, before moving onto function composition (using `compose`) and partial application (currying).</p> <p><b>Tom Cartwright - Adventures in pocket-sized Javascript</b></p> <p>While building the UI at wrightsnotes.com, I needed a better way of holding state and manipulating the DOM. The small amount of JS I had was becoming unmaintainable. In an attempt to a) understand all the code in my project and b) keep the payload small (&lt; 12KB at time of writing) and chose to avoid frameworks and combine a few small modules do the job. In this talk I will detail how you can rock a framework-less flow while avoiding some of the issues that I ran into. Expect some reckons about the unix philosophy and other (polite) rants.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/234587246/",
+    "location": {
+        "address": "South Wing, One Castlepark, Tower Hill, Bristol,  BS2 0JA",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454708099365234,
+        "longitude": -2.5854411125183105,
+        "name": "BaseKit (NEW OFFICE)"
+    },
+    "org": "bristoljs",
+    "title": "Functional Programming with JavaScript / Adventures in pocket-sized JavaScript"
+}

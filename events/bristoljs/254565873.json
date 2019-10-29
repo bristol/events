@@ -1,0 +1,15 @@
+{
+    "date": 1537983000,
+    "description": "<p>Luke Snape - ClojureScript<br/>Clojure the language hasn't changed all that much in the last 3 years, but the way in which ClojureScript applications are built and deployed has changed massively. In particular, improvements to tooling and a bigger ecosystem now make ClojureScript a practical choice for building modern web applications.</p> <p>In this talk Luke will aim to give a quick introduction to the Clojure language, as well as a short history of how the ClojureScript compiler and tooling have evolved in recent years. He'll then explore the capabilities of the latest tools and how we're currently using them to build, test and deploy single-page applications in ClojureScript.</p> <p>Gareth Brown - Firebase with React JS</p> <p>Firebase started as a real-time backend for mobile application developers and has evolved to offer a suite of powerful tooling for mobile and web applications. It allows web devs the ability to access various services including a real-time database, storage and authentication without writing any backend code. The React JS and Firebase stack is a good way to develop serverless web apps.</p> <p>Gareth's presentation will give an overview of what Firebase offers, how it's implemented using some code examples, and how he's found integrating Firebase with React JS.</p> <p>PLEASE NOTE THE CHANGE OF VENUE!! We are going to be meeting at The Oak Tree at Desklodge - <a href=\"https://desklodge.com/the-oak-tree/\" class=\"linkified\">https://desklodge.com/the-oak-tree/</a></p> <p>Doors are at 6.30pm with talks starting around 7pm. There will be Pizza and drinks provided at the venue.</p> <p>We will be heading to a bar afterwards for some drinks and socialising.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/254565873/",
+    "location": {
+        "address": "1 Temple Way, BS2 0BY",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454734802246094,
+        "longitude": -2.582711935043335,
+        "name": "The Oak Tree, Desklodge Bristol"
+    },
+    "org": "bristoljs",
+    "title": "Luke Snape - ClojureScript & Gareth Brown - Firebase with React JS"
+}

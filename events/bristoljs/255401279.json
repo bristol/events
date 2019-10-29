@@ -1,0 +1,15 @@
+{
+    "date": 1541010600,
+    "description": "<p>Ollie Haydon-Mulligan - The Bridge (Reinventing Social Networks)</p> <p>If you'd like a completely unbiased feed of your Facebook friends' posts, this tool is for you.</p> <p>This project was broadly prompted by thinking about how to empower social network users. One current limitation is how separate social networks are - it's hard to feel ownership of our online activity when we are locked into so many separate networks that don't connect with each other. We thought it would cool to build a bridge between networks that let us each manage all our communications in one place.</p> <p>Tony Edwards - Beats, Rhymes &amp; Unit Tests</p> <p>Speech recognition is all around us. From the smartphones in our pockets to the devices at the heart of our digital homes, we\u2019re never far from speech recognition technology. Not only does it enable new ways of interacting with computers, it\u2019s also set to reshape Human-Computer Interaction for people requiring assistive technologies.</p> <p>The humble web browser is no exception. The speechRecognitionAPI enables developers to incorporate advanced speech interactions into today\u2019s web applications. But is it any good? Combining two of his passions, Tony sets out to discover if the speechRecognitionAPI can be used as an aid in transcribing hip-hop lyrics during the writing process.</p> <p>After an introduction to the broader technology, a mix of audio, video and live performance tells the tale of creating an MVP transcription application to aid in the writing of new songs. As a development project, each iteration of the app is accompanied by a set of unit tests. The final unit test is executed live, resulting in a crescendo you won\u2019t want to miss.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/255401279/",
+    "location": {
+        "address": "The Brew House",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.4549446105957,
+        "longitude": -2.584506034851074,
+        "name": "Zone Digital"
+    },
+    "org": "bristoljs",
+    "title": "October 2018 - Reinventing Social Networks / Beats, Rhymes & Unit Tests"
+}

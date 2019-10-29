@@ -1,0 +1,15 @@
+{
+    "date": 1568221200,
+    "description": "<p>We've very pleased to announce that our next meet-up is going to be hosted by Graphcore at their Bristol offices - <a href=\"https://www.graphcore.ai\" class=\"linkified\">https://www.graphcore.ai</a></p> <p>Here's Graphcore's mission statement:</p> <p>\"Graphcore has created a completely new processor, the Intelligence Processing Unit (IPU), specifically designed for machine intelligence. The IPU\u2019s unique architecture means developers can run current machine learning models orders of magnitude faster. More importantly, it lets AI researchers undertake entirely new types of work, not possible using current technologies, to drive the next great breakthroughs in general machine intelligence. We believe our IPU technology will become the worldwide standard for machine intelligence compute. The performance of Graphcore\u2019s IPU is going to be transformative across all industries and sectors, whether you are a medical researcher, roboticist or autonomous car manufacturer.\"</p> <p>Talks:</p> <p>- \"Memory Efficient Training of Deep Neural Networks\" - Dominic Masters, Graphcore</p> <p>Dominic is a Research Scientist at Graphcore focusing on understanding and improving the fundamental learning algorithms used for deep neural network training. He did his undergraduate degree and Masters in Mathematics followed by a PhD applying optimization methods to aerodynamic design.</p> <p>- \"Make Car Drive Self\" - Jamie Cruickshank, FiveAI</p> <p>Jamie is a Software Developer at FiveAI working on computer vision algorithms for driverless cars.</p> <p>Schedule:</p> <p>18:00 - Doors/Food/Drinks/Networking<br/>18:50 - Opening Introduction/Community Messages<br/>19:00 - Jamie Cruickshank - \"Make Car Drive Self\"<br/>19:30 - Short Break<br/>19:40 - Dominic Masters - \"Memory Efficient Training of Deep Neural Networks\"<br/>20:30ish - Tidy up &amp; head to a local pub to continue the conversation</p> <p>Please note the talks will be filmed.</p> <p>There are no parking spaces available on the site with the exception of parking for people with mobility requirements. If required, please contact co-organiser Rich Riley via this meetup group in order to make arrangements for this.</p> <p>The Bristol ML meet-up is defined by its community. If you have ideas for speakers, venues or suggestions for how we can in anyway improve please don't hesitate to contact one of the organisers.</p> <p>This is a going to be a really great set of talks, hope to see you there!</p> ",
+    "link": "https://www.meetup.com/Bristol-Machine-Learning/events/263966437/",
+    "location": {
+        "address": "Prudential Buildings Wine St",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45528793334961,
+        "longitude": -2.5923869609832764,
+        "name": "Graphcore"
+    },
+    "org": "bristol-bachine-learning",
+    "title": "Bristol Machine Learning #7"
+}

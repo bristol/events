@@ -1,0 +1,15 @@
+{
+    "date": 1555522200,
+    "description": "<p>Welcome to Bristol Machine Learning first proper meet-up, this time hosted by Dyson.</p> <p>Talks:</p> <p>- \"Google's Cloud AutoML Overview\" (Rich Riley, Candide)<br/>- \"Building Machine Learning in Kubernetes with Pachyderm\" (Ettie Eyre, Cookpad)</p> <p>Schedule:</p> <p>18:30 Doors, Pizza and Drinks<br/>19:00 Talks<br/>20:30 Tidy up &amp; Head to a local pub to continue the conversation</p> <p>Due to security reasons in order to attend this event, please make sure you have your full name set in your Meetup profile!</p> ",
+    "link": "https://www.meetup.com/Bristol-Machine-Learning/events/259728957/",
+    "location": {
+        "address": "One Cathedral Square ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45191192626953,
+        "longitude": -2.5999538898468018,
+        "name": "Dyson Bristol Office"
+    },
+    "org": "bristol-bachine-learning",
+    "title": "Bristol Machine Learning #3"
+}

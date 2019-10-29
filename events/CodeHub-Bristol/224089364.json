@@ -1,0 +1,15 @@
+{
+    "date": 1445364000,
+    "description": "<p>Bring a laptop or buddy up and work in pairs.</p> <p>We will briefly cover the state of layout on the web. Looking at past, present and future layout techniques.</p> <p>There will be a practical part where I will cover how to roll your own CSS to do layout (grids) without reaching for a CSS framework.\u00a0The technique will involve using 'inline-block' instead of 'floats'.</p> <p>You will also get a chance to fiddle around with flexbox and CSS Grids!.</p> ",
+    "link": "https://www.meetup.com/CodeHub-Bristol/events/224089364/",
+    "location": {
+        "address": "new address - details to come",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 0,
+        "longitude": 0,
+        "name": "Basekit Offices "
+    },
+    "org": "CodeHub-Bristol",
+    "title": "CSS Layout - Workshop"
+}

@@ -1,0 +1,15 @@
+{
+    "date": 1485369000,
+    "description": "<p><b>Martin Holywood - Welcome UFO People</b></p> <p>Too often Tech is seen as a barrier to Creativity, during this session we'll look at examples of 'codeless' development and changing your career through Open Source, collaboration and Physical Computing. It's about doing it for yourself and not being reliant on your boss and that 9-5.</p> <p>There'll be real world case studies to go along with more whimsical projects for pitches and personal work that sometimes feels like a bad punchline.\u00a0</p> <p>In the words of author Tom Robbins, \"Be your own flying saucer! Rescue yourself!\"</p> <p><b>Aden Forshaw - JavaScript and the Internet of Things</b></p> <p>An interactive 101 demonstration of using NodeJS, \u00a0Johnny-Five.io &amp; Arduino's to create your own IoT devices. Starting with the obligatory blinking lights, building up to a fairground style game - the winners of which will take home a prize!</p> <p>(source code available afterwards)</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/234587235/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "bristoljs",
+    "title": "Martin Holywood - Welcome UFO People / Aden Forshaw -JS & the Internet of Things"
+}

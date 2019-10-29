@@ -1,0 +1,15 @@
+{
+    "date": 1469642400,
+    "description": "<p><b>David Moody - Redux!</b></p> <p>Full description to follow later as I'm still planning the talk. Hopefully there should be something for both beginners and people more experienced with Redux. Let me know if there is anything in particular you would like to see covered.\u00a0</p> <p><b>Tom Spencer - Building a RESTful API with Node.js</b></p> <p>Node.js is well suited for building a RESTful API due to its event driven, non-blocking IO architecture. In this talk we'll briefly introduce the concepts of a RESTful API and then go on to implement a simple CRUD API using express.js.</p> <p>If you wish to follow along with the demo, you will need to install <a href=\"https://nodejs.org/en/download/current/\">node.js v6</a>, <a href=\"https://www.mongodb.com/download-center#community\">MongoDB v3.2</a>, and <a href=\"https://www.getpostman.com/\">Postman</a>.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/230666718/",
+    "location": {
+        "address": "2 College Square",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45281219482422,
+        "longitude": -2.6004979610443115,
+        "name": "cxpartners"
+    },
+    "org": "bristoljs",
+    "title": "Redux! & Node.js"
+}

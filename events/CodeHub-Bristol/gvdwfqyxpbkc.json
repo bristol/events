@@ -1,0 +1,15 @@
+{
+    "date": 1543341600,
+    "description": "<p>Hack Night</p> <p>Feel free to attend in person or virtually on our Slack channel (<a href=\"http://slack.codehub.org.uk\" class=\"linkified\">http://slack.codehub.org.uk</a>) - if you're attending virtually please don't sign up on Meetup.</p> <p>This is a chance for developers in Bristol to get together in an informal social setting to work on projects, learn, and share with other developers.</p> <p>Our Code of Conduct: <a href=\"http://codehub.org.uk/code-conduct\" class=\"linkified\">http://codehub.org.uk/code-conduct</a></p> <p>---</p> <p>What is a \"hack night\"?</p> <p>Hack night is a casual social coding event where people can come together to work on projects and learn new technologies in any language at any skill level. It is a good time to work on those projects on the \"back burner\" that you never have time for. Some people will have personal projects that they want to work on in a social atmosphere. Others may be interested in pairing up to work on a project or learn something new together, or work through some of the online coding challenges. Some people may be experts, others may be noobs, and others may just want to learn how to code - all are welcome!</p> ",
+    "link": "https://www.meetup.com/CodeHub-Bristol/events/gvdwfqyxpbkc/",
+    "location": {
+        "address": "Framework",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45187759399414,
+        "longitude": -2.59462308883667,
+        "name": "Framework"
+    },
+    "org": "CodeHub-Bristol",
+    "title": "Hack Night + Haskell Study Group"
+}

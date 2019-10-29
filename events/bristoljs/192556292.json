@@ -1,0 +1,15 @@
+{
+    "date": 1409162400,
+    "description": "<p>Mapumental combines public transport timetables with OpenStreetMap to show all the places you can reach within a certain journey time. In this talk, Dave Arter will show how we (ab)use Javascript to make this happen.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/192556292/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristoljs",
+    "title": "Building travel time maps with Javascript"
+}

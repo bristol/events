@@ -1,0 +1,15 @@
+{
+    "date": 1563300000,
+    "description": "<p>Welcome to the 6th Bristol Machine Learning Meetup. This time the social one. Traditionally in The Famous Royal Navy Volunteer.</p> ",
+    "link": "https://www.meetup.com/Bristol-Machine-Learning/events/262531783/",
+    "location": {
+        "address": "17-18 King St",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451751708984375,
+        "longitude": -2.5945849418640137,
+        "name": "The Famous Royal Navy Volunteer"
+    },
+    "org": "bristol-bachine-learning",
+    "title": "Bristol Machine Learning #6 - Social One"
+}

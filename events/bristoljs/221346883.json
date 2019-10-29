@@ -1,0 +1,15 @@
+{
+    "date": 1440610200,
+    "description": "<p>Almost everyone uses and depends on open source software libraries these days, especially with the rise in popularity of Bower and NPM, but with over 200,000 libraries between them how do you know which ones are worth using?</p> <p>In this talk, <a href=\"https://twitter.com/teabass\">Andrew Nesbitt</a>\u00a0will outline his solution to\u00a0this problem with <a href=\"https://libraries.io\">Libraries.io</a>, which attempts to index all the world's open source software libraries and provide helpful ways of exploring the data and finding the best libraries for you to depend upon in your projects.</p> <p>Some of the topics we'll touch on include:</p> <p>\u2022 What makes a good library</p> <p>\u2022 How to make your open source libraries more user friendly</p> <p>\u2022 Dependency management with npm, bower and more</p> <p>\u2022 Exploring open source big data to find hidden gems</p> <p>As usual, we'll be starting with one or two lightning talks. This month's theme is libraries - if you'd like to tell the world about an awesome library you've used or heard about, now is the time! Let us know via the comments if you'd be up for giving a short (5-10 min) talk on your library of choice.</p> <p>Our hosts this month are cxpartners, based in the centre of Bristol. Doors open at 6:30pm and talks will start promptly at 7pm. Hope to see you there!</p> <p><b>Lightning talks:</b></p> <p>Hardware Hacking - Adam Butler<br/>Passport.js - Tom Spencer<br/>You? Drop us a message<b> <a href=\"http://www.meetup.com/messages/?new_convo=true\">here</a></b></p> <p><b>Sponsors</b></p> <p><b>CX Partners</b> for Hosting &amp; Beers</p> <p><b>JustEat</b> for yummy pizza :)</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/221346883/",
+    "location": {
+        "address": "2 College Square",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45281219482422,
+        "longitude": -2.6004979610443115,
+        "name": "cxpartners"
+    },
+    "org": "bristoljs",
+    "title": "Libraries.io"
+}

@@ -1,0 +1,15 @@
+{
+    "date": 1511980200,
+    "description": "<p>Alex Lakatos - DevTools for Gain and Glory</p> <p>No, Firefox DevTools are not Firebug. The web came a long way since Firebug, and so have the DevTools baked into Firefox. So let's go exploring! As the complexity of the web apps you build keeps moving, so do the Firefox DevTools. In this session, Alex will give you the latest tips and tricks on Firefox DevTools. We'll explore new and less commonly known features in performance profiling, JavaScript debugging and animation inspection. The session will give you a productivity advantage when developing and debugging your web applications.</p> <p>James Allardice - The Credential Management API</p> <p>The Credential Management API is a new W3C draft specification that aims to help developers improve the user experience of the login process by providing access to details stored by the browser. Learn how to improve the login process in your own apps by taking advantage of the new API in a progressive way.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/244053135/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "bristoljs",
+    "title": "Alex L - Firefox DevTools & James A - The Credential Management API"
+}

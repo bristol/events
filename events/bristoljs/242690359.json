@@ -1,0 +1,15 @@
+{
+    "date": 1506533400,
+    "description": "<p><b>Alex Jones - Angular 4 Fundamentals</b></p> <p>Introduction into the latest iteration of Google\u2019s Angular Framework. Modules/Components/Routing/HTTP with Observables (services)/Best Practices/Testing.</p> <p><b>Jaycee Cheong - Physical Web</b></p> <p>Physical Web is an exciting way for us to interact with physical object and to opt in for Physical Web discovery on your mobile device, please follow the instruction on the link(s) below, so you can follow along the demos on Physical Web, Web Bluetooth, and Web Push notification :\u00a0</p> <p>Android:\u00a0<a href=\"https://support.google.com/chrome/answer/6239299?co=GENIE.Platform%3DAndroid&amp;hl=en%27\"><a href=\"https://support.google.com/chrome/answer/6239299?co=GENIE.Platform%3DAndroid&amp;hl=en\" class=\"linkified\">https://support.google.com/chrome/answer/6239299?co=GENIE.Platform%3DAndroid&amp;hl=en</a></a></p> <p>iOS:\u00a0<a href=\"https://support.google.com/chrome/answer/6239299?co=GENIE.Platform%3DiOS&amp;hl=en&amp;oco=0\"><a href=\"https://support.google.com/chrome/answer/6239299?co=GENIE.Platform%3DiOS&amp;hl=en&amp;oco=0\" class=\"linkified\">https://support.google.com/chrome/answer/6239299?co=GENIE.Platform%3DiOS&amp;hl=en&amp;oco=0</a></a></p> ",
+    "link": "https://www.meetup.com/BristolJS/events/242690359/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "bristoljs",
+    "title": "Alex Jones - Angular 4 Fundamentals & Jaycee Cheong - Physical Web"
+}

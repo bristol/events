@@ -1,0 +1,15 @@
+{
+    "date": 1501091100,
+    "description": "<p><b>Dean Hume -\u00a0Blink and you\u2019ll miss it: Building a progressive web app with HTTP/2</b></p> <p>Imagine a world where you can access content on the web regardless of network connection in the blink of an eye. Progressive web apps are a total game changer for the web, enabling developers to build lightning-fast, engaging experiences. Drawing on firsthand experience at Settled, Dean Hume shares a step-by-step guide to implementing this technology in your own projects.</p> <p><a href=\"https://www.settled.co.uk/\">Settled</a>\u00a0set out to build a new dashboard for its customers using progressive web apps and\u00a0HTTP/2. The company wanted to build an offline-first application that allowed users to quickly and easily access their information on the go regardless of their network connection. When the application was implemented, Settled noticed an immediate change: its users spent twice as long on the site, they consumed 15x less data, and enjoyed a 3x faster load times. Dean walks you through Settled\u2019s journey, sharing lessons learned along the way and practical tips that you can use when building your own web apps.</p> <p>Topics include:</p> <p>\u2022\u00a0Using\u00a0HTTP/2 and the challenges and benefits that it brings</p> <p>\u2022\u00a0The steps Settled took when building an offline-first progressive web app</p> <p>\u2022\u00a0Bulletproof service worker caching</p> <p>\u2022\u00a0Building for sub-500 millisecond page-load times</p> <p>\u2022\u00a0Eliminating third-party single points of failure</p> <p>Debugging challenges</p> <p><b>Jamie Greeff -\u00a0</b><b>Building sustainable component libraries for the long run with React and tests!</b></p> <p>So you've thought about building a central component library to use across your projects, but will it last? Will it hurt developer productivity? Can you still iterate quickly on your UI?</p> <p>We'll be exploring how you can build a component library which can be used across teams and projects with no friction by using a nice semantic API, and also survive the inevitable ad hoc hacks by other team members.</p> <p>Oh and while we're at it, we'll also go through how to test all this without making developers want to pull their hair out, and integrate it tightly with a CI pipeline and developer workflow so that devs can have the confidence to make changes without causing regressions (hint: it involves taking a lot of screenshots, which is not as bad as it sounds!)</p> <p>I'll be using React for the demonstration, but it's worth noting that the ideas which I will present can be applied to any UI library which uses components.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/238800517/",
+    "location": {
+        "address": "The Quorum, Bond St, Bristol BS1 3AE",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45619201660156,
+        "longitude": -2.583432912826538,
+        "name": "Edo"
+    },
+    "org": "bristoljs",
+    "title": "Dean H - Progressive web app w/ HTTP2 | Jamie G - Component Libraries & Testing"
+}

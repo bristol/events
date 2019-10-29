@@ -1,0 +1,15 @@
+{
+    "date": 1393527600,
+    "description": "<p>Kicking of tech talks this year is Matt Thompson.<br/>--</p> <p>Clojurescript is a dialect of lisp that compiles to Javascript. In this talk, we will go about making a basic game from scratch. Along the way, we\u2019ll learn about setting up Clojurescript projects, using the Light Table IDE and how to design a game using immutable data structures. I\u2019ll also explain why Clojurescript is useful for front-end web development.</p> <p>--</p> <p>It is also Katja's birthday, so come prepared!</p> <p>*Passport and E111 is advisable.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/161217372/",
+    "location": {
+        "address": "Unit G, Albion Dockside Building, Hanover Place, Bristol, BS1 6UT",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44763946533203,
+        "longitude": -2.6096301078796387,
+        "name": "Simpleweb HQ"
+    },
+    "org": "bristoljs",
+    "title": "Getting functional with Clojurescript"
+}

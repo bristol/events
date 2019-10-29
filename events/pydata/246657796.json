@@ -1,0 +1,15 @@
+{
+    "date": 1518719400,
+    "description": "<p>We are delighted to announce the very first PyData meetup in Bristol!</p> <p>This launch social will be an informal get together to meet local Pythonistas and data minded folk in a relaxed atmosphere. We would especially like to meet anyone interested in contributing a talk (or a five-minute lightning talk) in the coming months. Everyone welcome regardless of experience, and it will hopefully be a good opportunity to do some networking and have a general chat over a couple of drinks.</p> <p>We currently plan to hold PyData Bristol every other month, on the third Thursday of each month, as follows:<br/>\u2022 Thu 15th Feb 2018 \u2013 Launch &amp; Social<br/>\u2022 Thu 15th Mar 2018 \u2013 Speakers TBC<br/>\u2022 Thu 17th May 2018 - Speakers TBC<br/>\u2022 Thu 19th July 2018 - Speakers TBC<br/>\u2022 ...etc...</p> ",
+    "link": "https://www.meetup.com/PyData-Bristol/events/246657796/",
+    "location": {
+        "address": "23 Old Market St,",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45614242553711,
+        "longitude": -2.582324981689453,
+        "name": "Punchbowl"
+    },
+    "org": "pydata",
+    "title": "PyData Bristol - Launch & Social"
+}

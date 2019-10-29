@@ -1,0 +1,15 @@
+{
+    "date": 1530120600,
+    "description": "<p>Ruth John - Web Workers and Worklets<br/>Ruth will talk about web workers and workers in other api specs (worklets). including CSS Houdini, offscreen canvas and audio worklets.</p> <p>Michelle Barker - Super-powered Layouts with CSS Grid + CSS Variables<br/>The CSS Grid Layout Specification has revolutionised layout on the web and has made things possible that were never possible before. This talk will provide an overview of the various methods for building layouts with CSS Grid and demonstrate how it can help us construct complex components. We\u2019ll look at how CSS Variables (custom properties) can bring even more power to our CSS, giving us finer control over our responsive grids, and DRYer and more maintainable code, as well as exploring how these dynamic variables can be changed in CSS and Javascript to afford some exciting possibilities.</p> <p>PLEASE NOTE THE CHANGE OF VENUE!! We are going to be meeting at the offices of Zone Digital, The Brew House, Tower Hill, Bristol BS2 0EQ . This will hopefully be our regular meeting place for the future.</p> <p>Doors are at 6.30pm with talks starting around 7pm. There will be Pizza and drinks provided at the venue.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/251199253/",
+    "location": {
+        "address": "The Brew House",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45500183105469,
+        "longitude": -2.584486961364746,
+        "name": "Zone Digital"
+    },
+    "org": "bristoljs",
+    "title": "Ruth John - Web Workers and Michelle Barker - Super-powered Layouts"
+}

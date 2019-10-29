@@ -1,0 +1,15 @@
+{
+    "date": 1541700000,
+    "description": "<p>Workshop with Stephen Leach</p> <p>- This workshop gets developers into the test-driven mindset and having fun learning how to drive development by implementing step-by-step scenarios using a structured set of activities.</p> <p>To explore what this means in practice, there will be hands-on exercises, so bring your laptop.</p> <p>The exercises can be done using a platform of your choice. However, Steve would like to focus on a language prevelant among attendees when talking about the examples, therefore we will ask you about your preferred language on sign-up.</p> <p>Who is this workshop for?</p> <p>This workshop is for you if you have heard about TDD and want to really understand what the deal is, without making the huge investment in time needed to be an expert. It is about understanding the whole TDD picture and not worry about the mechanics.</p> <p>All skill levels welcome. We are also looking for mentors.</p> ",
+    "link": "https://www.meetup.com/CodeHub-Bristol/events/255085132/",
+    "location": {
+        "address": "Framework",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.452003479003906,
+        "longitude": -2.594494104385376,
+        "name": "Framework"
+    },
+    "org": "CodeHub-Bristol",
+    "title": "Getting into Test Driven Development - Part 1 : TDD workflow"
+}

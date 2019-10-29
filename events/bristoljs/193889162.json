@@ -1,0 +1,15 @@
+{
+    "date": 1414609200,
+    "description": "<p>In this talk, I'll be showing how I made a particle system in HTML5 canvas, which uses letters instead of images. <a href=\"http://whostolemyhat.github.io/text-particle/\">Demo here</a></p> <p>By the end you'll have an overview of using animations with the canvas element, and why making silly things is a great idea!</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/193889162/",
+    "location": {
+        "address": "210 North Street BS3 1JF",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44069290161133,
+        "longitude": -2.610887050628662,
+        "name": "The Hen & Chicken"
+    },
+    "org": "bristoljs",
+    "title": "Making a text particle system with canvas"
+}

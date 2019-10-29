@@ -1,0 +1,15 @@
+{
+    "date": 1527613200,
+    "description": "<p>We're working through the fantastic Haskell Programming from First Principles (<a href=\"http://haskellbook.com\" class=\"linkified\">http://haskellbook.com</a>) book.</p> <p>Each week before the session you should aim to read through the relevant chapters for that week and to attempt all the exercises. The session will be a chance to discuss what has given you trouble, compare solutions with others, re-attempt some of the exercises without notes etc.</p> <p>People who started attending last year can carry on from where we were.</p> <p>There was also a call for a second group last year so people are welcome to come and start from the beginning. There won't be too much separation between the groups but I want to make sure that everyone has a clear weekly target that they should be completing.</p> ",
+    "link": "https://www.meetup.com/CodeHub-Bristol/events/251017462/",
+    "location": {
+        "address": " 75 Park St Bristol, BS1 5PF ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.455238342285156,
+        "longitude": -2.6040871143341064,
+        "name": "Boston Tea Party "
+    },
+    "org": "CodeHub-Bristol",
+    "title": "Haskell study group! All welcome!"
+}

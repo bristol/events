@@ -1,0 +1,15 @@
+{
+    "date": 1366311600,
+    "description": "<p>James Jackson (real name, not an adult entertainer) has kindly stepped in to tell us about WebRTC.</p> <p>WebRTC is a free, open project that\u00a0enables web browsers with Real-Time Communications (RTC) capabilities via simple Javascript APIs. The WebRTC components have been optimized to best serve this purpose.</p> <p><b>Mission:</b> To enable rich, high quality, RTC applications to be developed in the browser via simple Javascript APIs and HTML5.</p> <p>\u00a0</p> <p>We will have 15 minutes at the end for Ask The Audience, chaired by our very own Steve James!</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/105157552/",
+    "location": {
+        "address": "210 North Street BS3 1JF",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44069290161133,
+        "longitude": -2.610887050628662,
+        "name": "The Hen & Chicken"
+    },
+    "org": "bristoljs",
+    "title": "WebRTC"
+}

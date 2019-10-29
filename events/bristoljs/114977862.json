@@ -1,0 +1,15 @@
+{
+    "date": 1371150000,
+    "description": "<p>A look at the HTML5 postMessage API - a handle tool for safely enabling cross-origin communication between windows and iframes.</p> <p>In this talk I'll discuss what the postMessage API is and when it's useful. I'll also dive into Postie.js - a neat little wrapper for the postMessage API that overcomes some of the issues with postMessage and makes cross-origin communication really powerful.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/114977862/",
+    "location": {
+        "address": "Unit G, Albion Dockside Building, Hanover Place, Bristol, BS1 6UT",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.447898864746094,
+        "longitude": -2.609994888305664,
+        "name": "Simpleweb HQ"
+    },
+    "org": "bristoljs",
+    "title": "Postie.js and the HTML5 postMessage API"
+}

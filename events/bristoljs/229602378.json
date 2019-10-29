@@ -1,0 +1,15 @@
+{
+    "date": 1467223200,
+    "description": "<p><b>Phil Nash - An Introduction to Service Worker</b></p> <p>Service Workers are the biggest thing to hit the browser since XMLHttpRequest. We'll take a look at what the Service Worker can do for your app and more importantly, your users. We'll see the surprisingly small amount of code you need to get started with a Service Worker and finally we'll take a look at Progressive Web Apps and how the Service Worker will take part in a revolution for web applications.</p> <p><b>Ruth John - Let's Talk About Web MIDI</b></p> <p>Fresh off the stage from JSConf Uruguay, JSDay Verona and ScotlandJS, Ruth introduces us to an API which can be overlooked in web dev.</p> <p>What do you think of when you hear 'MIDI', bad computer music? Websites playing annoying music when you land on them? Then let Ruth introduce and educate you into a new world of MIDI.</p> <p>In this enticing and interactive presentation we\u2019ll journey through the different MIDI specifications and look at other web APIs. From sound with General MIDI and the Web Audio API, to the MIDI Visual Control, timing projections with the Web Animation API and on to the latest MIDI BLE standard, what a better way to demo the Web Bluetooth API.</p> <p>The web is getting hardware-ready and this talk is a great beginning to those APIs at our fingertips. Think you know MIDI - think again there\u2019s so much more to it.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/229602378/",
+    "location": {
+        "address": "2nd Floor Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "Just Eat"
+    },
+    "org": "bristoljs",
+    "title": "Service Workers & Web MIDI"
+}

@@ -1,0 +1,15 @@
+{
+    "date": 1551292200,
+    "description": "<p>L\u00e9onie Watson - Time traveller's guide to accessibility mechanics</p> <p>For a long time, HTML gave us all the semantics and other goodies we<br/>needed to make things work properly on the web. Then we started<br/>inventing new UI components, and now we use ARIA and Javascript to<br/>polyfill the missing bits. As we move towards a future of Web<br/>Components, the time has come to invent another solution that will let<br/>us encapsulate accessibility in the shadow DOM - and its called the<br/>Accessibility Object Model (AOM).</p> <p>Ian Pouncey - JavaScript \u2013 what is it good for?</p> <p>The answer is \"user experience\". If JavaScript is running in someone's browser and isn't making their experience of your site or application better then what is it doing there? From making forms easier to use to adding audio notifications, this talk will cover some of the things that only JavaScript can do to improve user experience.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/257777399/",
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
+    "org": "bristoljs",
+    "title": "L\u00e9onie Watson - Accessibility Mechanics | Ian Pouncey - JS what is it good for?"
+}

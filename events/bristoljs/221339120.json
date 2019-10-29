@@ -1,0 +1,15 @@
+{
+    "date": 1438192800,
+    "description": "<p>Web components! Do we need them? Can we use them? Will we ever be able to use them? Is Polymer creating a false utopian vision of these things or are they hastening the adoption of native web component capability into modern browsers? Is Microsoft Edge lack of support for web components a distainful snub or a silly oversight? If Shadow DOM makes me feel a little anxious can something be done to soothe me?</p> <p>I don't have answers to all of these, but I aim to by the 29th July. If you also aim to find answers to these please try and find out slightly less than I do so I don't look like a nob.</p> ",
+    "link": "https://www.meetup.com/BristolJS/events/221339120/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "bristoljs",
+    "title": "Web components"
+}
