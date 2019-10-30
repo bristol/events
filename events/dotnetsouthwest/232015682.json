@@ -1,0 +1,15 @@
+{
+    "date": 1468949400,
+    "description": "<p>Steve Sanderson created knockout.js\u00a0before client-side MVC was cool. He now works at Microsoft on the team that just released ASP.NET\u00a0Core 1.0 - the new open-source, cross-platform version of ASP.NET.</p> <p>Along the way he helped develop the Azure Portal - one of the largest Single Page Applications (SPA) in the world.</p> <p>So who better to talk about building SPAs with <a href=\"http://asp.net/\">A</a>SP.NET Core?</p> ",
+    "link": "https://www.meetup.com/dotnetsouthwest/events/232015682/",
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
+    "org": "dotnetsouthwest",
+    "title": "Steve Sanderson - ASP.NET Core and Single Page Apps"
+}

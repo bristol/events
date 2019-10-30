@@ -1,0 +1,8 @@
+{
+    "date": 1406223000,
+    "description": "<p><b>Web Development: Two Ways\u00a0</b></p> <p>In stealing from a common chef theme of preparing a food two ways, I\u2019ll be in Bristol to talk about two different ways of doing web development.\u00a0</p> <p>First up will be an <b><i>introduction on Web API 2</i></b> and why it\u2019s the best way to build REST APIs using the Microsoft Stack. We\u2019ll delve into the why as well as the how using the newest features of ASP.NET Web API 2.1.\u00a0</p> <p>In the second part, I\u2019ll switch gears and introduce you to <i><b>Node.js</b></i> from the perspective of the .NET developer. I\u2019ll show you why I think learning Node.js will make you a better ASP.NET developer.\u00a0It\u2019ll be fun!</p> <p>Shawn</p> <p>(<a href=\"http://wildermuth.com/\">blog</a>, <a href=\"https://twitter.com/ShawnWildermuth\">twitter</a> &amp; <a href=\"http://pluralsight.com/training/Authors/Details/shawn-wildermuth\">pluralsight</a>)</p> ",
+    "link": "https://www.meetup.com/dotnetsouthwest/events/183401362/",
+    "location": null,
+    "org": "dotnetsouthwest",
+    "title": "Web Development: Two Ways (with Shawn Wildermuth)"
+}

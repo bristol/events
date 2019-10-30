@@ -1,0 +1,15 @@
+{
+    "date": 1569519000,
+    "description": "<p>\ud83c\udf99This months .NET South West is at a different venue from usual, we will be using multiple venues going forward.</p> <p>\ud83d\ude4fA massive thank you to DNV GL who will be hosting this event.</p> <p>\ud83c\udfa4Managing the Conversation Flow within a Bot:<br/>If there's one challenge with conversational interfaces and bots, that has to be how effortless and smooth the interaction between the user and the bot has to be.</p> <p>The user shouldn't even feel like they're conversing with a program.</p> <p>That's why thinking about how to handle the conversation flow when building bots is an essential task for developers.</p> <p>In this talk, we will go through how to manage the conversation flow with Microsoft Bot Framework and dialogs.</p> <p>About Rabeb:<br/>Rabeb is a software engineer and has been writing code for almost a decade now. Currently, she works as a Developer Advocate helping developers from around the globe building awesome applications. Rabeb also runs the Women Who Code meetup in Bristol.</p> ",
+    "link": "https://www.meetup.com/dotnetsouthwest/events/264612766/",
+    "location": {
+        "address": "Avon Street, Temple Quay",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45210647583008,
+        "longitude": -2.579474925994873,
+        "name": "DNV GL"
+    },
+    "org": "dotnetsouthwest",
+    "title": "Managing the Conversation Flow within a Bot by Rabeb Othmani"
+}

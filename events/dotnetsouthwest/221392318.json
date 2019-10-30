@@ -1,0 +1,15 @@
+{
+    "date": 1429725600,
+    "description": "<p>The first meetup since the re-boot and we have excellent talks and plenty of swag from our lovely sponsors! Come join us and eat NACHOS!</p> <p><b>--- TALK 1 ---<br/></b></p> <p><b>Topic: </b>Jaimal Chohan - The life of a thousand orders, a story about distributed .NET</p> <p><b>Description: </b>Building a distributed system for delivering something as simple as takeaway food\u00a0<br/>presents interesting questions, like why would you do that?!\u00a0And, how are you still employed?!\u00a0<br/>I'll be answering both and much more while exploring the mechanisms we use to scale a start-up to a global leader.</p> <p><b>Bio: </b>Jaimal likes building scalable and available distributed systems which can be delivered continuously. He's made a lot of mistakes and hopes that one day he'll get this right. Meanwhile he'll keep on making mistakes for for now he does that at JUST EAT.</p> <p><b>--- TALK 2 ---</b></p> <p><b>Topic:</b> Peter Major -\u00a0Native mobile cross-platform with Xamarin.Forms and C#</p> <p><b>Description:\u00a0</b>Using Xamarin on a project can reduce time to market by writing shared code in C# once rather than Java and Objective-C for Android and iOS.\u00a0Until recently, when developing an application with Xamarin you still used native UI tools for each mobile OS on top of your shared C# code. For some types of applications, shared code is minimal and the UIs are the biggest part of the application.\u00a0Since the release of Xamarin Forms, shared UI code across platforms is now possible.</p> <p><b>Bio:\u00a0</b>Peter has been developing software since 1996, using technologies such as VB, Delphi, C#, Azure, AngularJS and, most recently, Xamarin.\u00a0He believes in challenging the use of entrenched tools as new tools arrive that promise increased productivity and value.\u00a0Peter currently builds cool stuff for JUST EAT with AWS and Xamarin.</p> ",
+    "link": "https://www.meetup.com/dotnetsouthwest/events/221392318/",
+    "location": {
+        "address": "1 Canon's Road, Harbourside",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45237350463867,
+        "longitude": -2.598119020462036,
+        "name": "Waterside 2 @ Watershead "
+    },
+    "org": "dotnetsouthwest",
+    "title": "Jaimal Chohan - Distributed .NET / Peter Major - Cross-platform Mobile Xamarin"
+}

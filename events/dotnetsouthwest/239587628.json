@@ -1,0 +1,15 @@
+{
+    "date": 1501003800,
+    "description": "<p><b>Giving Code a Good Name </b><br/>Code is basically made up of three things: names, spacing and punctuation. With these three tools a programmer needs to communicate intent, and not simply instruct. But if we look at most approaches to naming, they are based on the idea that names are merely labels, so that discussion of identifier naming becomes little more than a discussion of good labelling.</p> <p>A good name is more than a label; a good name should change the way the reader thinks. A good name should describe structure with intention, as opposed to the affix-heavy approach common to many naming conventions in current use, where the addition of more prefixes and suffixes becomes homeopathic, diluting the meaning. Good naming is part of good design. This session looks at why and what it takes to get a good name.</p> <p><b>About Kevlin Henney </b><br/>Kevlin Henney is an independent consultant, speaker, writer and trainer. His software development interests are in patterns, programming, practice and process.</p> <p>Kevlin has been a columnist for various magazines and websites. He's a co-author of A Pattern Language for Distributed Computing and On Patterns and Pattern Languages, two volumes in the Pattern-Oriented Software Architecture series, and editor of 97 Things Every Programmer Should Know.</p> ",
+    "link": "https://www.meetup.com/dotnetsouthwest/events/239587628/",
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
+    "org": "dotnetsouthwest",
+    "title": "Giving Code a Good Name by Kevlin Henney"
+}

@@ -1,0 +1,15 @@
+{
+    "date": 1566927000,
+    "description": "<p>Railway Oriented Programming is a powerful mechanism for error handling in functional languages. Using F#, this session introduces the concept with plenty of examples and then shows how to transfer these ideas to a non-functional language like C#.</p> <p>About Ed Courtenay</p> <p>Ed is a Senior Developer at Just Eat. He started coding on the BBC Micro in the mid 80s and - barring a few years in the early 90s when labouring under the misapprehension that he could make a living as a musician - has continued to write code professionally until the present day.</p> ",
+    "link": "https://www.meetup.com/dotnetsouthwest/events/264124269/",
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
+    "org": "dotnetsouthwest",
+    "title": "An Introduction to Railway Oriented Programming by Ed Courtenay"
+}

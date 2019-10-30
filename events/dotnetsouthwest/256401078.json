@@ -1,0 +1,15 @@
+{
+    "date": 1543516200,
+    "description": "<p>Running C#/.NET code is something we do all the time. But how does the .exe/.dll file produced by the compiler actually get executed? What's going on inside the dotnet[core]/Mono runtime?</p> <p>In an attempt to answer these questions we'll investigate the contents of a .NET executable file and the things that the runtime needs to have in place in order to execute .NET code. With examples from a very simple interpreted .NET runtime, demonstrating that this may not be as complex as you imagined!</p> <p>This will be based on the (inefficient, pointless, and obsolete!) DotNetAnywhere runtime that Chris wrote many years ago (you may also recognise the name as it's what Steve Sanderson used for his original Blazor demo)</p> <p><a href=\"https://github.com/chrisdunelm/DotNetAnywhere\" class=\"linkified\">https://github.com/chrisdunelm/DotNetAnywhere</a></p> <p>About Chris Bacon:</p> <p>Chris is a software engineer, currently at Google, and has been using .NET since C# version 2.</p> ",
+    "link": "https://www.meetup.com/dotnetsouthwest/events/256401078/",
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
+    "org": "dotnetsouthwest",
+    "title": "Inside the CLR (Common Language Runtime) by Chris Bacon"
+}

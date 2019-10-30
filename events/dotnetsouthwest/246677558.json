@@ -1,0 +1,15 @@
+{
+    "date": 1517337000,
+    "description": "<p>Entity Framework (EF) is Microsoft\u2019s recommended database access library, with Entity Framework Core (EF Core) being the latest version. EF Core is very similar on the outside to the original 6.x version of EF, but very different underneath. In this talk Jon P Smith will describe how to use EF Core and what is going on inside the library. The aim is to allow newcomers to EF get a taste of what it can do for you, and help seasoned users of EF to understand a bit more about why the rewrite has opened a whole new set of options for you to use.</p> <p>About Jon P Smith</p> <p>Jon P Smith is an independent software architect/developer who focuses on the .NET platform, mainly around web/mobile applications. Last year he was commissioned by Manning Publications to write the book \"Entity Framework Core In Action\" \u2013 see <a href=\"http://bit.ly/2m8KRAZ\" class=\"linkified\">http://bit.ly/2m8KRAZ</a>.</p> <p>Jon has worked as a developer and a technical manager, which gives him an interesting perspective on the effort/reward side of any software development. He is the author of many open-source libraries and example applications and writes widely. You can find him on twitter (<a href=\"https://twitter.com/thereformedprog\" class=\"linkified\">https://twitter.com/thereformedprog</a>), his blog (<a href=\"http://www.thereformedprogrammer.net/\" class=\"linkified\">http://www.thereformedprogrammer.net/</a>) and on LinkedIn (<a href=\"https://www.linkedin.com/in/jon-p-smith-97a327/\" class=\"linkified\">https://www.linkedin.com/in/jon-p-smith-97a327/</a>).</p> ",
+    "link": "https://www.meetup.com/dotnetsouthwest/events/246677558/",
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
+    "org": "dotnetsouthwest",
+    "title": "An introduction to how Entity Framework Core works inside"
+}
