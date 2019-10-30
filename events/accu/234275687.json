@@ -1,0 +1,15 @@
+{
+    "date": 1477504800,
+    "description": "<p>Summary:<br/>Projects written in Python have a reputation for coming together quickly and easily. C++ does not seem to share this reputation. It is static. Typed. Compiled. Does it need to be?</p> <p>Both languages are imperative at the core, with object orientated and functional aspects grafted on top. Both encourage mutable state and operator overloading. Both will reluctantly permit metaprogramming. It's difficult to see the fundamental difference between the two, yet the experience on the ground is that one provides instant feedback in exchange for atrocious runtime overhead and the other will run very quickly, sometime tomorrow.</p> <p>I would like to discuss whether C++ can credibly claim to be a flexible, dynamic language suited to rapid product development. Equivalently, whether I can hammer it into an approximation of lisp.</p> <p>Bio</p> <p>Jon Chesterfield is a toolchain engineer based in Bristol. He crossed over from mechanical engineering with aspirations of writing better numerical models for physics simulations. That's now a distant memory as days are spent writing tools for other developers and evenings writing tools for himself.</p> ",
+    "link": "https://www.meetup.com/ACCU-Bristol/events/234275687/",
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
+    "org": "accu",
+    "title": "Jon Chesterfield - Dynamic C++"
+}

@@ -1,0 +1,15 @@
+{
+    "date": 1529517600,
+    "description": "<p>For our meeting in June, we are fortunate to have three lightning talks. So there will be a slight change to the programme in that each \"lightning talk\" will be 20-30 minutes in length.</p> <p>I'm very happy to say that we have:</p> <p>Chris Simmons on \"Doing interesting programming stuff and getting government money to do it.\"</p> <p>Synopsis: Programmers / developers might not realise that there are many opportunities at the moment to get government money to do interesting programming stuff. This lightening talk outlines two ways to get readily available government money</p> <p>James Pascoe on how to debug real-world problems in the Linux Kernel:</p> <p>Synopsis: This presentation describes techniques for debugging the Linux kernel<br/>in situations where tools such as 'printk' or 'debugfs' are not practical<br/>or sufficient. In particular, this talk describes techniques to address<br/>the following:</p> <p>1. What to do when the kernel crashes after hours/days/weeks of up-time<br/>2. How to trace timing sensitive or performance critical code<br/>3. Instrumenting a live kernel when you don't have the kernel source</p> <p>The objective of the talk is to bring lesser-known and more recent<br/>debugging techniques to the attention of the audience.</p> <p>Justin Mills who's kind enough to give us a talk/demo on using Haxe, which is a high level cross platform multi paradigm programming language and compiler that can produce applications and source code for many different computing platforms from one code base.</p> ",
+    "link": "https://www.meetup.com/ACCU-Bristol/events/250408241/",
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
+    "org": "accu",
+    "title": "Lightning Talk - A Call for speakers"
+}

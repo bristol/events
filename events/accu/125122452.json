@@ -1,0 +1,15 @@
+{
+    "date": 1374084000,
+    "description": "<p><b>Methodology Patterns</b></p> <p><i>A different approach to create a methodology for your team.</i></p> <p>In the software world we have been looking for \u201cThe Methodology\u201d to solve our software development sorrows for quite a while. We started with Waterfall, then Spiral, Evo, RUP and, more recently with XP, Scrum and Kanban (there are many others, but, their impact, so far, has been more limited). Unfortunately, this search for the holy grail is bound to fail as different contexts require different solutions.</p> <p>In this talk, Giovanni will propose a different approach based on patterns and pattern languages, which he feels has a higher chance of success. The approach is based on the observation that all the practices used in all modern methodologies - e.g., unit testing, acceptance testing, continuous integration, iterative and incremental development, etc. - come from the same set. Different methodologies just mix and match them differently. All those practices can (and many have already been) described as patterns whose relationships with each other form a set of pattern languages that teams can use to create their own methodologies to suit their specific needs.</p> <p><b>About our speaker:</b></p> <p><a href=\"http://photos4.meetupstatic.com/photos/event/7/e/c/e/event_249212462.jpegGiovanni\" class=\"linkified\">http://photos4.meetupstatic.com/photos/event/7/e/c/e/event_249212462.jpegGiovanni</a> is an independent consultant specialised in helping companies and teams to become more effective at producing and delivering high quality software.</p> <p>He is a frequent conference speaker, and has been involved with the organisation of several international conferences. He is a past Conference Chair of the <a href=\"http://www.xpday.org\">London XPDay</a> , and of the <a href=\"http://accu.org/index.php/conferences\">ACCU</a>.</p> <p>Giovanni contributed two chapters to the book \u201c97 Things Every Programmer Should Know\u201d published by O\u2019Reilly. You can find more about him and his services on his company's website at\u00a0<a href=\"http://www.asprotunity.com/\"><a href=\"http://www.asprotunity.com\" class=\"linkified\">http://www.asprotunity.com</a></a>.</p> <p>Giovanni is also active on Twitter as @gasproni.</p> <p>\u00a0</p> <p>\u00a0</p> ",
+    "link": "https://www.meetup.com/ACCU-Bristol/events/125122452/",
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
+    "org": "accu",
+    "title": "Meeting #8: Methodology Patterns with Giovanni Asproni"
+}

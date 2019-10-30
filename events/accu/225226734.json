@@ -1,0 +1,15 @@
+{
+    "date": 1447873200,
+    "description": "<p>As a C++ and Python programmer, I've been following the progress of the Go programming language with interest. C++ and Python can be seen as alternative reinventions of C but both omit key features from their predecessor. C++ is complicated. Python is slow.<br/>Go is a modern reinvention of C. Promising Python's simplicity and safety, it adds static typing, solid performance and language-level support for concurrent programming.<br/>In this talk I will discuss my experience of programming with Go, and will answer the question: does Go deliver?</p> <p><b>About our speaker</b></p> <p>Thomas\u00a0Guest\u00a0is an experienced and enthusiastic software developer who likes puzzles, programming, running and noodles. His website is\u00a0<a href=\"http://wordaligned.org/\"><a href=\"http://wordaligned.org\" class=\"linkified\">http://wordaligned.org</a></a></p> ",
+    "link": "https://www.meetup.com/ACCU-Bristol/events/225226734/",
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
+    "org": "accu",
+    "title": "Thomas Guest: Go. Steady! Ready?"
+}

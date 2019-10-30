@@ -1,0 +1,15 @@
+{
+    "date": 1455735600,
+    "description": "<p><b>An\u00a0<a href=\"http://accu.org/index.php/conferences/accu_conference_2016\">ACCU 2016</a>\u00a0Conference preview</b></p> <p>Moore's law is failing, as many have observed. \u00a0Physical limits on the design of processors mean that it is no longer true that CPUs will simply scale in performance from year to year. \u00a0Processor designers have attempted to address these limitations using deep cache hierarchies, vector pipelines and increasing core counts but exploiting these capabilities tends to need changes in algorithms and data structures.</p> <p>I will discuss the nature of this challenge, the reasons behind it and what can be done to address it and most importantly, if this can be achieved while maintaining, or even improving, the expressiveness of code. \u00a0While the abstract machine model underlying C is a thing of the past, I'll include working examples of what can be achieved in C++.</p> <p><b>About Our Speaker\u00a0</b></p> <p>Robin has spent over 25 years trying to cram astronomical nebulae into computers and hasn't given up yet. \u00a0He has developed code for platforms from embedded control systems to large HPC clusters, in C, C++ and Fortran, and was one of the early developers of the PDL data processing module for Perl.</p> <p><b>All\u00a0Welcome\u00a0</b></p> <p>This event is free and open to all.\u00a0<a href=\"http://accu.org/\">ACCU\u00a0</a>Members and non-members are all welcome so please spread the message far and wide.</p> ",
+    "link": "https://www.meetup.com/ACCU-Bristol/events/228684991/",
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
+    "org": "accu",
+    "title": "Robin Williams: Efficient and accessible? Addressing new architectures in C++"
+}
