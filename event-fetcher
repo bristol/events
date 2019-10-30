@@ -81,7 +81,6 @@ def meetup_venue_to_location(venue_dict):
 def meetup_events_to_events(event_dict, org_id):
     events = []
     for event in event_dict:
-        print(event)
         status = event.get("status")
         desc = event.get("description")
         time = event.get("time")
