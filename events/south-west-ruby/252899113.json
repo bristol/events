@@ -1,0 +1,15 @@
+{
+    "date": 1533664800,
+    "description": "<p>Cookpad has invited its global team of Ruby and Rails experts to join us in Bristol for this meetup. So come and join us for another Ruby packed evening with beers and bites to eat.</p> <p>Schedule</p> <p>18:30 - 19:00 - Arrive, grab a drink, some delicious locally supplied food and have a chat with fellow attendees.</p> <p>19:30 - Talk(s):</p> <p>1. The Overnight Failure ~ Sebastian Sogamoso (As seen at RubyConf and EuRuKo 2017)</p> <p>Imagine your work week ends after releasing a set of features to production. Your team is happy and you feel good about yourself. A call about a problem with payments wakes you up the next morning. You find out your most valuable users were charged hundreds of times, consuming their credit card limits, leaving others in overdraft. They're angry because they can't even buy milk at the store.</p> <p>Learn how a \"perfect bug storm\" caused the problem, how our processes failed to catch it and how hard it was to gain our users trust back.</p> <p>2. Webapps for the rest of the world ~ Didik Wicaksono</p> <p>The browsing experience isn't the same around the world, you might want to reconsider before choosing a single page application for your next webapp.</p> <p>Didik says: \"I used to copy Miles' work before we got acquired, now I'm CTO of Cookpad Indonesia. I learned Ruby in 2014 after joining Cookpad.\"</p> <p>20:30-21:30 - Socialise and network.</p> ",
+    "link": "https://www.meetup.com/south-west-ruby/events/252899113/",
+    "location": {
+        "address": "3 Broad Plain, BS2 0JP",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45417404174805,
+        "longitude": -2.582395076751709,
+        "name": "Cookpad"
+    },
+    "org": "south-west-ruby",
+    "title": "South West Ruby #8"
+}

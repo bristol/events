@@ -1,0 +1,15 @@
+{
+    "date": 1542738600,
+    "description": "<p>Join us at Cookpad HQ in Bristol, this month for lightning talks. Expect another Ruby packed evening with great conversations, beers and bites to eat.</p> <p>Schedule</p> <p>18:30 - 19:00 - Arrive, grab a drink, some delicious locally supplied food and have a chat with fellow attendees.</p> <p>19:00-20:00 Lightning Talks</p> <p>Adam Butler - Better logs with Rails, Logstash &amp; Kibana</p> <p>Ollie H.M - Compiling\u200b a timeline with UNION</p> <p>Richard Brooke - Java is for Platonists and Ruby is for Aristotelians</p> <p>Stefan Magnuson - Techniques for reworking long/TCR-style branches</p> <p>20:00-20:30 - Socialise and network.</p> ",
+    "link": "https://www.meetup.com/south-west-ruby/events/255809638/",
+    "location": {
+        "address": "3 Broad Plain, BS2 0JP",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45417404174805,
+        "longitude": -2.582395076751709,
+        "name": "Cookpad"
+    },
+    "org": "south-west-ruby",
+    "title": "South West Ruby #11 : Lightning Talks"
+}

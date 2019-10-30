@@ -1,0 +1,15 @@
+{
+    "date": 1558459800,
+    "description": "<p>Join us at Cookpad HQ in Bristol, this month for great talks and discussions. Expect another Ruby packed evening with great conversations, beers and bites to eat.</p> <p>Schedule</p> <p>18:30 - 19:00 - Arrive, grab a drink, some delicious locally supplied food and have a chat with fellow attendees.</p> <p>19:00-21:00 Talks</p> <p>1. Intro to Ruby for developers and testers by Richard Brooke</p> <p>2. Making the world a better place with RubyMap (\u26a1\ufe0ftalk) by Lewis Buckley</p> <p>3. What does a Coconut and Serverless have in common? - Denis Sellu</p> <p>Slack</p> <p>If you like to join us on Slack please join <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> <p>Notices</p> <p>Please let us know in the comments of the event if you have any specific food allergies, dietary or access requirements so we can be sure to best accommodate everyone!</p> ",
+    "link": "https://www.meetup.com/south-west-ruby/events/260876286/",
+    "location": {
+        "address": "5 Broad Plain",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45424270629883,
+        "longitude": -2.582540988922119,
+        "name": "5 Broad Plain"
+    },
+    "org": "south-west-ruby",
+    "title": "South West Ruby #17"
+}

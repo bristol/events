@@ -1,0 +1,15 @@
+{
+    "date": 1523986200,
+    "description": "<p>We're back with the next instalment of GWR at Cookpad.</p> <p>Speakers</p> <p>- Ed \"Ruby on Rails in Containers\"</p> <p>Lightning Talks</p> <p>- Sean \"Finding holes in the Docs\u201d</p> ",
+    "link": "https://www.meetup.com/south-west-ruby/events/249119518/",
+    "location": {
+        "address": "3 Broad Plain, BS2 0JP",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45417404174805,
+        "longitude": -2.582395076751709,
+        "name": "Cookpad"
+    },
+    "org": "south-west-ruby",
+    "title": "Great Western Rails #4"
+}
