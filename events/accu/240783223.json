@@ -1,6 +1,6 @@
 {
-    "date": 1502904600,
     "description": "<p>For our summer social, we thought it'd be a great idea to head to Three Brothers Burger Bar in Bristol. The plan would be to turn up at 7pm for Burgers and food, then onwards to the Brewdog for further beers.</p> <p>We may need to book this, so I'd appreciate if you could let me know if you want to come along.</p> <p>*UPDATE*</p> <p>I've booked a table for 12 at Three Brothers for 6:30 under Williams, see you there</p> ",
+    "end_time": 1502915400,
     "link": "https://www.meetup.com/ACCU-Bristol/events/240783223/",
     "location": {
         "address": "Aboard Spyglass",
@@ -11,5 +11,6 @@
         "name": "Three Brothers Burgers"
     },
     "org": "accu",
+    "start_time": 1502904600,
     "title": "Summer social"
 }

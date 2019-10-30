@@ -1,6 +1,6 @@
 {
-    "date": 1553193000,
     "description": "<p>Our first Bristol Site Reliability Engineering event of 2019 will be hosted at OVO Energy's Bristol offices near Temple Meads - beers and pizzas will of course be provided!</p> <p>**Schedule:</p> <p>18:30:<br/>Arrive, grab a beer, pizza and chat</p> <p>19:00-19:30:<br/>// Oli Boyle - Scala (&amp; Clojure) Developer, OVO Energy<br/>* Declarative Deployment (in Kubernetes)<br/>---<br/>Having worked extensively with GCP and Kubernetes, Oli will talk about how you can separate building your code/images from the deployment of said code in to your infrastructure. The talk will cover how this can simplify your Continuous Integration pipelines, and the benefits it can bring to Disaster Recovery.</p> <p>---<br/>19:30-19:45:<br/>// Louis Taylor - Solutions Engineer, Jetstack<br/>* NixOS: The Linux Distribution From the Future<br/>---<br/>Compared to more traditional Linux distributions, NixOS and the Nix package manager have a rather different approach to package management and configuration management. Louis will give an overview of how it differs, the benefits it brings, and why you should or shouldn't base your production infrastructure on it.</p> <p>---<br/>19:45-20:15:<br/>// Andrea Frittoli - Open Source Developer Advocate, IBM<br/>* Introduction to Knative &amp; Knative Pipelines<br/>---<br/>Previously a QA Tech Lead at HPE and now working at IBM as an open source developer advocate, Andrea will be giving an introduction to Knative and show you how to use the pipeline features for building container based applications.</p> <p>Knative is an open source Kubernetes-based platform for building, managing and deploying serverless workloads. Initially developed by Google, it is rapidly gaining mindshare in the serverless community.</p> <p>---</p> <p>20:15-21:00:<br/>More beer, pizza and a chance to network</p> ",
+    "end_time": 1553202000,
     "link": "https://www.meetup.com/Bristol-SRE/events/258923869/",
     "location": {
         "address": "1 Rivergate, BS1 6ED",
@@ -11,5 +11,6 @@
         "name": "Ovo Energy"
     },
     "org": "sre",
+    "start_time": 1553193000,
     "title": "#4: Declarative Deployment (in Kubernetes) // NixOS // Intro to Knative"
 }

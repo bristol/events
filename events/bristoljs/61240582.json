@@ -1,8 +1,9 @@
 {
-    "date": 1337193000,
     "description": "<p>An introduction to meteorjs -\u00a0 meteor.com</p> ",
+    "end_time": 1337203800,
     "link": "https://www.meetup.com/BristolJS/events/61240582/",
     "location": null,
     "org": "bristoljs",
+    "start_time": 1337193000,
     "title": "An introduction to meteorjs - meteor.com"
 }

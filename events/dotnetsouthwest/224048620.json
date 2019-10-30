@@ -1,6 +1,6 @@
 {
-    "date": 1437674400,
     "description": "<p>We are taking this month off. Back next month!</p> ",
+    "end_time": 1437685200,
     "link": "https://www.meetup.com/dotnetsouthwest/events/224048620/",
     "location": {
         "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
@@ -11,5 +11,6 @@
         "name": "JUSTEAT Technology"
     },
     "org": "dotnetsouthwest",
+    "start_time": 1437674400,
     "title": "Rest Month"
 }

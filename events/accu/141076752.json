@@ -1,6 +1,6 @@
 {
-    "date": 1383159600,
     "description": "<p><b>Aesthetics in Design and Code</b></p> <p>Aesthetics play an important role in the construction of all artefacts. Indeed they could be described as part of what is to be human, yet relatively little is known about their impact on software design and code. This interactive session will evaluate the aesthetics of some example C++ code and UML class diagrams, and dig a little deeper into what\u2019s going on when software developers make aesthetic judgements. We\u2019ll look briefly at the fields of software and design in general for a wider view, before finishing with some practical suggestions on how to exploit aesthetics for better design and code.</p> <p><b>Our Speaker</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/1/7/2/2/600_289685922.jpeg\" /></p> <p>As a Medical Laboratory Technician in the 80\u2019s, Chris found himself increasingly automating laboratory tests when someone told him what he was actually doing was programming. As this was rather fun, Chris studied for his MSc in IT from Bristol Polytechnic in 1989. He became a software engineer, then architect, then methodology and design consultant and trainer, before then taking up a lectureship at the University of the West of England, Bristol in 2002. He was able to bring his software development experience to the emerging research field of artificial intelligence, and in 2011 obtained his PhD in interactive, evolutionary computation for early lifecycle software design. Chris now actively researches in the field of Search-Based Software Engineering (SBSE). Chris is a Member of the British Computer Society and a Certified IT Professional. An overview of Chris\u2019s research area and his publications can be found at <a href=\"http://www.cems.uwe.ac.uk/~clsimons/\">www.cems.uwe.ac.uk/~clsimons/</a></p> ",
+    "end_time": 1383166800,
     "link": "https://www.meetup.com/ACCU-Bristol/events/141076752/",
     "location": {
         "address": "2 Lower Castle Street",
@@ -11,5 +11,6 @@
         "name": "Bristol Marriott Hotel City Centre"
     },
     "org": "accu",
+    "start_time": 1383159600,
     "title": "Meeting #10: Aesthetics in Design and Code with Chris Simons"
 }

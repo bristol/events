@@ -1,8 +1,9 @@
 {
-    "date": 1398792600,
     "description": "<p><b>Performance is a feature.</b>\u00a0</p> <p>In this session, Marc (one of the developers behind <a href=\"http://stackexchange.com/\">Stack Exchange</a> / <a href=\"http://stackoverflow.com/\">Stack Overflow</a>) discusses some approaches for measuring and improving the performance of your .NET applications, using some of the freely available tools that the Stack Exchange team developed in order to achieve very high scalability and performance.\u00a0</p> <p>In the second half of the session, Marc will be looking in particular at redis, which Stack Exchange use extensively (in combination with SQL databases), looking ahead to redis \"cluster\", and discussing ways in which you can use tools like this to improve the performance of your applications.</p> ",
+    "end_time": 1398801600,
     "link": "https://www.meetup.com/dotnetsouthwest/events/175147002/",
     "location": null,
     "org": "dotnetsouthwest",
+    "start_time": 1398792600,
     "title": "Pushing the Performance of .NET Applications (with Marc Gravell)"
 }

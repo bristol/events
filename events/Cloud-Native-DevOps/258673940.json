@@ -1,6 +1,6 @@
 {
-    "date": 1551378600,
     "description": "<p>18:30 - arrive. Beers, pizza, networking</p> <p>19:00 - Tim Berry, head of Google Cloud Practice at Claranet will give a talk on \"Serverless Video Intelligence\". It will be an overview of the serverless movement in general for Google Cloud Platform, and a demo of their Cloud Vision API.</p> <p>Tim Berry bio:<br/>Tim runs the Site Reliability Engineering team for Google Cloud Platform at Claranet's Public Cloud Practice. Prior to that I built and managed the DevOps infrastructure for ForgeRock, another Bristol tech company.</p> <p>19:30 - Anton Tolchanov, SRE at Google, will give a talk on 'Solving Reliability Fears with SRE'. He will describe the key principles behind Site Reliability<br/>Engineering and discuss how they can be used in practice to run<br/>reliable systems.</p> <p>Bio: Despite getting a degree in business administration, Anton has<br/>been working with software his whole career. He has been a Site<br/>Reliability Engineer at Google since 2014. His interests, hobbies and<br/>personal traits are not something he'd like to disclose in a public<br/>bio, but he'll be happy to tell you his secret to good scrambled eggs.</p> ",
+    "end_time": 1551385800,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/258673940/",
     "location": {
         "address": "Tower Wharf, Cheese Lane, BS2 0JJ",
@@ -11,5 +11,6 @@
         "name": "Oracle Corporation "
     },
     "org": "Cloud-Native-DevOps",
+    "start_time": 1551378600,
     "title": "Google Talks -  'Solving Reliability Fears' & 'Serverless Video Intelligence'"
 }

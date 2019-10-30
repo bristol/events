@@ -1,6 +1,6 @@
 {
-    "date": 1526405400,
     "description": "<p>We're back with the next instalment of GWR at Cookpad!</p> <p>Speakers</p> <p>- Nick Schwaderer \"Measuring Chronic Pain Outcomes with Ruby and Twilio\"</p> <p>Nick is a Rails developer for OHQ in Cornwall. He grew up in Montana in the United States, studied at Plymouth University, and served two terms in the State Congress before moving back to the UK to work on software. Beyond the talk project, he has built Ruby projects to improve access to government, encourage personal finance literacy, track militarized equipment used in law enforcement and assist Plymouth students in finding study areas.</p> <p>- Lewis Buckley \"Redis 101\"</p> <p>Lewis is a Ruby web developer at Cookpad. He recently joined Cookpad from FreeAgent and has 7 years experience writing software professionally. His pastimes include watching documentaries about planes, trains and car crashes, making cocktails and playing PC games.</p> ",
+    "end_time": 1526412600,
     "link": "https://www.meetup.com/south-west-ruby/events/250301443/",
     "location": {
         "address": "3 Broad Plain, BS2 0JP",
@@ -11,5 +11,6 @@
         "name": "Cookpad"
     },
     "org": "south-west-ruby",
+    "start_time": 1526405400,
     "title": "Great Western Rails #5"
 }

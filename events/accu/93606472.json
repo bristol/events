@@ -1,6 +1,6 @@
 {
-    "date": 1357758000,
     "description": "<p>For our first talk of the new year, ACCU member\u00a0<b>Dan Towner</b> will be revealing\u00a0<b>The Inner Secrets of Compilers</b>.</p> <p><a href=\"http://photos4.meetupstatic.com/photos/event/4/4/0/e/event_183977422.jpegDan's\" class=\"linkified\">http://photos4.meetupstatic.com/photos/event/4/4/0/e/event_183977422.jpegDan's</a> talk aims to demystify the clever parts of compilers that nobody ever told you about, explaining their inner secrets in simple terms. Come along to find out what induction variables do, what software pipelining is, how vectorisation works, how code scheduling is done, and how the debugger makes sense of it all.</p> <p>Dan has worked on tool chain software for parallel and multi-core systems for the last 14 years. He was an official port maintainer for the GCC Picochip port for much of that time, and was also technical lead on Picochip's multi-core debugger project. Dan now works in the Systems Architecture group at Mindspeed developing system modelling tools.</p> ",
+    "end_time": 1357768800,
     "link": "https://www.meetup.com/ACCU-Bristol/events/93606472/",
     "location": {
         "address": "2 Lower Castle Street",
@@ -11,5 +11,6 @@
         "name": "Bristol Marriott Hotel City Centre"
     },
     "org": "accu",
+    "start_time": 1357758000,
     "title": "Meeting #4: Dan Towner reveals The Inner Secrets of Compilers"
 }

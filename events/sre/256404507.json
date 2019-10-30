@@ -1,6 +1,6 @@
 {
-    "date": 1544034600,
     "description": "<p>We'll be hosting our third Site Reliability Engineering event at the OVO Energy offices in Bristol - beer and pizza will be provided, along with some festive treats!</p> <p>**Schedule:</p> <p>18:30:<br/>Arrive, grab a beer, pizza and chat</p> <p>19:00-19:30:<br/>// Mike Brooks, Production Engineer, OVO Energy<br/>* Github &amp; CircleCI Orbs<br/>---<br/>Mike will talk about Github and CircleCI Orbs to show how you can easily setup automated Terraform deployments that work with your standard pull request approval processes.</p> <p>19:30-20:00:<br/>// Al Bates<br/>*Sugarkube.io - Releasing Applications &amp; Infrastructure<br/>---<br/>Al Bates has been a professional developer for 10+ years working at a variety of national and international companies across media, telecoms and finance. He's a polyglot full-stack web developer/devop/big data engineer who thinks it's about time we stop writing custom release pipelines.</p> <p>Al will talk about creating a comprehensive release process that can handle both applications and infrastructure is challenging in its own right. What works for a single developer can quickly turn into a mountain of technical debt once a team has scaled, with early decisions causing huge pain further down the road.</p> <p>Sugarkube.io is a new project (still in alpha) that aims to solve this problem once and for all. Part methodology, part tooling, it aims to relieve us of having to write a custom release process for each project. It can lead to benefits like:</p> <p>* develop faster - create Kubernetes clusters fully configured and ready for use (with your applications and data installed), either locally or remote<br/>* reproducibility - spin up and tear down your clusters and infrastructure from scratch quickly and easily<br/>* manage dependencies - version your applications and dependent infrastructure and release them in lock-step<br/>* safer - test your applications and infrastructure then promote those exact artefacts through your dev/test/prod environments</p> <p>Sugarkube doesn't rely on Kubernetes but provides additional features if you're using it. The talk is relevant to anyone looking to improve their web development and release processes (but perhaps less so for pure client/mobile apps).</p> <p>20:00-21:00:<br/>More beer, pizza, mince pies (!) and a chance to network</p> ",
+    "end_time": 1544043600,
     "link": "https://www.meetup.com/Bristol-SRE/events/256404507/",
     "location": {
         "address": "1 Rivergate, BS1 6ED",
@@ -11,5 +11,6 @@
         "name": "Ovo Energy"
     },
     "org": "sre",
+    "start_time": 1544034600,
     "title": "#3: Github & CircleCI Orbs / Releasing Applications & Infrastructure"
 }

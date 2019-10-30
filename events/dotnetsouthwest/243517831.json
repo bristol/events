@@ -1,6 +1,6 @@
 {
-    "date": 1508866200,
     "description": "<p>Elasticsearch is a real-time, distributed, scalable and highly available search and analytics engine used by thousands of companies worldwide for a multitude of use cases, including search, data exploration, analytics and security information and event management.</p> <p>In this talk, we'll get up and running with Elasticsearch from a .NET perspective, exploring its search and analytics capabilities through the Stackoverflow and .NET Core telemetry data sets. Hopefully you'll find the answers you're looking for and come away with new ways to splice and dice your own data.</p> <p><b>About Russ Cam:</b></p> <p>Russ Cam is a Software Engineer for Elastic, the company behind Elasticsearch and the Elastic Stack, a suite of open source projects focused on scalability and ease-of-use that help you make sense of your data. Within Elastic, he's part of the Microsoft team that looks after all things Microsoft related including the Elasticsearch .NET clients, Windows and Azure integrations.<br/>He has a keen interest in distributed systems, cloud computing and software design, patterns and practices and enjoys contributing to open source projects, particularly when he has an itch to scratch!</p> ",
+    "end_time": 1508877000,
     "link": "https://www.meetup.com/dotnetsouthwest/events/243517831/",
     "location": {
         "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
@@ -11,5 +11,6 @@
         "name": "JUSTEAT Technology"
     },
     "org": "dotnetsouthwest",
+    "start_time": 1508866200,
     "title": "Diving into Elasticsearch with .NET by Russ Cam"
 }

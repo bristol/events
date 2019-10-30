@@ -1,6 +1,6 @@
 {
-    "date": 1566410400,
     "description": null,
+    "end_time": 1566417600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/263403223/",
     "location": {
         "address": "Bar + Block Steakhouse",
@@ -11,5 +11,6 @@
         "name": "Bar + Block Steakhouse"
     },
     "org": "accu",
+    "start_time": 1566410400,
     "title": "ACCU Summer Social"
 }

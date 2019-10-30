@@ -1,6 +1,6 @@
 {
-    "date": 1434043800,
     "description": "<p>Holding place for the next event. More info to come...</p> <p>For now, target is to have worked through the Javascript &amp; jQuery intro section in the following two areas of the Curriculum...</p> <p>Web Development 101 &gt;&gt; The Front End &gt;&gt; 3. Javascript Basics<br/>Web Development 101 &gt;&gt; The Front End &gt;&gt; 4. jQuery Basics</p> <p>Have a go at the JS &amp; jQ project before the event, as we'll be talking around this.</p> ",
+    "end_time": 1434054600,
     "link": "https://www.meetup.com/CodeHub-Bristol/events/221735890/",
     "location": {
         "address": "Prudential Buildings, 11-19 Wine St., Bristol, BS1 2PH, Bristol",
@@ -11,5 +11,6 @@
         "name": "MixRadio"
     },
     "org": "CodeHub-Bristol",
+    "start_time": 1434043800,
     "title": "The Odin Project #2"
 }

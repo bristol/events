@@ -1,6 +1,6 @@
 {
-    "date": 1418842800,
     "description": "<p>To end the year, a festive social gathering for all ACCU Bristol members. If you have already been to a meeting and want to catch up with the people you met there, or if you haven't been yet and just want to meet us and find out about ACCU and the local group, please come along. We're a friendly group, all are welcome.</p> <p>The plan is to keep it simple on the night: drinks and chat at our favourite post-meeting pub, the Cornubia (thecornubia.co.uk) on Temple St.</p> <p>Please RSVP if you are coming along, so we have a good idea of numbers.</p> ",
+    "end_time": 1418853600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/219154341/",
     "location": {
         "address": "142 Temple St, BS1 6EN",
@@ -11,5 +11,6 @@
         "name": "The Cornubia"
     },
     "org": "accu",
+    "start_time": 1418842800,
     "title": "The ACCU Bristol Festive Social"
 }

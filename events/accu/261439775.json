@@ -1,6 +1,6 @@
 {
-    "date": 1561053600,
     "description": "<p>Andy Thomason is a code performance specialist with many years of experience in graphics, data and the game industry.</p> <p>Autovectorisation enables us to write portable loops that use SIMD instructions without using intrinsics or inline assembly. GPUs do this when they compile kernals but to get the right preconditions for autovectorisation in C++, we have to jump through a few hoops.</p> <p>In particular we will talk about alias analysis, loop pragmas, intrinsics idioms, AVX512, vectorisable maths functions and data access patterns.</p> ",
+    "end_time": 1561060800,
     "link": "https://www.meetup.com/ACCU-Bristol/events/261439775/",
     "location": {
         "address": "2 Lower Castle Street",
@@ -11,5 +11,6 @@
         "name": "Bristol Marriott Hotel City Centre"
     },
     "org": "accu",
+    "start_time": 1561053600,
     "title": "Auto Vectorisation - Andy Thomason"
 }

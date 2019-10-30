@@ -1,6 +1,6 @@
 {
-    "date": 1453316400,
     "description": "<p><b>Description</b></p> <p>It\u2019s been some 25 years since \u2018refactoring\u2019 has become a central part of programming practice. But how is refactoring conducted today compared to its original notions?</p> <p>This is an interactive workshop session, and will be largely driven by participants. \u00a0</p> <p>After a quick recap on the original ideas of refactoring, this session firstly explores and discusses the intent and principles of refactoring in contemporary practice. For example, are there different \u2018types\u2019 of refactoring? Does refactoring necessarily need to preserve software behaviour?</p> <p>Secondly, the workshop considers the role of (semi-) automated support provided by current refactoring tools. For example, are refactoring tools effective at taking away (at least) some of the tedium of repetitious restructuring? Do refactoring tools need to error free? How proactive / reactive should automated refactoring tools be? Could they act as \u2018recommender\u2019 tools, or could they ever fully automate refactoring?</p> <p>Finally, the workshop reflects on participant discussions and time permitting, predicts ideas for the next 25 years of refactoring.\u00a0</p> <p><b>About Our Speaker</b></p> <p>After many years as a programmer, Chris now lectures at the University of the West of England, Bristol. He also\u00a0researches into how Artificial Intelligence can help software developers. \u00a0</p> ",
+    "end_time": 1453323600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/227937587/",
     "location": {
         "address": "2 Lower Castle Street",
@@ -11,5 +11,6 @@
         "name": "Bristol Marriott Hotel City Centre"
     },
     "org": "accu",
+    "start_time": 1453316400,
     "title": "Chris Simons - Refactoring: 25 Years On"
 }

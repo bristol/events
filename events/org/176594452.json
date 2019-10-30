@@ -1,6 +1,6 @@
 {
-    "date": 1399656600,
     "description": "<p><b>Join ORG Bristol to hear from the MEP candidates for the South West and quiz them on</b> their views on digital rights.</p> <p>In the run-up to the European elections (22nd May), <b>Open Rights Group are holding MEP hustings</b> across the country, to ask candidates to pledge to protect digital rights.</p> <p>The pledge will be tied into <b>the <a href=\"https://www.wepromise.eu/en\">WePromise 10 point charter</a>.</b></p> <p><b>Candidates speaking<br/></b></p> <p><b>\u2022 Georgina Butler - Conservative</b>\u00a0</p> <p><b>\u2022 Audaye Elesedy - Green</b></p> <p><b>\u2022 Julia Reid - UKIP</b></p> <p><b>\u2022 Jay Risbridger - Liberal Democrat</b></p> <p><b>\u2022 Hadleigh Roberts - Labour</b></p> <p><b>Supported by</b></p> <p><a href=\"http://www.meetup.com/SWUX-meetup-com/\">&lt;/a&gt;SWUX - South West Usability Discussion Group - &lt;a href=\"http://www.meetup.com/SWUX-meetup-com/\"&gt;<a href=\"http://www.meetup.com/SWUX-meetup-com\" class=\"linkified\">http://www.meetup.com/SWUX-meetup-com</a></a></p> <p><b>If you wish to attend but not respond on MeetUp, please email [masked] to reserve places.\u00a0<br/></b></p> ",
+    "end_time": 1399663800,
     "link": "https://www.meetup.com/ORG-Bristol/events/176594452/",
     "location": {
         "address": "Horley Road, Bristol, BS2 9TJ",
@@ -11,5 +11,6 @@
         "name": "St Werburgh's Community Centre"
     },
     "org": "org",
+    "start_time": 1399656600,
     "title": "Quiz your MEP: Digital Hustings"
 }

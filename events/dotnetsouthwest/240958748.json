@@ -1,6 +1,6 @@
 {
-    "date": 1503423000,
     "description": "<p><b>Developing an agile mindset: leading teams to think beyond the tools, techniques</b></p> <p>The Agile Manifesto captured the mindset of 17 software delivery thought leaders in how they wanted to deliver software. Since then the agile landscape has exploded with all sorts of different tools, techniques and practices. In my experience the adoption of agile focuses heavily on implementing the processes, tools and techniques. But, true agility is achieved by the people within the organisation adopting the agile mindset. This talk is all about the agile journey GoCompare has taken and, more importantly, contains an experience report of developing an agile mindset at all levels of the organisation.</p> <p><b>About\u00a0Dermot Kilroy</b></p> <p>Dermot Kilroy is the Web Engineering Manager at GoCompare, on a mission to build the best tech environment in South Wales and beyond. He's been implementing enterprise software systems for over 10 years. In that time he has been involved in many agile transformations both as a team member and an agile enabler.</p> <p>Dermot is a firm believer that the agile philosophy is aligned with the needs and wants of profitable organisations and that we have a long way to go to fully achieve the benefit of an agile approach.</p> ",
+    "end_time": 1503433800,
     "link": "https://www.meetup.com/dotnetsouthwest/events/240958748/",
     "location": {
         "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
@@ -11,5 +11,6 @@
         "name": "JUSTEAT Technology"
     },
     "org": "dotnetsouthwest",
+    "start_time": 1503423000,
     "title": "Developing an agile mindset: leading teams to think beyond the tools, techniques"
 }

@@ -1,6 +1,6 @@
 {
-    "date": 1498498200,
     "description": "<p>SonarQube has become the de-facto tool for assessing code quality.</p> <p>SonarQube runs rules, unit tests and code coverage against code, assesses code quality and calculates technical debt. SonarQube categorizes technical debt and provides clear indication of where the most important technical debt must be re-paid. Most importantly SonarQube tracks metrics over time and provides developers and managers with the statistics necessary to determine progress.</p> <p>This session demonstrates the key features of SonarQube from the perspective of C# analysis and shows the value of revealing your code\u2019s strengths and weaknesses.</p> <p><b>About Guy Smith-Ferrier:</b></p> <p>Guy is a software developer living in Bristol. He is the author of NCLDR (<a href=\"http://www.ncldr.com\" class=\"linkified\">http://www.ncldr.com</a>), an open source .NET implementation of the Unicode Consortium\u2019s Common Locale Data Repository. He is the author of \".NET Internationalization\" published by Addison-Wesley (<a href=\"http://www.dotneti18n.com\" class=\"linkified\">http://www.dotneti18n.com</a>). He is a Microsoft Certified Professional developer, author, trainer and speaker and has spoken at many European and US conferences. He ran the .NET Developer Network for 7 years and founded DDD South West (<a href=\"http://www.dddsouthwest.com\" class=\"linkified\">http://www.dddsouthwest.com</a>), a free one day technical event in the South West of England. He is an ASP.NET Insider and has written over 50 articles for numerous magazines and has co-authored an application development book.</p> <p>You can read more and contact him via his website at <a href=\"http://www.guysmithferrier.com\" class=\"linkified\">http://www.guysmithferrier.com</a>.</p> ",
+    "end_time": 1498509000,
     "link": "https://www.meetup.com/dotnetsouthwest/events/238266579/",
     "location": {
         "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
@@ -11,5 +11,6 @@
         "name": "JUSTEAT Technology"
     },
     "org": "dotnetsouthwest",
+    "start_time": 1498498200,
     "title": "Assessing Code Quality and Technical Debt Using SonarQube"
 }

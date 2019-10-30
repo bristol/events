@@ -1,6 +1,6 @@
 {
-    "date": 1481742000,
     "description": "<p>Come one, come all to the ACCU Bristol Christmas social, which will be held on the 14th of December at the Brewdog Bristol on Baldwin Street.</p> <p>It will be a chance to get together and chat, drink good beer, eat good food and be merry. \u00a0</p> ",
+    "end_time": 1481752800,
     "link": "https://www.meetup.com/ACCU-Bristol/events/235607928/",
     "location": {
         "address": "58 Baldwin Street, BS1 1QW",
@@ -11,5 +11,6 @@
         "name": "Brewdog Bristol"
     },
     "org": "accu",
+    "start_time": 1481742000,
     "title": "ACCU Bristol Christmas Social"
 }

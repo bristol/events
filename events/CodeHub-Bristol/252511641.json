@@ -1,6 +1,6 @@
 {
-    "date": 1531936800,
     "description": "<p>Meet us in the front room of the King William Pub. (If you are interested in mentoring or being mentored please also check out <a href=\"https://www.meetup.com/CodeHub-Bristol/events/252511428\" class=\"linkified\">https://www.meetup.com/CodeHub-Bristol/events/252511428</a>)</p> <p>We might go somewhere else later on, will keep you posted on this page!</p> ",
+    "end_time": 1531947600,
     "link": "https://www.meetup.com/CodeHub-Bristol/events/252511641/",
     "location": {
         "address": "BS1 4EF",
@@ -11,5 +11,6 @@
         "name": "King William Ale House"
     },
     "org": "CodeHub-Bristol",
+    "start_time": 1531936800,
     "title": "CodeHub Social "
 }

@@ -1,6 +1,6 @@
 {
-    "date": 1531933200,
     "description": "<p>This is for everybody interested in mentoring or being mentored - or both!</p> <p>It's an opportunity to:<br/>- meet your possible mentors or mentees in person<br/>- give some input into creating a framework and resources to best organise mentorship within CodeHub (just to have as much structure as is helpful!)</p> <p>If you are interested in being mentored, please fill in this form <a href=\"https://goo.gl/forms/9IjwWOZwMYMrR8Cr1\" class=\"linkified\">https://goo.gl/forms/9IjwWOZwMYMrR8Cr1</a>. If you would like to be a mentor, please join the #mentors channel on our Slack group (<a href=\"http://slack.codehub.org.uk/\" class=\"linkified\">http://slack.codehub.org.uk/</a>) and add yourself to the spreadsheet that is pinned to the channel. Neither is strictly necessary to fill in, it just makes it easier for us to gauge interest and match people up. Alternatively, get in touch with Mark or Katja.</p> <p>This meetup will be followed by a general CodeHub Social (<a href=\"http://meetu.ps/e/FwRt5/1nxBB/d\" class=\"linkified\">http://meetu.ps/e/FwRt5/1nxBB/d</a>), if you can stay for that, all the better!</p> ",
+    "end_time": 1531936800,
     "link": "https://www.meetup.com/CodeHub-Bristol/events/252511428/",
     "location": {
         "address": "BS1 4EF",
@@ -11,5 +11,6 @@
         "name": "King William Ale House"
     },
     "org": "CodeHub-Bristol",
+    "start_time": 1531933200,
     "title": "Mentorship Kickoff"
 }

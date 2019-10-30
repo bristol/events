@@ -1,6 +1,6 @@
 {
-    "date": 1531848600,
     "description": "<p>Today, nearly all browser-based apps are written in JavaScript (or similar languages that transpile to it). That\u2019s fine, but there\u2019s no good reason to limit our industry to basically one language when so many powerful and mature alternate languages and programming platforms exist. Starting now, WebAssembly opens the floodgates to new choices, and one of the first realistic options may be .NET.</p> <p>Blazor is a new experimental web UI framework from the ASP.NET team that aims to brings .NET applications into all browsers (including mobile) via WebAssembly. It allows you to build true full-stack .NET applications, sharing code across server and client, with no need for transpilation or plugins.</p> <p>In this talk I\u2019ll demonstrate what you can do with Blazor today and how it works on the underlying WebAssembly runtime behind the scenes. You\u2019ll see its modern, component-based architecture (inspired by modern SPA frameworks) at work as we use it to build a responsive client-side UI. I\u2019ll cover both basic and advanced scenarios using Blazor\u2019s components, router, DI system, JavaScript interop, and more.</p> <p>About Steve Sanderson</p> <p>Steve is working as a developer for Microsoft in the team that brings you the ASP.NET technology stack, IIS, and other web things. Previously he developed .NET software as a contractor/consultant for clients in Bristol and beyond, plus wrote some books for Apress, such as Pro ASP.NET MVC Framework. From time to time, he speaks at user groups and conferences, and recently have been running a bunch of training courses on topics such as C#, SQL Server, and of course ASP.NET MVC.</p> ",
+    "end_time": 1531855800,
     "link": "https://www.meetup.com/dotnetsouthwest/events/251988668/",
     "location": {
         "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
@@ -11,5 +11,6 @@
         "name": "JUSTEAT Technology"
     },
     "org": "dotnetsouthwest",
+    "start_time": 1531848600,
     "title": "Blazor, a new framework for browser-based .NET apps by Steve Sanderson"
 }

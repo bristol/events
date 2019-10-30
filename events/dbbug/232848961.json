@@ -1,6 +1,6 @@
 {
-    "date": 1471975200,
     "description": "<p>We have had a lot of new members since moving to meetup.com, just over 150 now, but not so many events, so its time for a social meetup, so that some of those new members can get to know the Bristol Python community, and each other :-)</p> <p>We also aim to canvas for ideas as to what new members want from the group, and hopefully recruit some new speakers for the next get together, as a talks session.</p> <p>So three of the organisers should be in attendence - we are looking forward to catching up with some old faces and new Pythonistas.</p> ",
+    "end_time": 1471986000,
     "link": "https://www.meetup.com/python-dbbug/events/232848961/",
     "location": {
         "address": "58 Baldwin Street, BS1 1QW",
@@ -11,5 +11,6 @@
         "name": "Brewdog Bristol"
     },
     "org": "dbbug",
+    "start_time": 1471975200,
     "title": "Python social meetup."
 }

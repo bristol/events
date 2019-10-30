@@ -1,6 +1,6 @@
 {
-    "date": 1539711000,
     "description": "<p>Join us at Cookpad HQ in Bristol for more great talks. Expect another Ruby packed evening with great conversations, beers and bites to eat.</p> <p>Schedule</p> <p>18:30 - 19:30 - Arrive, grab a drink, some delicious locally supplied food and have a chat with fellow attendees.</p> <p>19:30 - Talk(s):</p> <p>1. Creating a scalable and maintainable advanced search with Elasticsearch and Virtus by @spyou</p> <p>Nic will introduce his experience with Elasticsearch at CookiesHQ</p> <p>2. Automate your home with Ruby by @karlentwistle</p> <p>In this talk Karl will be sharing his insights and learnings from implementing the HomeKit Accessory Protocol to create a HomeKit accessory in Ruby. HomeKit is a set of protocols and libraries to access devices for home automation. The talk explores some limitations of Rack, decoding binary data with Ruby and an overview of the HomeKit Accessory Protocol. Karl will also live demo a couple of different accessories.</p> <p>20:30-21:00 - Socialise and network.</p> ",
+    "end_time": 1539720000,
     "link": "https://www.meetup.com/south-west-ruby/events/254995539/",
     "location": {
         "address": "3 Broad Plain, BS2 0JP",
@@ -11,5 +11,6 @@
         "name": "Cookpad"
     },
     "org": "south-west-ruby",
+    "start_time": 1539711000,
     "title": "South West Ruby #10"
 }

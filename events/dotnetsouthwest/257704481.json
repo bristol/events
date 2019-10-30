@@ -1,6 +1,6 @@
 {
-    "date": 1548181800,
     "description": "<p>Git is now the de facto version control tool - most developers use it every day. But it's notoriously difficult to harness its full potential and most of us only end up scratching the surface of what it can do. In this talk, we dive under the covers of git, and take a look the surprisingly simple and elegant design hidden within. With this knowledge, we'll be better equipped to make sense of the sometimes enigmatic tooling. We'll then step back and a look at some techniques to harness the power of git and Powershell together to help us understand more about source code under git's control.</p> <p>About James World</p> <p>James World is an independent contractor with 25 years of professional software development experience. He worked at Microsoft as a software consultant for a decade, ran the Microsoft UK Performance &amp; Scalability Labs and has worked in the City of London on a range of trading systems.</p> <p>Over the last few years James has worked as a consultant improving software development at companies by leading the adoption of agile and software-development best-practices. He has also founded two successful tech start-ups. Always a coder, he makes sure never stray too far away from his latest programming project.</p> <p>Find him on twitter at @jamesw0rld and on LinkedIn at <a href=\"http://linkd.in/james-world\" class=\"linkified\">http://linkd.in/james-world</a> .</p> ",
+    "end_time": 1548189000,
     "link": "https://www.meetup.com/dotnetsouthwest/events/257704481/",
     "location": {
         "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
@@ -11,5 +11,6 @@
         "name": "JUSTEAT Technology"
     },
     "org": "dotnetsouthwest",
+    "start_time": 1548181800,
     "title": "Git Deep Dive with James World"
 }

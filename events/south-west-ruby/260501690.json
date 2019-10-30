@@ -1,8 +1,9 @@
 {
-    "date": 1555435800,
     "description": "<p>Join us at Cookpad HQ in Bristol, this month for South West Ruby social. Expect another Ruby packed evening with great conversations, beers and bites to eat.</p> <p>Schedule</p> <p>18:30 - 20:30 - Arrive, grab a drink, some delicious locally supplied food and have a chat with fellow attendees. This month we\u2019re having a social!</p> <p>Slack</p> <p>If you like to join us on Slack please join <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> <p>Notices</p> <p>Please let us know in the comments of the event if you have any specific food allergies, dietary or access requirements so we can be sure to best accommodate everyone!</p> ",
+    "end_time": 1555443000,
     "link": "https://www.meetup.com/south-west-ruby/events/260501690/",
     "location": null,
     "org": "south-west-ruby",
+    "start_time": 1555435800,
     "title": "South West Ruby #16 - Social"
 }

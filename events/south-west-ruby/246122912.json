@@ -1,6 +1,6 @@
 {
-    "date": 1521570600,
     "description": "<p>It's going to be a Ruby bonanza the week in the run up to Bath Ruby (<a href=\"https://2018.bathruby.uk\" class=\"linkified\">https://2018.bathruby.uk</a>), so we'll start the fun at Cookpad and Great Western Rails on the 20th with talks, great beers and food, and of course networking with the South West's finest. We hope to have a few special guests in town that week too!</p> <p>Speakers</p> <p>#1 Rails Database Tuning @lchin<br/>Leonard is an engineering manager and occasional web developer at Cookpad. Recently, he\u2019s been spending his non-manager time improving the performance of the Cookpad Rails app.</p> <p>#2 Ruby on Rails: What's coming in 5.2 and 6.0 @sikachu<br/>The next minor version of Ruby on Rails is right around the corner! Let's look at those new features that are coming in the next few weeks to Rails 5.2, and sneak peek into those new features that will come in Rails 6.0, the next major release of Rails.</p> <p>Prem (@sikachu) is a Ruby Web Developer at Cookpad. He started using Ruby on Rails since 2007 and started contributing back to open source projects in 2009. Since then, he has given a few talks at several conferences around the world.</p> ",
+    "end_time": 1521577800,
     "link": "https://www.meetup.com/south-west-ruby/events/246122912/",
     "location": {
         "address": "3 Broad Plain, BS2 0JP",
@@ -11,5 +11,6 @@
         "name": "Cookpad"
     },
     "org": "south-west-ruby",
+    "start_time": 1521570600,
     "title": "Great Western Rails #3"
 }

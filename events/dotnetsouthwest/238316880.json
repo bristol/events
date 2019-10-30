@@ -1,6 +1,6 @@
 {
-    "date": 1490722200,
     "description": "<p><b>Feature talk: Thread Safety - it's more than just locking</b></p> <p>Whenever you have code running on multiple threads the possibility for data corruption raises its head. In this talk we will deep dive into the issues and look at various primitives and techniques that can help find that delicate balance between achieving safety without killing throughput. We will discuss how you chose the right approach between the options the .NET framework gives you and we\u2019ll also step outside of the primitives to introduce lock free algorithms.</p> <p><b>About Richard Blewett:</b></p> <p>Richard Blewett is a founder of Rock Solid Knowledge. He has been a professional software developer, trainer and conference speaker for many years and is the co-author of Pro Asynchronous Programming with .NET</p> ",
+    "end_time": 1490733000,
     "link": "https://www.meetup.com/dotnetsouthwest/events/238316880/",
     "location": {
         "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
@@ -11,5 +11,6 @@
         "name": "JUSTEAT Technology"
     },
     "org": "dotnetsouthwest",
+    "start_time": 1490722200,
     "title": "Thread Safety - it's more than just locking"
 }

@@ -1,8 +1,9 @@
 {
-    "date": 1476207000,
     "description": "<p>Bring your laptop with:</p> <p>\u2022\u00a0Golang</p> <p>\u2022\u00a0Git</p> <p>\u2022\u00a0Atom Editor</p> ",
+    "end_time": 1476217800,
     "link": "https://www.meetup.com/golang-bristol/events/psshzlyvnbpb/",
     "location": null,
     "org": "golang",
+    "start_time": 1476207000,
     "title": "Let's hack a RESTful webservice, bring your laptop."
 }

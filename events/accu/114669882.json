@@ -1,6 +1,6 @@
 {
-    "date": 1371664800,
     "description": "<p><b>Comfortable Concurrency</b></p> <p><i>Reflections on what is comfortable and uncomfortable about developing concurrent software.</i></p> <p>What makes for \"comfortable software\", that is to say software that is comfortable to work with? In this talk, Dominic Robinson will take a look at different models of concurrency, their applicability and impact on your comfort as a developer.</p> <p>Topics you will learn about include:</p> <p>Concurrency vs parallelism. How do you make working with concurrency \"comfortable\". Message passing concurrency, or \"Atomics considered harmful\". We will take a look at one implementation of message passing concurrency in C++ in a distributed fault tolerant application, the lessons and scars from the last 5 years, or \"<i>they are coming for me with pitchforks and torches</i>\".</p> <p>influences and motivation DSLs in C++ how do we test this thing? how do we debug this thing? \u00a0</p> <p><b>About our speaker:</b></p> <p><a href=\"http://photos1.meetupstatic.com/photos/event/e/9/7/2/event_236459762.jpegDominic\" class=\"linkified\">http://photos1.meetupstatic.com/photos/event/e/9/7/2/event_236459762.jpegDominic</a> has mis-spent the last 27 years developing video games, flight simulators and software development tools in various assembly languages, C and C++. \u00a0He founded and sold a video games company during the .com boom and is now a principal engineer at SN Systems, the subsidiary of Sony Computer Entertainment that is responsible for the development tools for the Sony PlayStation platforms. \u00a0He has spent the last 5 years developing a fault tolerant, distributed build accelerator in C++ in the style of Erlang.</p> <p>\u00a0</p> <p>\u00a0</p> ",
+    "end_time": 1371675600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/114669882/",
     "location": {
         "address": "2 Lower Castle Street",
@@ -11,5 +11,6 @@
         "name": "Bristol Marriott Hotel City Centre"
     },
     "org": "accu",
+    "start_time": 1371664800,
     "title": "Meeting #7: Comfortable Concurrency with Dominic Robinson"
 }

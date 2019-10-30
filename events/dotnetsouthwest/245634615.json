@@ -1,6 +1,6 @@
 {
-    "date": 1513103400,
     "description": "<p>Securing a web application is a challenge. The internet is awash with malicious traffic and web applications are globally accessible. Don\u2019t make it easy for them and the baddies will move on and find someone else to annoy.</p> <p>We\u2019ll look at the risks facing web applications, the basic steps you can take so that you don\u2019t make yourself a target and the things you should do to avoid becoming a data breach statistic. We\u2019ll also look at lessons that can be learnt from mistakes that others have made.</p> <p>We\u2019ll demo some of the techniques and tools in both attack and defence with examples for any web application developer.</p> <p>About Robin:</p> <p>Robin is a developer/technical architect working for ByBox, a supply chain technology company in the UK.</p> <p>He\u2019s passionate about development, continuous improvement and all things security (he's a Certified Ethical Hacker). With one foot in Dev and another in Ops, he\u2019s as happy in C# as in PowerShell, in Visual Studio or Hyper-V, in Javascript or Docker.</p> <p>Other passions include snowboarding, cycling and gin (but not together). He blogs at <a href=\"https://t.co/pX8H1HsQuS\"><a href=\"http://robinminto.com\" class=\"linkified\">http://robinminto.com</a></a>.</p> ",
+    "end_time": 1513114200,
     "link": "https://www.meetup.com/dotnetsouthwest/events/245634615/",
     "location": {
         "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
@@ -11,5 +11,6 @@
         "name": "JUSTEAT Technology"
     },
     "org": "dotnetsouthwest",
+    "start_time": 1513103400,
     "title": "#FAIL - Lessons from infosec incidents by Robin Minto"
 }

@@ -1,6 +1,6 @@
 {
-    "date": 1456678800,
     "description": "<p>Things have been a bit quiet lately, so we're having an informal gathering to welcome any new members.</p> <p>We'll also have a chat about how the IPB campaigning is going.</p> ",
+    "end_time": 1456686000,
     "link": "https://www.meetup.com/ORG-Bristol/events/229049663/",
     "location": {
         "address": "108A Stokes Croft",
@@ -11,5 +11,6 @@
         "name": "The Arts House"
     },
     "org": "org",
+    "start_time": 1456678800,
     "title": "Social"
 }

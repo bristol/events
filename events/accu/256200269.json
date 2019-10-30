@@ -1,6 +1,6 @@
 {
-    "date": 1543950000,
     "description": "<p>I am deeply thrilled to close the year out with Bill Buchan who will be giving a talk on how to set up a Wireless ISP. What started as a conversation over a pint in the pub escalated in to a sizeable WISp in North Scotland.</p> <p>So please do join us for an evening that will be full of humour, and some amusing tales. And afterwards, join us at the pub, where the conversation will continue.</p> <p>Synopsis</p> <p>\u200b\u200bOn this talk, Bill Buchan will talk about the technology used and problems faced building a Wireless Internet Service Provider (WISP) - delivering cost effective rural internet. We shall walk through the nuts and bolts of the antenna, coverage, mapping, routing and traffic analysis.</p> <p>No C++ was harmed during this operation, but hopefully some Geolocation can get a good thrashing.</p> <p>Speaker Bio</p> <p>Bill is the owner, technology leader, main investor and jack-of-all-trades at <a href=\"https://www.Marykirk.com\" class=\"linkified\">https://www.Marykirk.com</a> and services 500+ rural customers over 300 very hilly square miles in rural Scotland. Bill has a long and somewhat exciting career in IT, working over most of Europe for such firms as IBM, Phillips, BAT, RBS, Chevron, and now BT. Oh, the irony.</p> ",
+    "end_time": 1543957200,
     "link": "https://www.meetup.com/ACCU-Bristol/events/256200269/",
     "location": {
         "address": "2 Lower Castle Street",
@@ -11,5 +11,6 @@
         "name": "Bristol Marriott Hotel City Centre"
     },
     "org": "accu",
+    "start_time": 1543950000,
     "title": "Careless WISPa - Bill Buchan"
 }

@@ -1,6 +1,6 @@
 {
-    "date": 1569430800,
     "description": "<p>We have a few conference speakers gracing our humble local tech meetup this month so not to be missed!</p> <p>--- Special thanks to Forgerock for hosting the meetup this month ---</p> <p>18:00 - arrive, networking, beer, pizza</p> <p>18:20 - Craig Watson will give a talk on 'Deep-Dive: Cloud-Native Masterless Puppet, with Bolt and PuppetDB'</p> <p>Summary:</p> <p>Building, managing and scaling a Puppet master in a largely ephemeral cloud environment can be quite a daunting prospect, with certificate management, node lifecycles and the usual high-availability points to consider. In this session, we will deep-dive into how ForgeRock\u2019s IT team are using masterless Puppet together with Bolt and PuppetDB to create a truly elastic cloud-native Puppet environment. This approach has enabled us to scale out our infrastructure in the cloud from a standing start with minimal ongoing engineering overhead, and it can help you too.</p> <p>Background:</p> <p>Craig is a Senior Systems Engineer in ForgeRock\u2019s IT Infrastructure team, with systems administration experience spanning consultancy, enterprise and start-up organisations, including public cloud environments on Google Cloud and Amazon Web Services at global scale.</p> <p>19:00 - Josh and Julia will give a talk on \"Splunk in containers\"</p> <p>Brief:</p> <p>Deploying production ready cloud monitoring solutions for a wide range of use cases whether that be security or service monitoring can be daunting task. In this talk, Josh and Julia will be providing insights into how they rapidly deployed a production splunk deployment into Amazon Web Services through combining the power of open source with a range of AWS services.</p> <p>Background:</p> <p>Julia is a Senior DevOps Engineer at the Ministry of Defence working on deploying enterprise applications into public cloud environments, with a primary focus on infrastrcuture. Josh is a Senior Data Scientist at the Minstry of Defence who has a keen interest in all things data.</p> ",
+    "end_time": 1569438000,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/264776739/",
     "location": {
         "address": "Broad Quay",
@@ -11,5 +11,6 @@
         "name": "Broad Quay House"
     },
     "org": "Cloud-Native-DevOps",
+    "start_time": 1569430800,
     "title": "DevOps talks - Cloud Native masterless Puppet | Splunk in containers"
 }

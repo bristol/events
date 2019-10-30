@@ -1,6 +1,6 @@
 {
-    "date": 1553018400,
     "description": "<p>We've got another 2 great talks for you. Martin Bell on 'something about graph databases', and Annette Allen on 'developing SQL code to keep a DBA happy'. More info below.</p> <p>Annette Allen; Developing SQL Code to keep a DBA happy:</p> <p>In this hour long session we will attempt to include lots of advice and guidance on how to write code that will easily get approved by your DBA prior to release to production. We\u2019ll cover Unit tests, Continuous Integration, Source Control and some coding best practice.<br/>This will be quite a fast paced session but will aim to give you a taster of what you should include to increase the acceptance rate of your code by the approvers and how to ensure your code does what it should and that future changes don\u2019t break it.</p> <p>Martin Bell; Something about Graph Databases:</p> <p>Relational databases are hopefully the reliable every day thing we earn our livings from. They are what we are familiar with, so why did Microsoft throw a curve ball into the release of SQL Server 2017 by adding some features usually found in graph database?</p> <p>What are graph databases?</p> <p>What are they good for?</p> <p>Will these new features be any use?</p> <p>Should I go back and rewrite my code to use them?</p> <p>This talk aims to answer all these questions, to help you decide.</p> <p>BIO:</p> <p>Martin Bell has been contracting since 1986 and started working with SQL Server around 1998. As a MVP he was involved with Microsoft roadshows, conferences and product launches as well as being one of the founding organisers of SQLBits and SQL Relay. Until recently he was also the organiser of the Leeds SQL Server User Group, but now his organisational skills are utilised helping out and organising running events.</p> <p>The SQL Bristol meetup is informal and friendly, usually around 40 people. It's a great opportunity to network with folk either interested in, or who work with SQL, and learn something new from our great speakers. We also have free pizza and drinks from our kind sponsors Just Eat. Afterwards some of us head to a local pub for a bit more relaxing and chatting. Feel free to come along.</p> <p>Look out for organisers with an orange lanyard if you need any info (or just for a chat!). Some of us might be wearing SQL Bristol t shirts.</p> <p>If you're a twitterer you can find us at <a href=\"https://twitter.com/SQLBristol\" class=\"linkified\">https://twitter.com/SQLBristol</a> and please do message us or comment below if you have any questions in advance.</p> ",
+    "end_time": 1553029200,
     "link": "https://www.meetup.com/DataBristol/events/257685990/",
     "location": {
         "address": "1 Rivergate",
@@ -11,5 +11,6 @@
         "name": "Ovo Energy"
     },
     "org": "databristol",
+    "start_time": 1553018400,
     "title": "Graph Databases and SQL Coding to keep a DBA happy"
 }

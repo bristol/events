@@ -1,6 +1,6 @@
 {
-    "date": 1553797800,
     "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>Join us again for another round of go-based fun, food \ud83c\udf55 and drinks \ud83c\udf7b.</p> <p>This month we have two great speakers!</p> <p>\ud83d\udde3 Micheal McLoughlin - x86 Assembly Generation with Go</p> <p>Michael is a performance-obsessed Gopher, currently making self-driving car software faster at Uber Advanced Technologies Group.</p> <p>\ud83d\udde3 Alex Trelore - GRPC Middleware</p> <p>Alex is a backend engineer at the Bristol-based fintech startup Tumelo.</p> <p>\ud83c\udf7a As always, afterwards we will be heading to the pub for a drink.</p> <p>\ud83d\udce3 We are looking for help with organising! If you or anyone you know would like to help, give us a shout!</p> <p>\ud83d\udce3 We are looking for speakers! If you or anyone you know would like to speak, please let us know! We welcome all topics, we can even help you with ideas!</p> <p>\ud83d\udce3Help us grow! JetBrains offers free licences to meet-ups with attendance greater than 30. If we can reach this, we will apply and be handing it out as a prize at events.</p> <p>Thank you to everyone who was involved in organising, our hosts and sponsors:</p> <p>\ud83d\udc4fSponsor - SR2<br/>\ud83d\udccdHost - Brightpearl</p> ",
+    "end_time": 1553805000,
     "link": "https://www.meetup.com/golang-bristol/events/259526368/",
     "location": {
         "address": "Bond St",
@@ -11,5 +11,6 @@
         "name": "Brightpearl"
     },
     "org": "golang",
+    "start_time": 1553797800,
     "title": "GO GO GO"
 }

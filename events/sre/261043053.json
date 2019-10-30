@@ -1,6 +1,6 @@
 {
-    "date": 1558546200,
     "description": "<p>Our second Bristol Site Reliability Engineering event of 2019 will be hosted at Just Eat's Bristol offices - come along for some great SRE-focused talks, pizzas and beer!</p> <p>**Schedule:</p> <p>18:30:<br/>Arrive, grab a beer, pizza and chat</p> <p>19:00-19:40:<br/>// Chris Evans - Platform Team Lead, Monzo Bank<br/>* Managing incidents with 'Monzo Incident'<br/>---<br/>Dealing with incidents can be stressful. On top of dealing with the issue at hand, on-callers are often responsible for handling internal and external comms, reporting, and coordinating the efforts of other engineers. To reduce the pressure and cognitive burden on engineers, Monzo built a tool to help coordinate, report and more quickly resolve incidents. This talk is a walk through how we manage incidents at Monzo, and how we use the tool to make incidents awesome.</p> <p><a href=\"https://monzo.com/\" class=\"linkified\">https://monzo.com/</a><br/>---</p> <p>19:40-19:45:<br/>Quick refreshments break before our second talk<br/>---</p> <p>19:45-20:30:<br/>// Stephen Callear - Technology Manager, Just Eat<br/>* Know your limits - Understanding bottlenecks in production</p> <p>Understanding the complex interactions between software components in a distributed architecture is hard. Understanding how these interactions evolve at scale and diagnosing performance bottlenecks can be even harder. At Just Eat we place hundreds of thousands of test orders each day to identify potential performance issues and ensure confidence ahead of the peak period. This talk discusses the what, the how and, most importantly, the why of load testing at Just Eat.</p> <p><a href=\"https://www.just-eat.com\" class=\"linkified\">https://www.just-eat.com</a><br/>---</p> <p>20:30-21:00:<br/>More beer, pizza and a chance to network</p> ",
+    "end_time": 1558555200,
     "link": "https://www.meetup.com/Bristol-SRE/events/261043053/",
     "location": {
         "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
@@ -11,5 +11,6 @@
         "name": "JUST EAT"
     },
     "org": "sre",
+    "start_time": 1558546200,
     "title": "#5: Managing Incidents at Monzo // Understanding bottlenecks in production"
 }

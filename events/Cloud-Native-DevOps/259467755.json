@@ -1,6 +1,6 @@
 {
-    "date": 1553713200,
     "description": "<p>19:00 - arrive, food, drink, networking</p> <p>19:20 - first talk from Emma Button on 'Growing DevOps Teams Who Can Fail Without Fear'.</p> <p>- Talk summary: In a world where we can deploy software and infrastructure changes within seconds, it\u2019s reasonably easy to break stuff. When the inevitable bad stuff happens, humans tend to look for someone to blame. Research has shown that the most productive teams are those who don\u2019t have to fear blame. On high-performing teams, people feel safe taking risks, making mistakes, and learning from them \u2013 so how do you build an environment where it\u2019s OK to fail? In this talk we\u2019ll explore the factors that contribute to psychological safety on a delivery team. We\u2019ll look at some of the steps that leaders and team members can take to foster a culture of blameless failure that encourages innovation and collaboration. We\u2019ll look at soft-skills, CI/CD practices, retrospective processes and tooling that can help you to build a culture of trust and ownership within your own team.</p> <p>- Bio:</p> <p>Emma is an agile software delivery specialist with 15 years\u2019 experience building and deploying enterprise software. In recent years, Emma has specialised in the cultural, technology and process changes needed to grow high-performing software &amp; operations teams responsible for building and maintaining high-throughput, low-latency distributed applications. Emma leads R&amp;D teams going through cultural change; inspiring team members to transition from traditional working methods, through agile and lean practices and into the DevOps mindset.</p> <p>20:10 - second talk from Pi Unnerup on 'Converting your Cluster to GitOps'</p> <p>- Abstract: Weave Flux and the GitOps workflow are currently permeating the DevOps space. But the migration of a CI-driven Kubernetes project to a Git-driven one can be a daunting task. This talk takes you through a tangible migration strategy with real-world examples, pitfalls and a model of what your actual GitOps infrastructure could look like.</p> <p>- Bio:</p> <p>Pi Unnerup (@PiUnnerup, GH pi-unnerup) is an Infrastructure Engineer for ControlPlane, configuring secure end-to-end pipelines in containerised environments. She has contributed to projects securing high impact products, and worked on critical national infrastructure for the UK Home Office.</p> ",
+    "end_time": 1553720400,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/259467755/",
     "location": {
         "address": "1 Victoria St",
@@ -11,5 +11,6 @@
         "name": "Runway East Bristol"
     },
     "org": "Cloud-Native-DevOps",
+    "start_time": 1553713200,
     "title": "Talks - 'Growing DevOps Teams Who Can Fail Without Fear' & GitOps"
 }

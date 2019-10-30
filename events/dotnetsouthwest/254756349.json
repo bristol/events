@@ -1,6 +1,6 @@
 {
-    "date": 1537896600,
     "description": "<p>Description coming soon</p> ",
+    "end_time": 1537903800,
     "link": "https://www.meetup.com/dotnetsouthwest/events/254756349/",
     "location": {
         "address": "Broad Quay House, Broad Quay, BS1 4DJ",
@@ -11,5 +11,6 @@
         "name": "JUSTEAT Technology"
     },
     "org": "dotnetsouthwest",
+    "start_time": 1537896600,
     "title": ".NET Memory Management, C# 7.2 and Span<T>"
 }

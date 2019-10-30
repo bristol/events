@@ -1,6 +1,6 @@
 {
-    "date": 1559066400,
     "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>Join us again for another round of go-based fun, food \ud83c\udf55 and drinks \ud83c\udf7b.</p> <p>This month we are going to have great speakers, again! We also be changing things up slightly! There will be a quick GO quiz to get us started!</p> <p>\ud83d\udde3 Ben King (@benfking) - ProtoTS</p> <p>\"I love GRPC. Proto files define the endpoints, are self-documenting, and the code generation just works! Unfortunately the story in the frontend is slightly more complicated. ProtoTS is an open-source tool built in Go that aims to bridge the gap and brings awesome code generation to our front-end.\"</p> <p>\ud83d\udde3 Max Huxtable (@matthewhuxtable) - Personalising Education with Go</p> <p>Matt is a Senior Site Reliability Engineer at Sparx, an Exeter-based education technology company which works with secondary schools to improve outcomes in Mathematics. The Sparx platform supports thousands of students and their parents &amp; teachers on a weekly basis in setting, marking and analysing work targeted specifically to the needs of each learner. Over the last two years, the Sparx tech stack underwent a major rewrite from Python to Go, which coincided with a migration onto Google Cloud Platform and adoption of a slew of new technologies: Kubernetes, GRPC, and many others.</p> <p>This talk explores the role technology can play in personalising education, the power of the Go ecosystem in supporting these efforts, and some of the lessons learnt along the way. Matt founded the SRE team at Sparx, where he principally focusses on ensuring the platform and its engineering team has the tools, technology and processes it needs to bring Sparx to the masses. When he's not hacking on Go or convincing Kubernetes who's really at the helm, you can find him experimenting with molecular gastronomy, being fascinated about aviation, or dreaming about one day being a qualified skydiver.</p> <p>\ud83c\udf7a As always, afterwards we will be heading to the pub for a drink.</p> <p>\ud83d\udce3 We are looking for help with organising! If you or anyone you know would like to help, give us a shout!</p> <p>\ud83d\udce3 We are looking for speakers! If you or anyone you know would like to speak, please let us know! We welcome all topics, we can even help you with ideas!</p> <p>\ud83d\udce3Help us grow! JetBrains offers free licences to meet-ups with attendance greater than 30. If we can reach this, we will apply and be handing it out as a prize at events.</p> ",
+    "end_time": 1559073600,
     "link": "https://www.meetup.com/golang-bristol/events/261290334/",
     "location": {
         "address": "1 Temple Way",
@@ -11,5 +11,6 @@
         "name": "DeskLodge Old Market"
     },
     "org": "golang",
+    "start_time": 1559066400,
     "title": "MAY Go - Personalising Education with Go & ProtoTS"
 }
