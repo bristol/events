@@ -1,0 +1,15 @@
+{
+    "date": 1507881600,
+    "description": "<p>UPDATE: Registration Open (required - places going fast). \u00a0You will need to register your place here: -\u00a0</p> <p><a href=\"https://www.eventbrite.co.uk/e/sqlrelay-2017-bristol-registration-36994860624\"><a href=\"https://www.eventbrite.co.uk/e/sqlrelay-2017-bristol-registration-36994860624\" class=\"linkified\">https://www.eventbrite.co.uk/e/sqlrelay-2017-bristol-registration-36994860624</a></a></p> <p>Sessions Confirmed So Far: -</p> <p><b>An Introduction to SQL Server &amp; Containers</b> Andrew Pruski</p> <p><b>Enterprise Power BI</b> Bent Nissen Pedersen</p> <p><b>Continuous Delivery on the Azure Data Platform</b> Gavin Campbell</p> <p><b>Experts should work with facts, not guestimations \u2013 how you learn to love large scale SQL Server con</b> Jani Savolainen</p> <p><b>PowerBI your way to understand your SQL Server Estate</b> Neil Hambly</p> <p><b>Azure Data Lake - The Services. The SQL. The Sharp</b> Paul Andrew</p> <p><b>In-database Predictive Analytics with SQL Server 2017</b> Sacha Tomey</p> <p><b>Modern Data Warehousing - A template for Lambda BI in Azure</b> Simon Whiteley, Terry McCann</p> <p><b>Build your first bot \u2013 no code required!</b> Steph Locke</p> <p><b>Real-Time Analytics: OLAP &amp; OLTP in the mix!</b> Stijn Wynants</p> <p><b>DevOps 101 for the IT Pro</b> Alex Yates, Rob Sewell</p> <p><b>Database in the Cloud for Early Adopters</b> Tobiasz Koprowski</p> <p>For more details please here:\u00a0<a href=\"https://www.sqlrelay.co.uk/\"><a href=\"https://www.sqlrelay.co.uk/\" class=\"linkified\">https://www.sqlrelay.co.uk/</a></a></p> ",
+    "link": "https://www.meetup.com/DataBristol/events/240347062/",
+    "location": {
+        "address": "Prince Street, BS1 4QF",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45052719116211,
+        "longitude": -2.5970020294189453,
+        "name": "The Bristol Hotel"
+    },
+    "org": "databristol",
+    "title": "SQL Relay 2017: Bristol (October 2017)"
+}

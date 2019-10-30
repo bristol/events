@@ -1,0 +1,15 @@
+{
+    "date": 1558458000,
+    "description": "<p>This meetup will host our own members doing short talks between 5 and 20 minutes on a variety of topics.</p> <p>***** If you'd like to talk, please let us know by 30th April and we'll schedule you in! *****</p> <p>So far we have;<br/>Justin Bird - DevOps with Redgate<br/>John Kirby - An Intro to Kimball Star Schema Data Warehouses<br/>Niall Langley - Building Developer Workstations with Chocolatey<br/>James Yarrow - Backup Basics<br/>Dom Winsor - Getting Started with data technologies</p> <p>Please feel encouraged to do a talk - it's a friendly bunch. You don't even need a powerpoint... it could just be sharing something interesting you've done or a problem you've solved.</p> <p>The SQL Bristol meetup is informal and friendly, usually around 40 people. It's a great opportunity to network with folk either interested in, or who work with SQL, and learn something new from our great speakers. We also have free pizza and drinks from our kind sponsors Just Eat. Afterwards some of us head to a local pub for a bit more relaxing and chatting. Feel free to come along.</p> <p>Look out for organisers with an orange lanyard if you need any info (or just for a chat!). Some of us might be wearing SQL Bristol t shirts.</p> <p>If you're a twitterer you can find us at <a href=\"https://twitter.com/SQLBristol\" class=\"linkified\">https://twitter.com/SQLBristol</a> and please do message us or comment below if you have any questions in advance.</p> <p>***** If you have any requirements for vegan or gluten-free then please contact us *****</p> ",
+    "link": "https://www.meetup.com/DataBristol/events/257686026/",
+    "location": {
+        "address": "1 Rivergate",
+        "city": "Bristol BS1 6ED ",
+        "country": "gb",
+        "latitude": 51.451011657714844,
+        "longitude": -2.583268880844116,
+        "name": "Ovo Energy"
+    },
+    "org": "databristol",
+    "title": "Member Short Talks"
+}

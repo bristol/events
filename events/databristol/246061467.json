@@ -1,0 +1,15 @@
+{
+    "date": 1519149600,
+    "description": "<p>Talk #1: Richard Munn</p> <p>-- Apache Cassandra for the SQL Server DBA. --</p> <p>Open source alternatives to the SQL Server data platform are becoming more and more popular in large enterprises.</p> <p>Today's marketplace means that your next project may be considering moving away from 'traditional' relational data stores - indeed, you may have already been involved in one.</p> <p>This session will help you understand the Apache Cassandra eco-system, and can help you evaluate or implement a complimentary DBMS to add to your data platform toolkit.</p> <p>-- Schedule --</p> <p>18:00 - Pizza, Beer &amp; Social<br/>18:30 - Main Speaker - Richard Munn<br/>19:25 - Wrap up by the team<br/>19:45 - Networking drinks at No.1 Harbourside</p> <p>Looking forward to seeing you all there!</p> ",
+    "link": "https://www.meetup.com/DataBristol/events/246061467/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "databristol",
+    "title": "SQL-Bristol Evening Session February 2018"
+}

@@ -1,0 +1,15 @@
+{
+    "date": 1497978000,
+    "description": "<p><b>Chris Webb</b></p> <p><b>Introduction to Azure Analysis Services</b> (Business Intelligence)</p> <p>With the release of Azure Analysis Services we have, at long last, got a crucial piece of the Microsoft BI stack available in the cloud. Azure Analysis Services is a SaaS version of Analysis Services, and in this session you\u2019ll learn about:</p> <p>\u2022\u00a0What Azure Analysis Services is</p> <p>\u2022\u00a0When you should use it</p> <p>\u2022\u00a0Configuring Azure Analysis Services in the Azure portal\u00a0</p> <p>\u2022\u00a0Developing and deploying Azure Analysis Services models\u00a0</p> <p>\u2022\u00a0Building reports in Excel and Power BI using Azure Analysis Services\u00a0</p> <p>\u2022\u00a0Connecting to on-premises data sources from Azure Analysis Services\u00a0</p> <p>\u2022\u00a0Automation with PowerShell\u00a0</p> <p>\u2022\u00a0Integration with other cloud BI services\u00a0</p> <p>\u2022\u00a0Sizing and pricing\u00a0</p> <p>\u2022\u00a0Monitoring</p> <p><b>Prathy Kamasani</b></p> <p><b>What's new in SQL Server Reporting Services</b>\u00a0(Business Intelligence)</p> <p>After years of abandon, Microsoft exhibited great love towards SSRS with SQL Server 2016 release. But it doesn't stop there. There are some exciting features in the preview for the next release.\u00a0</p> <p>In this session, Prathy will show top features of SSRS 2016 and vNext. Various ways of designing and publishing reports to SSRS web portal using SQL Server Data Tools (SSDT), Report Builder, SQL Server Mobile Report Publisher and Power BI (Technical Preview of Power BI reports in SQL Server Reporting Services)</p> ",
+    "link": "https://www.meetup.com/DataBristol/events/239426105/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "databristol",
+    "title": "SQL-Bristol Evening Session (June 2017)"
+}
