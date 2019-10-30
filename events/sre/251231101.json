@@ -1,0 +1,15 @@
+{
+    "date": 1531418400,
+    "description": "<p>Welcome to the first Bristol Site Reliability Engineering meetup!</p> <p>We'll be hosting the event at OVO Energy's Rivergate office, based near to Bristol Temple Meads (beer and pizza will be provided!)</p> <p>**Schedule:</p> <p>19:00 Arrive, grab a beer, pizza and chat</p> <p>19:30-20:00: Tom Cammann (Production Engineering Manager, OVO Energy) will talk about OVO's approach to SRE, their SRE journey to date, some of the challenges/hurdles that were overcome along the way</p> <p>20:00-20:30: Tim Berry, SRE Team Lead at Claranet will give a talk on 'Infrastructure as Code with Terraform: Codifying your infrastructure'; bring the benefits of configuration management to your platform layer, with better quality control, predictable deployments and even shiny pipelines. This talk will give a brief introduction to Terraform, a vendor-neutral declarative tool that defines your infrastructure as code.</p> <p>20:30-21:00 - more beer, pizza and a chance to network</p> ",
+    "link": "https://www.meetup.com/Bristol-SRE/events/251231101/",
+    "location": {
+        "address": "1 Rivergate, BS1 6ED",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45143127441406,
+        "longitude": -2.5967910289764404,
+        "name": "Ovo Energy"
+    },
+    "org": "sre",
+    "title": "SRE Bristol - the first event"
+}

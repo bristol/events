@@ -1,0 +1,15 @@
+{
+    "date": 1458153000,
+    "description": "<p>Launch meeting on the 16th March for the Python Django CMS - Wagtail.\u00a0</p> <p>See the new Wagtail-specific meetup at\u00a0</p> <p><a href=\"http://www.meetup.com/Bristol-Wagtail-Users-and-Developers/\" class=\"linkified\">http://www.meetup.com/Bristol-Wagtail-Users-and-Developers/</a></p> <p>We will have four speakers give lightning talks - two of which from Torchbox folks about Wagtail.</p> <p>We'll take a quick QA session to find out what people want from a Wagtail meet up.</p> <p>We'll also plan the next Python Django meetup ... which is likely to be at Oracle's offices in Bristol in May sometime.</p> <p>Then we can head off to the pub!</p> <p>(Please sign up on the Wagtail site too - Gary)</p> ",
+    "link": "https://www.meetup.com/python-dbbug/events/229286265/",
+    "location": {
+        "address": "14-16 Wilson Place",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.4616584777832,
+        "longitude": -2.5815370082855225,
+        "name": "Omni Digital Office"
+    },
+    "org": "dbbug",
+    "title": "Django based CMS - Wagtail kick off meeting"
+}

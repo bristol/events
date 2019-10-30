@@ -1,0 +1,15 @@
+{
+    "date": 1536859800,
+    "description": "<p>We'll be hosting our second Site Reliability Engineering event at the Just Eat offices in Bristol - beer and pizza will be provided!</p> <p>**Schedule:</p> <p>18:30:<br/>Arrive, grab a beer, pizza and chat</p> <p>19:00-19:30:<br/>// Nick Walters, Senior Technology Manager - SRE - Operations at Just Eat</p> <p>Nick will talk about how Just Eat do SRE - covering the culture they have around operating production, and how they monitor the services they run there.</p> <p>19:30-20:15:<br/>// Steven Armstrong, Principle Automation Engineer at Just Eat</p> <p>Steven will talk about creating continuous delivery pipelines - covering some of the pros and cons of the open source tooling available to do this (including Jenkins, GoCD, Spinnaker and Concourse CI) - and follow up with a live demo on the new Just Eat deployment pipeline.</p> <p>20:15-21:00:<br/>More beer, pizza and a chance to network</p> ",
+    "link": "https://www.meetup.com/Bristol-SRE/events/254064877/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "sre",
+    "title": "#2: SRE culture at Just Eat / continuous delivery pipelines"
+}

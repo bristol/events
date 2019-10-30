@@ -1,0 +1,8 @@
+{
+    "date": 1489516200,
+    "description": "<p>Let's take our example Beer API and write it in GraphQL.\u00a0</p> <p>If anyone has any experience of using GraphQL and would be up for leading this session, get in touch! Otherwise I've got a month to brush up on that :D</p> <p>See you there!</p> <p>Kat</p> <p>Bring your laptop with:</p> <p>\u2022\u00a0Golang</p> <p>\u2022\u00a0Git</p> <p>\u2022\u00a0Atom / VCode Editor (or any other go editor of your choice)</p> <p>Check out our REST-ish implementation of the Beer API<a href=\"https://github.com/golang-bristol/\">\u00a0on github</a>!</p> ",
+    "link": "https://www.meetup.com/golang-bristol/events/psshzlywfbsb/",
+    "location": null,
+    "org": "golang",
+    "title": "Let's look into GraphQL - bring your laptop!"
+}

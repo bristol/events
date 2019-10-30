@@ -1,0 +1,8 @@
+{
+    "id": "golang",
+    "name": "golang Bristol++",
+    "homepage": "https://www.meetup.com/golang-bristol/",
+    "meetup": {
+        "urlname": "golang-bristol"
+    }
+}

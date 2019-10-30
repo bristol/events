@@ -1,0 +1,15 @@
+{
+    "date": 1508436000,
+    "description": "<p>Its been some time since the last talks meetup.</p> <p>It would be good to see some new members of the group and plan the next talks session ... or open to suggestions of other Python related events.</p> <p>Meet at 7 pm in Wild Beer along from the M Shed on the docks on 19th Oct 2017</p> ",
+    "link": "https://www.meetup.com/python-dbbug/events/243704175/",
+    "location": {
+        "address": "Wapping Wharf",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.446685791015625,
+        "longitude": -2.599458932876587,
+        "name": "The Wild Beer Co"
+    },
+    "org": "dbbug",
+    "title": "A Python social meetup up in Wild Beer, Bristol"
+}

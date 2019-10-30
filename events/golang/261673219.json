@@ -1,0 +1,15 @@
+{
+    "date": 1561485600,
+    "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>More talks, more fun, more food \ud83c\udf55 and more drinks \ud83c\udf7b. You Gophers know the drill!</p> <p>Speakers:</p> <p>\ud83d\udde3 Awn Umar - Protecting sensitive information in memory with MemGuard</p> <p>Awn will introduce us to the act of protecting sensitive information in memory, going over naive solutions and their problems, and then the solution implemented in MemGuard. How it works internally, and how to use it.</p> <p>Awn is a student at UoB and codes Go in his free time, mainly<br/>low-level and security stuff.</p> <p>\ud83d\udde3 \ufeffHumphrey Shotton - GameBoy Emulation in Go</p> <p>Over the past two years Humphrey has been coding GoBoy: a Nintendo GameBoy Color emulator written in Go from scratch. This talk will look at how a GameBoy emulator works, taking a dive into the GameBoy internals, approaches and learnings when emulating it using Go, and showing how Go isn't just limited to server side applications. Humphrey is a Software Engineer at Sparx, an Exeter-based education technology company. He enjoys coding Go for work and taming gophers on personal Go projects in his spare time.</p> <p>We are looking for speakers! \ud83d\udce3 If you or anyone you know would like to speak, please let us know! We welcome all topics, we can even help you with ideas! In the meantime, we are open to better June puns, so if you have a better idea tweet us @golangbristol.</p> <p>\ud83c\udf7a As always, afterwards we will be heading to a pub for a little .</p> <p>\ud83d\udce3 We are looking for help with organising! If you or anyone you know would like to help, give us a shout! As you can see, our pun game especially is in dire need of a</p> <p>\ud83d\udce3Help us grow! JetBrains offers free licences to meet-ups with attendance greater than 30. If we can reach this, we will apply and be handing it out as a prize at events.</p> <p>Thank you to everyone who was involved in organising, our amazing hosts and glorious sponsors.</p> <p>\ud83d\udccd - Brightpearl<br/>\ud83c\udf55 - SR2</p> ",
+    "link": "https://www.meetup.com/golang-bristol/events/261673219/",
+    "location": {
+        "address": "Bond St",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45980453491211,
+        "longitude": -2.5842409133911133,
+        "name": "Brightpearl"
+    },
+    "org": "golang",
+    "title": "GoBoy (Go Gameboy Emulator) & MemGuard  (In Memory Security)"
+}

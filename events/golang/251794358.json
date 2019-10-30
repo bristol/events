@@ -1,0 +1,15 @@
+{
+    "date": 1529430300,
+    "description": "<p>After a few quiet months we're back in June with two or three exciting talks!</p> <p>Martin Tournoij - \"Experiences with Go testing\" (~45mins)</p> <p>Benjamin King - vgo (~10mins)</p> <p>Kat Zien - TBC (~10mins, we'll postpone it till the next month it if the other talks run for a bit longer)</p> <p>The current plan is to meet at the Prince Street Social (look out for the plushie gophers), but if we get more than 15-20 people signed up for the event we'll change to a different venue (which is near cabot circus), so keep an eye out for any announcements!</p> <p>Hope to see you there!</p> ",
+    "link": "https://www.meetup.com/golang-bristol/events/251794358/",
+    "location": {
+        "address": "34-37 Prince St Bristol BS1 4PS",
+        "city": "Bristol",
+        "country": "GB",
+        "latitude": 51.4504508972168,
+        "longitude": -2.596342086791992,
+        "name": "Prince street social "
+    },
+    "org": "golang",
+    "title": "Experiences with Go testing + lightning talks"
+}
