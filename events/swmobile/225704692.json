@@ -1,0 +1,16 @@
+{
+    "description": "<p>This month we're meeting at The Real Adventure to discuss all things Continuous Integration! We have 3 great speakers telling us about their CI setups:</p> <p>\u2022\u00a0Matt Hamilton: Automated Feature Branch Builds for iOS</p> <p>\u2022\u00a0James Bulmer, Operations Engineer at Crowdcube: Continuous Integration and Tooling: Lessons Learned</p> <p>\u2022\u00a0Mike Rhodes: Building and testing a\u00a0cross-platform Java library</p> ",
+    "end_time": 1445373000,
+    "link": "https://www.meetup.com/swmobile/events/225704692/",
+    "location": {
+        "address": "One Glass Wharf, Temple Quay, Bristol, BS2 0EL",
+        "city": "Bristol",
+        "country": "GB",
+        "latitude": 51.45198059082031,
+        "longitude": -2.581231117248535,
+        "name": "The Real Adventure"
+    },
+    "org": "swmobile",
+    "start_time": 1445362200,
+    "title": "October Meetup: Continuous Integration"
+}

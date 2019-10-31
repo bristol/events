@@ -1,0 +1,16 @@
+{
+    "description": "<p>Welcome to April\u2019s SWmobile event, kindly hosted this month by the folks at Candide.</p> <p>Talks<br/>- Chinese \u201cSuper Apps\u201d (Andrew Philbrick)<br/>- Google's Cloud AutoML Overview (Richard Riley)<br/>- React Native Animations (Tom Hicks)</p> <p>Timings<br/>18:30 Doors, Food &amp; Drink<br/>19:00 Talks<br/>19:50 Break<br/>20:00 Final Talk<br/>20:45 Tidy up &amp; Head to a local pub to continue the conversation</p> <p>As always we welcome new speakers. Please message the lead organiser (David Branton) or any of the other organisers if you have a talk idea, or fill out the form at <a href=\"http://cfp.swmobile.org\" class=\"linkified\">http://cfp.swmobile.org</a></p> <p>\ud83c\udde8\ud83c\uddf3Chinese \"Super Apps\" (Andrew Philbrick)</p> <p>Whereas the rest of the world's mobile phone users have a number of apps they use for social networking, payments and shopping in isolation, in China the WeChat or WeiXin \"super app\" is a one-stop-shop. In this talk Andrew will discuss how China's mobile app ecosystem developed and show some examples of Chinese super apps.</p> <p>Andrew Philbrick is the CEO of Candide, an app for gardeners to find inspiration and knowledge</p> <p>\u2699\ufe0fGoogle's Cloud AutoML Overview (Richard Riley)</p> <p>The talk will be aimed at people with no machine learning experience who wish to easily add image recognition to their systems.</p> <p>Richard Riley is a Lead Engineer at Candide, specialising in image recognition and machine learning.</p> <p>\u2728React Native Animations</p> <p>Tom is an engineer at Candide, an app for gardeners to find inspiration and knowledge.</p> ",
+    "end_time": 1555444800,
+    "link": "https://www.meetup.com/swmobile/events/260261795/",
+    "location": {
+        "address": "40, Queen Square",
+        "city": "Bristol",
+        "country": "GB",
+        "latitude": 51.44968795776367,
+        "longitude": -2.5954511165618896,
+        "name": "Candide"
+    },
+    "org": "swmobile",
+    "start_time": 1555435800,
+    "title": "April Talk Night"
+}

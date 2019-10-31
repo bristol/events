@@ -1,0 +1,16 @@
+{
+    "description": "<p>An attempt to reboot the user group by having a social drinking session after work. Cork vaults has a beer garden so hopefully the weather will be good enough for some outdoor drinking.</p> <p>The Scrum Alliance has agreed to sponsor some drinks and nibbles for the event, so please come and join us!</p> ",
+    "end_time": 1337029200,
+    "link": "https://www.meetup.com/Agile-Bath-Bristol/events/60103042/",
+    "location": {
+        "address": "11/12 Westgate Buildings",
+        "city": "Bath",
+        "country": "gb",
+        "latitude": 51.380001068115234,
+        "longitude": -2.361346960067749,
+        "name": "The Cork"
+    },
+    "org": "agile",
+    "start_time": 1337018400,
+    "title": "May Meetup"
+}

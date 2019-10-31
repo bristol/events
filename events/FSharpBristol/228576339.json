@@ -1,0 +1,16 @@
+{
+    "description": "<p>Join us online on March 4th 2016 for the live streaming of the first year of fsharpConf, a free virtual event featuring world-class F# experts across the globe. You will see F# in action on a wide range of practical applications.</p> <p>Connect here: <a href=\"http://fsharpConf.com\" class=\"linkified\">http://fsharpConf.com</a></p> ",
+    "end_time": 1457121600,
+    "link": "https://www.meetup.com/FSharpBristol/events/228576339/",
+    "location": {
+        "address": "Microsoft",
+        "city": "Redmond",
+        "country": "us",
+        "latitude": 47.64196014404297,
+        "longitude": -122.13058471679688,
+        "name": "Channel 9"
+    },
+    "org": "FSharpBristol",
+    "start_time": 1457110800,
+    "title": "fsharpConf: virtual F# conference"
+}

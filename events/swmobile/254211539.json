@@ -1,0 +1,16 @@
+{
+    "description": "<p>Welcome all to the October's SWMobile Meetup.</p> <p>Talk 1: An introduction to GraphQL - Daniel Leivers<br/>Talk 2: Audience before app - Emily Perkins<br/>Talk 3: Building Apps from \"Features\" using Flint framework as an example - Marc Palmer<br/>Talk 4: Lessons making my first mobile game - Ben Byford</p> <p>We'll be hosted by Cookpad who will also kindly be providing food and drink on the evening.</p> <p>Doors will open at 18:30pm<br/>- Food and drink will be available.<br/>- Talks will start at 19:00 with interlude ~19:45<br/>- We aim to be finished by 21:00</p> <p>After the event, we'll move on to a near by pub to continue the discussions. \ud83c\udf77</p> <p>If you do have a talk that you'd like to present at a future meetup then please do get in touch via <a href=\"http://cfp.swmobile.org\" class=\"linkified\">http://cfp.swmobile.org</a></p> ",
+    "end_time": 1539633600,
+    "link": "https://www.meetup.com/swmobile/events/254211539/",
+    "location": {
+        "address": "1-3 Broad Plain, BS2 0JP",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454097747802734,
+        "longitude": -2.5825579166412354,
+        "name": "Cookpad"
+    },
+    "org": "swmobile",
+    "start_time": 1539624600,
+    "title": "October Meetup"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "<p>F#, Azure and the Web - The best of Friends. F# is a great fit not only for web programming but also for the Cloud. In this fast paced session, we\u2019ll cover how we can harness the power of HTTP, F# and cloud services to develop compelling applications that are more than the sum of their parts. We\u2019ll discover how we can quickly and easily write stand-alone, data-driven applications in F#, progressively adding more features through simple composition. We'll then quickly and easily hook them up to .NET web frameworks. We\u2019ll also demonstrate how to easily expose data from F# as standard JSON for consumption by a web client single page application. We\u2019ll then move on to how cloud services provide a fantastic hosting platform for F# web applications and demonstrate some of the awesome features that Microsoft Azure provides us from deployment through to hosting, scalability and resiliency. We\u2019ll also look at how we can seamlessly plug in diagnostics, metrics and analytics within an application and view them through a dashboard integrated directly into the Azure portal.</p> <p>About Isaac:</p> <p>Isaac Abraham is an F# MVP and a .NET developer since .NET 1.0 with an interest in cloud computing and distributed data problems. He nowadays lives in both the UK and Germany, and is the director of Compositional IT. He specialises in consultancy, training and development, helping customers adopt high-quality, functional-first solutions on the .NET platform.</p> ",
+    "end_time": 1460577600,
+    "link": "https://www.meetup.com/FSharpBristol/events/230021510/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "FSharpBristol",
+    "start_time": 1460566800,
+    "title": "F#, Azure and the Web - The best of Friends, with Isaac Abraham"
+}

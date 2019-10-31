@@ -1,0 +1,16 @@
+{
+    "description": "<p><b>!!!Important!!!\u00a0<br/>The date for this meetup has changed to September.</b></p> <p><b>Hopefully this should be the final re-arrangement. September 29th should be the final date :)</b></p> <p>This is a hands on session, where you adapt your own version of Flappy Bird. No prior experience of F# or games programming is required. Please bring along a laptop with F# installed.</p> <p>Getting F# Installed:\u00a0<br/><a href=\"http://fsharp.org/use/windows/\"><a href=\"http://fsharp.org/use/windows/\" class=\"linkified\">http://fsharp.org/use/windows/</a></a><br/><a href=\"http://fsharp.org/use/mac/\"><a href=\"http://fsharp.org/use/mac/\" class=\"linkified\">http://fsharp.org/use/mac/</a></a></p> <p>Alternatively use Atom/VSCode with Ionide!:<br/><a href=\"http://ionide.io/\"><a href=\"http://ionide.io/\" class=\"linkified\">http://ionide.io/</a></a></p> ",
+    "end_time": 1475181000,
+    "link": "https://www.meetup.com/FSharpBristol/events/231363658/",
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
+    "org": "FSharpBristol",
+    "start_time": 1475170200,
+    "title": "Flappy Bird in MonoGame, Hands On Session with Phil Trelford"
+}

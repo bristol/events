@@ -1,0 +1,16 @@
+{
+    "description": "<p>Our first meet-up of 2017 brings us a great range of topics from some great speakers and is generously sponsored and hosted by Just Eat.\u00a0As usual, expect tasty pizza and refreshments at the venue and further discussions at a nearby pub afterwards.\u00a0</p> <p><b>Speakers</b></p> <p>\u2022\u00a0David Taylor - Kotlin\u00a0</p> <p>\u2022\u00a0Paul Freeman - Selecting BaaS</p> <p>\u2022 David Branton -\u00a0Modular Architecture in Android apps</p> <p><b>Time table</b>:\u00a0</p> <p>\u2022 18:00-18:15 - organisers/volunteers arrive</p> <p>\u2022 18:30 doors open / pizza arrive</p> <p>\u2022 19:00 Intro by SWmobile organiser (thank sponsors, venue admin i.e toilets, fire exits)</p> <p>\u2022 19:05 talk one</p> <p>\u2022 19:25 5 min comfort break</p> <p>\u2022 19:30 Talk two\u00a0</p> <p>\u2022 19:50 5 min comfort break</p> <p>\u2022 19:55 Talk three</p> <p>\u2022 20:30 finish up and head to the pub (TBA)</p> <p>\u2022 20:45 Volunteers leave after helping tidy up \u00a0</p> ",
+    "end_time": 1485289800,
+    "link": "https://www.meetup.com/swmobile/events/236089944/",
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
+    "org": "swmobile",
+    "start_time": 1485282600,
+    "title": "January Meetup"
+}

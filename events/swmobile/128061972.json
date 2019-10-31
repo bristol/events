@@ -1,0 +1,16 @@
+{
+    "description": "<p>It takes a lot of time and resources to build a mobile app - more than most people (especially clients!) imagine. It therefore makes a lot of sense to validate your idea quickly, with real users, to gain valuable feedback sooner rather than later.</p> <p>Mobile prototyping is a very effective way of doing this. In this talk, we will explore mobile prototyping in more detail - what it is, why it is useful, and the processes you can follow to build a prototype.</p> <p>We have a panel of 4 speakers who will spend 10-15 mins discussing their own experiences with prototyping, with a little time at the end for Q&amp;A.</p> <p>\u00a0</p> <p><i>Speakers</i>:</p> <p><b>Kathryn Hegarty</b>: Prototyping for portable devices and mobile users: talking about the techniques and considerations for testing apps and mobile websites with users, in terms of functionality and interaction design</p> <p><b>Richard Loxley</b>:\u00a0How he used 'old-school pen-and-paper storyboarding combined with YouTube videos' to prototype his iOS app, <a href=\"http://www.richardloxley.com/app/scuba\">Scuba Scavenger</a>.</p> <p><b>Gavin Davies</b>: Discusses how he and his team prototyped and built a furniture surveying app using 'Cordova, Symfony2, a mish-mash of Agile techniques and some hand-hacked tools'.</p> <p><b>Mike Rhodes</b>: Discusses his experiences 'not doing any prototyping but still doing okay'.</p> <p>\u00a0</p> <p>Afterwards we'll tootle off to the pub to argue / discuss in more detail.</p> <p>Thanks to Cloudant for hosting us! They have kindly arranged for free pizza and beer, along with a great location - less than 1 minute away from the fountains in the centre of town.</p> <p>Please arrive promptly for a 7pm start - pizza will be delivered for then... hope to see you all there!</p> ",
+    "end_time": 1375299000,
+    "link": "https://www.meetup.com/swmobile/events/128061972/",
+    "location": {
+        "address": "25 Hobbs Lane",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453636169433594,
+        "longitude": -2.5994129180908203,
+        "name": "Cloudant Bristol"
+    },
+    "org": "swmobile",
+    "start_time": 1375293600,
+    "title": "Talk night #7: Prototyping & Rapid Application Development"
+}

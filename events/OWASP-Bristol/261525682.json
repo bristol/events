@@ -1,0 +1,16 @@
+{
+    "description": "<p>Agenda:<br/>\u2022 6:30 pm - Social<br/>\u2022 7:00 pm - OWASP update<br/>\u2022 7:15 pm - Presentation 1: Least-privilege principle of container security, Ben Meier, Oracle<br/>\u2022 8:00 pm - Presentation 2: OWASP Threat Dragon: Cupcake to the rescue. Jon Gadsden, ForgeRock</p> <p>Presentation 1: Least-privilege principle of container security</p> <p>Abstract: Modern \"serverless\" execution contexts that run containers generally reduce costs by packing small and potentially-dynamic workloads onto hardware without reducing the attack surface and often even expanding it when it comes to multi-tenancy, filesystem and device access, and other evil neighbor effects. This talk hopes to help spread some of our learnings and experiences securing containers with Seccomp, Selinux, and other tools in a least-privileged way.</p> <p>Bio: Ben currently works as a software engineer for Oracle in Bristol on the OCI API Gateway Team. At work, he focuses on building and scaling distributed systems and enjoys spreading knowledge, mentoring, and generally helping teams be more effective. His security interests primarily lie in building secure multi-tenant systems and cryptography.</p> <p>Presentation 2 : OWASP Threat Dragon: Cupcake to the rescue.</p> <p>Abstract: A secure development lifecycle ensures that security is built into applications and system components.<br/>Threat modeling is often a neglected part of this lifecycle, a problem which OWASP Threat Dragon helps to solve.<br/>This presentation briefly describes what a secure development lifecycle is, where threat modeling fits into it and why there is a problem.<br/>OWASP Threat Dragon is introduced and its features explained, leading to a demonstration where a real-life threat model is constructed.<br/>The talk wraps up with final thoughts and a gentle appeal for help with this flagship OWASP project.</p> <p>Bio:Jon is a software engineer with ForgeRock in Bristol, a company that provides Identity and Access Management services.<br/>Jon splits his time between security engineering and embedded C/C++ development - he says that he likes it this way because it reminds him that developers are under time pressure and that security engineers require a whole load of tact.<br/>Jon has been involved with the open source software community since Linux[masked], and his latest project is helping with Cupcake's OWASP Threat Modeling project.</p> ",
+    "end_time": 1573767000,
+    "link": "https://www.meetup.com/OWASP-Bristol/events/261525682/",
+    "location": {
+        "address": "Jacob Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.455108642578125,
+        "longitude": -2.5842320919036865,
+        "name": "Gresham Tech"
+    },
+    "org": "OWASP-Bristol",
+    "start_time": 1573756200,
+    "title": "Containers and Threat Modelling"
+}

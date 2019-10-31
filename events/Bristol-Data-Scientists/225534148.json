@@ -1,0 +1,16 @@
+{
+    "description": "<p>We are pleased to announce that the next Bristol Data Scientists Meetup will take place on Thursday December 3rd.\u00a0</p> <p>The meeting will be an informal event aimed at the promotion of and shared learning around Data Science and will consist of a few short presentations followed by networking time over a drink.</p> <p>Agenda:</p> <p>6.00pm Arrival and drinks</p> <p>6.30pm Presentations:</p> <p>What is a Data Scientist (according to job adverts) - Nigel Marriott, \u00a0Marriott\u00a0Statistical Consulting\u00a0</p> <p>Life Under the Lens: Doing Science on Real Social Networks \u00a0- Will Hardman, Elucidata</p> <p>Reproducible Environments for Analysis - Doug Ashton, Mango Solutions</p> <p>Following the presentations we would be delighted for everyone to stay on for a chat and a drink.</p> ",
+    "end_time": 1449176400,
+    "link": "https://www.meetup.com/Bristol-Data-Scientists/events/225534148/",
+    "location": {
+        "address": "1 Canon's Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.449302673339844,
+        "longitude": -2.6010661125183105,
+        "name": "The Watershed"
+    },
+    "org": "Bristol-Data-Scientists",
+    "start_time": 1449165600,
+    "title": "Bristol Data Science Meetup"
+}

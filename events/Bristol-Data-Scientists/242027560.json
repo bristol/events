@@ -1,0 +1,16 @@
+{
+    "description": "<p>Please join us at the final Bristol Data Scientists Meetup of 2017 for three great presentations and networking drinks!</p> <p><b>Agenda:</b></p> <p>6:00pm: Arrival and drinks</p> <p>6:30pm: Presentations (followed by networking and drinks)</p> <p>\u2022 Speaker #1: <i>Project templating for Data Science: A route to consistent yet flexible delivery</i> - <b>Chris Musselle</b>, Mango Solutions</p> <p>\u2022 Speaker #2: <i>When product management meets data science: lessons from a small startup - </i><b>Matt Wright</b>, Techstars</p> <p>\u2022 Speaker #3: <i>Election Forecasting 101: Why are UK elections so hard to predict?</i> - <b>John Sandall</b>, Art of Inference</p> <p><i><b>Join us on Twitter with the Bristol Data Scientists hashtag: #BristolDS</b></i></p> ",
+    "end_time": 1506974400,
+    "link": "https://www.meetup.com/Bristol-Data-Scientists/events/242027560/",
+    "location": {
+        "address": "1 Canon's Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.449302673339844,
+        "longitude": -2.6010661125183105,
+        "name": "The Watershed"
+    },
+    "org": "Bristol-Data-Scientists",
+    "start_time": 1506963600,
+    "title": "Bristol Data Scientists Meeting"
+}

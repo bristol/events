@@ -1,0 +1,16 @@
+{
+    "description": "<p>This month's Meetup we're mixing things up a little.</p> <p>First up we are delighted to be welcoming Doug Sillars, a Google Developer Expert (GDE) for Web, author of High Performance Android Apps <a href=\"http://bit.ly/HighPerfAndroidApps\" class=\"linkified\">http://bit.ly/HighPerfAndroidApps</a>\u00ad &amp; former Principal Architect of Mobile App Performance at AT&amp;T: <a href=\"https://www.linkedin.com/in/dougsillars/\" class=\"linkified\">https://www.linkedin.com/in/dougsillars/</a></p> <p>\u201cPerformance of Mobile Apps\u201d A talk that goes over best practices, and shows examples of how improvements made mobile apps run better.</p> <p>Next up we'll have a quick fire round of Lightning Talks.</p> <p>- Kotcha! (Mez Pahlan)<br/>This talk is aimed at Kotlin newbies that have a good understanding of Java but haven't yet dipped their toes in. It might also be useful for people that have started Kotlin but have hit a road block and yearn for the old days where being verbose was a good thing. It collects my experience as I convert two apps into Kotlin as part of the Kotlin Knights study groups.</p> <p>- Trunk Based Development (Matthew Robbins)<br/>What are the advantages from moving from feature branching to committing to master?</p> <p>- FloFrame: a 'No code' mobile app development platform (Raman Mistry)</p> <p>- Are we \u2018Agile\u2019 yet? (Sam Allen)</p> <p>Finally we are really excited to be trying out a new venue this month at Framework on Kings Street. This is a brand new co-working and events space right in the heart of Bristol. It's directly opposite the Royal Navy Volunteer pub. For further information, see <a href=\"https://www.frameworkbristol.co.uk\" class=\"linkified\">https://www.frameworkbristol.co.uk</a></p> <p>If you would like to submit a talk suggestion for a future Meetup, please fill out the form at <a href=\"http://cfp.swmobile.org\" class=\"linkified\">http://cfp.swmobile.org</a></p> <p>Hope to see you soon,<br/>Dave &amp; the swmobile organisers</p> ",
+    "end_time": 1537387200,
+    "link": "https://www.meetup.com/swmobile/events/xxwgcqyxmbzb/",
+    "location": {
+        "address": "Framework",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45184326171875,
+        "longitude": -2.594552993774414,
+        "name": "Framework"
+    },
+    "org": "swmobile",
+    "start_time": 1537378200,
+    "title": "September Meetup: Mobile app performance Best Practices & \u26a1\ufe0f Lightning Talks \u26a1\ufe0f "
+}

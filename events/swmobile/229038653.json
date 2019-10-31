@@ -1,0 +1,16 @@
+{
+    "description": "<p><i>We all know the dream of Cross Platform tools, write once, run anywhere! But what is the reality? In this set of talks we hear from people who have actually used them for real production apps, what is the truth behind the spin?\u00a0</i></p> <p><b>Speakers:</b></p> <p><i>Ben Clayton</i> -- ReactNative</p> <p><i>Matt Votsikas</i> -- Phonegap/Cordova</p> <p><i>Lukas Roper</i> -- Unity</p> <p><i>Sam Machin</i> -- Voice Interfaces</p> <p>We will also, if time allows, have a brief panel discussion with all the speakers, about Cross Platform tools.\u00a0</p> <p>----------------------------------</p> <p><b>Schedule:</b></p> <p>6:30pm Doors open, complimentary food and drinks courtesy of Just Eat.\u00a0</p> <p>7pm First two speakers</p> <p>8pm Small break</p> <p>8:10pm Second two speakers and discussion</p> <p>9pm The conversation will continue at a local pub.\u00a0</p> <p>----------------------------------</p> <p><b>Talk Details:</b></p> <p><b>Ben Clayton: </b><i>ReactNative</i></p> <p>FaceBook bills React Native as the future of mobile development. Using JavaScript and the React methodology, they promise developers fast, smooth apps with genuinely native User Interfaces, a smooth and productive dev process <b>and</b> up to 85% code reuse between platforms. A pipe dream? Or just a dream? Find out!</p> <p><b>Matt Votsikas</b>: <i>PhoneGap: The Good, the Bad and the Ugly.</i></p> <p>PhoneGap is a great way to create a natively packaged\u00a0web app using device specific features, yet sometimes\u00a0it feels like you're hiking with bare feet.</p> <p>Is PhoneGap actually a good fit for complex cross-platform apps?\u00a0In this session we'll take a look at how PhoneGap works well and where it just lays out the thorns.</p> <p><b>Lukas Roper</b>:\u00a0<i>The Pros and Cons of using Unity to develop apps.</i></p> <p>Lukas is the lead developer at Opposable Group, which specialize in VR, Games and Mobile Applications. Lukas developed games for a wide range of clients and has also developed a companion app, used as an aid with a health application.</p> <p><b>Sam Machin</b>: <i>Voice is the new Black</i></p> <p>Sam is a Developer Advocate at nexmo a cloud communications company connecting applications to the billions of mobiles around the world through voice and sms.</p> <p>Sometimes the best solution is, Keep it Simple. Not all solutions need an app or even a mobile page, voice is the truly cross platform solution on mobile. We'll take a look at what can be done with just a phone call and also go on to look at the new breed of Voice based AI tool particularly the Amazons Alexa.</p> ",
+    "end_time": 1458680400,
+    "link": "https://www.meetup.com/swmobile/events/229038653/",
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
+    "org": "swmobile",
+    "start_time": 1458671400,
+    "title": "Hot Cross Platforms"
+}

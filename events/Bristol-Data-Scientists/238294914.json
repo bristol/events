@@ -1,0 +1,16 @@
+{
+    "description": "<p>Agenda:</p> <p>6.00 pm \u00a0Arrival and drinks</p> <p>6.30 pm \u00a0Presentations (followed by networking and drinks)</p> <p>\u2022 Speaker #1: Data Science meets Julia<i> (features peculiar to Julia and poses the question whether it is also destined to become a natural fit to to data science in the future)</i> - <b>Malcolm Sherrington</b>, AMIS Consulting LLP</p> <p>\u2022 Speaker #2: Set your text free with Loquor <i>(emotional analysis using the emolex lexicon, Gensim's implementation of Word2Vec, and FaceBook's fastText)</i> - <b>Nigel Legg</b>, MassCognition</p> <p>\u2022 Speaker #3: Tracking Your FitBit Data with R and Shiny - <b>Graham Parsons</b>, Mango Solutions</p> <p><i><b>Use the hashtag if you're tweeting: #BristolDS</b></i></p> ",
+    "end_time": 1491508800,
+    "link": "https://www.meetup.com/Bristol-Data-Scientists/events/238294914/",
+    "location": {
+        "address": "1 Canon's Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.449302673339844,
+        "longitude": -2.6010661125183105,
+        "name": "The Watershed"
+    },
+    "org": "Bristol-Data-Scientists",
+    "start_time": 1491498000,
+    "title": "Bristol Data Scientists Meeting"
+}

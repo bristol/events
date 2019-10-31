@@ -1,0 +1,16 @@
+{
+    "description": "<p>Explore the lessons learned from launching friendly phishing campaigns on colleagues.</p> <p>Agenda:</p> <p>\u2022 6:30 pm - Social</p> <p>\u2022 6:55 pm - OWASP update</p> <p>\u2022 7:00 pm - Presentation 1: A Corporate Phishing Trip - Iain Baughen</p> <p>\u2022 8:00 pm - Presentation 2: Modern Access Management - Jonathan Scudder</p> <p>\u2022 After - Small Bar Pub</p> <p>Presentation 1: A corporate phishing trip.<br/>Abstract: Clicking a malicious link can cripple an organisation with malware. Humans are a vital component of your security system but like any security appliance they can need a little tuning. This talk takes a look at the lessons learned from launching phishing campaigns on my colleagues.</p> <p>Bio: Iain has 12 years' experience as a software engineer and has recently made a move into the security field. Working for a Bristol software company his current role involves a mix of development, pen testing web and mobile applications and code analysis.itle: A corporate phishing trip.</p> <p>Presentation 2: Modern Access Management<br/>Bio: Jonathan held key roles in a variety of large identity projects before co-founding ForgeRock in Norway, running finance and operations and then relocating to build the ForgeRock engineering lab in Bristol. He believes that awesome humans are the basis of great companies, and has spent the ForgeRock years proving this. He has sat on several voluntary, political and private boards and founded a handful of small companies in the past, but thinks ForgeRock is the best thing since sliced bread. Jonathan is a qualified youth and community worker, and has a degree in Informatics from the University of Oslo, Norway.</p> ",
+    "end_time": 1511472600,
+    "link": "https://www.meetup.com/OWASP-Bristol/events/241535079/",
+    "location": {
+        "address": "Floor 4, Broad Quay House, Broad Quay Bristol  BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45170974731445,
+        "longitude": -2.596795082092285,
+        "name": "Forgerock"
+    },
+    "org": "OWASP-Bristol",
+    "start_time": 1511461800,
+    "title": "A Corporate Phishing Trip & Modern Access Management"
+}

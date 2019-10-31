@@ -1,0 +1,16 @@
+{
+    "description": "<p>Save the date. More details to follow.</p> ",
+    "end_time": 1576184400,
+    "link": "https://www.meetup.com/South-West-Elastic-Fantastics/events/265525501/",
+    "location": {
+        "address": "1 Broad Plain",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454219818115234,
+        "longitude": -2.5822789669036865,
+        "name": "Cookpad"
+    },
+    "org": "elastic",
+    "start_time": 1576175400,
+    "title": "Elastic December Meet-up"
+}
