@@ -12,8 +12,8 @@ tasks:
       ./event-fetcher
   - deploy: |
       cd events
-      git config user.email "ci@kragniz.eu"
-      git config user.name "builds.sr.ht"
+      git config user.email "louis@kragniz.eu"
+      git config user.name "Automated update via builds.sr.ht"
       git add -u
       git add events/
       git commit -m "Update events" -m "JOB_ID=${JOB_ID}" || true
