@@ -4,5 +4,6 @@
     "homepage": "https://www.meetup.com/Bristol-SRE/",
     "meetup": {
         "urlname": "Bristol-SRE"
-    }
+    },
+    "ignore": true
 }

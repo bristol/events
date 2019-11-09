@@ -177,5 +177,7 @@ if __name__ == "__main__":
     orgs = read_orgs()
 
     for org in orgs:
+        if org.get("ignore") == True:
+            continue
         events = get_events(org)
         write_events(events)
