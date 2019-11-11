@@ -11,7 +11,7 @@ migrate to use other tools, those should be supported as well.
 Each event is sourced from a collection of organisations, which are configured
 in `./orgs/`.
 
-Here's PyData Bristol:
+Here's the configuration for PyData Bristol:
 
 ```json
 {
@@ -24,7 +24,7 @@ Here's PyData Bristol:
 }
 ```
 
-The events for that org are then automatically collected in `./events/<org id>/.
+The events for that org are then automatically collected in `./events/<org id>/`.
 
 Here's an example event:
 
@@ -51,3 +51,9 @@ Using
 -----
 
 Feel free to use this data for any project.
+
+Contributing
+------------
+
+If there's a meetup or event source you'd like to see here, file an issue (or
+even better a pull request!).
