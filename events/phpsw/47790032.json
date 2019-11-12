@@ -1,0 +1,16 @@
+{
+    "description": "<p>We'll have one or two short talks. Plus the usual chat about PHP, general tech and whatever else.</p> ",
+    "end_time": 1328738400,
+    "link": "https://www.meetup.com/php-sw/events/47790032/",
+    "location": {
+        "address": "19 Guinea Street, Bristol, BS1 6SX",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44744873046875,
+        "longitude": -2.593087911605835,
+        "name": "The Golden Guinea"
+    },
+    "org": "phpsw",
+    "start_time": 1328727600,
+    "title": "Talks on Zend Framework 2 and one other TBC"
+}

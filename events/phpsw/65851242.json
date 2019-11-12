@@ -1,0 +1,16 @@
+{
+    "description": "<p>Talks on PHP profiling and debugging</p> ",
+    "end_time": 1340226000,
+    "link": "https://www.meetup.com/php-sw/events/65851242/",
+    "location": {
+        "address": "19 Guinea Street, Bristol, BS1 6SX",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44744873046875,
+        "longitude": -2.593087911605835,
+        "name": "The Golden Guinea"
+    },
+    "org": "phpsw",
+    "start_time": 1340215200,
+    "title": "Profiling and debugging PHP"
+}

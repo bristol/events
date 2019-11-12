@@ -1,0 +1,16 @@
+{
+    "description": "<p>In May we're hosting a night of Tips &amp; Tricks lightning talks.</p> <p>Thanks to <a href=\"http://www.siftdigital.com/\">Sift Digital</a> for kindly hosting us this month.</p> <p>If you're interested in giving a talk, please get in touch.</p> <p>Our talks this month:</p> <p><b>-\u00a0My Favourite GitHub Features<br/></b><a href=\"https://www.meetup.com/members/187268629/\">Annie</a>, \u00a0Software Developer at <a href=\"https://mayden.co.uk/\">Mayden</a></p> <p><b>-\u00a0Load Testing With Gatling\u00a0<br/></b><a href=\"http://www.meetup.com/php-sw/members/47315872/\">Doug Fitzmaurice</a>, Developer at\u00a0<a href=\"https://www.ents24.com/\">ENTS 24</a></p> <p><b>- Don't Be So Primitive</b><br/><a href=\"http://www.meetup.com/php-sw/members/104883962\">Dave Liddament</a>, Director and developer at <a href=\"http://www.lampbristol.com/\">Lamp Bristol</a>.</p> <p>A quick look at Value Objects, what they are, the benefits they offer and why sometimes they should be used instead of PHP\u2019s primitive types.</p> <p><b>- ReactJS is awesome and so can you!</b><br/><a href=\"http://www.meetup.com/php-sw/members/39370012\">Dan Ackroyd</a>, Independent C + PHP developer, Imagick maintainer. That guy with the beard.</p> <p>A quick introduction to ReactJS, and how it is easy to make cool interactive components for web pages with it.</p> <p><b>- Using Docker in Development<br/></b><a href=\"https://www.meetup.com/php-sw/members/101607952/\">Nigel Dunn</a>, Software Engineer, <a href=\"https://oncorps.io/\">OnCorps</a>.</p> <p>--</p> <p><a href=\"http://www.siftdigital.com/\">Sift Digital</a> have kindly offered to host the evening at their office, and as always we'll sort out some ales, lagers, soft drinks and snacks. Don't forget to check them out - and if you're looking, they are hiring.</p> <p>As always, a big thanks to our meetup sponsors <a href=\"http://www.ents24.com/\">Ents24</a>, <a href=\"http://www.brightpearl.com/\">Brightpearl</a>, <a href=\"https://www.meanbee.com/\">Meanbee</a> &amp; <a href=\"http://deepbluesky.com/\">Deep Blue Sky</a> without whom we wouldn't be able to put on our meetups.\u00a0</p> <p>Afterwards we'll head to the pub, probably the\u00a0<a href=\"http://volunteertavern.co.uk/real-ales\">Volunteer Tavern</a>!</p> <p>--</p> <p>View on the PHPSW website</p> ",
+    "end_time": 1494449100,
+    "link": "https://www.meetup.com/php-sw/events/239513840/",
+    "location": {
+        "address": "The Quorum,  Bond Street,  Bristol BS1 3AE",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45619201660156,
+        "longitude": -2.583432912826538,
+        "name": "Edo"
+    },
+    "org": "phpsw",
+    "start_time": 1494438300,
+    "title": "Tips & Tricks"
+}

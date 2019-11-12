@@ -1,0 +1,16 @@
+{
+    "description": "<p>Talks on testing and continuous integration.</p> <p>-\u00a0<b>Designing for testability</b><br/>\u00a0 \u00a0<a href=\"http://www.meetup.com/php-sw/members/104883962\">Dave Liddament</a>, PHP, Java &amp; Python Software Developer</p> <p>- <b>DOs &amp; DON'Ts with PHPUnit</b><br/>\u00a0 \u00a0<a href=\"http://www.meetup.com/php-sw/members/67450042\">Kat Zien</a>, Software Developer at\u00a0<a href=\"http://www.brightpearl.com/\">Brightpearl</a></p> <p>-\u00a0<b>Hollywood on Demand</b>\u00a0<br/>\u00a0 \u00a0<a href=\"http://www.meetup.com/php-sw/members/91773092\">Gavin Davies</a>, Software Developer at\u00a0<a href=\"http://radify.io\">Radify</a> and author of <a href=\"https://leanpub.com/dealwithit\">Deal With It: Attitude for Coders</a></p> <p><a href=\"http://www.brightpearl.com/\">Brightpearl</a>\u00a0have kindly offered to host the evening, providing food, beers and their office as the venue. Don't forget to check them out- and\u00a0<a href=\"http://www.brightpearl.com/company/careers\">if you're looking, they are hiring</a>.</p> <p>Afterwards, we'll head to the pub, probably the <a href=\"http://volunteertavern.co.uk/real-ales\">Volunteer Tavern</a>!</p> ",
+    "end_time": 1408568400,
+    "link": "https://www.meetup.com/php-sw/events/195104522/",
+    "location": {
+        "address": "New Bond House, Bond Street, Bristol BS2 9AG",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.460060119628906,
+        "longitude": -2.584520101547241,
+        "name": "Brightpearl"
+    },
+    "org": "phpsw",
+    "start_time": 1408557600,
+    "title": "Testing & CI"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "<p>Meet up and talk about beer, how exciting May is going to be, and maybe even PHP too.</p> <p><a href=\"http://www.smallbarbristol.com\" class=\"linkified\">http://www.smallbarbristol.com</a></p> ",
+    "end_time": 1397077200,
+    "link": "https://www.meetup.com/php-sw/events/168633652/",
+    "location": {
+        "address": " 31/32 King Street, The Beermuda Triangle, BS1 4DZ ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45180892944336,
+        "longitude": -2.5949339866638184,
+        "name": "Small Bar"
+    },
+    "org": "phpsw",
+    "start_time": 1397066400,
+    "title": "Social Night"
+}

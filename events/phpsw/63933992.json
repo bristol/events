@@ -1,0 +1,16 @@
+{
+    "description": "<p>Sorry for the late notice on this one - due to various excuses it's now next week (3rd Wednesday) instead of tomorrow.</p> <p>\u00a0</p> <p>These talks will be lightning-quick/pithy and open to feedback/excoriation:</p> <p>\u00a0</p> <p><b>Instant APIs</b></p> <p>Rapid application development from lightweight PHP frameworks to\u00a0provide a REST API with little effort.</p> <p>\u00a0</p> <p><b>Write Better Software with TDD</b></p> <p>Test driven development. Write test, test fails, write code, test\u00a0passes ... rinse and repeat.</p> <p><b>HipHop: Facebook's Secret Sauce</b></p> <p>Transform PHP into C++ and compile with g++. Execute this rather than\u00a0PHP. On average Facebook reduced the CPU usage on their web servers by\u00a0fifty percent.</p> <p>\u00a0</p> <p>As usual, Beer and Chilli are the order of the day!</p> ",
+    "end_time": 1337202000,
+    "link": "https://www.meetup.com/php-sw/events/63933992/",
+    "location": {
+        "address": "19 Guinea Street, Bristol, BS1 6SX",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44744873046875,
+        "longitude": -2.593087911605835,
+        "name": "The Golden Guinea"
+    },
+    "org": "phpsw",
+    "start_time": 1337191200,
+    "title": "Lightning Talks: Instant APIs, Victorious TDD, HipHop: Secret Sauce"
+}

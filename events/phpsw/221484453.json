@@ -1,0 +1,16 @@
+{
+    "description": "<p>In May we're hosting a night of talks about frameworks!</p> <p>- <b>PPI - The Interop Framework</b><br/>\u00a0\u00a0<a href=\"http://www.meetup.com/php-sw/members/182668028\">Paul Dragoonis</a>, Lead Developer at <a href=\"https://www.kainos.com\">Kainos</a>, PHP internals and PHP-FIG voting member and <a href=\"http://www.meetup.com/php-sw/members/44402502\">V\u00edtor Brand\u00e3o</a>, PHP Software Engineer at <a href=\"https://www.kainos.com/\">Kainos</a>, Entrepreneur and Gentoo Linux contributor</p> <p>Paul and V\u00edtor will be showing off the newly released PPI 2.1, explaining what we\u2019ve been working on and what extra value using an interop framework brings on top of just using a single standalone framework.</p> <p>- <b>Do you speak PSR-7?</b><br/>\u00a0\u00a0<a href=\"http://www.meetup.com/php-sw/members/86386452\">Gary Hockin</a>, Developer at <a href=\"https://roave.com\">Roave</a></p> <p>The PHP-FIG has recently put PSR-7 into vote (and by the time this talk is given it should be easily voted in). PSR-7 relates HTTP Messages; HTTP request and response objects that describe the interaction between a client and server in any HTTP exchange. While this doesn\u2019t sound that interesting, PSR-7 threatens to open the door to truly interoperable libraries and frameworks, and heralds a new golden age for the next generation of PHP packages.</p> <p>Join us in this brief introduction to PSR-7 and the core concepts around phly/http, a concrete implementation of the standard.</p> <p>- <b>A Slim 3 primer</b><br/>\u00a0\u00a0<a href=\"http://www.meetup.com/php-sw/members/56661222\">Rob Allen</a>, Software Engineer, ZF contributor and author of <a href=\"http://www.manning.com/allen\">Zend Framework in Action</a></p> <p>Slim is a PHP micro framework that enables you to write powerful web applications and APIs. In this talk, I will give an overview of the upcoming third version of framework and show how you can easily write maintainable applications with it.</p> <p>--</p> <p><a href=\"http://www.mixrad.io\">MixRadio</a> have kindly offered to host the evening at their office, and provide drinks and pizza. Don't forget to check them out- and if you're looking, <a href=\"http://dev.mixrad.io/jobs\">they are hiring</a>.</p> <p>Afterwards we'll head to the pub, <a href=\"http://applecider.co.uk\">The Apple</a> if it's sunny, <a href=\"http://www.hortsbristol.com\">Horts</a> if it's not!</p> <p>--</p> <p><a href=\"http://phpsw.uk/events/221484453-frameworks\">View on the PHPSW website</a></p> ",
+    "end_time": 1431549000,
+    "link": "https://www.meetup.com/php-sw/events/221484453/",
+    "location": {
+        "address": "Prudential Buildings, 11-19 Wine St., Bristol, BS1 2PH, Bristol",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45545196533203,
+        "longitude": -2.592360019683838,
+        "name": "MixRadio"
+    },
+    "org": "phpsw",
+    "start_time": 1431538200,
+    "title": "Frameworks"
+}

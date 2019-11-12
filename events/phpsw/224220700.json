@@ -1,0 +1,16 @@
+{
+    "description": "<p>In August we're hosting a night of talks about testing!</p> <p>- <b>A Travesty of a Mockery of a...</b><br/>\u00a0\u00a0<a href=\"https://twitter.com/davedevelopment\">Dave Marshall</a>, Software Sapper and Technical Manager at <a href=\"https://www.childcare.co.uk/\">Childcare</a></p> <p>A\u00a0whirlwind tour of test doubles, what they are, how you can use them, when you should use them.</p> <p>- <b>Is TDD dead?\u00a0A cheeky guide to phpspec</b><br/>\u00a0\u00a0<a href=\"https://twitter.com/super_marek\">Marek Matulka</a>, Software Engineer at <a href=\"https://sensiolabs.com/\">SensioLabsUK</a></p> <p>A look at phpspec and why it could be an alternative to phpunit.</p> <p>--</p> <p><a href=\"http://www.mixrad.io\">MixRadio</a> have kindly offered to host the evening at their office, and provide drinks and pizza. Don't forget to check them out- and if you're looking, <a href=\"http://dev.mixrad.io/jobs\">they are hiring</a>.</p> <p>Afterwards we'll head to the pub, <a href=\"http://applecider.co.uk\">The Apple</a> if it's sunny, <a href=\"http://www.hortsbristol.com\">Horts</a> if it's not!</p> <p>--</p> <p><a href=\"http://phpsw.uk/events/224220700-testing\">View on the PHPSW website</a></p> ",
+    "end_time": 1439411400,
+    "link": "https://www.meetup.com/php-sw/events/224220700/",
+    "location": {
+        "address": "Prudential Buildings, 11-19 Wine St., Bristol, BS1 2PH, Bristol",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45545196533203,
+        "longitude": -2.592360019683838,
+        "name": "MixRadio"
+    },
+    "org": "phpsw",
+    "start_time": 1439400600,
+    "title": "Testing"
+}

@@ -1,0 +1,16 @@
+{
+    "description": null,
+    "end_time": 1331762400,
+    "link": "https://www.meetup.com/php-sw/events/53990912/",
+    "location": {
+        "address": "19 Guinea Street, Bristol, BS1 6SX",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44744873046875,
+        "longitude": -2.593087911605835,
+        "name": "The Golden Guinea"
+    },
+    "org": "phpsw",
+    "start_time": 1331751600,
+    "title": "Talk on unit testing and one other TBA"
+}

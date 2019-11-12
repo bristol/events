@@ -1,0 +1,16 @@
+{
+    "description": null,
+    "end_time": 1349902800,
+    "link": "https://www.meetup.com/php-sw/events/85545952/",
+    "location": {
+        "address": "19 Guinea Street, Bristol, BS1 6SX",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44744873046875,
+        "longitude": -2.593087911605835,
+        "name": "The Golden Guinea"
+    },
+    "org": "phpsw",
+    "start_time": 1349892000,
+    "title": "Talks on Zend Framework 1 to Zend Framework 2 and Website Optimisation"
+}

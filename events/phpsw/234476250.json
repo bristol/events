@@ -1,0 +1,16 @@
+{
+    "description": "<p>In October we're hosting a night of talks around the theme of Decoupling. This month we'll be at BrightPearl.\u00a0</p> <p>We've got 2 talks lined up already (and if\u00a0you want to do a talk (full or lightening) about AOP then it's not too late!).</p> <p>- <b>Solid Structure</b>\u00a0<br/>\u00a0<a href=\"http://www.meetup.com/php-sw/members/39370012\">Dan Ackroyd</a>, Independent C + PHP developer, Imagick maintainer. That guy with the beard.</p> <p>Dan is going to attempt to explain how to build modern testable application using a DIC container.\u00a0</p> <p>He\u2019ll also talk about the limits of what can be written as clean code that makes you happy and you should handle having horrible untestable code.\u00a0</p> <p>-\u00a0<b>An Eventful talk<br/></b><a href=\"http://www.meetup.com/php-sw/members/104883962\">Dave Liddament</a>,\u00a0Director and developer at\u00a0<a href=\"http://www.lampbristol.com/\">Lamp Bristol</a>.</p> <p>Dave is going given an introduction to events. We\u2019ll look at some examples of how they are used and the benefits (and downsides) of using them and how they can lead to decoupled code.\u00a0</p> <p>Finally we\u2019ll look at how events are used frameworks like Symfony 3 and Laravel .\u00a0</p> <p>--</p> <p><a href=\"http://www.brightpearl.com/\">Brightpearl</a>\u00a0have kindly offered to host the evening at their office, and as always we'll sort out some ales, lagers, soft drinks and snacks. Don't forget to check them out - and if you're looking, they are hiring.</p> <p>Afterwards we'll head to the pub, probably the\u00a0<a href=\"http://volunteertavern.co.uk/real-ales\">Volunteer Tavern</a>!</p> <p>--</p> <p><a href=\"http://phpsw.uk/events/233853545-security\">View on the PHPSW website</a></p> ",
+    "end_time": 1476304200,
+    "link": "https://www.meetup.com/php-sw/events/234476250/",
+    "location": {
+        "address": "New Bond House, Bond Street, Bristol BS2 9AG",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.460060119628906,
+        "longitude": -2.584520101547241,
+        "name": "Brightpearl"
+    },
+    "org": "phpsw",
+    "start_time": 1476293400,
+    "title": "Decoupling"
+}

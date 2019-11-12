@@ -1,0 +1,16 @@
+{
+    "description": "<p>In September we're hosting a night of talks about security. This month we'll be at BaseKit.</p> <p>We've got 3 talks lined up for this month!</p> <p>- <b>AWS Security Fundamentals</b>\u00a0<br/><a href=\"http://www.meetup.com/php-sw/members/121414702/\">Chris Caplan</a>,\u00a0IT Support Technician at <a href=\"http://www.ultimatefinance.co.uk/\">Ultimate Finance Group</a></p> <p>Security is the number on thing in any IT infrastructure, even more so if it's in the cloud.\u00a0So in this talk, we go over the basics of making your AWS account and infrastructure sec. We will be talking about:</p> <p>\u2022 Making sure that the root account it secure</p> <p>\u2022\u00a0How to implement the use of the IAM (Identity and Access Management) Service</p> <p>\u2022\u00a0How to use the AWS services within your instances the correct way</p> <p>-\u00a0<b>Securing Distributed Software</b><br/>\u00a0<a href=\"http://www.meetup.com/php-sw/members/6076812\">Drew McLellan</a>, Lead developer on Perch CMS and publisher of <a href=\"http://24ways.org/\">24 ways</a></p> <p>Managing the security of your own project is one thing - but what happens when your software is installed on tens of thousands of hosting accounts that you don\u2019t control? Find out how those challenges are faced with Perch CMS, and what happened last year when an exploitable security bug with found within a default plugin.</p> <p>-\u00a0<b>A Newbie's Guide to Being Secure</b><br/>\u00a0<a href=\"https://twitter.com/jimbomorrison\">Jim Morrison</a>,\u00a0Entrepreneur, CTO, coder and founder of <a href=\"http://deepbluesky.com/\">Deep Blue Sky</a></p> <p>Deep Blue Sky is quite a new, young firm building some big platforms that have some pretty serious data-security requirements and broad audiences in plenty of technically challenging environments.</p> <p>Last month we went through our first formal CESG approved PenTest as part of a Government Service Assessment - and we've another commercial PenTest this month.</p> <p>As a team pretty new to this level of scrutiny and data-responsibility I thought I'd do a few slides on the basics - a newbie's guide to being secure - and what we've learned over the past few months.</p> <p>--</p> <p><a href=\"http://www.basekit.com/\">BaseKit</a>\u00a0have kindly offered to host the evening at their office, and as always we'll sort out some ales, lagers, soft drinks and snacks. Don't forget to check them out - and if you're looking, they are hiring.</p> <p>Afterwards we'll head to the pub, probably the\u00a0<a href=\"http://volunteertavern.co.uk/real-ales\">Volunteer Tavern</a>!</p> <p>--</p> <p><a href=\"http://phpsw.uk/events/233853545-security\">View on the PHPSW website</a></p> ",
+    "end_time": 1473885000,
+    "link": "https://www.meetup.com/php-sw/events/233853545/",
+    "location": {
+        "address": "5th Floor, One Castlepark, Tower Hill",
+        "city": "Bristol, BS2 0JA",
+        "country": "gb",
+        "latitude": 51.4552116394043,
+        "longitude": -2.5848910808563232,
+        "name": "BaseKit"
+    },
+    "org": "phpsw",
+    "start_time": 1473874200,
+    "title": "Security"
+}

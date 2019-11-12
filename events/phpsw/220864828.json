@@ -1,0 +1,16 @@
+{
+    "description": "<p>We're trying something a little different this month \u2013 a joint night with the new and upcoming WordPress usergroup, <a href=\"http://www.meetup.com/Bristol-WordPress-People/events/220865568\">Bristol WordPress People</a>. Do check them out and join their group if you're interested in hearing more from them!</p> <p>-\u00a0<b>Using Twig and Symfony2 forms in WordPress</b><br/>\u00a0\u00a0<a href=\"http://www.meetup.com/php-sw/members/66068452\">Carl Hughes</a>, Freelance Web Developer</p> <p>-\u00a0<b>Integrating a blog into your framework application using trickery, Varnish &amp; ESI</b><br/>\u00a0\u00a0<a href=\"http://www.meetup.com/php-sw/members/13915585\">Steve Lacey</a>, Ruby, PHP &amp; Python Developer at <a href=\"http://simpleweb.co.uk\">Simpleweb</a></p> <p>-\u00a0<b>Hosting, PHP, Version Numbers and WordPress - an introduction &amp; review </b><br/>\u00a0\u00a0<a href=\"http://www.meetup.com/php-sw/members/57609912/\">Jenny Wong</a>, Web Developer &amp; Community Cheer Leader at <a href=\"http://hmn.md/\">Human Made</a></p> <p>--</p> <p><a href=\"http://www.meetup.com/Bristol-WordPress-People/events/220865568\">&lt;/a&gt;</p> <p>&lt;a href=\"http://www.meetup.com/Bristol-WordPress-People/events/220865568\"&gt;<img src=\"http://photos2.meetupstatic.com/photos/event/4/b/d/f/600_434899423.jpeg\" /></a></p> <p>--</p> <p><a href=\"http://www.basekit.com\">BaseKit</a> have kindly offered to host the evening at their office, and as always we'll sort out some ales, lagers, soft drinks and snacks. Don't forget to check them out- and if you're looking, they are hiring.</p> <p>Afterwards we'll head to <a href=\"http://www.hortsbristol.com\">Horts</a>!</p> <p>--</p> <p><a href=\"http://phpsw.org.uk/events/220864828-wordpress-beyond-the-wild-west\">View on the PHPSW website</a></p> ",
+    "end_time": 1426111200,
+    "link": "https://www.meetup.com/php-sw/events/220864828/",
+    "location": {
+        "address": "4th Floor, The Pithay, BS1 2ND ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45576858520508,
+        "longitude": -2.592099905014038,
+        "name": "BaseKit Office (Bristol)"
+    },
+    "org": "phpsw",
+    "start_time": 1426100400,
+    "title": "WordPress beyond The Wild West"
+}

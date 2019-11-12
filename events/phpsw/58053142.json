@@ -1,0 +1,16 @@
+{
+    "description": "<p><b>Javascript Testing</b> (Andrew Martin)</p> <p>JS Unit Testing: The State of the Art Backbone Model/View\u00a0Testing \u00a0</p> <p><b>Symfony2</b> (Dom Udall)</p> <p>Symfony2: An Overview \u00a0</p> <p>To be preceded, followed and interrupted by beer, Mexico's finest chilli and vocal dissent.</p> ",
+    "end_time": 1334178000,
+    "link": "https://www.meetup.com/php-sw/events/58053142/",
+    "location": {
+        "address": "19 Guinea Street, Bristol, BS1 6SX",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44744873046875,
+        "longitude": -2.593087911605835,
+        "name": "The Golden Guinea"
+    },
+    "org": "phpsw",
+    "start_time": 1334167200,
+    "title": "Talks on Javascript (Unit|Backbone) Testing and Symfony2"
+}
