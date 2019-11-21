@@ -1,6 +1,6 @@
 {
-    "description": "<p>As this is now General Election day, we're going to change the date. The new date will probably be in early January. Check back soon!</p> ",
-    "end_time": 1576184400,
+    "description": "<p>** Rescheduled from December due to General Election **</p> <p>We have one speaker confirmed so far, and one more in the pipeline!</p> <p>* Benjamin Elsworth - Creating, indexing and hosting 250 billion genetic associations</p> <p>Ben works as a Research Fellow at the University of Bristol, focusing on deriving mechanistic insight from multivariate biomedical data sets. He has developed the infrastructure for one of the world\u2019s largest collections of genetic association data - the IEU GWAS Database (<a href=\"https://gwas.mrcieu.ac.uk/\" class=\"linkified\">https://gwas.mrcieu.ac.uk/</a>). This platform is used globally to tackle various key health problems, from predicting causal relationships between risk factors and disease to identifying potential drug repurposing events. Learn first hand about some of the challenges and approaches to working with data at this kind of scale with ElasticSearch.</p> <p>As usual, the venue and drinks will be provided by Cookpad and great food will be sponsored by Elastic. Thanks! :)</p> <p>Doors, drinks and food from 6:30, talks start promptly at 7pm. You'll also have a chance to make community announcements (if you have anything Elastic related to share, including hiring).</p> <p>Finally, if you've something to share, we're always looking for speakers. Remember, not all talks require you to be the world's leading expert on your topic. Learning curve stories are also REALLY helpful to our community. We're very supportive of first time speakers too. Go on! You know you want to! Just get in touch with one of the organisers via Meetup or at the event.</p> ",
+    "end_time": 1579206600,
     "link": "https://www.meetup.com/South-West-Elastic-Fantastics/events/265525501/",
     "location": {
         "address": "1 Broad Plain",
@@ -11,6 +11,6 @@
         "name": "Cookpad"
     },
     "org": "elastic",
-    "start_time": 1576175400,
-    "title": "Elastic December Meet-up"
+    "start_time": 1579199400,
+    "title": "Elastic January - 250 billion genetic associations"
 }
