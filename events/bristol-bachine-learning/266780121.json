@@ -1,0 +1,16 @@
+{
+    "description": "<p>Welcome to the 10th Bristol Machine Learning Meetup!</p> <p>This month we will be returning to the Watershed caf\u00e9/bar for a Social Meetup. There will be no speakers, just a chance to meet-up with like minded people and talk about all things ML/AI (or whatever you want to talk about..).</p> <p>Hope to see you there!</p> ",
+    "end_time": 1576094400,
+    "link": "https://www.meetup.com/Bristol-Machine-Learning/events/266780121/",
+    "location": {
+        "address": "1 Canon's Rd",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451393127441406,
+        "longitude": -2.5982589721679688,
+        "name": "Watershed"
+    },
+    "org": "bristol-bachine-learning",
+    "start_time": 1576087200,
+    "title": "Bristol Machine Learning #10 - Social one"
+}
