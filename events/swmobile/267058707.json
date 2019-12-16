@@ -2,7 +2,14 @@
     "description": "<p>In December we traditionally take a break from organising speakers, venues and food and skip to one of our favourite parts of the meetup - Chatting and catching up with members in the pub \ud83c\udf79\ud83c\udf7b \ud83c\udf77 (in Bristol centre venue TBC)</p> <p>We're currently looking for speakers for January's Meetup, so if you're interested in \ud83d\udde3 please submit a short form at <a href=\"http://cfp.swmobile.org/\" class=\"linkified\">http://cfp.swmobile.org/</a> (it's not a scary form and don't worry if you've not fully formed your talk idea!).</p> <p>If you're a first time member and/or don't know anyone and don't want to turn up on your own, drop us an email on [masked]</p> <p>P.S. There will *not* be any food provided by us at this event. Although you can order food.</p> ",
     "end_time": 1576616400,
     "link": "https://www.meetup.com/swmobile/events/267058707/",
-    "location": null,
+    "location": {
+        "address": "26 Broad St",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45567321777344,
+        "longitude": -2.594702959060669,
+        "name": "The Strawberry Thief"
+    },
     "org": "swmobile",
     "start_time": 1576609200,
     "title": "SWmobile xmas social"
