@@ -1,6 +1,6 @@
 {
     "description": "<p>We have opened registration for a new round of mentorships (<a href=\"https://wiki.codehub.org.uk/mentoring\" class=\"linkified\">https://wiki.codehub.org.uk/mentoring</a>). This is an opportunity for everybody interested to meet up in person.</p> <p>We will give an introduction to how we have been running the mentorship programme, followed by a discussion where you will be able to ask questions and make suggestions. We will also look at how we could extend the programme to run on an ongoing basis.</p> <p>If you are interested in finding a mentor, please fill in this form:<br/><a href=\"https://forms.gle/zUeWpR65qjM9vF7e8\" class=\"linkified\">https://forms.gle/zUeWpR65qjM9vF7e8</a></p> <p>If you would like to be a mentor, the form is here:<br/><a href=\"https://forms.gle/LewoMpfi2Jr9CEHd9\" class=\"linkified\">https://forms.gle/LewoMpfi2Jr9CEHd9</a></p> <p>Please also join the #mentoring channel on Slack (slack.codehub.org.uk).</p> <p>This event is part of Workshop Wednesdays, hosted by Women's Tech Hub Bristol: <a href=\"https://www.meetup.com/Womens-Tech-Hub-Bristol/events/\" class=\"linkified\">https://www.meetup.com/Womens-Tech-Hub-Bristol/events/</a><br/>Women\u2019s Tech Hub runs a no recruiter and a strict social media policy which you can find in their code of conduct. Please note that places are limited, and where necessary priority will be given to minority group members to ensure a diverse group.</p> ",
-    "end_time": 1579550400,
+    "end_time": 1579118400,
     "link": "https://www.meetup.com/CodeHub-Bristol/events/267367839/",
     "location": {
         "address": "Redcliffe Way",
@@ -11,6 +11,6 @@
         "name": "DeskLodge House"
     },
     "org": "CodeHub-Bristol",
-    "start_time": 1579543200,
+    "start_time": 1579111200,
     "title": "Mentorship Kickoff at Workshop Wednesdays"
 }
