@@ -1,0 +1,16 @@
+{
+    "description": "<p>In January join us at Runway East for 2 great talks, where we take a look at strict typing and static analysis.</p> <p>A new year provides a great excuse to come along to PHPSW, whether it's your first time, first time in a while, or you're a regular attendee.</p> <p>SR2 \u2013 Socially Responsible Recruitment (<a href=\"https://www.sr2rec.co.uk/\" class=\"linkified\">https://www.sr2rec.co.uk/</a>) in Bristol are kindly helping us host this evening, allowing us to have a larger space so more people can attend. Thanks to them!</p> <p>This month's talks are:</p> <p>- Strict typing and static analysis<br/>Rob Allen</p> <p>PHP 7 introduced type declarations and so brought PHP into the world of strict typing. Each subsequent release in the 7 series has improved this and PHP 7.4 is no different with exciting new type features. In addition, PHP 7 enabled static analysis tools that coupled with type declarations enable us to significantly remove bugs in our code before we even run it! In this talk, I will review PHP's strict type system, including the new PHP 7.4 features and show how they can make our code safer and clearer and easier to reason about. We will then turn our attention to the available static analysis tools and look at how, with strict typing, we can eliminate whole classes of bugs and make our applications better. By the end of this session, you will be well placed to write better PHP code that has fewer bugs and works as you expect every time.</p> <p>- Second Talk TBC</p> <p>After the talks we'll head somewhere for drinks.</p> <p>--<br/>Your first time coming to PHPSW? Welcome!</p> <p>Here's how the evening tends to run:<br/>* Feel free to turn up from 6:30pm.<br/>* We'll have pizza and a selection of soft drinks &amp; alcoholic drinks available from about 6:45pm, all free of charge thanks to our sponsors. It's a great chance to speak to people (we're a friendly bunch!) and do a bit of networking. Just speak to an organiser if you'd like an introduction to people, or just dive in and say \"hello!\".<br/>* At 7pm, we'll do a quick welcome talk and some community announcements<br/>* At ~7:10pm we'll have our first talk<br/>* After our first talk, there's a small break whilst we switch over speakers<br/>* At ~8:10pm We have our second talk<br/>* We finish at ~9pm. We always go for a drink somewhere afterwards to discuss the talks and anything else that takes your fancy.</p> <p>--<br/>As always, a big thanks to our meetup sponsors Ents24 (<a href=\"http://www.ents24.com/\" class=\"linkified\">http://www.ents24.com/</a>), Brightpearl (<a href=\"http://www.brightpearl.com/\" class=\"linkified\">http://www.brightpearl.com/</a>), Space 48 (<a href=\"https://www.space48.com/\" class=\"linkified\">https://www.space48.com/</a>) &amp; OneSub (<a href=\"https://onesub.io/\" class=\"linkified\">https://onesub.io/</a>) without whom we wouldn't be able to put on our meetups.</p> ",
+    "end_time": 1578517200,
+    "link": "https://www.meetup.com/php-sw/events/267402579/",
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
+    "org": "phpsw",
+    "start_time": 1578509100,
+    "title": "A New Type of Year"
+}
