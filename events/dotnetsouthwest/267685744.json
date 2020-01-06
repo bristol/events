@@ -1,0 +1,16 @@
+{
+    "description": "<p>Happy new year!</p> <p>To kick off 2020, we've got Jon Skeet coming to Bristol to talk about everything that's new with C# 8.</p> <p>\u26a0 Note - this event is taking place at DNV GL, not Just Eat</p> <p>\ud83d\udc69\u200d\ud83d\udcbb About Jon:<br/>Jon Skeet is \"that C# guy from Stack Overflow\". Elsewhere, he's a Staff Developer Programs Engineer at Google London, maintaining the .NET client libraries for Google Cloud Platform, amongst other things.</p> <p>\ud83c\udfa4The talk:<br/>C# 8. It's the 8th major version of C#. It has lots of features. You'll find out about them.</p> <p>\u231a Come along from 18:30 - we'll aim to start the talk at 19:00</p> ",
+    "end_time": 1579725000,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/267685744/",
+    "location": {
+        "address": "Avon Street, Temple Quay",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45210647583008,
+        "longitude": -2.579474925994873,
+        "name": "DNV GL"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1579717800,
+    "title": "C# 8 with Jon Skeet"
+}
