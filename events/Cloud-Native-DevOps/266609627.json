@@ -1,14 +1,14 @@
 {
-    "description": "<p>After taking a brief break, the DevOps &amp; cloud native meetup returns with 3 delightful speakers</p> <p>19:00 - arrive</p> <p>19:00 - 19:20 - networking, pizza, drinks etc</p> <p>Then the talks -</p> <p>Oliver Davies will give a talk on 'Deploying PHP applications with Ansible, Ansible Vault and Ansistrano'</p> <p>Summary: Great! You\u2019ve built your website, and now you just need to deploy it. There are various ways that this could be done - from (S)FTP, to SCP and rsync, to running commands like git pull and composer install directly on the server which is not ideal. I've been using Ansible and Ansistrano to deploy a variety of PHP projects - including Drupal 7 &amp; 8, Symfony, Laravel and Sculpin, as well as basic HTML websites, and found it to be very flexible and easy to install and use, and by the end of this talk we will have a fully working deployment playbook, deploying real code onto a real server.</p> <p>Tim Berry will give a talk on \"Learning Go for Cloud Native Apps\"</p> <p>Learning Go for Cloud Native Apps</p> <p>Why is learning Go so hard? Maybe it isn't for you. It was for me! Go tutorials and references seem to be either a terse walkthrough of the entire structure of the language, or an esoteric exploration of its advanced features. There's not a lot in between! So to address that, this talk will take a whistle-stop tour through actually building something useful with Go, and running it on a serverless platform.</p> ",
+    "description": "<p>--- Special thanks to OVO for hosting/sponsoring the event ---</p> <p>After taking a brief break, the DevOps &amp; cloud native meetup returns with 2 delightful speakers</p> <p>19:00 - arrive</p> <p>19:00 - 19:20 - networking, pizza, drinks etc</p> <p>Then the talks -</p> <p>Oliver Davies will give a talk on 'Deploying PHP applications with Ansible, Ansible Vault and Ansistrano'</p> <p>Summary: Great! You\u2019ve built your website, and now you just need to deploy it. There are various ways that this could be done - from (S)FTP, to SCP and rsync, to running commands like git pull and composer install directly on the server which is not ideal. I've been using Ansible and Ansistrano to deploy a variety of PHP projects - including Drupal 7 &amp; 8, Symfony, Laravel and Sculpin, as well as basic HTML websites, and found it to be very flexible and easy to install and use, and by the end of this talk we will have a fully working deployment playbook, deploying real code onto a real server.</p> <p>Tim Berry will give a talk on \"Learning Go for Cloud Native Apps\"</p> <p>Learning Go for Cloud Native Apps</p> <p>Why is learning Go so hard? Maybe it isn't for you. It was for me! Go tutorials and references seem to be either a terse walkthrough of the entire structure of the language, or an esoteric exploration of its advanced features. There's not a lot in between! So to address that, this talk will take a whistle-stop tour through actually building something useful with Go, and running it on a serverless platform.</p> ",
     "end_time": 1580418000,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/266609627/",
     "location": {
-        "address": null,
+        "address": "1 Rivergate",
         "city": "Bristol",
         "country": "gb",
-        "latitude": 51.45451354980469,
-        "longitude": -2.5879099369049072,
-        "name": "Bristol"
+        "latitude": 51.45026397705078,
+        "longitude": -2.5841450691223145,
+        "name": "OVO Energy"
     },
     "org": "Cloud-Native-DevOps",
     "start_time": 1580410800,
