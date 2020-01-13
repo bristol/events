@@ -1,9 +1,16 @@
 {
     "description": "<p>Why should I care? - Answers to questions you dare not ask about gender equality by Tiffany Dawson</p> <p>So you've heard that you should support gender diversity but have you been too afraid to ask why? With all the man-shaming that goes on in gender balance conversations, it can be hard to learn what you need in order to support this cause. Come along to hear Tiffany Dawson shed light on:</p> <p>- What the gender balance landscape in the UK Tech industry looks like<br/>Why a career in tech is still a challenge for women today<br/>- How achieving gender balance will benefit you<br/>- Simple tips you can take back your workplace</p> <p>------</p> <p>Talk #2 - TBC</p> ",
-    "end_time": 1582741800,
+    "end_time": 1580329800,
     "link": "https://www.meetup.com/BristolJS/events/267804128/",
-    "location": null,
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
     "org": "bristoljs",
-    "start_time": 1582734600,
+    "start_time": 1580322600,
     "title": "February 2020 - Gender equality in Tech & TBC"
 }
