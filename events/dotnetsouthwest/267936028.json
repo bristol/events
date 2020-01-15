@@ -1,0 +1,16 @@
+{
+    "description": "<p>We'll be taking part in the .NET Tour UK 2020, a series of concurrent community meetup events with amazing .NET speakers.</p> <p>\u2757\ufe0fPlease note this event will be hosted in the wonderful ALD Automotive office, not in our usual city centre locations.</p> <p>We'll post more details shortly!</p> ",
+    "end_time": 1580245200,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/267936028/",
+    "location": {
+        "address": "Oakwood Drive Emersons Green",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.503170013427734,
+        "longitude": -2.4721479415893555,
+        "name": "ALD Automotive, Bristol (Head Office)"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1580235300,
+    "title": ".NET Tour UK 2020 Special Event"
+}
