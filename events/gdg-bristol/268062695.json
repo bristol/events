@@ -1,0 +1,16 @@
+{
+    "description": "<p>Save the date for GDG Bristol's March meetup! If you would like to present a talk please email us at [masked]</p> ",
+    "end_time": 1584651600,
+    "link": "https://www.meetup.com/GDG-Bristol/events/268062695/",
+    "location": {
+        "address": "2nd Floor Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "Just Eat"
+    },
+    "org": "gdg-bristol",
+    "start_time": 1584644400,
+    "title": "GDG Bristol March Meetup"
+}
