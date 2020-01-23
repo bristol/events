@@ -1,5 +1,5 @@
 {
-    "description": "<p>After talking about deploying applications using PHP last month, we are now delving into running cloud applications on AWS. There is also a mystery speaker from a household name in the open source space.</p> <p>19:00 - arrive</p> <p>19:00 - 19:20 - networking, pizza, drinks etc</p> <p>19:25 - 20:00 Neil Millard, DevOps consultant at Equal Experts will give a talk on 'Running Cloud Applications on AWS'. There is more than one way to deploy configuration to run applications on AWS. In this talk we will discuss 3 of them; Fargate, ECS and EC2 instances.</p> <p>Of course Apps don\u2019t run in a vacuum, so this talk will tell the audience about the dependencies that need to be met, in order to run your app in a robust and error free way on the Cloud.</p> <p>20:00 - 20:30 - Mystery speaker talking about something mysterious.</p> ",
+    "description": "<p>After talking about deploying applications using PHP last month, we are now delving into running cloud applications on AWS. There will also be a Kubernetes talk from someone working at a household name in the open source space. Details TBC.</p> <p>19:00 - arrive</p> <p>19:00 - 19:20 - networking, pizza, drinks etc</p> <p>19:25 - 20:00 Neil Millard, DevOps consultant at Equal Experts will give a talk on 'Running Cloud Applications on AWS'. There is more than one way to deploy configuration to run applications on AWS. In this talk we will discuss 3 of them; Fargate, ECS and EC2 instances.</p> <p>Of course Apps don\u2019t run in a vacuum, so this talk will tell the audience about the dependencies that need to be met, in order to run your app in a robust and error free way on the Cloud.</p> <p>20:00 - 20:30 - Kubernetes talk, details TBC</p> ",
     "end_time": 1582664400,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/268107573/",
     "location": {
@@ -12,5 +12,5 @@
     },
     "org": "Cloud-Native-DevOps",
     "start_time": 1582657200,
-    "title": "DevOps talks - Running Cloud Applications on AWS & a mystery talk"
+    "title": "DevOps talks - Running Cloud Applications on AWS & a Kubernetes talk"
 }
