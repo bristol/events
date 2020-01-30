@@ -1,0 +1,16 @@
+{
+    "description": "<p>TBC</p> ",
+    "end_time": 1582839000,
+    "link": "https://www.meetup.com/OWASP-Bristol/events/268319030/",
+    "location": {
+        "address": "Floor 4, Broad Quay House, Broad Quay Bristol  BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45170974731445,
+        "longitude": -2.596795082092285,
+        "name": "Forgerock"
+    },
+    "org": "OWASP-Bristol",
+    "start_time": 1582826400,
+    "title": "TBC"
+}
