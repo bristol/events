@@ -1,0 +1,16 @@
+{
+    "description": "<p>This month we\u2019ve got\u00a0<a href=\"http://briste.ch/speakers/tom-kelly.html\">Tom Kelly</a>\u00a0and\u00a0<a href=\"http://briste.ch/speakers/david-luna.html\">David Luna</a>\u00a0joining us to give us talks about Gamification and the FIDO Alliance.</p> <p><b>Gamification</b> Gamification has quickly become the new marketting buzzword to push for, but what does it really involve, and is it right for you?</p> <p>This talk takes a look at what Gamification involves, and how it has been used. You\u2019ll see the core concepts of games (not just video games), and how these motivate players to keep playing.</p> <p>We will take a look at how these ideas can be applied to other products to increase their user base and usability, and some games which you can use to increase your own productivity. We will also take a look at the dangers of how haphazardly applying these concepts can damage a product.</p> <p><b>FIDO Alliance, Passwordless Authentication</b> Passwords are crap. That\u2019s the basic premise behind the thinking of the FIDO Alliance, a collection of companies coming together to produce specifications intent of bringing advancements to the problems facing modern authentication. Their initial draft specifications for a Universal Authentication Framework (UAF) and Universal 2nd Factor (U2F) present a new paradigm for authentication, utilising public key infrastructure with a focus on pluggable authentication via a user\u2019s personal, local device.</p> <p>This brief talk will give an introduction to the FIDO Alliance, the core principles of and the two current draft specifications, looking at new ways of authenticating in the passwordless near-future.</p> ",
+    "end_time": 1409864400,
+    "link": "https://www.meetup.com/bristech/events/174656222/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1409853600,
+    "title": "September - Gamification (Tom Kelly) and FIDO - Passwordless Auth. (David Luna)"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "<p>// Ed Conolly - Tackling Climate Change with Kafka<br/>Climate change is one of our greatest problems. We've made substantial steps forward to increase the amount of renewable generation on our power grids but we're reaching a critical stage that determines our ability to make renewable energy truly ubiquitous.</p> <p>Power grids are built on the concept of equal supply and demand. In order to achieve this generation needs to be constant and demand predictable. As we move to more renewable sources we uncover substantial issues with the consistency and control with which we can generate energy. Currently this prevents us from truly 100% renewable grids.</p> <p>Using Kafka and IoT connected devices (wall mounted batteries, EVs, storage heaters) we're building a distributed network of power storage in customers homes that drives down the cost of power for customers and unlocks the potential for a truly carbon free power grid.</p> <p>In this talk I'll discuss some of the issues we face trying to create 100% renewable grids and how Kafka helps our various systems process huge amounts of telemetry data from our connected devices, the grid and other systems to make decisions about when to charge, discharge or do nothing to thousands of connected assets.</p> <p>This talk covers Kafka concepts but focuses on climate change and how breakthroughs in technology can help us solve meaningful problems.</p> <p>// About Ed</p> <p>Group CTO @ OVO. Organiser of AngularConnect. Extreme programming advocate. Distributed systems and open source enthusiast. Trying to help make the world better with tech.</p> <p>// David Barton - Solving the Travelling Salesman Problem with a Neo4j Graph<br/>\u201cAs a Bath Christmas Market shopper, I would like to visit the chalets from where I want to buy gifts as efficiently as possible, so that I can get home before Christmas starts.\u201d</p> <p>This requirement can be framed as something similar to the Travelling Salesman Problem (TSP). After some introduction to Neo4j the talk will look at how we can solve problem using a Neo4j graph.</p> <p>// About David<br/>David has been working in software for around 25 years, in companies ranging from startups to large corporates. His expertise includes software development, database design, system integration and functional architecture. As well as working on his own software, he offers freelance, contract and consultancy services.</p> ",
+    "end_time": 1556827200,
+    "link": "https://www.meetup.com/bristech/events/259388187/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1556820000,
+    "title": "#59 ED CONOLLY - TACKLING CLIMATE CHANGE W KAFKA / DAVID BARTON - NEO4J GRAPHDB"
+}

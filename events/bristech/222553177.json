@@ -1,0 +1,16 @@
+{
+    "description": "<p>Jamie Bowen: Identity in the Internet of Things</p> <p>In this talk Jamie will explain how fundamental identity is to the the internet of things and show some common architectures and patterns that allow identity to be applied to people, things and the relationships between them.</p> <p>About Jamie<br/>Jamie started out life putting military flight simulators on the internet so they could become a tool for strategic as well as flight training. He then joined a start up based in Southwest England that used identity and data content analysis to enforce financial institution's data compliance regulations. The startup was bought by CA Technologies in 2009 where Jamie served on the Security BU's Architecture Council.</p> <p>At ForgeRock Jamie works in the Office of the CTO where he has been bringing his skills together in researching how best to bring Identity to the Internet of things, working with partners like ARM.</p> <p>Neil Andrassy: Elastic Search</p> <p>A (very quick) intro to Elastic, Apache Spark and Elastic-Spark</p> <p>* What is Elastic (previously known as ElasticSearch) and what can it do for you? (demo 1)<br/>* What is Apache Spark? (demo 2)<br/>* Linking Elastic and Spark - ElasticSpark (demo 3)</p> <p>About Neil<br/>As CTO at Bath-based company, The Filter, Neil is responsible for guiding and mentoring their engineering team as they build out a scalable big-data platform. With solid foundations in digital music recommendations The Filter's platform now helps businesses to optimise entertainment and retail journeys for a wide variety of customers including BT, Panasonic, Walmart, Maplin and many more</p> ",
+    "end_time": 1433451600,
+    "link": "https://www.meetup.com/bristech/events/222553177/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1433440800,
+    "title": "Jamie Bowen: Identity in the Internet of Things / Neil Andrassy: Elastic Search"
+}

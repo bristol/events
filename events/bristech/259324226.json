@@ -1,0 +1,16 @@
+{
+    "description": "<p>// Tom Richards - Domain &amp; Event Driven Development in Financial Services</p> <p>Reflection on the challenges faced by designing data structures within Financial Services, and how taking a domain/event driven approach can mitigate many of these challenges - whilst providing a bunch of new ones too!</p> <p>// About Tom</p> <p>Tom Richards looks after Redington\u2019s Bristol office and development team. Tom has a passion for optimizing application development, focussing not just on technology but on the process and people that make it happen. Away from work, when he\u2019s not chasing after his two sons, or cycling through the Mendips, Tom loves smashing shuttlecocks at unfortunate victims playing badminton!</p> <p>// Sam Williams - Consensus Algos</p> <p>Today I will talk about something that is provably impossible, making computers agree on stuff. Then I\u2019ll go over some ways of doing it anyway. I\u2019m fascinated by consensus (making computers agree). I think it can dramatically simplify systems, is often over looked, covered in FUD and in need of some attention. Let\u2019s give it some!</p> <p>// About Sam</p> <p>Sam is the Chief Engineer at BJSS Bristol where he works with their awesome teams across a bunch of clients. He\u2019s spent a fair while working in Financial Services, rebuilding a tier 1 global investment banks trading platform, then in a leadership capacity building out a digital delivery department from scratch. There was also a gaming start-up, building a distributed gaming platform and a bunch of digital agencies.</p> ",
+    "end_time": 1554408000,
+    "link": "https://www.meetup.com/bristech/events/259324226/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1554400800,
+    "title": "#58 TOM RICHARDS - DOMAIN & EVENT DRIVEN DEV / SAM WILLIAMS - CONSENSUS ALGOS"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "<p>// Alex Sheehan-Dare - Isomorphic React</p> <p>Single page apps now dominate the web. Has server-rendering fallen out of favour?</p> <p>This talk will cover isomorphic (or universal) apps - apps which can render both on the client and the server using the same code. Using react as the library of choice, I'll discuss the benefits these types of app bring, the difficulties that come with it, and how you might go about building one.</p> <p>// About Alex</p> <p>Ali is 22, went to Newcastle University, created a failed startup, and now works at Scott Logic as a software developer.</p> <p>He enjoys everything front-end, including React, Redux, CSS, and any cool frameworks or libraries which make it easy to write attractive code.<br/>He is also interested in isomorphic (or universal) web development, and the trade-offs that come with it.</p> <p>After being stuck on a bug for 12 hours, he usually resorts to playing drums as a coping mechanism.<br/>He also blogs (<a href=\"http://blog.scottlogic.com/asheehan/\"><a href=\"http://blog.scottlogic.com/asheehan/\" class=\"linkified\">http://blog.scottlogic.com/asheehan/</a></a>) sometimes when he feels like it.</p> <p>// Jonny Tyers -\u00a0Cyber and hacking: how do you do it?</p> <p>We all know the Internet is filled with bad guys, and we are all told to change our passwords and delete incredulous-looking emails to avoid turning our devices into unwitting zombies working on their behalf.</p> <p>It's a scary world out there, but how do the hackers do what they do? How easy is it to thwart their evil schemes? Jonny Tyers takes us through the basics of networking hacking and shows a few techniques (in a sandbox of course!).</p> <p>// About Jonny</p> <p>Sysadmin, developer and cyber security entrepreneur, Jonny has been hacking, coding and reading about computers since the days of 486es and dialup modems. Until recently working with consultancy CGI on secure systems, he lives in Bristol and now builds cyber solutions aimed at small businesses and the non-tech-savvy public.</p> ",
+    "end_time": 1491508800,
+    "link": "https://www.meetup.com/bristech/events/238261805/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1491501600,
+    "title": "Alex Sheehan-Dare: Isomorphic React / Jonny Tyers: Cyber Sec + Hacking"
+}

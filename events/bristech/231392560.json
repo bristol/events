@@ -1,0 +1,16 @@
+{
+    "description": "<p>// Rachel Andrew - The Future of Front End</p> <p>Did you know that CSS has variables, or that you can write feature queries in a similar way to using Modernizr, in native CSS? Have you taken a look at emerging layout methods such as Grid Layout? In this talk I\u2019ll introduce some of the interesting things coming to CSS and also explain how new features get into CSS today, and how you can get involved</p> <p>// About Rachel</p> <p>Rachel is founder and Managing Director of edgeofmyseat.com. Her professional skills range from front and back end development to operations.</p> <p>She has spoken at numerous conferences over the last few years on subjects ranging from\u00a0responsible use of\u00a0CSS, to providing technical support, to launching a product business.</p> <p>She is author or co-author of a number of books\u00a0and countless articles\u00a0for on and offline publications.</p> <p>Her website is <a href=\"http://rachelandrew.co.uk\">rachelandrew.co.uk</a>.</p> <p>// Paul Swartout -\u00a0DevOps - what is it and why is it so valuable?</p> <p>DevOps has fast become one of the latest IT buzzwords and big ticket items for many businesses. So much so that an entire - and very lucrative - sector has sprung up dedicated to DevOps tooling, recruitment, ways of working and consultancy. Paul will attempt to demystify the myth that DevOps has become and provide some background and insight into the fundamentals of the DevOps movement, why it is valuable and how it can make the lives of those working with it so much better.</p> <p>// About Paul</p> <p>Paul has spent over 20 years working in IT - which either means he's very experienced or just very old.\u00a0Starting out as a developer Paul has filled numerous software engineering and management roles over the years\u00a0across a\u00a0number of different sectors and\u00a0organizations of various sizes from start-ups to multi-national corporates. Paul\u00a0is passionate about software and how it is delivered - since first encountering \u201cagile\u201d over a decade ago he has been committed to the\u00a0adoption and implementation of agile techniques and approaches to improve efficiency, output and ultimately the lives of software engineering teams. He\u00a0lives by the coast with his wife, daughters and two small yappy things.\u00a0</p> ",
+    "end_time": 1467925200,
+    "link": "https://www.meetup.com/bristech/events/231392560/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1467914400,
+    "title": "Rachel Andrew - The Future of  Front End / Paul Swartout - DevOps"
+}

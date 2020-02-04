@@ -1,0 +1,16 @@
+{
+    "description": "<p>*Important note - this is a ticketed event via the conference website*</p> <p>Bristech conference returns for a one-day tech conference with 18 speakers.</p> <p>Full-line up of speakers (alphabetical by surname):</p> <p>Peter Allen - Re-rendering perceptions with Svelte</p> <p>Krzysztof Cie\u015blak - LSP - magic behind your IDE</p> <p>Sebastian Coles - Security Cultures and Cheap Talk</p> <p>Daniel Cook - Winning Atari Games with AI</p> <p>Matthias Endler - Wonderful WebAssembly and the future of computing</p> <p>Adam Harwood - Spatial interaction in XR</p> <p>Paul Jones - Infrastructure as Software</p> <p>Ant Kennedy - A journey into Cloud Native Machine Learning</p> <p>Jorge Marin - Testing in production: ideas, experiences, limits, roadblocks</p> <p>Steven Pemberton - Moore's switch</p> <p>Will Richmond-Coggan - Coming of age: a grown up perspective on privacy</p> <p>Emily Rigby - Making 10% time effective</p> <p>Amir Safavi - All your estimates are awful</p> <p>Dylon Sivam &amp; Rowan Smith - Delivering a large scale serverless project in an enterprise environment</p> <p>Chris Skardon - Graph Databases: What and Why?</p> <p>Tom White - Single Cell - Big Data</p> <p>Mark Woods - Using Robotics and AI to explore harsh spaces</p> <p>Tickets on sale now via <a href=\"https://2019.bris.tech\" class=\"linkified\">https://2019.bris.tech</a></p> ",
+    "end_time": 1573146000,
+    "link": "https://www.meetup.com/bristech/events/264778657/",
+    "location": {
+        "address": "1 Canon's Rd",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451393127441406,
+        "longitude": -2.5982589721679688,
+        "name": "Watershed"
+    },
+    "org": "bristech",
+    "start_time": 1573117200,
+    "title": "Bristech 2019 @ The Watershed - https://2019.bris.tech"
+}

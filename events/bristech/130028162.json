@@ -1,0 +1,16 @@
+{
+    "description": null,
+    "end_time": 1378414800,
+    "link": "https://www.meetup.com/bristech/events/130028162/",
+    "location": {
+        "address": "Nelson Street, Bristol, BS1 2LE. ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45669174194336,
+        "longitude": -2.593208074569702,
+        "name": "The Island"
+    },
+    "org": "bristech",
+    "start_time": 1378404000,
+    "title": "Rob Fletcher on @betamaxtest, and Andrew Nesbitt on Nodecopter.js"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "<p>This month we have two talks from local developers on Agile and Open Source:</p> <p>Why Scrum isn't Agile but you should be - David Thomas</p> <p>The terms Agile and Scrum are used widely, synonymously, and often incorrectly. This talk aims to demonstrate that they are very different ideas, that aiming to do Scrum is not Agile, and that Agility is something worth aiming for.</p> <p>\"I\u2019ve been a developer in Bristol since graduating here in 2007. Over that time I\u2019ve become more interested in the process of how software is made rather than the making of software itself. To that end I\u2019ve developed a strong interest in Agile development and interactions between people and teams.\"</p> <p>Open-source licensing - Upayavira</p> <p>There is much more to creating open source code than applying a licence to it. Successful open source projects eventually need to consider questions of governance, trademarks, and many more issues. In this talk, Upayavira will explain some of the issues that he has seen projects at the ASF struggle with, and share some of the solutions the ASF offers, and how these might apply to open source projects more generally.</p> <p>\"As well as being a software developer, trainer and entrepreneur, Upayavira is a member of the Apache Software Foundation, and currently their VP Fundraising. During his involvement at the ASF, he has watched many discussions about open source development, licensing and governance.\"</p> ",
+    "end_time": 1412283600,
+    "link": "https://www.meetup.com/bristech/events/192959942/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1412272800,
+    "title": "October: Open-source licensing (Upayavira) , Scrum is not Agile (David Thomas)"
+}

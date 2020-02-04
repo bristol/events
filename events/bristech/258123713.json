@@ -1,0 +1,16 @@
+{
+    "description": "<p>// PHIL WISE - BEYOND RASPBIAN: BUILDING EMBEDDED LINUX DEVICES</p> <p>This talk will explain how to build software for embedded Linux IoT devices once they are out of the lab and into production. I'll describe how to build OS images using Yocto/OpenEmbedded, and the value that approach provides for production projects.</p> <p>// ABOUT PHIL</p> <p>Phil Wise is a freelance embedded Linux consultant. He was previously a Lead Senior Engineer at HERE Technologies. His team contributed Software Over The Air update functionality to the AGL Automotive Grade Linux project and maintains the 'meta-updater' Yocto layer for software updates.</p> <p>He has presented at Embedded Linux Conference (ELC), the OpenIoT conference and at the AGL All Members Meeting.</p> <p>// DAVE COOPER - (FRONT END) MOCKING MADE EASY</p> <p>This talk dives into the little-discussed-about fact that injecting mock data into web applications for local development and integration testing isn't a well-solved problem. I then shamelessly spruik a library I wrote to solve this problem in a much lighter and intuitive way.</p> <p>// ABOUT DAVE</p> <p>I'm Dave - a frontend developer at OVO Energy who likes to write the codes and break things all the time.</p> ",
+    "end_time": 1549573200,
+    "link": "https://www.meetup.com/bristech/events/258123713/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1549566000,
+    "title": "#56 - PHIL WISE - EMBEDDED LINUX / DAVE COOPER - FRONT END MOCKING"
+}

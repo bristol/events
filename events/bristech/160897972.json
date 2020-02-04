@@ -1,0 +1,16 @@
+{
+    "description": "<p><b>How I learned to stop worrying and love Server Push</b></p> <p>Web applications live and breathe HTTP, a stateless protocol originally designed to retrieve documents from online repositories. Over time, commonplace usage of this protocol has evolved to incorporate a number of dodges, tweaks and hacks such as session tokens and programmatic execution of requests to turn the web into a platform for developing full-blown rich applications. Server-side push technologies continue this onslaught on the fundamental tenets of HTTP by reversing the flow of information, allowing the server (or other connected clients) to initiate the conversation. The implications for this on end-user functionality are considerable, and so are the implications on how one structures a modern n-tier web application.</p> <p>In this talk, Dave will review the technologies that make server push possible, and look at the architectural impact that they\u2019ve had on the n-tier architecture of a \u201cclassic\u201d ajax web application circa 2006. He\u2019ll introduce some patterns and terminology relevant to the client side, and server-side, and demonstrate that thinking in terms of client-side and server-side is no longer the whole story. He\u2019ll also inject a note of realism into the hype, and discuss pitfalls to implementing push-based solutions in the real world.</p> <p><b>RabbitMQ - It\u2019s fast &amp; it multiplies like crazy!</b></p> <p>Message queues are useful in a wide range of scenarios. RabbitMQ is reliable, it performs well and it\u2019s free! In this talk Rob will give you an overview of RabbitMQ &amp; show you how you can use it in a heterogeneous network (involving a Raspberry Pi &amp; a few LEDs).</p> <p>A word about our sponsors</p> <p>Scott Logic - \"We engineer beautifully designed applications in demanding, fast-moving environments where agile delivery and exceptional quality are paramount\" www.scottlogic.com</p> ",
+    "end_time": 1391724000,
+    "link": "https://www.meetup.com/bristech/events/160897972/",
+    "location": {
+        "address": "Nelson Street, Bristol, BS1 2LE. ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45659255981445,
+        "longitude": -2.593208074569702,
+        "name": "The Island"
+    },
+    "org": "bristech",
+    "start_time": 1391713200,
+    "title": "Server Push (Dave Crane) / Rabbit MQ (Rob Bracken)"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "<p>// Graham Woodruff -\u00a0The technology driving the Bristol Pound</p> <p>The Bristol Pound is the UK's largest and first city wide local currency, the first to have electronic accounts managed by a regulated financial institution, and the first that can be used to pay local taxes. It is at the forefront of community currency technology with online banking and mobile phone payment systems. This talk will explore how the Bristol Pound works, why we do it, the technical road map for the future, and how Bristol is enabling other towns and cities across the UK have their own currency.</p> <p>// About Graham</p> <p>Graham Woodruff has 17 years experience developing technology solutions, specialising in integrations between systems, initially involved in innovative digital signature company PenOp, before going on to start up and eventually sell a web technology business. Currently Technical Director of Bristol Pound and founder of the Guild of Independent Currencies, he is also director of the Real Economy Co-operative which aims to develop community life and encourage new enterprise.</p> <p>// Kube All The Things</p> <p>Kubernetes is an open source container cluster manager that is based on Google\u2019s experiences of using containers to power their infrastructure for over a decade.<br/>Over the course of 2015, Kubernetes has grown up fast and is quickly becoming a go-to technology for containers in production. The scale of adoption, innovation and collaboration is staggering. With over 500 contributors from across industry, almost 12,000 stars and 20,000 commits, it is arguably one of the most active open source projects in development today.<br/>This talk will explain the core concepts and deep-dive on how these neatly fit together to enable Google-like infrastructure that functions smoothly and efficiently (without 4am call-outs) that can scale. There will be real world experiences of how it is being used and the talk will also feature the latest developments from the project that will help us to \u2018Kube All the Things\u2019.</p> <p>// About Matt</p> <p>Matthew is co-founder at Bristol-based container startup Jetstack. He has a background in solutions for the acquisition, management and exploitation of large-scale data, across a variety of industries. He uses Java, Python and Go and has in the previous year been working closely with the open source container management system Kubernetes, including code contributions and customer deployments.</p> ",
+    "end_time": 1457042400,
+    "link": "https://www.meetup.com/bristech/events/227357779/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1457031600,
+    "title": "Graham Woodruff - Tech driving the \u00a3BP / Matt Bates - Kube All The Things"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "<p>// John Hunt - Scala Programming Patterns</p> <p>Scala is a hybrid OO and functional programming language. This means that it is possible to write purely OO applications (in a very similar style to Java) as well as functional applications in Scala. However, the hybrid approach brings both benefits and challenges for developers including how to use their existing OO knowledge brought from languages such as Java and C#. This talk will very briefly introduce both Scala and design patterns before considering how Scala changes the types of patterns applied, making some design patterns trivial, others obsolete while introducing new patterns for consideration.</p> <p>// About John</p> <p>John Has a PhD in Computer Science, has been the IT industry for over 30 years and is currently COO of Mallon Associated Intl Ltd, a privately held training and consultancy organisation working in the financial sector. He has worked with OO languages since the 1980 including Small, Java, C#, C++ and in the dim and distant past the Common Lisp Object System (CLOS). Currently he is involved in a very large Scala project and some smaller projects in Python.</p> <p>// Jim Morrison -\u00a0Constraints as the catalyst for creativity</p> <p>It\u2019s easy to think that restrictions are the last thing you\u2019d want to impose on a creative project, but they can be immensely helpful when faced with the proverbial blank page. In this talk, Jim will show you how constraints are the only truly effective catalyst for creativity and demonstrate how to use these techniques to revolutionise your software development approach. And hey, there will be beer - what\u2019s not to love?\u00a0</p> <p>// About Jim</p> <p>Jim is a LEGO junkie with a passion for problem solving. He\u2019s also the Founder and MD of Deep Blue Sky, a digital agency creating bespoke business software, and the principal developer of their framework, Spirit. You can find out more about him and get in touch via twitter <a href=\"https://twitter.com/jimbomorrison\">@jimbomorrison</a>.</p> ",
+    "end_time": 1483650000,
+    "link": "https://www.meetup.com/bristech/events/235980266/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1483642800,
+    "title": "J Hunt - Scala patterns / J Morrison - Constraint as the catalyst for creativity"
+}

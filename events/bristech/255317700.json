@@ -1,0 +1,16 @@
+{
+    "description": "<p>// CRAIG MCDONNELL - MODERN MONITORING WITH PROMETHEUS AND GRAFANA</p> <p>Having greater insight into how our systems are behaving benefits all stakeholders but is an often overlooked and under-resourced aspect of software development.</p> <p>Luckily for us #observability is trending and there\u2019s a new monitoring instrumentation library, time-series database, and graphing tool released every minute.</p> <p>In this presentation, we\u2019ll look at how free open source tools can be used at every step of the monitoring pipeline to reduce friction, increase adoption, and bring the hidden inner workings of your applications out of the shadows\u2026 Power-up your omniscience!</p> <p>// ABOUT CRAIG</p> <p>Craig graduated 1st class Hons Computer Science from Swansea University in 2008 and has spent the ten years since solving puzzles for fun and profit.</p> <p>He has found his home at ForgeRock where he is component lead for auditing and monitoring.</p> <p>// DAN COOK - EXPLOITING KNOWLEDGE WITH NATURAL LANGUAGE PROCESSING</p> <p>The reality is structured databases within organisations only represent a tiny portion of the knowledge an organisation needs. They typically posses Confluence pages, Word docs, a mass of emails and the legal contracts that underpin their business. Combine this with the vast amount of unstructured text on the web and you have to ask the question if you\u2019re making informed decisions. This talk shows a way of summarising the information out there to help you find what you need. There won\u2019t be any academia it\u2019s hard statements, just practical applied NLP for the everyday software developer.</p> <p>// ABOUT DAN</p> <p>Dan is an independent Big Data Technical Architect. He has led the development of a Hadoop-as-a-Service offering and built software streaming frameworks long before the rise of Apache Spark and Storm. He\u2019s well versed in the knowledge domain building applications on RDF and SPARQL collapsing many systems of information into 360 views of a customer from both structured and unstructured data.</p> ",
+    "end_time": 1541106000,
+    "link": "https://www.meetup.com/bristech/events/255317700/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1541098800,
+    "title": "#54 - CRAIG MCDONNELL - MODERN MONITORING / D COOK - NATURAL LANGUAGE PROCESSING"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "<p>// The Joy of Six.<br/>Passionate programmers have discovered how coding in Perl Six can be playful, imaginative, pleasurable and exhilarating.</p> <p>This talk includes tasteful illustrations for curious monoglot and polyglot programmers alike.</p> <p>Discover the Joy of Six!</p> <p>// About Nigel<br/>Lean start up techie helping businesses with learning and earning.</p> <p>//\u00a0Avoiding the UK IoT disaster</p> <p>The Internet of Things is a growing phenomenon across the globe, with companies such as Imagination Technologies placing big bets on it becoming \u201cthe next big thing\u201d. But while IoT is growing, the UK\u2019s supply of appropriate developers is shrinking.</p> <p>In this talk I will discuss the significant problems arising from IoT that are facing UK industry and, more crucially, education. We will look at some of the potential impacts of these and what will be required to avoid them. Lastly, I will introduce the new, innovative approach to teaching, pioneered by FlingOS\u2122, which will help to tackle the aftermath of the inadequate, new Computer Science National Curriculum.</p> <p>Bio:</p> <p>Edward Nutting is a second year Computer Science and Electronics student at the University of Bristol and founder of FlingOS\u2122 - an educational operating system. Ed has 10 years of experience in programming and education, including teaching at all levels from primary to university. He brings to the table a broad range of knowledge and depth of experience, but with emphasis on low level and OS development.</p> <p>When not lecturing, writing articles, helping the Bristol EEE Society or working on his degree, Ed enjoys playing jazz on his tenor saxophone and hill walking (in all weathers, of course).</p> ",
+    "end_time": 1449180000,
+    "link": "https://www.meetup.com/bristech/events/224763441/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1449169200,
+    "title": "Nigel Hamilton - The Joy of Six / Edward Nutting - Avoiding the UK IoT Disaster"
+}

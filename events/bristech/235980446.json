@@ -1,0 +1,16 @@
+{
+    "description": "<p>// Azahar Machwe - Deep Learning: An Introduction</p> <p>Artificial Intelligence has come to the forefront in recent years with some of the biggest tech companies investing heavily in AI based products and services.<br/>Deep Learning is one of the main reasons for this renewed interest.<br/>This talk will provide an introduction to Deep Learning, provide use-cases and show how it is pushing the boundaries of what machines are capable of. It will also provide<br/>information about popular Deep Learning libraries.</p> <p>// About Azahar</p> <p>I have extensive work experience bringing automation technology to businesses in Telecoms, Customer Service, Knowledge<br/>Management domains and have also worked with Public Sector organizations. I have a Ph.D. in Artificial Intelligence from UWE, Bristol.<br/>I am passionate about technology and finding new use-cases to apply it to! Think of me as a software tinkerer.</p> <p>// Simon Michael - Microsoft Bot Framework and Cognitive Services</p> <p>Developers writing bots all face the same problems: bots require basic I/O; they must have language and dialog skills; they must be performant, responsive and scalable; and they must connect to users, ideally in any language the user chooses. Multiply this by each conversational channel you want to target and you have a real challenge!</p> <p>The Microsoft Bot Framework is a comprehensive offering to build and deploy high quality bots for your users to interact with using their favourite messaging applications. In this session you will learn about why bots are relevant, how to get started with the Microsoft Bot Framework, how to give your bot smart skills using Microsoft Cognitive Services such as natural language processing, and learn how to make a bot truly great!</p> <p>// About Simon</p> <p>Simon is a Senior Technical Evangelist within the Developer Experiences (DX) team.<br/>He is currently technical lead on conversational UI covering Microsoft Bot Framework, Cortana and Microsoft Cognitive Services.</p> ",
+    "end_time": 1486069200,
+    "link": "https://www.meetup.com/bristech/events/235980446/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1486062000,
+    "title": "Azahar Machwe - Deep Learning / Simon Michael - Microsoft Bot Framework"
+}

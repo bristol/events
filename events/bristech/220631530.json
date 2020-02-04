@@ -1,0 +1,16 @@
+{
+    "description": "<p><b>Roja Buck: Twelve Factor Applications</b></p> <p>Twelve factor applications adhere to a manifesto of ideas and a number of strict architecture decisions, in exchange they provide trivial deployability, rapid failure recovery and near arbitrary scalability. This talk will touch on each factor and review how it contributes towards a cohesive and compelling architecture.</p> <p>About Roja:</p> <p>Head of Engineering and Platform Architecture at JustEat, previously Chief Architect at VoucherCloud. Responsible for architecting and building robust, scalable and high performance systems and building teams of exceptional engineers for multi-national internet brands.</p> <p><b><br/></b></p> <p><b>Phil Trelford:\u00a0F# for C# Developers</b></p> <p>This talk is for C# programmers who are curious about F#, a multi-paradigm and cross-platform programming language.</p> <p>In: test driven development, classes and functions</p> <p>Out: maths, monads and moth-eaten jumpers</p> <p>Expect plenty of practical examples with live code samples, including interop between C# and F#.</p> <p>Phil Trelford is a developer at SimCorp, a leading provider of investment management software solutions. He is an active member of the software development community, regularly attending and speaking at user groups and conferences, blogging and contributing to open source projects. Phil is also a co-organizer of the London F# User Group and a founding member of the F# Foundation, and a Microsoft languages MVP.</p> ",
+    "end_time": 1425592800,
+    "link": "https://www.meetup.com/bristech/events/220631530/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1425582000,
+    "title": "Roja Buck: Twelve Factor Applications, Phil Trelford: F# for C# Developers"
+}

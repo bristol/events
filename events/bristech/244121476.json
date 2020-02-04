@@ -1,0 +1,16 @@
+{
+    "description": "<p>/ Kasper Piskorski - Schemaless. Sounds good, doesn't work - Why is schema a must and how do we define it at Grakn.</p> <p>We will start by showing different database approaches to structuring data and introduce the main concepts behind SQL and noSQL databases. We are going to look at the strengths and main differences of the two approaches as well as argue about the importance of structure in real world applications. We will finish with showing a novel approach bridging the gap between the SQL and noSQL worlds - the Grakn database - a hyper-relational database offering flexible control over its explicit data structure.</p> <p>/ About Kasper</p> <p>Tech-enthusiast and science follower. Physicist by education with a PhD in Scientific Computing obtained from the University of Cambridge. Currently working on knowledge representation and automated reasoning at Grakn Labs. Previously involved in a wide range of projects covering the subjects of High Performance Computing, Applied Mathematics (Computational Fluid Dynamics) and Low Dimensional Semiconductors.</p> <p>/ Ismail El-Maarouf - Challenges and solutions in automatically processing meaning in natural language</p> <p>This talk will introduce Natural Language Processing (NLP), with a focus on how meaning can be effectively extracted from text. It will particularly describe how it is being used in contemporary commercial products, in what shapes meaning is extracted, and what kind of language issues automatic analysis typically runs through. This talk will try to be accessible to a non-specialist audience, and the aim is to give a good overview of existing approaches, challenges, and solutions.</p> <p>/ About Ismail</p> <p>I am a senior AI engineer at Adarga, a young company based in Bristol and London focussing on helping businesses making sense of their data by providing AI and NLP solutions.<br/>I hold a phd from the University of South Brittany (France) on Natural Language Processing (Relation Extraction). I am particularly interested in Semantics and have worked in diverse areas like Information Extraction, Lexicography, Linked Data, or Ontology Population. After my phd I spent 3 years developing NLP tools for a lexicographic project at the university of Wolverhampton (RIILP), then 1 year as a NLP developer in the Dictionary Technology Group at Oxford University Press (Oxford), before joining Adarga in Bristol.</p> ",
+    "end_time": 1517522400,
+    "link": "https://www.meetup.com/bristech/events/244121476/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1517511600,
+    "title": "Kasper - Schemaless doesn't work / Ismail -  Processing natural language"
+}

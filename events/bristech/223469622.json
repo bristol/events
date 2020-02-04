@@ -1,0 +1,16 @@
+{
+    "description": "<p>// Drupal and the Internet of Things (IoT).</p> <p>An introduction to how a PHP based application such as Drupal can interact with the IoT, with a look at some specific implementations using the MQTT protocol. For Drupal lovers we will get specific and delve into a new module that integrates MQTT with the Drupal rules engine. If all that sounds a bit much, you can always just have a play with our internet connected toy tanks!</p> <p>// About Mike<br/>Mike Dixon is the founder and tech lead at the Drupal specialists -ComputerMinds. He has worked on over 1000 internet projects, and brings a wealth of big client experience having kept the likes of EDF, TUI and the Royal Household happy for many years.</p> <p>Mike has over 20 years experience in the industry and specialises in delivering enterprise level open source CMS solutions.</p> <p>When not deep in the world of Drupal, Mike can be found playing at being a triathlete and looking after a small but noisy baby.</p> <p>// OpenStack</p> <p>OpenStack is open source software for running cloud computing systems. Using OpenStack it is possible to manage virtual machines and data storage resources. OpenStack scales to deployment environments from as small as a single machine (for development purposes), through a small farm of 20-30 nodes, all the way up to thousands of physical machines.</p> <p>The core components include:</p> <p>Nova - manages virtual machines<br/>Glance - for managing machine images<br/>Cinder - for managing persistent disk volumes<br/>Neutron - software defined networking<br/>Swift - large object storage</p> <p>Major organizations such as Hewlett Packard, Red Hat and IBM are major contributors to OpenStack and it is fast becoming the defacto standard for open source cloud computing.</p> <p>This talk will cover the OpenStack architecture and the development processes and tools used by OpenStack developers. Finally we will discuss the challenges of maintaining a large scale cloud infrastructure.</p> <p>// About Paul &amp; Alexis</p> <p>Paul Carlton<br/>Paul works for Hewlett Packard's Cloud Service Software team in Bristol as a Senior Software Engineer. He has over 30 years IT experience comprising Operations, Programming and Technical Consulting.</p> <p>Alexis Lee<br/>Alexis works in the HP Cloud Nova team. His current focus is on contributing upstream to the Nova scheduler. Over the past year he's worked on tasks from dependency visualisation tooling through serving as a core reviewer (on the TripleO project) to defining the logging infrastructure for Helion OpenStack.</p> <p>PLUS...</p> <p>// LIGHTNING TALK - Adam Butler - Hardware Hacking</p> ",
+    "end_time": 1441314000,
+    "link": "https://www.meetup.com/bristech/events/223469622/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1441303200,
+    "title": "Mike Dixon - Drupal and the IoT / Paul Carlton & Alexis Lee - OpenStack"
+}

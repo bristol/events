@@ -1,0 +1,16 @@
+{
+    "description": "<p>// Colin Eberhardt -\u00a0Time travel and the future of HTML5 productivity</p> <p>One of the most appealing features of web development is its immediacy; browsers are able to interpret JavaScript, HTML and CSS without the need for a compiler, and as a result development cycles are very rapid - edit, save, reload. Unfortunately with the growing complexity of web applications, this immediacy is something that is all too often lost. Single Page Applications now have complex builds, involving transpilers, dependency resolution, code quality analysis, unit tests and much more. The complexity and execution time of these builds rival their desktop counterparts!</p> <p>In this talk I'll review how the functional programming style of frameworks such as React, ImmutableJS and Redux have paved the way for novel techniques that once again support rapid development cycles. With a demonstrations of \u2018Hot Module Reload\u2019 and \u2018Time Travel\u2019, in the context of complex trading platforms, I\u2019ll show how HTML5 productivity has been taken to new heights that equally benefit web, desktop and mobile development.</p> <p>// About Colin</p> <p>I am Technology Director at Scott Logic and am a prolific technical author, blogger and speaker on a range of technologies. I am currently excited about React and React Native, Swift, TypeScript, D3, data-mining and visualisation, HTML5 strategy and pretty much everything else.</p> <p>// Thomas Guest -\u00a0Unit tests - let's get sceptical</p> <p>Unit tests. As software developers, we're supposed to write them. Our customers want services, products and features though. Could it be that all those unit tests are wasting our time, and that we'd be better off writing -- and system testing -- the code we're actually paid to produce? This presentation draws on personal experience and on the wisdom of Sir Tony Hoare, James Coplien, Donald Knuth and others in an attempt to answer this question.</p> <p>// About Thomas</p> <p>Thomas Guest likes programming, puzzles, running and noodles. His website is\u00a0<a href=\"http://wordaligned.org/\"><a href=\"http://wordaligned.org\" class=\"linkified\">http://wordaligned.org</a></a></p> ",
+    "end_time": 1493928000,
+    "link": "https://www.meetup.com/bristech/events/238261861/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1493920800,
+    "title": "Colin Eberhardt - HTML5 productivity / Thomas Guest - unit tests, sceptical?"
+}

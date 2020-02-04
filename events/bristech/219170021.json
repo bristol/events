@@ -1,0 +1,16 @@
+{
+    "description": "<p>Building Realtime Systems with Node.JS -\u00a0James Jackson (Twitter -\u00a0@internetsurfing)</p> <p>This talk will cover how to build peer to peer video / voice / data connections using WebRTC &amp; Node.JS</p> <p>I am a Interactive BAFTA award winning full stack web professional. I currently work in the realtime communication / connectivity space on cloud architecture, scalability, fault-tolerant distributed system design, infrastructure and security for a large multi-national company. I been using Node.JS commercially since 2010 including leveraging technologies such as WebSockets, WebRTC and other messaging technologies to build production realtime communication systems.</p> <p>Amazon Web Services - Andy Patterson</p> <p>When it comes to cloud computing providers, Amazon Web Services (AWS) is by far the largest and most rapidly evolving. This talk will cover the basic components of AWS, some sample architectures for various workloads, and some of the advantages that a managed compute service can offer over traditional do-it-yourself hosting.</p> <p>Andy is a software developer working at Softwire. Recently returned from sabbatical in Australia, his work covers the full stack of web development in a variety of languages (primarily .NET and nodeJS). Andy has spent most of the last few years working with cloud computing providers to deliver a variety of applications for both enterprise and small customers.</p> <p>plus FOOD - Tacos (El Greengo) sponsored by JustEat</p> <p>plus BEVERAGES - beer and soft drinks</p> ",
+    "end_time": 1420754400,
+    "link": "https://www.meetup.com/bristech/events/219170021/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1420743600,
+    "title": "Real-time NodeJS (James Jackson) and Amazon Web Services (Andy Patterson)"
+}

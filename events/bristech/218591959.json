@@ -1,0 +1,16 @@
+{
+    "description": "<p><b>Tim Perry - Microservices &amp; Web Components Are The Same Thing</b></p> <p>Microservices and web components are two of the next Next Big Steps for modern software development, for the server and client side respectively. Although involving quite different new tools and techniques though, in reality both of these developments share a common development practices heritage, as extensions of the same forward trend of good software design principles.\u00a0</p> <p>In this talk we'll first take a careful look at what on earth microservices and web components really are, and examine how you'd build full-stack Node.JS application using both of them. We\u2019ll then discuss their shared underlying heritage, why these shared principles make both concepts so powerful in practice, and how you can use that more generally to design great applications in future.</p> <p><b>Thomas Buckley-Houston -\u00a0Danaboxes / PaaS\u00a0</b></p> <p>What if Google was funded in the same way as Wikipedia? I'll be taking a technical look at the Platform As A Service paradigm (e.g. Heroku) to see how it handles large scale traffic. And imaging what the Internet would be like if large scale applications like Google weren't dictated by corporate agendas.</p> <p>About Thomas - a full-stack web developer. Interested in open source, Dev Ops, Ruby and Linux. Likes to meditate and has a degree in Religious Studies.</p> ",
+    "end_time": 1417730400,
+    "link": "https://www.meetup.com/bristech/events/218591959/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1417719600,
+    "title": "Microservices & Web components (Tim Perry), Danabox & PaaS (Tom Buckley-Houston)"
+}

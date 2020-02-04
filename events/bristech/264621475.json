@@ -1,0 +1,16 @@
+{
+    "description": "<p>// Sash Rigby - Truth manipulation and organisation infiltration</p> <p>Sash will join BrisTech to discuss the tradecraft commonly employed by the Modux red team to breach client organisations' security through real attack scenarios which demonstrate successful end-to-end infiltration.</p> <p>// About Sash</p> <p>Sash Rigby is an experienced technical security specialist focused on utilising offensive techniques to compromise organisations through red teaming &amp; real world cyber-attack scenarios. Throughout his career Sash has focused on information security across finance, fixed telecoms and 3G/4G and application security.</p> <p>As Technical Director of Modux, Sash leads the organisation to deliver boutique cyber security consultancy into FTSE100 telecoms, finance and UK Government organisations. Founded in 2008, Modux is a company built on a foundation of strong technical expertise, centred on delivering consultancy &amp; research services.</p> <p>// Paul Puget - Building machine learning products</p> <p>We hear a lot about how machine learning is helping us solve challenges that were impossible or much harder to solve previously. Beating world class go, chess and Starcraft players, being better at diagnosing than doctors, generating realistic deep fake movies. All these are great achievements, achievements in a controlled environment.</p> <p>In this talk, I\u2019ll present how to build AI based products, i.e. make this great technology fit in something loved and usable by (internal or external) customers.</p> <p>I\u2019ll start by giving a bit of context around what we mean by Machine Learning, when to apply it and when it\u2019s irrelevant. I\u2019ll give some examples of typical Machine Learning projects.</p> <p>In the second portion, I\u2019ll describe how to build and iterate on a Machine Learning Product. Discuss how to design and build the algorithms, and everything in between, including how to go from a model\u2019s outputs to actual decisions, the importance of visualisation and interaction to increase customer engagement and how to successfully scale your models.</p> <p>Finally, I\u2019ll demonstrate all this through a simple homemade Machine Learning application.</p> <p>// About Paul</p> <p>I have been a Machine learning data scientist for the past 7 years first in a web start-up in France and then in the Energy sector in Kaluza. My focus has always been to build smart products using Machine Learning.</p> <p>Now I work on smartly controlling energy storage assets in order to provide balancing to electricity grids.</p> ",
+    "end_time": 1570132800,
+    "link": "https://www.meetup.com/bristech/events/264621475/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1570125600,
+    "title": "#63 SASH RIGBY - RED TEAMING / PAUL PUGET - BUILDING MACHINE LEARNING PRODUCTS"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "<p>// Chris Erven - Integrated Quantum Cryptography</p> <p>In this talk, I\u2019ll briefly outline some of Bristol\u2019s work in cutting edge integrated quantum photonics, which is allowing us to demonstrate some of the most advanced integrated quantum circuits to date on tiny Silicon chips. This technology is completely compatible with the billion dollar classical micro-processor industry that has powered the PC revolution of the last 50 years, allowing us to piggy-back on the billions invested in that industry to deliver much more advanced devices than would otherwise be possible. We are reaching component densities that are now allowing us to design and implement interesting devices. I will focus on one such application which we have developed, quantum cryptography, and describe the world\u2019s first chip-to-chip quantum key distribution experiments that we recently performed at the Centre for Quantum Photonics at the University of Bristol. I\u2019ll finish by briefly mentioning our Quantum Engineering Centre for Doctoral Training which just started it\u2019s second cohort in October 2015 and has a great potential for short projects, secondments, and the full sponsorship of a CDT student and their PhD project.</p> <p>// About Chris</p> <p><a href=\"http://www.bristol.ac.uk/physics/people/chris-erven/index.html\">Dr Chris Erven</a>\u00a0is a Lecturer in Quantum Engineering at the University of Bristol. He is a Co-Director of the Quantum Engineering Centre for Doctoral Training and a researcher at the Centre for Quantum Photonics. His interests include photonic quantum technologies, in particular the development of integrated quantum cryptography devices and their commercial application.</p> <p>// Thomas Guest - Go: as fast as C++ and as simple as Python?</p> <p>Go is a modern programming language designed for a distributed and concurrent world. Can it really be as easy to use as Python and as fast to run as C++? This talk investigates. Expect live coding, flying horses, and answers.</p> <p>// About Tomas</p> <p>Thomas Guest is an experienced and enthusiastic software developer who likes puzzles, programming, running and noodles. His website is <a href=\"http://wordaligned.org\" class=\"linkified\">http://wordaligned.org</a></p> ",
+    "end_time": 1460062800,
+    "link": "https://www.meetup.com/bristech/events/227357835/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1460052000,
+    "title": "Chris Erven - Integrated Quantum Cryptography / Thomas\u00ad Guest - Go"
+}

@@ -1,0 +1,16 @@
+{
+    "description": "<p>Java 8 Lambdas - James Phillpotts</p> <p>They\u2019ve been a long time coming, but finally in version 8, Java catches up with the likes of C#, Python, Ruby and a host of other languages that support Lambda Functions. We\u2019ll take a look at what they are, how they\u2019re expressed, what API changes we can enjoy, and how they might change Java code.</p> <p>User Experience on a Shoestring - Stuart Church and Ant Mace</p> <p>UX doesn\u2019t always have to be expensive or time-consuming. \u00a0In this talk, we\u2019ll explore where the core value of UX lies, and discuss how UX methods can\u00a0be made more streamlined without losing their value or effectiveness.</p> ",
+    "end_time": 1394139600,
+    "link": "https://www.meetup.com/bristech/events/165509032/",
+    "location": {
+        "address": "Nelson Street, Bristol, BS1 2LE. ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45659255981445,
+        "longitude": -2.593208074569702,
+        "name": "The Island"
+    },
+    "org": "bristech",
+    "start_time": 1394132400,
+    "title": "'Java 8 Lambdas' / 'User Experience on a Shoestring'"
+}

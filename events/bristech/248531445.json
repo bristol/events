@@ -1,0 +1,16 @@
+{
+    "description": "<p>\u2022 What we'll do<br/>// Iain Wallace - How to Capture the World, or Making Computers See in 3D</p> <p>Our world isn't flat. Capturing our environment in 3D is vital to allow automated processing to extract information, reason about and record it. This could be to visualise an impossible viewpoint, to allow a robot to navigate or to capture a richer image of a time and place. I'll talk about some different methods for 3D reconstruction by way of a few demos, and show you how with a little know how and some software you can produce a 3D model yourself from a handful of photos.</p> <p>// About Iain</p> <p>Dr Iain Wallace is the CTO of Bristol-based Rovco, an ROV services and subsea technology company. He makes robot submarines smarter, and has been working in AI and autonomy for nearly 15 years. Previously he worked in the space industry, doing R&amp;D to make smarter Mars rovers and satellites, and he's worked on everything from indoor navigation on mobile phones to robots that show emotion. His PhD's from Edinburgh University on Multi-Agent Systems and you can find out more about his work on www.iainwallace.co.uk and at www.rovco.com</p> <p>// James Darley - Shaping the Cloud with Terraform</p> <p>With the advent of Infrastructure as a Service and widespread adoption by industry, it's never been easier to provision cloud based infrastructure and services to support your business. However managing this provisioning still remains a challenge. This is where Infrastructure as Code can help.</p> <p>This talk is a brief introduction Terraform - a tool which allows you to manage the provisioning and lifecycle of your infrastructure by defining it declaratively in code.</p> <p>Expect a quick overview of Hashicorp Configuration Language, a live demonstration (potentially with audience participation!) alongside some pointers on how to use it to manage multiple environment configurations.</p> <p>// About James</p> <p>James is currently a software engineer with Ovo Energy, having worked previously at Nokia, Microsoft and MixRadio. An avid fan of computers from the moment he unwrapped the family Amiga 500 one fateful Christmas morning, he taught himself programming from the back pages of Amiga Format and hasn't looked back.</p> <p>With a career spanning nearly a decade he's touched upon a whole bunch of three letter acronyms, buzzwords and programming paradigms and he's realised that he's not even begun to scratch the surface.</p> <p>\u2022 What to bring</p> <p>\u2022 Important to know</p> ",
+    "end_time": 1522958400,
+    "link": "https://www.meetup.com/bristech/events/248531445/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1522951200,
+    "title": "Iain Wallace - Computer Vision / James Darley - Terraform"
+}

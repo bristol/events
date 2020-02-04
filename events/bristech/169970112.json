@@ -1,0 +1,16 @@
+{
+    "description": "<p><b>Dan Cook - Big data and the cloud, isn't it just lots of data and VMs?</b>\u00a0</p> <p>How architectures have evolved to deal with large volumes of data and the technologies that support them.\u00a0</p> <p>A whistle-stop tour of a MongoDB sharded cluster, BigTable implementations, relational databases, graph databases and enterprise search.\u00a0</p> <p><b>Adam Butler -\u00a0AngularJS for data driven applications</b></p> <p>AngularJS is a framework that helps you build scalable, high performance and powerful web applications. This talk is an isight into what AngularJS is, why you might need it and how it can help you build declarative data-driven agile applications that scale.</p> ",
+    "end_time": 1402002000,
+    "link": "https://www.meetup.com/bristech/events/169970112/",
+    "location": {
+        "address": "Nelson Street, Bristol, BS1 2LE. ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45659255981445,
+        "longitude": -2.593208074569702,
+        "name": "The Island"
+    },
+    "org": "bristech",
+    "start_time": 1401991200,
+    "title": "Big Data and the Cloud (Dan Cook) / AngularJS (Adam Butler)"
+}

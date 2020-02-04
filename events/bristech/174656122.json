@@ -1,0 +1,16 @@
+{
+    "description": "<p>Steve Sanderson \u00a0- Knockout Components: 2014-style web development that runs on 2001 browsers</p> <p>Knockout.js is a popular lightweight JavaScript library for building richly responsive web UIs in a Model-View-ViewModel (MVVM) style. It helps you write cleaner, simpler code with fewer opportunities for bugs, and with better browser compatibility than any sane person would hope for.</p> <p>This talk demonstrates how to combine Knockout with industry standard front-end tooling (yeoman, gulp, and karma) to produce efficient and scalable web apps. You'll see brand-new Knockout features - components and custom elements (inspired by the emerging Web Components standard) - that offer a truly modern 2014-style web development experience yet still retain total compability with ancient browsers. And yes, I'll even dust off an old IE 6 machine to prove it!</p> <p>Sam Davies \u00a0- Functional Reactive Programming on iOS\u00a0</p> <p>Functional Reactive Programming (FRP) is the marriage of functional programming (where functions are 1st class objects, and don't depend on state or mutable data) and reactive programming (in which changes in data are automatically propagated around the program). This might seem a rather abstract concept, but when utilised to operate on a stream of events it becomes incredibly powerful.</p> <p>When writing mobile applications most of the time we're writing event handlers of some sort or another - i.e. code which gets run in response to a network event, a touch event, or a notification (etc). Rather than updating internal state based upon the events, FRP introduces the concept building a operation pipeline which acts upon the event stream.</p> <p>In this talk we'll take a brief look at what FRP means in the mobile development world, before investigating some real-world examples using ReactiveCocoa on iOS. We'll be diving in to a little bit of code, but don\u2019t worry if you\u2019re not familiar with objective-C - the focus here will be on the FRP paradigm, and not on the specifics of the code.</p> ",
+    "end_time": 1404421200,
+    "link": "https://www.meetup.com/bristech/events/174656122/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1404410400,
+    "title": "Knockout Components (Steve Sanderson) /  Functional, Reactive iOS (Sam Davies)"
+}

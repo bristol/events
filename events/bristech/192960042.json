@@ -1,0 +1,16 @@
+{
+    "description": "<p><b>From robot swarms to nanoparticles for cancer applications - Sabine Hauert</b></p> <p>Nanoparticles for cancer applications are increasingly able to move, sense, and interact the body in a controlled fashion, an affordance that has led them to be called robots. The challenge is to discover how trillions of nanobots can work together to improve the detection and treatment of tumors. Towards this end, the field of swarm robotics offers tools and techniques for controlling large numbers of robots with limited capabilities. Our swarm strategies are designed in realistic simulators using bio-inspiration, machine learning and crowdsourcing (NanoDoc:\u00a0&lt;a&gt;<a href=\"http://nanodoc.org).&lt;/a&gt;\u00a0Strategies\" class=\"linkified\">http://nanodoc.org).&lt;/a&gt;\u00a0Strategies</a> are then translated to large swarms of robots or preliminary tissue-on-a-chip devices.</p> <p>Sabine Hauert is Lecturer at the Bristol Robotics Laboratory and University of Bristol where she designs swarms of nanobots for biomedical applications.</p> <p>Before joining the University of Bristol, Sabine was a Human Frontier Science Program Cross-Disciplinary Fellow in the Laboratory of Sangeeta Bhatia at the Koch Institute for Integrative Cancer Research at MIT where she designed cooperative nanoparticles for cancer treatment.Her passion for swarm engineering started in 2006 as a PhD student at EPFL- Switzerland making swarms of flying robots for rescue operations</p> <p>Passionate about science communication, Sabine is the Co-founder and President of the Robots Association, Co-founder of the ROBOTS Podcast (<a href=\"http://robotspodcast.com\" class=\"linkified\">http://robotspodcast.com</a>) and Robohub (<a href=\"http://robohub.org\" class=\"linkified\">http://robohub.org</a>), as well as Media Editor for the journal Autonomous Robots (<a href=\"http://autonomousrobotsblog.com\" class=\"linkified\">http://autonomousrobotsblog.com</a>).</p> <p><b>Git-fu: the art of version control - Jeff Schomay</b></p> <p>A talk on some\u00a0(lesser known) Git tip and tricks.</p> <p>Have you done a git bisect?\u00a0 Do you make full use of the git graph?\u00a0 Do you know the difference between '..' and '...' ?</p> <p>A practical tour of some of the less common tools and uses of git.\u00a0 Some git tricks could become a part of your regular \"Git-fu\", others might only come up to help you get out of a bind.</p> <p>More about Jeff:</p> <p>I am a full stack javascript developer from the US with an interest in designing and making games. \u00a0</p> <p>More on me at <a href=\"http://jeffschomay.com\">jeffschomay.com</a></p> ",
+    "end_time": 1415311200,
+    "link": "https://www.meetup.com/bristech/events/192960042/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1415300400,
+    "title": "November: Robot Swarms (Sabine Hauert), Git-fu (Jeff Schomay)"
+}

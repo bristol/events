@@ -1,0 +1,16 @@
+{
+    "description": "<p>// CHRIS SMITH - WEB ASSEMBLY WITH RUST<br/>JavaScript can be fun, but wouldn't it be nice to have a choice of languages for web development and be able to run them natively in the browser?</p> <p>Enter Web Assembly - a browser native runtime that is now available in all the major browsers.</p> <p>In this talk we'll set the scene by describing what Web Assembly is and how it works, and then we'll incrementally port a simple JavaScript app to Rust and optimise for performance.</p> <p>There'll be a lot of live coding, so hopefully the demo gremlin won't strike :-)</p> <p>// ABOUT CHRIS</p> <p>Chris started his working life as an actuary, pricing life insurance and reinsurance in Zurich, Paris and London.</p> <p>He decided on a career change about 10 years ago, and reached the dizzying heights of Senior Perl Developer before moving into .NET and then Scala. He currently writes Scala full time for Ovo Energy and writes, deploys and maintains AWS based systems. He believes in agile methodologies, continuous testing as part of the development process and everything as code (infrastructure, CI / CD pipelines, security, ..)</p> <p>Chris is one of the co-founders and directors of Bristech. His main responsibility is the monthly meetup, but he also helps with the annual conference.</p> <p>// LAURENCE KIRK - An Introduction to Ethereum and Smart Contract Development</p> <p>Ethereum was introduced as blockchain platform allowing general purpose scripting using smart contracts. Ethereum nodes include a virtual machine to run smart contracts, the system state being maintained by a modified version of the Nakamoto Consensus.<br/>This talk will introduce smart contracts and Solidity the most widely used language for writing smart contracts on Ethereum. I will show the possibilities and limitations of smart contract development on Ethereum.</p> <p>// ABOUT LAURENCE<br/>After a successful career writing low latency financial applications in the City of London, Laurence was captivated by the potential of Blockchain Technology, and in particular smart contracts.</p> <p>Three years ago, Laurence moved to Oxford and set up Extropy.io, a consultancy working with start-ups in the UK and overseas, developing applications on the Ethereum platform. He brings with him a wealth of real world experience that he loves to share with those new to this area.<br/>Laurence hold a Physics degree from Durham University, and currently taking his MSc in Software Engineering at Oxford University. In addition to giving talks, mentoring at hackathons, and running groups about Blockchain Technology, Laurence also organise Artificial Intelligence and Data Science groups in Oxford.</p> ",
+    "end_time": 1538683200,
+    "link": "https://www.meetup.com/bristech/events/252590637/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1538676000,
+    "title": "#53 - CHRIS SMITH - WEB ASSEMBLY + RUST / LAURENCE KIRK - ETHER AND SOLIDITY"
+}
