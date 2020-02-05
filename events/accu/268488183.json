@@ -1,0 +1,16 @@
+{
+    "description": "<p>Codemology is a new reference frame recognising the 'human element' in code. Thinking about software this way allows us to discover how the team naturally prefers to work and in turn exposes unfamiliar complexity and development bottlenecks, providing a software development early warning system.</p> <p>Codemology identifies detrimental change across a code base, facilitating the visualisation of a software quality trajectory for individual components or whole projects. Interestingly, the change is in terms of what is important for the team supporting the code.</p> <p>Academic and commercial trials have shown that the concept promotes developing maintainable code alongside aggressive delivery schedules, rather than clean code being addressed as an afterthought once product delivery begins to suffer.</p> <p>Stephen is the IT director of Software in Partnership ltd and an honorary Executive Fellow of the University of Essex. He has worked in industry for over thirty years, primarily designing and developing insurance systems for the Lloyd\u2019s of London marketplace. He is interested in techniques that allow teams to focus on high quality product delivery. During his career he has created several software automation tools and achieved the government\u2019s Research and Development Relief award for Innovation. For the last four years Stephen has been undertaking part time PhD research in the fields of Software Development, AI, and team behaviours.</p> <p>In his spare time Stephen volunteers as a British Computer Society assessor for individuals seeking Chartered IT Professional status.</p> ",
+    "end_time": 1584565200,
+    "link": "https://www.meetup.com/ACCU-Bristol/events/268488183/",
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.456153869628906,
+        "longitude": -2.584826946258545,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
+    "org": "accu",
+    "start_time": 1584558000,
+    "title": "Codemology - Stephen Cullum"
+}
