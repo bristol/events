@@ -3,12 +3,12 @@
     "end_time": 1594843200,
     "link": "https://www.meetup.com/DataBristol/events/265016104/",
     "location": {
-        "address": "Broad Quay",
-        "city": "City of Bristol",
-        "country": "gb",
-        "latitude": 51.4517936706543,
-        "longitude": -2.596950054168701,
-        "name": "Just Eat"
+        "address": "40 Berkeley Square",
+        "city": "Bristol",
+        "country": "GB",
+        "latitude": 51.45481491088867,
+        "longitude": -2.605412006378174,
+        "name": "Bud Systems, Origin Workspace"
     },
     "org": "databristol",
     "start_time": 1594832400,
