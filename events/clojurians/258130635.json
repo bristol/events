@@ -1,0 +1,16 @@
+{
+    "description": "<p>\u2022 Who is it for<br/>This meetup is for anyone who is interested in using code creatively, physical computing and digital art. Including Unity, Open Frameworks, Processing, Pure Data etc.</p> <p>\u2022 What we'll do<br/>This is unstructured time to work on your own projects, share ideas or collaborate with others</p> ",
+    "end_time": 1549486800,
+    "link": "https://www.meetup.com/Bristol-Clojurians/events/258130635/",
+    "location": {
+        "address": "1 Victoria St",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Immersive Labs"
+    },
+    "org": "clojurians",
+    "start_time": 1549477800,
+    "title": "Bristol Creative Clojure & Code A/V (all languages welcome)"
+}

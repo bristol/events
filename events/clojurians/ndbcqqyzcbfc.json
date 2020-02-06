@@ -1,0 +1,16 @@
+{
+    "description": "<p>Bring your laptop and work on some Clojure code in a friendly atmosphere, or just come to talk about code! This is a relaxed meetup where people can drink and share programming interests.</p> ",
+    "end_time": 1548273600,
+    "link": "https://www.meetup.com/Bristol-Clojurians/events/ndbcqqyzcbfc/",
+    "location": {
+        "address": "31 King St",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45181655883789,
+        "longitude": -2.595026969909668,
+        "name": "Small Bar"
+    },
+    "org": "clojurians",
+    "start_time": 1548266400,
+    "title": "Programming in the Pub"
+}

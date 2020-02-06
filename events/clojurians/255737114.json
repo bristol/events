@@ -1,0 +1,16 @@
+{
+    "description": "<p>\u2022 What we'll do<br/>This meetup is for anyone who is interested in using code creatively, physical computing and digital art. Including Unity, Open Frameworks, Processing, Pure Data, Gibber, Sonic Pi, Overtone etc. (All languages, not just Clojure.)</p> <p>\u2022 What to bring<br/>A laptop and and an open mind. If you have a project to work on that's great.</p> ",
+    "end_time": 1544646600,
+    "link": "https://www.meetup.com/Bristol-Clojurians/events/255737114/",
+    "location": {
+        "address": "4 Colston Yard, Bristol, BS1 5BD",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45703887939453,
+        "longitude": -2.5967440605163574,
+        "name": "Kuva"
+    },
+    "org": "clojurians",
+    "start_time": 1544639400,
+    "title": "Bristol Creative Code"
+}

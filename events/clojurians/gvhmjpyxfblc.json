@@ -1,0 +1,16 @@
+{
+    "description": "<p>A change to our usual bi-weekly Clojure Study Group. Instead, Malcolm Sparks, Jon Pither and Dominic Monroe from JUXT (<a href=\"https://juxt.pro\" class=\"linkified\">https://juxt.pro</a>) will be here.</p> <p>Clojure programmers are lucky to have a fantastic language and some great libraries at their disposal. But often we find our tools to be a little frustrating. This is especially felt by new arrivals to the Clojure community. A lot has been happening behind the scenes to make Clojure tools as good as other languages, and in some cases, better.</p> <p>In this talk we'll start with a brief history of tooling in the Clojure world, from IDEs to build, launch and deployment tooling. We'll then demonstrate the new Clojure 1.9 tools and how to use them. We'll cover command line REPLs, CIDER (Emacs) and vim integration, features of JUXT's latest Edge release and pack.alpha deployment tool, and much more.</p> <p>The talk will finish up with an open discussion of Clojure tooling, followed by a pub visit.</p> <p>Thank you to everyone from Gresham for organising and hosting the talk and arranging food for the evening.</p> ",
+    "end_time": 1522267200,
+    "link": "https://www.meetup.com/Bristol-Clojurians/events/gvhmjpyxfblc/",
+    "location": {
+        "address": "2nd\u00a0Floor, The Brew House  Jacob Street",
+        "city": "Bristol",
+        "country": "GB",
+        "latitude": 51.45514678955078,
+        "longitude": -2.581968069076538,
+        "name": "Gresham Computing "
+    },
+    "org": "clojurians",
+    "start_time": 1522260000,
+    "title": "2018: The year of Clojure tools @ Gresham"
+}

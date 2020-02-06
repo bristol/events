@@ -1,0 +1,16 @@
+{
+    "description": "<p>\u2022 What we'll do - This study group is for people who are want to learn or improve their knowledge of Clojure (<a href=\"https://clojure.org/\" class=\"linkified\">https://clojure.org/</a>) and ClojureScript (<a href=\"https://clojurescript.org/\" class=\"linkified\">https://clojurescript.org/</a>)</p> <p>All levels of experience are welcome.</p> <p>\u2022 What to bring<br/>A laptop and an open mind.</p> <p>It would be helpful if you have Leiningen (<a href=\"https://leiningen.org/\" class=\"linkified\">https://leiningen.org/</a>) installed and an IDE with a Clojure plugin, though not essential.</p> <p>\u2022 Important to know</p> <p>Limited Short stay parking is available.</p> <p>Doors open at 6.30pm. We will be help anyone who needs help with their set up.</p> <p>We will start at 7pm</p> <p>Further details on what we will be doing:</p> <p>Clojure-Study-Group (<a href=\"https://github.com/BristolClojurians/Clojure-Study-Group\" class=\"linkified\">https://github.com/BristolClojurians/Clojure-Study-Group</a>)<br/>but we are open to new ideas</p> ",
+    "end_time": 1552510800,
+    "link": "https://www.meetup.com/Bristol-Clojurians/events/nwvqlqyzfbrb/",
+    "location": {
+        "address": "6 Temple Studios",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448184967041016,
+        "longitude": -2.5816330909729004,
+        "name": "Polecat"
+    },
+    "org": "clojurians",
+    "start_time": 1552503600,
+    "title": "Clojure Study Group"
+}
