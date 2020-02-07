@@ -1,0 +1,16 @@
+{
+    "description": "<p>Everyone is welcome at Bristol's monthly Ruby meetup. Just started learning Ruby? Thinking about starting to learn? Been writing Ruby for years? Please come along! Meet each other, eat delicious food, and listen to talks about Ruby. Because Ruby really is great: <a href=\"https://blog.teamtreehouse.com/why-ruby-is-awesome\" class=\"linkified\">https://blog.teamtreehouse.com/why-ruby-is-awesome</a>.</p> <p>* * *</p> <p>Schedule</p> <p>Arrive any time from 5.30pm to meet and eat.</p> <p>Talks start at 6.50pm</p> <p>We'll wrap up by 8pm for more drinks and mingling</p> <p>* * *</p> <p>Slack</p> <p>If you have any questions or suggestions please join us on Slack. Go to <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> <p>Please let us know on Slack (or in the comments of the event) if you have any specific dietary or access requirements so we can be sure to best accommodate everyone.</p> <p>* * *</p> <p>Look forward to seeing you soon!</p> ",
+    "end_time": 1582056000,
+    "link": "https://www.meetup.com/south-west-ruby/events/268534444/",
+    "location": {
+        "address": "3 Broad Plain, BS2 0JP",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45417404174805,
+        "longitude": -2.582395076751709,
+        "name": "Cookpad"
+    },
+    "org": "south-west-ruby",
+    "start_time": 1582048800,
+    "title": "South West Ruby #25"
+}
