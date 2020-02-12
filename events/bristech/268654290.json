@@ -1,0 +1,16 @@
+{
+    "description": "<p>More info here: <a href=\"https://mlops.bris.tech\" class=\"linkified\">https://mlops.bris.tech</a></p> ",
+    "end_time": 1587657600,
+    "link": "https://www.meetup.com/bristech/events/268654290/",
+    "location": {
+        "address": "BS1 6QH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448997497558594,
+        "longitude": -2.583498001098633,
+        "name": "Bristol Engine Shed @ Temple Meads"
+    },
+    "org": "bristech",
+    "start_time": 1587628800,
+    "title": "MLOps Day @ Engine Shed **TICKETED VIA EXTERNAL SITE**"
+}
