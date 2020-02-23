@@ -2,7 +2,14 @@
     "description": "<p>TBC</p> ",
     "end_time": 1584653400,
     "link": "https://www.meetup.com/OWASP-Bristol/events/268319035/",
-    "location": null,
+    "location": {
+        "address": "101 Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45100402832031,
+        "longitude": -2.5871329307556152,
+        "name": "IBM Bristol"
+    },
     "org": "OWASP-Bristol",
     "start_time": 1584640800,
     "title": "TBC"
