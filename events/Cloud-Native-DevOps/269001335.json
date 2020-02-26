@@ -1,0 +1,16 @@
+{
+    "description": "<p>18:30 - arrive, mingle, eat food and drink</p> <p>19:00 - first talk from Jose Navarro at Cookpad on 'Using the power of Kubernetes to run distributed and parallel hyperparameters tunning jobs'</p> <p>19:35 - 20:05 - second talk from Matt Jarvis on 'KUDO: universal operators for K8S'</p> <p>Kubernetes Operators are the next phase of the journey towards automating complex applications in containers. The KUDO project introduces an easy way to build Kubernetes operators using declarative YAML. Many Operators that exist today handle initial deployment, but they don\u2019t provide automation for tasks like binary upgrades, configuration updates, and failure recovery. Implementing a production-grade controller for a complex workload typically requires thousands of lines of code and many months of development. As a result, the quality of operators that are available today varies. The KUDO project provides a universal operator to enable automated creation of operators for Kubernetes, in most cases just using YAML. In this talk, I\u2019ll introduce the KUDO project, and demo the creation of a Kubernetes operator using KUDO.</p> <p>// About Matt</p> <p>Matt Jarvis is Senior Director of Community and Evangelism at D2iQ ( formerly Mesosphere). Matt has spent more than 15 years building products and services around open source software, on everything from embedded devices to large scale distributed systems. Most recently he has been focused on the open cloud infrastructure space, and in emerging patterns for cloud native applications.</p> ",
+    "end_time": 1582835400,
+    "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/269001335/",
+    "location": {
+        "address": "1 Redcliff St",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.452877044677734,
+        "longitude": -2.590496063232422,
+        "name": "Scott Logic"
+    },
+    "org": "Cloud-Native-DevOps",
+    "start_time": 1582828200,
+    "title": "DevOps & cloud native talks - leveraging the power of Kubernetes"
+}
