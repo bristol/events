@@ -1,0 +1,16 @@
+{
+    "description": "<p>18:00 - 18:30 - arrive, mingle, have some food and drink</p> <p>18:30 - 19:00 Kris from Oracle will speak on 'Building a global API gateway service'</p> <p>Abstract:</p> <p>Just some NGINX's right? How hard can it be?</p> <p>You've written your application. Maybe this consists of some<br/>micro-services, maybe even some \"serverless\" functions. What you need<br/>now is a way to route external traffic to your app. Just stick an NGINX<br/>in front, right? Enter the API gateway service...</p> <p>We'll talk about the architecture of Oracle APIGW service - which is currently being built by teams in California and Bristol and is a global-scale multi-tenant service. We'll pull back the curtain on the implementation choices we made, discuss some of the trade-offs and describe how we ensure secure and efficient use of our hardware.</p> <p>19:05 - 19:35 Dan Jones (Customer Reliability Engineer, Jetstack) will speak on 'The Cloud Native Holy Trinity'</p> <p>This talk explores the cloud native options for quickly building applications in Google Cloud, including Cloud Run, Cloud Functions, GKE and Firebase.</p> ",
+    "end_time": 1588273200,
+    "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/269058427/",
+    "location": {
+        "address": "Cheese Ln",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.4538459777832,
+        "longitude": -2.5851430892944336,
+        "name": "Oracle Corporation UK Ltd"
+    },
+    "org": "Cloud-Native-DevOps",
+    "start_time": 1588266000,
+    "title": "'Building a global API gateway service' & 'The cloud native holy trinity'"
+}
