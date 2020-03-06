@@ -1,6 +1,6 @@
 {
-    "description": "<p>Save the date for GDG Bristol's March meetup! If you would like to present a talk please email us at [masked]</p> ",
-    "end_time": 1584651600,
+    "description": "<p>Save the date for this year's Next Extended event, presenting and demoing some of the new product launches from Google Cloud Next '20: Digital Connect.</p> ",
+    "end_time": 1587672000,
     "link": "https://www.meetup.com/GDG-Bristol/events/268062695/",
     "location": {
         "address": "2nd Floor Broad Quay House, Prince Street, BS1 4DJ",
@@ -11,6 +11,6 @@
         "name": "Just Eat"
     },
     "org": "gdg-bristol",
-    "start_time": 1584644400,
-    "title": "GDG Bristol March Meetup"
+    "start_time": 1587664800,
+    "title": "Next '20 Extended Bristol"
 }
