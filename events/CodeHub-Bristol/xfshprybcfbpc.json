@@ -3,12 +3,12 @@
     "end_time": 1585684800,
     "link": "https://www.meetup.com/CodeHub-Bristol/events/xfshprybcfbpc/",
     "location": {
-        "address": "Framework",
-        "city": "Bristol",
+        "address": "Wherever",
+        "city": "Slack",
         "country": "gb",
-        "latitude": 51.45187759399414,
-        "longitude": -2.59462308883667,
-        "name": "Framework"
+        "latitude": 53.16999816894531,
+        "longitude": -1.5,
+        "name": "Your Computer"
     },
     "org": "CodeHub-Bristol",
     "start_time": 1585674000,
