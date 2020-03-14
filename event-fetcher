@@ -38,6 +38,7 @@ class Event:
     id: str
     link: str
     location: Location
+    cancelled: bool
 
     def to_json(self):
         d = {
@@ -47,6 +48,7 @@ class Event:
             "end_time": self.end_time,
             "description": self.description,
             "link": self.link,
+            "cancelled": self.cancelled,
         }
         if self.location is not None:
             d["location"] = self.location.to_json()
@@ -91,6 +93,8 @@ def meetup_events_to_events(event_dict, org_id):
         id = event.get("id")
         link = event.get("link")
 
+        cancelled = status == "cancelled"
+
         venue = event.get("venue")
         if venue is not None:
             location = meetup_venue_to_location(venue)
@@ -101,7 +105,7 @@ def meetup_events_to_events(event_dict, org_id):
         end_time = start_time + (duration // 1000)
 
         events.append(
-            Event(title, desc, org_id, start_time, end_time, id, link, location)
+            Event(title, desc, org_id, start_time, end_time, id, link, location, cancelled)
         )
     return events
 
@@ -113,9 +117,11 @@ def get_past_meetup_events(urlname, org_id):
         "https://www.meetup.com/mu_api/urlname/events/past?"
         + "queries=(endpoint:noop,meta:(metaRequestHeaders:!(),method:get),params:(),ref:headers,type:headers),"
         + f"(endpoint:{urlname}/events,list:(dynamicRef:list_events_{lower_urlname}_past_cancelled),meta:(method:get),params:(desc:!t,fields:'plain_text_no_images_description,series,self,venue,venue_visibility',has_ended:!t,page:100,status:'upcoming,past,cancelled'),ref:events_{lower_urlname}_past_cancelled)"
-    ).json()
+    )
 
-    endpoint_resps = resp.get("responses")
+    content = resp.json()
+
+    endpoint_resps = content.get("responses")
 
     events = []
     for endpoint in endpoint_resps:

@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>When developers reach into their toolkit for architectural styles, they often explicitly uses layers to separate their domain from their presentation logic or infrastructure. They often implicitly use the repository style, with independent components updating the database. But there are many more styles out there, which can help you build your applications. In this talk we look at two of them: pipelines and events. Pipelines let us deal with streams of data effectively, and events provide significant advantages for loose coupling.</p> <p>We discuss where these styles are appropriate and how to implement them in .NET. As both approaches can be used in-process or out-of-process we'll show examples of both, leading to an understanding of how distributed systems communicate using ideas such a SEDA - the staged event driven architecture.</p> ",
     "end_time": 1410381000,
     "link": "https://www.meetup.com/dotnetsouthwest/events/203785512/",

@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>We now have two slots on the agenda.</p> <p>- <b>ElasticSearch and Spark - better together</b> - with <a href=\"https://uk.linkedin.com/in/neilandrassy\">Neil Andrassy</a>. Neil is CTO at The Filter, a Bath-based personalisation engine for digital media and e-commerce using ElasticSearch for .</p> <p>- <b>Meet the developer - Q&amp;A session</b> - with <a href=\"https://twitter.com/colings86es\">Colin Goodheart-Smithe</a>\u00a0from ElasticSearch -\u00a0Colin is an Elasticsearch Engineer based in London. Prior to joining Elasticsearch Colin worked at BAE Systems Detica, where he spent 5 years using Lucene to build search analytics products which scale to billions of documents.</p> <p>Thanks to our sponsors: Drinks and nibbles are kindly funded by the team at <b>ElasticSearch</b>,\u00a0venue provided by <b>The Guild Co-working Hub</b> and meetup dues funded by <b>The Filter</b>.</p> ",
     "end_time": 1421958600,
     "link": "https://www.meetup.com/South-West-Elastic-Fantastics/events/219311668/",

@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>\"Programming in the Pub\" is a chance to casually meet up with other Clojurians and talk about Clojure, Lisp, and code. You can bring some code in to work on, and ask other Clojurians for help. Or you can just spend the evening chatting with fellow Lispers!</p> ",
     "end_time": 1504728000,
     "link": "https://www.meetup.com/Bristol-Clojurians/events/qbsjhnywmbjb/",

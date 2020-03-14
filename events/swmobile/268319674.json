@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>For our February talk night Tim Condon (one of the authors of Server Side Swift with Vapor <a href=\"https://store.raywenderlich.com/products/server-side-swift-with-vapor\" class=\"linkified\">https://store.raywenderlich.com/products/server-side-swift-with-vapor</a> ) has kindly offered to come speak about Server Side Swift. More speakers to be announced soon...</p> <p>Tim Condon - Full Stack Development with Swift<br/>Eddy Gammon - A11Y Is For Everyone<br/>Matt Hamilton - Introduction to AI / Machine Learning</p> <p>We're also looking for another speaker, so if you fancy dusting off that talk you've thought about giving just get in touch with one of the organisers (first time talks are very welcome).</p> <p>Location - Dyson\u2019s Bristol office</p> ",
     "end_time": 1582664400,
     "link": "https://www.meetup.com/swmobile/events/268319674/",

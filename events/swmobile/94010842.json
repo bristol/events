@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>Our next talk night will be all about the wonderful world of write once, run anywhere.</p> <p>We will be talking about a few of the cross-platform toolsets that are out there - from Phonegap, the popular HTML 'hybrid' solution, to Corona and Appceletaror, which compile down to native code.</p> <p>The Stag and Hounds is our host once again, remember they have a \u00a310 minimum spend on cards.</p> ",
     "end_time": 1361484000,
     "link": "https://www.meetup.com/swmobile/events/94010842/",

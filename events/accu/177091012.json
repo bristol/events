@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>How do you make a system testable and deployable? \u00a0And how do you focus on the important parts? \u00a0What should you mock and when? \u00a0This talk shows how business value, unit testing and deployment are all linked by the design of the code. \u00a0Based on a number of case studies and common testing issues it offers some techniques and principles for providing both low- and high-level structures for applications.</p> <p><b>About our speaker:</b></p> <p>Hubert is an independent software consultant, architect and trainer based in Oxford. His work ranges from teaching and advising on software development and agile methods in far-off places through to designing enterprise systems and government web sites. Hubert has been an ACCU member for many years and has presented regularly at its conferences as well as being a former chairman.</p> ",
     "end_time": 1404936000,
     "link": "https://www.meetup.com/ACCU-Bristol/events/177091012/",

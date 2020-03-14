@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>Welcome to the 4th Bristol Machine Learning Meetup. This time the social one. We are going to join PyData Bristol Meetup this time: <a href=\"https://www.meetup.com/PyData-Bristol/events/260679477/\" class=\"linkified\">https://www.meetup.com/PyData-Bristol/events/260679477/</a></p> <p>Please make sure you RSVP there!</p> ",
     "end_time": 1557950400,
     "link": "https://www.meetup.com/Bristol-Machine-Learning/events/260828897/",

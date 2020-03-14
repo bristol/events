@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>The second edition of the F# eXchange invites F# practitioners and thought leaders, students and enterprise devs from around the world for one day of unadulterated fsharpery! The eXchange is a forum to discuss the latest advances and tools, evolve bleeding edge ideas and approaches, and share skills and expertise.</p> <p>Join us at the F# eXchange in London on April 15th! Working with the F# community, the eXchange brings together the world's leading experts on the subjects determined by you. In 2015 we tuned into our community's wants and needs and with the help of F#unctional Londoners UG lead, Phil Trelford, we crafted a programme to reflect this. Check out the programme and SkillsCasts of each and every talk from last year's F# eXchange.</p> <p>Book your ticket and take advantage of the early bird discount: <a href=\"https://skillsmatter.com/conferences/7145-f-exchange-2016\" class=\"linkified\">https://skillsmatter.com/conferences/7145-f-exchange-2016</a></p> ",
     "end_time": 1460718000,
     "link": "https://www.meetup.com/FSharpBristol/events/228372592/",

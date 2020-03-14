@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>Bring your laptop to the pub and work on whatever Clojure project you like in the company of like-minded people.</p> ",
     "end_time": 1464811200,
     "link": "https://www.meetup.com/Bristol-Clojurians/events/psxjrlyvjbcb/",

@@ -1,4 +1,5 @@
 {
+    "cancelled": true,
     "description": "<p>This week, we'll follow the office hours format:\u00a0<a href=\"https://www.factual.com/blog/clojure-office-hours\"><a href=\"https://www.factual.com/blog/clojure-office-hours\" class=\"linkified\">https://www.factual.com/blog/clojure-office-hours</a></a></p> <p>If you have a Clojure project you're working on (or just some Clojure questions), bring it along to the Oracle offices to get some in-depth insight. We can go through your code with you and offer advice.</p> <p>Any type of project is welcome, whether it be an exercise from a beginners' textbook or something crazy and ambitious like a game. Or maybe you just want an extra pair of eyes on that 4clojure problem you're working on. Or you want to upgrade your emacs setup. A bunch of devs will be here to help.</p> <p>Food and drinks will be provided, so see you there!</p> <p>Note, just in case you missed it: this meetup will be hosted at the Oracle office in central Bristol, rather than the usual location.</p> ",
     "end_time": 1487797200,
     "link": "https://www.meetup.com/Bristol-Clojurians/events/cflrclywdbdc/",

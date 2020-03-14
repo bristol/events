@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>Talks on PHP profiling and debugging</p> ",
     "end_time": 1340226000,
     "link": "https://www.meetup.com/php-sw/events/65851242/",

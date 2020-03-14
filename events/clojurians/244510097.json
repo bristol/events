@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>In this session, Jon Summer will show us how to program Arduino hardware in Clojure using Cloduino:\u00a0 a library that allows you to control Arduino using Clojure, allowing Clojure developers to interface with real world using Arduino hardware: <a href=\"https://nakkaya.com/clodiuno.html\"><a href=\"https://nakkaya.com/clodiuno.html\" class=\"linkified\">https://nakkaya.com/clodiuno.html</a></a></p> <p>The location will be Small Bar for now, but may change if we get more people than usual scheduled to attend. See you there!</p> ",
     "end_time": 1510779600,
     "link": "https://www.meetup.com/Bristol-Clojurians/events/244510097/",

@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>Since OS X Yosemite came out its now possible to build\u00a0<i>truly</i>\u00a0native application with JavaScript. In this talk we'll cover this as well as some of the\u00a0hurdles along the way as well as alternative techniques including Alfred, Node.js &amp; nw.js.</p> ",
     "end_time": 1427320800,
     "link": "https://www.meetup.com/BristolJS/events/210227672/",

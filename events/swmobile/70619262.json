@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>We have finally got a venue and a topic sorted, so welcome to our second meetup!</p> <p>The evening will consist of 2 talks and a debrief in the bar. In a change to the original schedule, the talks will be as follows:</p> <p>Ben Reed: discussion and demonstration on how to create a universal iOS app to target both iPhone and iPad. Tim King: hybrid design options for mobile apps. Our venue is the marvellous new Pervasive Media studio, in the Watershed. The large boardroom there is perfect for the talk, and even more perfect is the 20 metres to the Watershed bar for drinks afterwards.</p> <p>Hope you can make it!</p> ",
     "end_time": 1342731600,
     "link": "https://www.meetup.com/swmobile/events/70619262/",

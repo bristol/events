@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>Mapumental combines public transport timetables with OpenStreetMap to show all the places you can reach within a certain journey time. In this talk, Dave Arter will show how we (ab)use Javascript to make this happen.</p> ",
     "end_time": 1409173200,
     "link": "https://www.meetup.com/BristolJS/events/192556292/",

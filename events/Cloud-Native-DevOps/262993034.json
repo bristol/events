@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>19:00 - arrive</p> <p>19:00 - 19:20 - pizza, drinks, networking</p> <p>19:25 - Tom Fawcett will give a talk on \"Prometheus. Not just for microservices.\"</p> <p>Topic: Paxport has been using Prometheus to monitor a wide variety of systems for over two years. You don't need native instrumentation, or a microserviced environment to start getting real value from Prometheus.</p> <p>20:00 - David Pintor from BJSS will give a talk on 'Provisioning identical prod-like environments in AWS with a single click'</p> <p>Summary: a talk about CI/CD pipelines and how I solved the challenge to be able to deploy unlimited prod-like environments for devs in AWS with a single click, using Terraform, Docker and bash scripts.</p> <p>\u2022 About David: David is a Platform Engineer in BJSS with a strong background in consulting and operations. For the last year he\u2019s been working in a couple of different projects for NHS Digital.</p> ",
     "end_time": 1564603200,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/262993034/",

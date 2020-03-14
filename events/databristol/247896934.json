@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>Hello All,</p> <p>We have two local speakers in this session James Yarrow and Phil Austin.</p> <p>James Yarrow - Partitioning Party</p> <p>Database Partitioning has been around for a while but is always being updated and adding new benefits. In today big data volume world, we to think fo how we are going to support these large tables.</p> <p>Phil Austin - Power BI report server</p> <p>Power Bi started in the cloud and has landed in your data centre (or iaas)<br/>How does Power BI Report Server with comparisons with SSRS 2017 and the original Power BI (ie in the cloud). It has to be said I do think this is the future for MS BI on-prem. Will this be ending of SharePoint integration (if there\u2019s time)?</p> <p>18:00 - Starting<br/>18:00 - 18:30 - Networking &amp; intros<br/>18:30 - 19:15 - 45 minute main session - Partitioning Party, Dev,DBA, and infra invited!<br/>19:15 - 19:45 - Networking &amp; pizza<br/>19:45 - 20:30 - 45 minute second session - Power BI report server<br/>20:30 - Networking &amp; Social</p> ",
     "end_time": 1521577800,
     "link": "https://www.meetup.com/DataBristol/events/247896934/",

@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>Skills Matter have kindly given the Bristol meetup group a ticket to this year's Clojure eXchange:<br/><a href=\"https://skillsmatter.com/conferences/10459-clojure-exchange-2018\" class=\"linkified\">https://skillsmatter.com/conferences/10459-clojure-exchange-2018</a></p> <p>It's happening in London on Monday 3rd till Tuesday 4th December 2018.<br/>If you can make those dates and would like a chance to win the ticket, please sign up to this meeting and we will pick a winner from the list.</p> <p>We will make the draw at the next meeting:<br/><a href=\"https://www.meetup.com/Bristol-Clojurians/events/nwvqlqyxpbcc/\" class=\"linkified\">https://www.meetup.com/Bristol-Clojurians/events/nwvqlqyxpbcc/</a></p> <p>Good Luck!</p> <p>Richard<br/>PS. There's a 20% discount promo code if you wish to purchase a ticket: CLOJUREX-18-20</p> ",
     "end_time": 1542834000,
     "link": "https://www.meetup.com/Bristol-Clojurians/events/256449136/",

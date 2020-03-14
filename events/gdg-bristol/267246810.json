@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>It's 2020 and we're back! Having just about recovered our strength after DevFest we're happy to be bringing you our first meetup of the year. Dan will be providing us with a comparison and discussion of the three GCP-native serverless solutions, and Tim will be talking about how you can learn Go, when all of the online tutorials and reference materials so far appear to have been written in Latin. Everyone is welcome! Everything is fine!</p> <p>Agenda:</p> <p>19:00 - Meet/Greet/Eat Pizza<br/>19:30 - Cloud Native Holy Trinity with Dan Jones<br/>20:00 - Learning to Go with Tim Berry<br/>20:30 - Redistribute extraneous pizzas</p> <p>As per usual sustenance for human ingestion will be supplied!</p> ",
     "end_time": 1579813200,
     "link": "https://www.meetup.com/GDG-Bristol/events/267246810/",

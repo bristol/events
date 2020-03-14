@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>Sorry for the late notice on this one - due to various excuses it's now next week (3rd Wednesday) instead of tomorrow.</p> <p>\u00a0</p> <p>These talks will be lightning-quick/pithy and open to feedback/excoriation:</p> <p>\u00a0</p> <p><b>Instant APIs</b></p> <p>Rapid application development from lightweight PHP frameworks to\u00a0provide a REST API with little effort.</p> <p>\u00a0</p> <p><b>Write Better Software with TDD</b></p> <p>Test driven development. Write test, test fails, write code, test\u00a0passes ... rinse and repeat.</p> <p><b>HipHop: Facebook's Secret Sauce</b></p> <p>Transform PHP into C++ and compile with g++. Execute this rather than\u00a0PHP. On average Facebook reduced the CPU usage on their web servers by\u00a0fifty percent.</p> <p>\u00a0</p> <p>As usual, Beer and Chilli are the order of the day!</p> ",
     "end_time": 1337202000,
     "link": "https://www.meetup.com/php-sw/events/63933992/",

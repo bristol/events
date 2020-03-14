@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>Welcome to June's SWmobile event (that's actually in July as June was too busy). We'll be covering some of the details from WWDC and Google IO 2019 and how we might apply the new mobile OS features into our apps.</p> <p>We're still finalising our venue and speakers but wanted to get this in the diary so you can RSVP.</p> <p>Talks:<br/>- SwiftUI - Chris Rivers<br/>- SF Symbols and Dark Mode - Antonio Strijdom<br/>- Join the (Android) Q - Andrew Barber<br/>- What's Q In Android Security - Scott Alexander-Bown</p> <p>Timings<br/>18:30 Doors, Food &amp; Drink<br/>19:00 Intro and Talks 1&amp;2<br/>19:45 Break<br/>20:00 Talks 3&amp;4<br/>20:45 Tidy up &amp; Head to a local pub to continue the conversation</p> <p>As always we welcome new speakers. Please message the lead organiser (Scott Alexander-Bown) or any of the other organisers if you have a talk idea, or fill out the form at <a href=\"http://cfp.swmobile.org\" class=\"linkified\">http://cfp.swmobile.org</a></p> ",
     "end_time": 1562097600,
     "link": "https://www.meetup.com/swmobile/events/262206184/",

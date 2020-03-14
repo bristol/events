@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>Our very own Adam Butler is going to be talking about building declarative, high performance, modular and scalable web applications using AngularJS.</p> ",
     "end_time": 1406062800,
     "link": "https://www.meetup.com/BristolJS/events/182513542/",

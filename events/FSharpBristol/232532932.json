@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>Two beginner friendly, hands on sessions back to back:</p> <p>First Stuart will cover getting started with F# outside of visual studio using VS Code or Atom. He will be taking look at Ionide, a suite of F# plugins for VS Code and Atom which includes and integrates with tools such as FAKE, Paket and Forge.</p> <p>Then using our hipster open source IDE we will be getting used to working with the REPL and .fsx files. Corwin Pierce-Butler will be covering some simple Bandit Algorithms, introducing F#'s fantastic FSlab with it's graphing and data analysis tooling.</p> <p>This hands on sessions requires no prior knowledge of F# or even anything installed on your machine. Windows + Macs will both work just fine.</p> <p>If hands on is not your thing, peering over the shoulder of others will probably be fine ;)</p> ",
     "end_time": 1469046600,
     "link": "https://www.meetup.com/FSharpBristol/events/232532932/",

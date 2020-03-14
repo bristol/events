@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>This meetup is for anyone who is interested in using code creatively</p> <p>The format will be<br/>Work on an existing audio project in a language / environment of your choice with the aim to Jam together (or make random noises) towards the end of the session</p> <p>New creative coders may like to use Gibber<br/><a href=\"https://gibber.cc/\" class=\"linkified\">https://gibber.cc/</a></p> <p>Creative Clojurians may like to use Overtone<br/><a href=\"http://overtone.github.io/\" class=\"linkified\">http://overtone.github.io/</a></p> <p>There are many other options including:<br/>Sonic Pi, Pure Data etc.</p> <p>Its a good idea to have something working before you come to the session because there is not a lot of time otherwise.</p> ",
     "end_time": 1525289400,
     "link": "https://www.meetup.com/Bristol-Clojurians/events/zvvpkpyxhbdb/",

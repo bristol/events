@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>C project development tools, including AddressSanitizer and friends, and property based testing.<br/>- Louis Taylor</p> <p>Using the Force (and ChatScript) to code advanced Conversational Agents - aka chatbots.<br/>- Ismael Velasco</p> <p>- Emyr Williams (CANCELLED)</p> ",
     "end_time": 1550610000,
     "link": "https://www.meetup.com/ACCU-Bristol/events/258699758/",

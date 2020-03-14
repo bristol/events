@@ -1,4 +1,5 @@
 {
+    "cancelled": false,
     "description": "<p>For our April meetup we're really pleased to have <b>Andrew Nesbitt</b> speaking for us. His talk will demonstrate integrating ElasticSearch with a Rails app, including active record and some handy tips and tricks. There will also be some real world usage examples from within <b>Libraries.io</b>,\u00a0an open source discovery engine of which Andrew is the founder.</p> <p>Andrew is a freelance software developer, based right here in Bath. He spends most of his days programming in Ruby, contributing to open source projects and organising local developer user groups (so by all means ask about those when you see him).</p> <p>You can find him on twitter <b>@teabass</b>.</p> <p>We hope to see you there for ElasticSearch, Rails, beer and pizza!</p> ",
     "end_time": 1429214400,
     "link": "https://www.meetup.com/South-West-Elastic-Fantastics/events/220477878/",
