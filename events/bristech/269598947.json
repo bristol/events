@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech is proud to announce its second online meetup in collaboration with MLOps.community. Note: registration via external site.</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>*What does best in class AI/ML governance look like in financial services?*</p> <p>For our next virtual meetup, we will be joined by Charles Radclyffe, who until very recently was the Head of AI at Fidelity. Some of his other feats include starting 3 companies, TEDx talks (<a href=\"https://dataphilos.wpengine.com/#TEDx-Talk\" class=\"linkified\">https://dataphilos.wpengine.com/#TEDx-Talk</a>), and advising the likes of HSBC, Barclays, Morgan &amp; Stanley, and Deutsche Bank. He has focused his career on solving tough technology challenges for some of the world's largest organizations. For more on him, you can follow on twitter (<a href=\"https://twitter.com/dataphilosopher\" class=\"linkified\">https://twitter.com/dataphilosopher</a>) or connect on LinkedIn (<a href=\"https://www.linkedin.com/in/radclyffe\" class=\"linkified\">https://www.linkedin.com/in/radclyffe</a>)</p> <p>Governance is coming for us all, but it\u2019s especially pertinent in regulated industries such as the finance sector. Financial institutions must be mindful of how their machine learning models are being used and experimented with as regulators are keen to understand the quality of controls across the industry.</p> <p>Our conversation will center around Charles\u2019 past experiences heading up the AI capability for a large organization in the financial industry, and his learnings during that time. We will also touch on what ideal AI/ML governance looks like in his eyes and where he sees we need to focus our attention for future success within this area. What do data scientists and ML engineers need to learn about governance to ensure business success as laws are continually changing?</p> <p>This meetup is a virtual fireside chat for the first 40 minutes and in the last 20 minutes we will open up the floor for any questions. Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> ",
+    "end_time": 1585159200,
+    "link": "https://www.meetup.com/bristech/events/269598947/",
+    "location": {
+        "address": "0.0.0.0/0",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": -0.6144090294837952,
+        "longitude": -20.693378448486328,
+        "name": "**ONLINE VIA SUPPLIED LINK**"
+    },
+    "org": "bristech",
+    "start_time": 1585155600,
+    "title": "MLOps.community online #2: What is best AI/ML governance in financial services?"
+}
