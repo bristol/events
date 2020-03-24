@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p><a href=\"https://twitch.tv/TheLiveCoders\" class=\"linkified\">https://twitch.tv/TheLiveCoders</a></p> <p>14 speakers over 14 hours, split into two streams.</p> <p>Jones S Cropper - Developing tools for developers<br/>Mary Jo Staebler - Using a boilerplate to create a WordPress Plugin<br/>Trezy - Ally from the ground up<br/>Nick Larsen - Reproducing AlphaZero<br/>Andy Morrell - Finding your niche to stay relevant, in your career<br/>Nina Zakharenko - Debugging Python: Goodbye Print, Hello Debugger<br/>Jochen Lillich - How to build up resilience and keep burnout at bay<br/>Carey Payette - Using Azure IoT Central to form a basis for your IoT Solution<br/>Timmy Kokke - How to build a WebXR Game in 13KB<br/>Ted Young - That's Not OOP: Getters and Setters are Still Evil<br/>Michael Crump - Azure for Developers: In Plain English<br/>Mahmood Hikmet - The Trolley Problem Problem: Talking about the Ethics of Self Driving Cars<br/>Liz Phillip - Getting your Second Coding Job<br/>Suz Hinton - Techniques for Interacting with Microcontrollers in the Browser</p> ",
+    "end_time": 1586494800,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/269525151/",
+    "location": null,
+    "org": "dotnetsouthwest",
+    "start_time": 1586437200,
+    "title": "(Affiliated) The Live Coders Conference"
+}
