@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Our good friends and long time sponsor iO Associates are exciting to bring you the first of many in their series of \u2018iO Virtual Meetups\u2019 taking place at 8pm on Tuesday 31st March.</p> <p>It\u2019s a hugely challenging time for everyone and the folks at iO are really keen to help keep our community engaged hearing from the best speakers on the topics of your choice.</p> <p>To kick us off, .NET expert Mark Rendle will be covering the topic 'From WCF to gRPC'.</p> <p>gRPC is a high-performance messaging protocol that is ideal for communication between microservices and other clients on internal networks. In this talk, he will explain the different models that gRPC enables, from Request/Response to full bi-directional streaming, and how they map to various WCF models. He'll show how to create gRPC services and clients using the dotnet CLI, and share best practices for using them in the real world.</p> <p>Find out more and get signed up here: <a href=\"https://register.gotowebinar.com/register/5671327561173080077\" class=\"linkified\">https://register.gotowebinar.com/register/5671327561173080077</a></p> <p>iO can\u2019t wait to bring you this first (of many) Virtual Meetups and really welcome your feedback. What times work for you? What topics do you want to hear about? What speakers do you want to hear from? Get in touch at [masked].</p> ",
+    "end_time": 1585686600,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/269645007/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1585681200,
+    "title": "(Affiliated) iO Virtual Meetups - Mark Rendle - \"From WCF to gRPC\""
+}
