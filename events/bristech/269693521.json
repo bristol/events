@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech is proud to announce its third online meetup in collaboration with MLOps.community. Note: registration via external site.</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>Hierarchy of MLOps needs</p> <p>Just as Maslow has the basic human needs so too do we have basic MLOps needs. Where does \"MLOps\", as a \"thing\", starts and end?</p> <p>The topic of conversation for our next virtual meetup with Phil Winder will be a pyramid of best practices that build-up to and incorporate data science best practices. That is to say, we will be analyzing from \u201cthe essential\u201d base of the pyramid all the way up to the top.</p> <p>ML/DS/AI is an extension to the technical stack. So you can't really talk about Data science best practices without accidentally talking about software engineering best practices. For example, model provenance doesn't count for anything if you don't have code or container provenance.</p> <p>Dr. Philip Winder is a multidisciplinary Engineer who creates data-driven software products. His work incorporates Data Science, Cloud-Native and traditional software development using a range of languages and tools.</p> <p>This meetup is a virtual fireside chat for the first 40 minutes and in the last 20 minutes we will open up the floor for any questions. Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> ",
+    "end_time": 1585760400,
+    "link": "https://www.meetup.com/bristech/events/269693521/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1585756800,
+    "title": "MLOps.community online #3: Hierarchy of MLOps needs with Dr. Phil Winder"
+}
