@@ -1,17 +1,17 @@
 {
     "cancelled": false,
-    "description": "<p>18:00 - 18:30 - arrive, mingle, have some food and drink</p> <p>19:05 - 19:35 Dan Jones (Customer Reliability Engineer, Jetstack) will speak on 'The Cloud Native Holy Trinity'</p> <p>This talk explores the cloud native options for quickly building applications in Google Cloud, including Cloud Run, Cloud Functions, GKE and Firebase.</p> ",
+    "description": "<p>18:00 - 18:30 Dan Jones (Customer Reliability Engineer, Jetstack) will speak on 'The Cloud Native Holy Trinity'</p> <p>This talk explores the cloud native options for quickly building applications in Google Cloud, including Cloud Run, Cloud Functions, GKE and Firebase.</p> ",
     "end_time": 1588273200,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/269058427/",
     "location": {
-        "address": "Cheese Lane",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.4538459777832,
-        "longitude": -2.5851430892944336,
-        "name": "Oracle Corporation UK Ltd"
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
     },
     "org": "Cloud-Native-DevOps",
     "start_time": 1588266000,
-    "title": "'Building a global API gateway service' & 'The cloud native holy trinity'"
+    "title": "The cloud native holy trinity"
 }
