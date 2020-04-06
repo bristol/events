@@ -1,17 +1,17 @@
 {
     "cancelled": false,
-    "description": "<p>Details to be announced shortly</p> ",
-    "end_time": 1587672000,
+    "description": "<p>We're pleased to announce our first online virtual meetup! As the first of our meetups taking place entirely online, it'll be even more informal than usual but will still include a feature presentation and a chance to socialise (with guaranteed safe physical distance) with other technology enthusiasts. The meeting will take place via Zoom and a link will be sent out to join on the day. You can join through your browser - no account signup or software installation is required. You do have to bring your own pizza and drinks though!</p> ",
+    "end_time": 1587670200,
     "link": "https://www.meetup.com/GDG-Bristol/events/268062695/",
     "location": {
-        "address": "2nd Floor Broad Quay House, Prince Street, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "Just Eat"
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
     },
     "org": "gdg-bristol",
     "start_time": 1587664800,
-    "title": "[ONLINE] Next Meetup Coming Soon!"
+    "title": "[ONLINE] GDG Bristol April Virtual Meetup"
 }
