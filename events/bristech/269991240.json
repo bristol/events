@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>// Malcolm Holmes - Introducing Tanka: From configuration as data to configuration as code</p> <p>There are various tools available for managing Kubernetes resources, whether they be Helm, Kustomize or others, all of which felt too limiting to us. In this presentation we will introduce Tanka, a tool developed at Grafana labs and available on GitHub. We will introduce the Jsonnet language, and demonstrate its power as a way of interacting with Kubernetes. We will then demonstrate some of the enhancements we have already made to Tanka, and then explain our roadmap for the tooling, and how we believe it is already the best of breed configuration management solution for Kubernetes.</p> <p>// About Malcolm<br/>Malcolm Holmes is a software engineer and SRE. A member of the Apache Software Foundation for 15 years, he now works at Grafana Labs on their Infrastructure team, where is helping to develop Tanka, and the ecosystem around it.</p> ",
+    "end_time": 1592509500,
+    "link": "https://www.meetup.com/bristech/events/269991240/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1592506800,
+    "title": "BRISTECH: BYTESIZE #4 - MALCOLM HOLMES - GRAFANA TANKA"
+}
