@@ -3,7 +3,14 @@
     "description": "<p>// Matt Sinton-Hewitt - Scala 3: The best thing since Scala 2<br/>Scala 3 is expected to be released later this year. This is an overview of some of the changes that come with Scala 3 and my opinion on their impact. If you have never seen Scala code before this could be an interesting way to gain some insight into what its like to work with!</p> <p>// About Matt<br/>Matt Sinton-Hewitt is an enthusiastic functional programming geek, a proud Dad of two and a wannabe climber.</p> ",
     "end_time": 1591299900,
     "link": "https://www.meetup.com/bristech/events/269348460/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "bristech",
     "start_time": 1591297200,
     "title": "BRISTECH: BYTESIZE #3 -  MATT SINTON-HEWITT - SCALA 3"

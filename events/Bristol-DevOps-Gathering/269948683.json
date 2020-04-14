@@ -3,7 +3,14 @@
     "description": "<p>We are pleased to announce the first of our online webinar events! Please join our Slack DevOps Bunker to access the discussion.</p> <p>Nick Drage will be hosting an exclusive talk on Multi-Disciplinary Lessons for Online Collaboration.</p> ",
     "end_time": 1587051000,
     "link": "https://www.meetup.com/Bristol-DevOps-Gathering/events/269948683/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "Bristol-DevOps-Gathering",
     "start_time": 1587045600,
     "title": "DevOps Bunker - Multi-Disciplinary Lessons for Online Collaboration"

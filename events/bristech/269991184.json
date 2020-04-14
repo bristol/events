@@ -3,7 +3,14 @@
     "description": "<p>// Francesco Renzi - Explaining Docker through Storytelling<br/>Let\u2019s get away from all the fancy words and see how we can explain what Docker is and how it works to anyone by using a little bit of storytelling and a couple metaphors. Too often in tech we hide behind buzzwords that really don\u2019t help in including everyone in a conversation, but not today: today we explain Docker using food trucks and knives, giving everyone the tools to easily understand or to go and explain their colleagues and friends what Docker is.</p> <p>//About Francesco<br/>I\u2019m a former professional basketball player, who graduated as a designer and then became a software engineer. I\u2019m really passionate about explaining tech things to non tech people, something I developed thanks to my grandma who everyday asks me how work was.</p> ",
     "end_time": 1590090300,
     "link": "https://www.meetup.com/bristech/events/269991184/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "bristech",
     "start_time": 1590087600,
     "title": "BRISTECH: BYTESIZE #2 -  FRANCESCO RENZI - TALES OF DOCKER"
