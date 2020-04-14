@@ -3,14 +3,7 @@
     "description": "<p>This month we're hosting a virtual meetup, with two great speakers. Join us on zoom at 7pm. You'll get the link when you RSVP.</p> <p>Just started learning Ruby? Thinking about starting to learn? Been writing Ruby for years? Please join us, and feel free to invite anyone who might be interested, because remember: Ruby really is awesome (<a href=\"https://blog.teamtreehouse.com/why-ruby-is-awesome\" class=\"linkified\">https://blog.teamtreehouse.com/why-ruby-is-awesome</a>).</p> <p>== Scott Matthewman ==</p> <p>\"Working with legacy codebases can be tricky at the best of times. What can make it worse is if there\u2019s no consistency in style. Linters (and Ruby\u2019s RuboCop in particular) can help us write good code going forward \u2013 but what about the code that\u2019s already there? There are good ways, and bad, to get RuboCop to help.\"</p> <p>== Aidan Walters-Williams ==</p> <p>Clean your Room, Not your House!</p> <p>\"I'm just going to extract this logic it out into its own... wait what does this do? Hold on, there's an N+1 here, let me just fix this. That reminds me, there's one over here too. Okay lemme fix this as well... wait, why is this variable called X, let's change this to something more descriptive, okay what does it do? So it calls perform on FooBarBazinator, what the f*\"^ is FooBarBazinator?! This needs a new name too - lemme just crack this open... what was I doing again?</p> <p>Sound familiar? Problems in your code are like problems in your house. You start to fix one, and you notice all of the others and have this insatiable itch to scratch them. And you scratch and scratch until you've dug yourself into a hole, which is far more difficult to leave than it was to enter.</p> <p>I want to share with you one of my most painful refactoring stories, how it led me to developing my own model for refactoring, and how it can help you refactor cleaner and with more discipline.\"</p> <p>* * *</p> <p>Schedule</p> <p>Join Zoom at 7pm. You'll get the link when you RSVP.</p> <p>7.05pm - Aidan Walters-Williams<br/>7.30pm - Break<br/>7.45pm - Scott Matthewman</p> <p>* * *</p> <p>Slack</p> <p>If you have any questions or suggestions please join us on Slack. Go to <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> <p>* * *</p> <p>Look forward to seeing you soon!</p> ",
     "end_time": 1587497400,
     "link": "https://www.meetup.com/south-west-ruby/events/269950577/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "south-west-ruby",
     "start_time": 1587492000,
     "title": "South West Ruby #26 (ONLINE)"

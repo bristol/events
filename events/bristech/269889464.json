@@ -3,14 +3,7 @@
     "description": "<p>Bristech is proud to announce its fourth online meetup in collaboration with MLOps.community. Note: registration via external site.</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>Every organization is leveraging machine learning (ML) to provide increasing value to their customers and understand their business. You may have created models too. But, how do you scale this process now? In this Chat with Shubi Jain, you will learn how to pinpoint inefficiencies in your ML data flow, how SurveyMonkey tackled this, and how to make your data more usable to accelerate ML model development.</p> <p>Shubhi Jain is a machine learning engineer at SurveyMonkey where he develops and implements machine learning systems for its products and teams. Occasionally, he\u2019ll create YouTube videos about Machine Learning in collaboration with Springboard, an e-learning platform. He\u2019s always excited to bring his expertise and passion for Data and AI systems to the rest of the industry. In his free time, Shubhi likes hiking with his dog and accelerating his hearing loss at live music shows.</p> <p>Check out some of his videos here: <a href=\"https://www.youtube.com/watch?v=XsD2u7hAwI8\" class=\"embedded\">https://www.youtube.com/watch?v=XsD2u7hAwI8</a></p> <p>This meetup is a virtual fireside chat for the first 40 minutes and in the last 20 minutes we will open up the floor for any questions. Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> ",
     "end_time": 1586365200,
     "link": "https://www.meetup.com/bristech/events/269889464/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "bristech",
     "start_time": 1586361600,
     "title": "MLOps.community #4: Shubhi Jain - Creating an ML Platform @ SurveyMonkey"

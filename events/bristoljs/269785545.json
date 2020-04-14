@@ -3,14 +3,7 @@
     "description": "<p>Update 2/1/20: What a response! We've capped it at 100 whilst we look at what tool we'll use to steam the talk and the costs involved but are fully expeting to be able to increase this once a decision has been made. In the meantime please join the waitlist.</p> <p>--</p> <p>Hi Everybody... I hope you're all looking after yourselves and staying safe during this challenging time.</p> <p>I'm super excited to announce that in April we'll be holding on online meetup of Bristol JS with an absolutely amazing speaker Robert C. Martin (also known as Uncle Bob).</p> <p>I was blown away when I saw Bob speak a few months ago, he's based in Illinois, US so thought I'd take this opportunity where we're all locked in to ask him to speak remotely for us.</p> <p>The meetup will be held on video chat and this page will be updated with a URL closer to the time.</p> <p>In the meantime, if you'd like to influence which tool we use to stream please vote at <a href=\"http://poll.lab.io/0hbBhIe6ZC2zubP94I5gcw\" class=\"linkified\">http://poll.lab.io/0hbBhIe6ZC2zubP94I5gcw</a></p> <p>---</p> <p>The Future of Programming</p> <p>How did our industry start, what paths did it take to get to where we are, and where is it going. What big problems did programmers encounter in the past? How were they solved? And how do those solutions impact our future? What mistakes have we made as a profession; and how are we going to correct them.</p> <p>In this talk, Uncle Bob describes the history of software, from its beginnings in 1948 up through the current day; and then beyond. By looking at our past trajectory, we try to plot out where our profession is headed, and what challenges we\u2019ll face along the way.</p> <p>---</p> <p>About Robert Martin</p> <p>Robert Martin (@unclebobmartin) is Master Craftsman at 8th Light, Skills Matter instructor and author of a range of books (as well as hundreds of articles), including: Clean Code: A Handbook of Agile Software Craftsmanship as well as his most recent, Clean Architecture: A Craftsman's Guide to Software Structure and Design.</p> <p>Uncle Bob is a renowned lecturer and thought leader in all things programming, known for his innovative, practical and engaging lectures as well as expert knowledge of clean coding, clean architecture and all things Agile.</p> ",
     "end_time": 1588186800,
     "link": "https://www.meetup.com/BristolJS/events/269785545/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "bristoljs",
     "start_time": 1588179600,
     "title": "A COVID-19 Special - The Future of Programming with Uncle Bob!"

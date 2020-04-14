@@ -3,14 +3,7 @@
     "description": "<p># Joan Garcia - Computer says no! Why today's networks struggle to adapt to change</p> <p>Network Infrastructure - components, devices and connectivity are increasingly the bottle-neck that is preventing digital transformation. Too many business-critical activities require agility from the network infrastructure to the extent network infrastructure is now critical business infrastructure. As services increase in number, as we layer technologies on top of each other, as we increase network complexity and the number of users our networks become a cause of frustration. Because of this the network operations organisations are under increasing pressure.</p> <p>How do you solve this problem? Using network automation, control and analytics \"intent-based networking\" is a fundamentally different approach. In intent-based networks the focus is the delivery of the end-to-end service, which allows the service to dictate the network and not the other way around. Find out how Zeetta Networks is working with leading organisations in the South-West to deliver intelligent network automation.</p> <p># About Joan</p> <p>Joan Garcia Esp\u00edn is experienced in telecommunications and software engineering with a passion for productisation of novel networking technologies.</p> <p>He has worked in R&amp;D and innovation for over 17 years in top international projects on networks of the future.<br/>Joan has also worked for the i2CAT Research Centre and Scytl in Barcelona and the Bristol Is Open smart city initiative before joining Zeetta.</p> <p>Joan has an MSc in Telematics Engineering and a Master in Business Innovation and collaborates with the University of Bristol to mentor students as part of their entrepreneurship program.</p> ",
     "end_time": 1588880700,
     "link": "https://www.meetup.com/bristech/events/268629905/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "bristech",
     "start_time": 1588878000,
     "title": "BRISTECH: BYTESIZE #1 - JOAN GARCIA - NETWORK AUTOMATION "

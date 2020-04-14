@@ -3,14 +3,7 @@
     "description": "<p>This is the fifth installment of our online meetup in collaboration with MLOps.community. Note: registration via external site.</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>Machine Learning Systems play a huge role in several businesses ranging from the banking industry, entertainment applications and health domains. The era of \"A Data Scientist with a Script in a single machine\" is officially over in high stakes ML.</p> <p>We're entering an era of Machine Learning Operations (MLOps) where those critical applications that impact society and businesses need to be aware of aspects like active failures and latent conditions. This chat will discuss risk assessment in ML Systems from the perspective of reliability, safety and especially causal aspects that can lead to the rise of silent risks.</p> <p>Flavio Clesio is Machine Learning Engineer (NLP, CV, Marketplace RecSys) and at the moment works at MyHammer AG, where he helps build Core Machine Learning applications to exploit revenue opportunities and automation in decision making.</p> <p>This meetup is a virtual fireside chat and the floor is open for any attendees to ask questions. Please feel free to join the conversation beforehand in our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> ",
     "end_time": 1586970000,
     "link": "https://www.meetup.com/bristech/events/269957877/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "bristech",
     "start_time": 1586966400,
     "title": "MLOps.community #5: High Stakes ML with Flavio Clesio "
