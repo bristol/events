@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>We are holding our sixth installment of the collaboration with MLOps.community in the morning to accommodate different timezones. Note: registration via external site.</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_d5LYmHvIRgaaIyMepobVHA\" class=\"linkified\">https://zoom.us/webinar/register/WN_d5LYmHvIRgaaIyMepobVHA</a></p> <p>Scribble helps build and operate production feature engineering platforms for sub-fortune 1000 firms. The output of the platforms is consumed by data science and analytical teams. In this talk we discuss how we understand the problem space, and the architecture of the platform that we built for preparing trusted model-ready datasets that are reproducible, auditable, and quality checked, and the lessons learnt in the process.</p> <p>We will touch upon topics like classes of consumers, disciplined data transformation code, metadata and lineage, state management, and namespaces. This system and discussion complements work done on data science platforms such as Domino and Dotscience.</p> <p>Dr. Venkata Pingali is Co-Founder and CEO of Scribble Data, an ML Engineering company with offices in India and Canada. Before starting Scribble Data, Dr. Pingali was VP of Analytics at a data consulting firm and CEO of an energy analytics firm. He has a BTech from IIT Mumbai and a PhD from USC in Computer Science.</p> <p>This meetup is a virtual fireside chat and the floor is open for any attendees to ask questions. Please feel free to join the conversation beforehand in our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> ",
+    "end_time": 1587031200,
+    "link": "https://www.meetup.com/bristech/events/269958378/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1587027600,
+    "title": "MLOps.community #6: Mid-Scale Production Feature Engineering With Dr. Pengali"
+}
