@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>This is the seventh installment of our online meetup in collaboration with MLOps.community. Note: registration via external site.</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>London Based Fintech start-up TrueLayer decided to use Machine Learning instead of a rule-based system in mid-2019 and in this meetup we will speak to their lead data scientist Alex Spanos about everything that entailed.</p> <p>During the meetup, we will dive into how TrueLayer architected their MLOps pipeline for their Open Banking API: more specifically which tools they use and why, what prompted them to use machine learning, and how Alex sees the role of a Machine Learning Engineer. Alex has led the hiring process of Machine Learning Engineers and will share learnings on candidates and businesses alike.</p> <p>Alex is the Lead Data Scientist at TrueLayer, focussing on building Open Banking API products powered by data. Prior to TrueLayer, he built predictive models in Financial Services, used social data to predict the \u201cnext-big-thing\u201d in Fast Moving Consumer Goods and introduced Machine Learning techniques in subsurface imaging.</p> <p>This meetup is a virtual fireside chat and the floor is open for any attendees to ask questions. Please feel free to join the conversation beforehand in our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> ",
+    "end_time": 1587574800,
+    "link": "https://www.meetup.com/bristech/events/270161192/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1587571200,
+    "title": "MLOps.community #7: ML and Open Banking API with Alex Spanos "
+}
