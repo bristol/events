@@ -1,6 +1,6 @@
 {
     "cancelled": false,
-    "description": "<p>We're pleased to announce our first online virtual meetup! As the first of our meetups taking place entirely online, it'll be even more informal than usual but will still include a feature presentation and a chance to socialise (with guaranteed safe physical distance) with other technology enthusiasts. The meeting will take place via Zoom and a link will be sent out to join on the day. You can join through your browser - no account signup or software installation is required. You do have to bring your own pizza and drinks though!</p> ",
+    "description": "<p>We're pleased to announce our first online virtual meetup! As the first of our meetups taking place entirely online, it'll be even more informal than usual but will still include a feature presentation and a chance to socialise (with guaranteed safe physical distance) with other technology enthusiasts. In this first virtual meetup, Tim Berry will take us through building a big data pipeline with Pub/Sub, Dataflow and BigQuery, then using it to flag naughty words in fake tweets. The meeting will take place via Zoom (sorry Google! It gives us a few more features than Hangouts). Bring your own pizza and drinks!</p> ",
     "end_time": 1587670200,
     "link": "https://www.meetup.com/GDG-Bristol/events/268062695/",
     "location": {
