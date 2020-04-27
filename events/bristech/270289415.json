@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>This is the Eight installment of our online meetup in collaboration with MLOps.community. Note: registration via external site.</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>Linkedin, Spotify, Volvo, JP Morgan, and many other market leaders are leveraging Kubeflow to simplify the creation and the efficient deployment of Machine Learning models on Kubernetes. This presentation will provide an update on the Kubeflow 1.0 release, and review the Community\u2019s best practices to support Critical User Journeys, which optimize ML workflows.</p> <p>As a data scientist will often need to build (and save) hundreds of variants of their model, this session will provide a deeper dive into how an integrated storage solution simplifies model-building and increases ML productivity. The presentation will examine how to optimize the daily workflows of data scientists, and eliminate complex and time-consuming manual tasks. The talk will also highlight how efficient Kubeflow operations rely on Kubernetes storage primitives, such as Dynamic Volume Provisioning, Persistent Volumes and StatefulSets. This integrated solution simplifies the configuration, operations and data protection for Kubeflow and generic K8s stateful apps in production-grade, multi-user environments.</p> <p>Josh Bottum is a Kubeflow Community Product Manager. His Community responsibilities include assisting users to quantify Kubeflow business value, develop critical user journeys (CUJs), triage incoming user issues, prioritize feature delivery, write release announcements and deliver Kubeflow presentations and demonstrations. Mr. Bottum is also a VP of Arrikto. Arrikto simplifies storage operations for stateful Kubernetes applications by enabling efficient local storage architectures with data durability and portability. Arrikto is a core code contributor to Kubeflow.</p> <p>The floor is open for any attendees to ask questions. Please feel free to join the conversation beforehand in the slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> ",
+    "end_time": 1588179600,
+    "link": "https://www.meetup.com/bristech/events/270289415/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1588176000,
+    "title": "MLOps.community #8: Using Kubeflow 1.0 to optimize ML workflows with Josh Bottum"
+}
