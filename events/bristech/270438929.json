@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech/MLOps.community collaboration #9 with Dr. Charles Martin. Note: registration via an external site.</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>10 years Deploying Machine Learning in Enterprises: The Inside Scoop</p> <p>Why do some machine learning projects succeed while others fall down completely? In this discussion, we will discuss the real-world challenges that Enterprises face in deploying ML solutions, focussing on challenges with existing, legacy dev-ops environments and how certain patterns of success emerge to help combat failure.</p> <p>Dr. Martin runs a boutique consultancy in San Francisco, California that supports organizations looking to research, build, and deploy data science, machine learning, and AI products. He has worked with clients like eBay, Blackrock, GoDaddy as well as widely successful startups such as Aardvark (acquired by Google) and Demand Media (the first public Billion dollar IPO after Google).</p> <p>He is a world-renowned researcher, collaborating with UC Berkeley on the WeightWatcher project, and has taught at UC Berkeley and Stanford, and spoken at KDD, ICML, etc. He is also currently a scientific advisor to the Page family\u2019s Anthropocene Institute, consulting on areas including modern nuclear and quantum technologies and their response to the current pandemic.</p> <p>This meetup is a virtual fireside chat open for anyone to ask questions. You can find some of Charles work on his blog: <a href=\"http://calculatedcontent.com/\" class=\"linkified\">http://calculatedcontent.com/</a></p> <p>Feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> ",
+    "end_time": 1588784400,
+    "link": "https://www.meetup.com/bristech/events/270438929/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1588780800,
+    "title": "MLOps.community #9: 10 years Deploying ML in Enterprises: The Inside Scoop"
+}
