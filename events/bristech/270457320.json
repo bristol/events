@@ -1,7 +1,7 @@
 {
     "cancelled": false,
     "description": "<p>This will be the tenth installment of our Bristech/MLOps.community collaboration. note: registration via an external site.</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_-8xX3sOcRTuU7zQ8iBkRlg\" class=\"linkified\">https://zoom.us/webinar/register/WN_-8xX3sOcRTuU7zQ8iBkRlg</a></p> <p>The data science field today is an aggregation of people from various backgrounds - econometrics, statistics, engineering, business analysts, and data engineers. Each of these groups has different expectations from a Machine Learning platforms.</p> <p>Each one of these groups faces problems that have some common challenges - improving reproducibility, reducing technical debt, reducing the time to try new experiments. The challenge before any MLOps system is to create platforms and processes that address the needs of each of these groups.</p> <p>Saurav is a tinkerer in the Machine Learning world with experience in the design and development of ML applications and processes.</p> <p>In the past few years, he has been focused on improving the processes and tools around the Machine Learning teams. He explores the ideas of Auto ML, ML Ops, and model evaluation. He helps customers adopt and use the best tools and processes that allow them to scale their Data Science or Machine Learning tools. He has development experience in the open stack ML platforms and the of late the managed ML services from Azure and AWS.</p> <p>This meetup is a virtual fireside chat open for anyone to ask questions. You can find more of Saurav's work on his Medium: <a href=\"https://medium.com/@csaurav\" class=\"linkified\">https://medium.com/@csaurav</a></p> <p>Feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> <p>*The title is borrowed from an old Indian story (<a href=\"https://en.wikipedia.org/wiki/Blind_men_and_an_elephant\" class=\"linkified\">https://en.wikipedia.org/wiki/Blind_men_and_an_elephant</a>).</p> ",
-    "end_time": 1588845600,
+    "end_time": 1588849200,
     "link": "https://www.meetup.com/bristech/events/270457320/",
     "location": {
         "address": null,
@@ -12,6 +12,6 @@
         "name": "Online event"
     },
     "org": "bristech",
-    "start_time": 1588842000,
+    "start_time": 1588845600,
     "title": "MLOps - The blind men and the elephant with Saurav Chakravorty"
 }
