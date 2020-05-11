@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech is proud to announce its eleventh online meetup in collaboration with MLOps.community. Note: registration via external site.</p> <p>**Register at **<br/><a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>Mercado Libre hosts the largest online commerce and payments ecosystem in Latin America (business overview).</p> <p>The IT department built Fury: a PaaS framework for the development and deployment of multi-cloud, multi-technology, microservices. This platform leveraged the growth of the IT area, which now is made up of around 4000 people.</p> <p>As such, it lacked support for machine learning based solutions: an experimentation environment for data-scientists, infrastructure and data access support for ETL and model\u2019s training tasks, etc.</p> <p>Therefore, for over a year now, they've been developing Fury Data Apps (FDA). An extension of Fury to enable the design, experimentation, development, and deployment of machine learning based solutions. It is already supporting ~500 users and some high-performance production APIs.</p> <p>In this meetup, we plan to talk about the main features of the platform, the supporting technology stack, and whatever else the community deems interesting.</p> <p>This meetup is a virtual fireside chat for the first 40 minutes and in the last 20 minutes we will open up the floor for any questions. Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> ",
+    "end_time": 1589389200,
+    "link": "https://www.meetup.com/bristech/events/270562327/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1589385600,
+    "title": "MLOps.community #11: ML at Scale in Mercado Libre with Carlos de la Torre"
+}
