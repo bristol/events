@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>About the Talk:<br/>ASP.NET Core provides better support for clean, testable, maintainable architectures than any of its predecessors. Learn the underlying principles that apply to project/solution organization, how best to arrange your projects to support clean code, and how to refactor existing solutions toward this architecture. Examples will use ASP.NET Core but the principles covered apply to all languages and platforms.</p> <p>About the Speaker:<br/>Steve Smith (@ardalis) is an entrepreneur and software developer with a passion for building quality software as effectively as possible. Steve has published several courses on Pluralsight, covering DDD, SOLID, design patterns, and software architecture. He\u2019s a Microsoft ASP.NET MVP and Insider, a frequent speaker at developer conferences, an author, and a trainer. Steve works with companies that want to avoid the trap of technical debt by helping their teams deliver quality software, quickly. Steve and his team have been described by clients as a \u201cforce multiplier\u201d, amplifying the value of existing development teams. Steve\u2019s client list includes Microsoft, Quicken Loans, Celina Insurance, and many other satisfied customers.</p> ",
+    "end_time": 1591041600,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/270590822/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1591034400,
+    "title": "Virtual Meetup - Clean Architecture with ASP.NET Core with Steve \"Ardalis\" Smith"
+}
