@@ -4,12 +4,12 @@
     "end_time": 1591185600,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/269036980/",
     "location": {
-        "address": "Central Bristol",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45454406738281,
-        "longitude": -2.584613084793091,
-        "name": "Central Bristol TBC"
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
     },
     "org": "Cloud-Native-DevOps",
     "start_time": 1591182000,
