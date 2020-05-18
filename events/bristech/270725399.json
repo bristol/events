@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech/MLOps community collab #12</p> <p>**Register at **<br/><a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>What good is learning Data Engineering skills? These days full stack is overflowing with all the different things you need to know about so why learn data Engineering now? Our guest on this meetup will make the case for what the advantages are if you do decide to learn data engineering and also go into depth on how to do data engineering in the cloud.</p> <p>Dan Sullivan is a software architect and data scientist with extensive experience in big data, machine learning, data architecture, security, stream processing, and cloud architecture. Dan is the author of the official Google Cloud study guides for the Professional Architect, Professional Data Engineer, and Associate Cloud Engineer exam guides as well as NoSQL for Mere Mortals.</p> <p>He is also the author of over ten LinkedIn Learning courses on data science, machine learning, SQL, data architecture, and NoSQL. He holds a Ph.D. in genetics, bioinformatics, and computational biology.</p> <p>This meetup is a virtual fireside chat for the first 40 minutes and in the last 20 minutes we will open up the floor for any questions. Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> ",
+    "end_time": 1589994000,
+    "link": "https://www.meetup.com/bristech/events/270725399/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1589990400,
+    "title": "MLOps.community #12: Advantages of Learning Data Engineering"
+}
