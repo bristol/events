@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>About</p> <p>Join us for a chat and presentations relevant to work in the technology sector.</p> <p>This event is part of Workshop Wednesdays, hosted by Women's Tech Hub Bristol and you can find the schedule for this days event here:</p> <p>Women\u2019s Tech Hub runs a no recruiter and a strict social media policy which you can find in their code of conduct.</p> ",
+    "end_time": 1616619600,
+    "link": "https://www.meetup.com/CodeHub-Bristol/events/frjksryccfbgc/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "CodeHub-Bristol",
+    "start_time": 1616608800,
+    "title": "CodeHub @ Workshop Wednesdays"
+}
