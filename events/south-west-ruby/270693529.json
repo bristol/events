@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Our next meetup will be in June. It's another virtual meetup with two great speakers. Join us on zoom at 7pm. You'll get the link when you RSVP.</p> <p>Just started learning Ruby? Thinking about starting to learn? Been writing Ruby for years? Please join us, and feel free to invite anyone who might be interested, because remember: Ruby really is awesome (<a href=\"https://blog.teamtreehouse.com/why-ruby-is-awesome\" class=\"linkified\">https://blog.teamtreehouse.com/why-ruby-is-awesome</a>).</p> <p>== Nicolas Alpi, CookiesHQ ==</p> <p>\"4 years ago CookiesHQ built GoodSixty as an MVP marketplace where users can buy local food from local retailers. Over the past 4 years, the platform grew at a steady pace, but, as with every startup product, some corners had to be cut because of budget and time. It wasn\u2019t a big deal, we would always have the time to look at them after the next raise.</p> <p>But, Covid-19 happened, and, overnight GoodSixty app traffic increased by almost 3000%. Conversion rate followed the same path. And, for the past 9 weeks, those two metrics haven\u2019t really declined.</p> <p>I would like to share what we\u2019ve learned so far about how to manage such a rapid increase, what unexpected corners cut came to bite us in the arse, the good surprises, and everything we\u2019ve learned about supporting your clients in times like this.\"</p> <p>== Christian Bruckmayer, Cookpad ==</p> <p>Building a Performance Analytics Tool with ActiveSupport</p> <p>\"Setting up a performance analytics tool like NewRelic or Skylight is one of the first things many developers do in a new project. However, have you ever wondered how these tools work under the hood?</p> <p>In this talk, we will build a basic performance analytics tool from scratch. We will deep dive into ActiveSupport instrumentations to collect, group and normalise metrics from your app. To persist these metrics, we will use a time series database and visualise the data on a dashboard. By the end of the talk, you will know how your favourite performance analytics tool works.\"</p> <p>* * *</p> <p>Schedule</p> <p>Join Zoom at 7pm. You'll get the link when you RSVP.</p> <p>7.05pm - Nic Alpi<br/>7.30pm - Break<br/>7.40pm - Christian Bruckmayer</p> <p>* * *</p> <p>Slack</p> <p>If you have any questions or suggestions please join us on Slack. Go to <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> <p>* * *</p> <p>Look forward to seeing you soon!</p> ",
+    "end_time": 1592337600,
+    "link": "https://www.meetup.com/south-west-ruby/events/270693529/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "south-west-ruby",
+    "start_time": 1592330400,
+    "title": "South West Ruby #27 (ONLINE)"
+}
