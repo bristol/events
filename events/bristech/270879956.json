@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech is proud to announce its 13th online meetup in collaboration with MLOps.community. Note: registration via external site.</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>The amazing Byron Allen will be our next guest on the meetup to talk to us about why ML Flow and Kubeflow are not playing the same game!</p> <p>ML flow vs Kubeflow is more like comparing apples to oranges and this can be quite deceiving when analyzing the two. We will do a deep dive into the functionalities of both and the pros/cons they offer.</p> <p>Byron is a Senior Consultant at Servian - a data consultancy in Australia that also has a footprint across APAC as well as the UK. Byron is based in the London office where he helps organizations discover and build competitive advantage through their data. His focus is on client advisory and consulting delivery related to Experiments and ProductionML (i.e. data science, experimental design, ML model development, MLOps).</p> <p>Byron has written about a wide range of topics including the divide between data engineer and scientist, the role of ML in the post-covid world, and Kubeflow vs. MLflow. Check it all out here: <a href=\"https://medium.com/@byron.allen\" class=\"linkified\">https://medium.com/@byron.allen</a></p> <p>This meetup is a virtual fireside chat for the first 40 minutes and in the last 20 minutes we will open up the floor for any questions. Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> ",
+    "end_time": 1590598800,
+    "link": "https://www.meetup.com/bristech/events/270879956/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1590595200,
+    "title": "MLOps #13: Kubeflow VS. ML flow with Byron Allen"
+}
