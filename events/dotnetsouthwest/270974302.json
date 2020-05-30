@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>REGISTER HERE: <a href=\"https://us02web.zoom.us/meeting/register/tZ0tf-qsqj0jEtKMdjDXsfVu3iWwZ41h3Lwl\" class=\"linkified\">https://us02web.zoom.us/meeting/register/tZ0tf-qsqj0jEtKMdjDXsfVu3iWwZ41h3Lwl</a></p> <p>Taking place on Wednesday 3rd June at 7pm-8.15pm (GMT) we are excited to bring you the next installment in the iO .Net Virtual Meetups.</p> <p>Are you a .NET Developer who has always wondered what the ML and AI hype is all about? Do you want to get involved in the community and utilise ML algorithms to make your application smarter? Join this session for a deep dive into the cross-platform open-source repository of ML.NET!</p> <p>Microsoft MVP and Managing Consultant at Excella Alexander Slotte will be presenting \u2018Machine Learning; an introduction to ML.NET\u2019 + Q&amp;A.</p> <p>It\u2019s no exaggeration to say that Machine Learning (ML) is quickly changing the way we live. Things we are accustomed to today are things we could only dream of 10 years ago. As ML is becoming more and more mainstream, you may be asking yourself how to get started.</p> <p>Historically, many of the tools and libraries used to train a model have been found in the Python and R communities (e.g. Scikit Learn, PyTorch, TensorFlow), but what if you\u2019re a .NET Developer?</p> <p>This session will be introducing ML.NET! ML.NET is an open-source, cross-platform machine learning library, specifically built to enable .NET developers to train their own custom machine learning models in C# or F#.</p> <p>We\u2019ll introduce some fundamental ML concepts and terms before transitioning into the world of ML.NET and building our first model from scratch.</p> <p>Beware, there will be live coding!</p> <p>See you there,<br/>Stella &amp; Deepak</p> <p>About iO Associates</p> <p>Specialising in recruitment across the Tech and Digital market, iO Associates have extensive experience in recruiting the highest calibre of talent to create the products and infrastructure of the future.</p> <p>This new platform will allow us to reach more of our community, interact directly with you and get the most in-demand speakers on your choice of topics so please let us know any suggestions.</p> <p>We hope you can join us and please get in touch at [masked] with any questions or suggestions on future virtual meetups.</p> ",
+    "end_time": 1591210800,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/270974302/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1591207200,
+    "title": "(Affiliated) Machine Learning; an Introduction to ML.NET with Alexander Slotte"
+}
