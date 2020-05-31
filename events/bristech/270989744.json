@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + MLOps.community #15: Scaling Human-in-the-Loop Machine Learning</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>This presentation will talk about the components of Human-in-the-Loop Machine Learning systems and the challenges when scaling them. Most machine learning applications learn from human examples. For example, autonomous vehicles know what a pedestrian looks like because people have spent 1000s of hours labeling \u201cpedestrians\u201d in videos; your smart device understands you because people have spent 1000s of hours labeling the intent of speech recordings; and machine translation services work because they are trained on 1000s of sentences that have been manually translated between languages. If you have a machine learning system that is learning from human-feedback in real-time, then there are many components to support and scale, from the machine learning models to the human interfaces and the processes for quality control. This presentation will talk about each in turn.</p> <p>Robert Munro is an expert in combining Human and Machine Intelligence, working with Machine Learning approaches to Text, Speech, Image and Video Processing. Robert has founded several AI companies, building some of the top teams in Artificial Intelligence. He has worked in many diverse environments, from Sierra Leone, Haiti and the Amazon, to London, Sydney and Silicon Valley, in organizations ranging from startups to the United Nations. He has shipped Machine Learning Products at startups and at/with Amazon, Google, IBM &amp; Microsoft.</p> <p>Robert has published more than 50 papers on Artificial Intelligence and is a regular speaker about technology in an increasingly connected world. He has a PhD from Stanford University. Robert is the author of Human-in-the-Loop Machine Learning (Manning Publications, 2020)</p> <p>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)</p> ",
+    "end_time": 1591203600,
+    "link": "https://www.meetup.com/bristech/events/270989744/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1591200000,
+    "title": "MLOps #15: Scaling Human-in-the-Loop Machine Learning with Robert Munro "
+}
