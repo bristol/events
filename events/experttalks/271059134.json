@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>What makes Continuous Delivery easy and what makes it hard?</p> <p>How much impact do your tech and architectural choices have on it?</p> <p>Should you start with a .Net monolith or go-lang microservices?</p> <p>This session shares lessons learnt by two teams, with very different tech and architectures, but who both were successful in their continuous delivery journey.</p> <p>Speaker: Lyndsay Prewer</p> <p>Lyndsay is an agile delivery consultant with over 20 years' experience of helping individuals, teams and organisations improve their software delivery. He\u2019s currently working with Equal Experts, at a variety of public and private sector clients.</p> ",
+    "end_time": 1591812000,
+    "link": "https://www.meetup.com/ExpertTalks-Bristol/events/271059134/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "experttalks",
+    "start_time": 1591808400,
+    "title": "Smoothing the Continuous Delivery Path: a tale of two architectures"
+}
