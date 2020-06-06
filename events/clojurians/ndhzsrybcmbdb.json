@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>\u2022 What we'll do - This study group is for people who want to learn or improve their knowledge of Clojure (<a href=\"https://clojure.org/\" class=\"linkified\">https://clojure.org/</a>) and ClojureScript (<a href=\"https://clojurescript.org/\" class=\"linkified\">https://clojurescript.org/</a>)</p> <p>All levels of experience are welcome.</p> <p>\u2022 What to bring<br/>A laptop and an open mind.</p> <p>It would be helpful if you have Leiningen (<a href=\"https://leiningen.org/\" class=\"linkified\">https://leiningen.org/</a>) installed and an IDE with a Clojure plugin, though not essential.</p> <p>Doors open at 6pm.</p> ",
+    "end_time": 1599073200,
+    "link": "https://www.meetup.com/Bristol-Clojurians/events/ndhzsrybcmbdb/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "clojurians",
+    "start_time": 1599066000,
+    "title": "Clojure Programming Group"
+}
