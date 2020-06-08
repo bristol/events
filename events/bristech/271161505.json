@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + MLOps.community #17: The challenges of ML Operations and how Hermione helped along the way with Neylson Crepalde, MLOps Tech Lead at A3Data</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>Key takeaways for attendees:<br/>MLOps problems are dealt with tools but also with processes<br/>Open-source framework Hermione can help in a lot of parts of the operations process</p> <p>Abstract:<br/>In Neylson's experience with Machine Learning projects, he has encountered a series of challenges regarding agile processes to build and deploy ML models in a professional cooperative environment that fosters teamwork. While on this journey, Neylson and his team developed some of our their own solutions for these challenges.</p> <p>Out of this was the open-source project Hermoine born . Hermoine is a collection of solutions for these specific MLOps problems that were packaged into a library, an ML project structure framework called Hermione.</p> <p>In this meetup we will talk about these challenges, what they did to overcome them and how Hermione helped address these different issues along the way. We will also do a demo on how to build an ML project with Hermione.</p> <p>Neylson Crepalde is a partner and MLOps Tech Lead at A3Data. He holds a PhD in Economic Sociology, a masters in Sociology of Culture, an MBA in Cultural Management and a bachelor degree in Music/Conducting. He is professor of Machine Learning and Head of Data Science Department at Izabela Hendrix Methodist Technological University. His main research interests are Machine Learning processes, Politics and Deliberation, Economic Sociology and Sociology of Education. In his PhD he has worked with Multilevel Social Network Analysis and Exponential Random Graph Models to understand the social construction of quality in an orchestras\u2019 market.</p> <p>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)</p> ",
+    "end_time": 1591808400,
+    "link": "https://www.meetup.com/bristech/events/271161505/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1591804800,
+    "title": "MLOps #17: The challenges of ML Operations and how Hermione helped along the way"
+}
