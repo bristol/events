@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>We're continuing with the workshops! We will be alternating them with talks, hoping to create a theme that connects the two from here on.</p> <p>Theme: Building a classifier from scratch in Go</p> <p>This task is based off the fantastic talk by James where he showed us how to build a classifier from scratch.</p> <p>On top of this theme we encourage you to bring your own problems and we can work through them together. We encourage you to treat this as office hours; as in pop in any time if you get stuck, ask us questions and we'll do our best to help you out. We can use breakout rooms if you fancy working as a pair/group.</p> <p>Plan:<br/>- 18:00-18:05 - short introduction to the repository<br/>- 18:05-onwards - work on classifier (breakout rooms if needed)</p> <p>\ud83d\udce3 We are looking for help with organising! If you or anyone you know would like to help, give us a shout!</p> <p>\ud83d\udce3Help us grow! JetBrains offers free licences to meet-ups with attendance greater than 30. If we can reach this, we will apply and be handing it out as a prize at events.</p> ",
+    "end_time": 1593025200,
+    "link": "https://www.meetup.com/golang-bristol/events/270981216/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "golang",
+    "start_time": 1593018000,
+    "title": "Go(ne) online - ML Workshop"
+}
