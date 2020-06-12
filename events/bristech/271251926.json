@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech is proud to announce its18th online meetup in collaboration with MLOps.community. Note: registration via external site.</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g\" class=\"linkified\">https://zoom.us/webinar/register/WN_a_nuYR1xT86TGIB2wp9B1g</a></p> <p>Nubank is a Fintech providing credit and banking services to more than 20 million customers. Data science has been one of the company's pillars since the beginning, and many of our critical decisions in production are made with ML, in areas such as Credit, Fraud and Customer Service. We'll discuss how we develop, deploy and monitor ML models, and also talk about how we built those in house solutions over the years. Today we use MLOps to support a team of more than 70 Data Scientists/ML Engineers.</p> <p>Caique, is a Machine Learning Engineer at Nubank, developing software to scale decision making, this goes from model development to monitoring. Always trying to bring best practices from Software development to Data teams.</p> <p>Cristiano, an ML Engineer at Nubank, is working to improve efficiency and quality of ML development. Previously ML/Data Engineer at Google, specializing in MLOps, and Software Engineer at IBM.</p> <p>This meetup is a virtual fireside chat for the first 40 minutes and in the last 20 minutes we will open up the floor for any questions. Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>) or forum (<a href=\"https://forum.mlops.community/\" class=\"linkified\">https://forum.mlops.community/</a>) created for this meetup.</p> ",
+    "end_time": 1592413200,
+    "link": "https://www.meetup.com/bristech/events/271251926/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1592409600,
+    "title": "MLOps #18: Running a fintech on ML // Caique Lima & Cristian Breuel of Nubank"
+}
