@@ -1,7 +1,7 @@
 {
     "cancelled": false,
     "description": "<p>Details to follow shortly :-)</p> ",
-    "end_time": 1592418600,
+    "end_time": 1593023400,
     "link": "https://www.meetup.com/DataBristol/events/271271340/",
     "location": {
         "address": null,
@@ -12,6 +12,6 @@
         "name": "Online event"
     },
     "org": "databristol",
-    "start_time": 1592413200,
+    "start_time": 1593018000,
     "title": "Placeholder [Online Event]"
 }
