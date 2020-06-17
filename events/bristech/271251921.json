@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + MLOps.community #19: Data versioning and DataOps with Dmitry Petrov Creator of DVC.org</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_DZMoQJIPQBiLJR5swz_cOw\" class=\"linkified\">https://zoom.us/webinar/register/WN_DZMoQJIPQBiLJR5swz_cOw</a></p> <p>Data versioning and data management are core components of MLOps and any end-to-end AI platform. What challenges are related to data versioning and how to overcome these. What are the benefits of using Git and data codification as a foundation of data versioning? And how open data versioning tools can enable an open MLOps ecosystem instead of closed end-to-end ML platforms.</p> <p>Dmitry is a creator of open-source tool Data Version Control - DVC.org - or Git for data. He is a former data scientist at Microsoft with Ph.D. in Computer Science. Now Dmitry is working on tools for machine learning and data versioning as a Co-Founder and CEO of Iterative.AI in San Francisco, CA.</p> <p>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)</p> ",
+    "end_time": 1592499600,
+    "link": "https://www.meetup.com/bristech/events/271251921/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1592496000,
+    "title": "MLOps #19: Data Versioning and DataOps with Dmitry Petrov of DVC.org"
+}
