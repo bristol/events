@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + MLOps.community #20: TensorFlow Certification - Yes or No? With Micheal Lanham</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_DZMoQJIPQBiLJR5swz_cOw\" class=\"linkified\">https://zoom.us/webinar/register/WN_DZMoQJIPQBiLJR5swz_cOw</a></p> <p>Google DeepMind recently released the TensorFlow certification exam. The exam is 5 hours long and requires hands-on coding of 5 deep learning models. Models ranging from basic networks to image/text analysis and sequencing. So why would you want to or need to take such an exam?</p> <p>The growing consensus is you don't need an advanced degree, anymore, to develop DL models. In fact, many believe that a new age of developer is currently emerging. A specialized ML developer. Online training programs offering certificates are trying to fill this gap. Except, many of the courses lack core fundamentals and standards are low. Which in turn provides no guarantee to hiring managers looking to fill ML positions.</p> <p>Google is looking to bridge that gap but they have set the bar quite high. So high, that that this new certification exam could define the new minimum for a senior ML developer.</p> <p>In this session, we talk to why the exam may be a good idea and then look at the what. The exam is intimidating but also speaks to many core concepts. Core concepts anyone calling themselves an ML developer should have. We will cover each of the models developed in the exam by reviewing quick examples.</p> <p>Micheal Lanham is a proven software and tech innovator with 20 years of experience. During that time, he has developed a broad range of software applications in areas including games, graphics, web, desktop, engineering, artificial intelligence, GIS, and machine learning applications for a variety of industries as an R&amp;D developer.</p> <p>At the turn of the millennium, Micheal began working with neural networks and evolutionary algorithms in game development. He has used those skills and experiences working as a GIS and BigData/enterprise architect to enhance and gamify a variety of engineering and business applications. Since late 2016 Micheal has been an avid author and presenter by giving his knowledge back to the community. Currently, he has completed 6 technical books, 2 on extended reality XR, 3 on deep reinforcement learning and AI and one on developing sound/music for games.</p> <p>He is known for many areas in AI and software development but currently specializes in developing deep learning generators and advanced AI with deep reinforcement learning. Micheal resides with his family in Calgary, Canada and is currently writing other books on AI, programming and software development.</p> <p>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)</p> ",
+    "end_time": 1593018000,
+    "link": "https://www.meetup.com/bristech/events/271455402/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1593014400,
+    "title": "MLOps #20: TensorFlow Certification - Yes or No? With Micheal Lanham"
+}
