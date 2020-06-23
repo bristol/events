@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + MLOps.community #21:Building vs Buying a Machine Learning Management Platform With Diego Oppenheimer CEO of Algorithmia</p> <p>Register at <a href=\"https://zoom.us/webinar/register/WN_n6_7JSuTRm6MdgsjvILSJA\" class=\"linkified\">https://zoom.us/webinar/register/WN_n6_7JSuTRm6MdgsjvILSJA</a></p> <p>Key takeaways:</p> <p>-There is a lot that goes into building an MLOps platform, more than most companies are probably aware of as it is inherently different than app development in the SDLC.<br/>-There is a unique ML lifecycle that focuses on CI/CD, just like there is an SDLC and organizations will need to plan for how to support it within their existing processes<br/>-Organizations need to make smart decisions for the future, taking into consideration many factors, including the speed of delivery, costs, and personnel requirements.<br/>-Not all MLOps platforms are the same. There are specific features that should not be compromised, such as tool flexibility, scalability and deployment.<br/>-Buying an off-the-shelf solution is a fast, flexible and cost-effective option, but may not always be the right choice.<br/>-There is a checklist of options and a standard framework for ML Ops that can be used to help organizations evaluate what an ML Ops platform needs to accomplish and take into account.</p> <p>Abstract:</p> <p>As organizations begin to test out machine learning use cases and develop models, ML teams need to be thinking long-term. How will they deploy, operate, and manage models once developed? Machine learning has specific operational needs that need to be supported within existing SDLC processes. Doing so often begins with a fundamental question: should I build or buy a machine learning management platform to operate my ML lifecycle?</p> <p>Determining whether to build or buy a machine learning management platform will drastically impact the effectiveness of an organization\u2019s investment in ML and their competitive standing in its industry.</p> <p>Bio:<br/>Diego Oppenheimer is co-founder and CEO of Algorithmia. Previously, he designed, managed, and shipped some of Microsoft\u2019s most used data analysis products including Excel, Power Pivot, SQL Server, and Power BI. He holds a Bachelor\u2019s degree in Information Systems and a Master\u2019s degree in Business Intelligence and Data Analytics from Carnegie Mellon University.</p> <p>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)</p> ",
+    "end_time": 1593104400,
+    "link": "https://www.meetup.com/bristech/events/271474849/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1593100800,
+    "title": "MLOps #21: Building vs Buying a Machine Learning Management Platform  "
+}
