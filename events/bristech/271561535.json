@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + MLOps.community #24: The feature store: What is it? How does it help get data for ML to production? With Kevin Stumpf CTO and Co-Founder of Tecton.ai</p> <p>** Register at NEW LINK** <a href=\"https://zoom.us/webinar/register/WN_B2UoBPmYTfOlDvNIU3qDUQ\" class=\"linkified\">https://zoom.us/webinar/register/WN_B2UoBPmYTfOlDvNIU3qDUQ</a></p> <p>Key Takeaways:<br/>Challenges associated with building and serving machine learning data in production<br/>Requirements to bring DevOps like efficiency to the data layer of machine learning<br/>Role of Uber\u2019s Michelangelo ML platform in helping Uber scale to tens of thousands of models in production<br/>Evolution of the feature store and its impact on organizations building machine learning<br/>Overview of what Tecton is building</p> <p>Abstract:<br/>Companies are increasingly investing in Machine Learning (ML) to deliver new customer experiences and re-invent business processes. Unfortunately, the majority of operational ML projects never make it to production. The most significant blocker is the lack of infrastructure and tooling required to build production-ready data for ML.</p> <p>Kevin Stumpf has a long history of building data infrastructure for ML, first for Uber Michelangelo, and most recently as co-founder of Tecton. Kevin will share his insights on the challenges of getting ML features to production. We\u2019ll discuss the role of the feature store in bringing DevOps-like efficiency to building ML features. Kevin will also provide an overview of Tecton, which aims to bring an enterprise-grade feature store to every company.</p> <p>Bio:<br/>Kevin co-founded Tecton where he leads a world-class engineering team that is building a next-generation data platform for operational Machine Learning. Kevin and his co-founders built deep expertise in operational ML platforms while at Uber, where they created the Michelangelo platform that enabled Uber to scale from 0 to 1000's of ML-driven applications in just a few years. Prior to Uber, Kevin founded Dispatcher, with the vision to build the Uber for long-haul trucking. Kevin holds an MBA from Stanford University and a Bachelor's Degree in Computer Science from the University of Hagen. Outside of work, Kevin is a passionate long-distance endurance athlete.<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)</p> ",
+    "end_time": 1593622800,
+    "link": "https://www.meetup.com/bristech/events/271561535/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1593619200,
+    "title": "MLOps #24: The feature store: What is it? How does it help get ML to production?"
+}
