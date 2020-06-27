@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + MLOps.community #23: How To Monitor Machine Learning Stacks - Why Current Monitoring is Unable to Detect Serious Issues and What to Do About It With Lina Weichbrodt</p> <p>** Register at <a href=\"https://zoom.us/webinar/register/WN_orKecMghQemXccb1-BRiiQ\" class=\"linkified\">https://zoom.us/webinar/register/WN_orKecMghQemXccb1-BRiiQ</a></p> <p>Abstract:</p> <p>Monitoring usually focusses on the \u201cfour golden signals\u201d: latency, errors, traffic, and saturation. Machine learning services can suffer from special types of problems that are hard to detect with these signals. The talk will introduce these problems with practical examples and suggests additional metrics that can be used to detect them. A case study demonstrates how these new metrics work for the recommendation stacks at Zalando, one of Europe\u2019s largest fashion retailers.</p> <p>Bio:</p> <p>Lina has 8+ years of industry experience in developing scalable machine learning models and bringing them into production. She currently works as the Machine Learning Lead Engineer in the data science group of the German online bank DKB. She previously worked at Zalando, one of Europe\u2019s biggest online fashion retailers, where she developed real-time, deep learning personalization models for more than 32M users.</p> <p>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)</p> ",
+    "end_time": 1593536400,
+    "link": "https://www.meetup.com/bristech/events/271561516/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1593532800,
+    "title": "MLOps #23: How To Monitor Machine Learning Stacks"
+}
