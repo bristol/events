@@ -1,7 +1,7 @@
 {
     "cancelled": false,
     "description": "<p>// Sean O'Neill - Esoteric Languages<br/>Esoteric programming languages are Turing complete languages, created without the constraints of being 'comprehensible' or 'remotely useful'.</p> <p>They are instead, creative, weird and beautiful. Join us on a brief tour of the most popular esoteric programming languages, to point and laugh and maybe learn something.</p> <p>// About Sean<br/>Sean O'Neill is a passionate software engineer who loves to make games in his spare time.</p> <p>// Panelist: TBC</p> ",
-    "end_time": 1596744900,
+    "end_time": 1596744000,
     "link": "https://www.meetup.com/bristech/events/271080222/",
     "location": {
         "address": null,
@@ -12,6 +12,6 @@
         "name": "Online event"
     },
     "org": "bristech",
-    "start_time": 1596741300,
+    "start_time": 1596740400,
     "title": "BRISTECH: BYTESIZE #7 - SEAN O'NEILL - ESOTERIC LANGUAGES / PANELIST TBC"
 }
