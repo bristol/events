@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + MLOps.community Workshop: Python and Dask: Scaling the DataFrame With Dan Gerlanc Founder of Enplus Advisors</p> <p>* Register at: <a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a> **</p> <p>Python's most popular data science libraries\u2014pandas, numpy, and scikit-learn\u2014were designed to run on a single computer, and in some cases, using a single processor. Whether this computer is a laptop or a server with 96 cores, your compute and memory are constrained by the size of the biggest computer you have access to.</p> <p>In this course, you'll learn how to use Dask, a Python library for parallel and distributed computing, to bypass this constraint by scaling our compute and memory across multiple cores. Dask provides integrations with Python libraries like pandas, numpy, and scikit-learn so you can scale your computations without having to learn completely new libraries or significantly refactoring your code.</p> <p>Bio: Daniel Gerlanc has worked as a data scientist for more than a decade and written software professionally for 15 years. He spent 5 years as a quantitative analyst with two Boston hedge funds before starting Enplus Advisors.</p> <p>At Enplus, he works with clients on data science and custom software development with a particular focus on projects requiring an expertise in both areas. He teaches data science and software development at introductory through advanced levels. He has co-authored several open-source R packages, published in peer-reviewed journals, and is active in local predictive analytics groups.</p> <p>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)</p> ",
+    "end_time": 1594315800,
+    "link": "https://www.meetup.com/bristech/events/271747185/",
+    "location": {
+        "address": "0.0.0.0/0",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45451354980469,
+        "longitude": -2.5879099369049072,
+        "name": "**ONLINE VIA SUPPLIED LINK**"
+    },
+    "org": "bristech",
+    "start_time": 1594310400,
+    "title": "MLOps Workshop: Python and Dask: Scaling the DataFrame With Dan Gerlanc"
+}

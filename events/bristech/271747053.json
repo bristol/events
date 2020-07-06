@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + MLOps.community #25: Full stack data scientist, is there such a thing? With Alexey Grigorev Lead Data scientist at OLX</p> <p>** Register at <a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a> **</p> <p>We all know what we need to do to be good data scientists: know machine learning, be able to program, be fluent in SQL and Python. That\u2019s enough to do our job quite well.</p> <p>But what does it take to be a better data scientist?</p> <p>The best way to grow as a data scientist is to step out of direct responsibilities and try on the hats of a product manager as well as a DevOps engineer.</p> <p>In particular, we should:</p> <p>- be pragmatic and product-oriented<br/>- communicate more<br/>- get into infrastructure</p> <p>After attending this talk, you will know how exactly we should do it.</p> <p>Bio: Alexey lives in Berlin with his wife and son. He\u2019s a software engineer with a focus on machine learning. He works at OLX Group as a Lead Data Scientist. Alexey is a Kaggle master and he wrote a couple of books. One of them is \u201cMastering Java for Data Science\u201d and now he\u2019s working on another one \u2014 \u201cMachine Learning Bookcamp\u201d.</p> <p>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)</p> ",
+    "end_time": 1594227600,
+    "link": "https://www.meetup.com/bristech/events/271747053/",
+    "location": {
+        "address": "0.0.0.0/0",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45451354980469,
+        "longitude": -2.5879099369049072,
+        "name": "**ONLINE VIA SUPPLIED LINK**"
+    },
+    "org": "bristech",
+    "start_time": 1594224000,
+    "title": "MLOps #25: Full Stack Data Scientist, is there such a thing? "
+}
