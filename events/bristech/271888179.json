@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>MLOps + Bristech collaboration.</p> <p>** Registration via External Site **<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>Key Takeaways:<br/>MLOps is an extremely broad topic, thus one tool can't solve all its issues. We believe that MLOps future is in integrations of numerous specialized tools with each other.</p> <p>Abstract:<br/>In this talk, Mariya will demonstrate an example of an ML project development and production workflows which we build on top of their proprietary core - Neu.ro - using a number of open-source and proprietary tools: Jupyter Notebooks, Tensorboard, FileBrowser, PyCharm Professional, Cookiecutter, Git, DVC, Airflow, Seldon, and Grafana. She will describe how she integrates each of these tools with Neu.ro, and how you can improve these integrations.</p> <p>Mariya came to MLOps from a software development background. She started her career as a Java developer in JetBrains in 2011, then gradually moved to developer advocacy for JS-based APIs. In 2019, she joined Neu.ro as a platform developer advocate and then moved to the product management position.</p> <p>Mariya has been obsessed with AI and ML for many years: she finished a bunch of courses, read a lot of books, and even wrote a couple of fiction stories about AI. She believes that proper tooling and decent development and operations practices are an essential success component for ML projects, as well as they are for traditional SD.</p> ",
+    "end_time": 1594832400,
+    "link": "https://www.meetup.com/bristech/events/271888179/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1594828800,
+    "title": "MLOps #26 - How to leverage the ML tooling ecosystem // Mariya Davydova"
+}
