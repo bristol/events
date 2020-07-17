@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>In this COVID era Bristech is proud to announce another collaboration with a vendor-neutral community. This time we are teaming up with the Data on Kubernetes community that has the specific goal of shining a light on the data layer on kubernetes to help evolve the space!</p> <p>**Note: registration via external site.</p> <p><a href=\"https://go.dok.community/register\" class=\"linkified\">https://go.dok.community/register</a></p> <p>Is Kubernetes even ready for data?<br/>Kubernetes has been a great solution for deploying application infrastructure. Trying to manage your data with the same control plane has been, less than ideal. This has been even more true when using distributed databases like Apache Cassandra. Once you get past the storage and stateful sets, you still have a lot to do. Let\u2019s have a frank talk about the new opportunities to make Kubernetes ready for data.</p> <p>Patrick McFadin is the VP of Developer Relations at DataStax, where he leads a team devoted to making users of Apache Cassandra successful. He has also worked as Chief Evangelist for Apache Cassandra and consultant for DataStax, where he helped build some of the largest and exciting deployments in production. Patrick is active in the Apache Cassandra project and a member of the CNCF TOC.</p> <p>Please feel free to drop some questions you may have beforehand into our slack channel <a href=\"https://tinyurl.com/y5mk9tde\" class=\"linkified\">https://tinyurl.com/y5mk9tde</a></p> ",
+    "end_time": 1595350800,
+    "link": "https://www.meetup.com/bristech/events/271985842/",
+    "location": {
+        "address": "0.0.0.0/0",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45451354980469,
+        "longitude": -2.5879099369049072,
+        "name": "**ONLINE VIA SUPPLIED LINK**"
+    },
+    "org": "bristech",
+    "start_time": 1595347200,
+    "title": "Data on k8s meetup #1: Is Kubernetes even ready for data? With Patrick McFadin"
+}

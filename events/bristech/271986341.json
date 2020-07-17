@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + MLOps.community #28: Continuous Evaluation &amp; Model Experimentation With Danny Ma</p> <p>** Register at <a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a> **</p> <p>Abstract:</p> <p>Most MLOps discussion traditionally focuses on model deployment, containerization, model serving - but where do the inputs come from and where do the outputs get used?</p> <p>In this session, we will demystify parts of the data science process used to create the all-important target variable and design machine learning experiments.</p> <p>We will discuss some probability and statistical concepts which are useful for MLOps professionals. Knowledge of these concepts may assist practitioners working closely with data scientists or those who aspire to build complex experimentation frameworks.</p> <p>Danny is a recovering data scientist who has moved over to the dark side of ML engineering in the past 2 years. He has spent multiple years deploying ML models and designing customer experiments in retail and banking sectors.</p> <p>Danny's passion is to guide businesses and individuals on their AI &amp; machine learning journey. He believes a clear understanding of data strategy and applied machine learning will be a key differentiator in this brave new world.</p> <p>He currently provides personalised mentorship for 400+ aspiring data professionals through the #DataWithDanny community.</p> <p>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)</p> ",
+    "end_time": 1595498400,
+    "link": "https://www.meetup.com/bristech/events/271986341/",
+    "location": {
+        "address": "0.0.0.0/0",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45451354980469,
+        "longitude": -2.5879099369049072,
+        "name": "**ONLINE VIA SUPPLIED LINK**"
+    },
+    "org": "bristech",
+    "start_time": 1595494800,
+    "title": "MLOps.community #28: Continuous Evaluation & Model Experimentation With Danny Ma"
+}
