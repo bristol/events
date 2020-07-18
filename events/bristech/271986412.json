@@ -1,7 +1,7 @@
 {
     "cancelled": false,
     "description": "<p>Bristech + MLOps.community #27: ML Observability With Aparna Dhinakaran</p> <p>** Register at <a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a> **</p> <p>As more and more machine learning models are deployed into production, it is imperative we have better observability tools to monitor, troubleshoot, and explain their decisions. In this talk, Aparna Dhinakaran, Co-Founder, CPO of Arize AI (Berkeley-based startup focused on ML Observability), will discuss the state of the commonly seen ML Production Workflow and its challenges. She will focus on the lack of model observability, its impacts, and how Arize AI can help.</p> <p>This talk will highlight common challenges seen in models deployed in production, including model drift, data quality issues, distribution changes, outliers, and bias. The talk will also cover best practices to address these challenges and where observability and explainability can help identify model issues before they impact the business. Aparna will be sharing a demo of how the Arize AI platform can help companies validate their models performance, provide real-time performance monitoring and alerts, and automate troubleshooting of slices of model performance with explainability. The talk will cover best practices in ML Observability and how companies can build more transparency and trust around their models.</p> <p>Aparna Dhinakaran is Chief Product Officer at Arize AI, a startup focused on ML Observability. She was previously an ML engineer at Uber, Apple, and Tubemogul (acquired by Adobe). During her time at Uber, she built a number of core ML Infrastructure platforms including Michaelangelo. She has a bachelors from Berkeley's Electrical Engineering and Computer Science program where she published research with Berkeley's AI Research group. She is on a leave of absence from the Computer Vision PhD program at Cornell University.</p> <p>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)</p> ",
-    "end_time": 1595437200,
+    "end_time": 1595440800,
     "link": "https://www.meetup.com/bristech/events/271986412/",
     "location": {
         "address": "0.0.0.0/0",
@@ -12,6 +12,6 @@
         "name": "**ONLINE VIA SUPPLIED LINK**"
     },
     "org": "bristech",
-    "start_time": 1595433600,
+    "start_time": 1595437200,
     "title": "MLOps.community #27: ML Observability With Aparna Dhinakaran"
 }
