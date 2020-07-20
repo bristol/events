@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>AGENDA: 19:00 - 20:00<br/>----------<br/>SPEAKER: Terry McCann<br/>TOPIC: Deep Learning, Python</p> <p>If you have attended a session or read a book on machine learning that did not mention Deep Learning, AI or Neural Networks then it was most likely a shallow machine leaning session. Shallow machine learning is fantastic when you need to have accountability and auditing of your machine learning models. It is great for a lot of problems, but it does require a lot of work up front. That work is feature engineering. Deep Learning is not a silver bullet by any means, but it is quite different to shallow learning and does not require the same degree of feature engineering. Neural nets, the magic behind deep learning can be shaped to work for all sorts of problems, text generation, image processing, dynamic generation, you name it, there is a neural network trying to solve it.</p> <p>In this session we will look at the basics of Deep Learning. What is it, why is it deep, what problems does it solve, how do you get started and more. There is an assumption that you know a bit about machine learning, but you will still enjoy the session even if this is your first exposure to machine learning.</p> <p>BIO: Terry is a Microsoft Artificial Intelligence MVP, awarded in recognition of his contributions to the Microsoft Data Science &amp; Artificial Intelligence communities. His focus is on all things AI and Data Science. Terry has a passion for applying traditional Software Engineering techniques to Data, to improve the way teams deliver Machine Learning projects. Terry holds a Masters degree in Machine Learning and is continually interested in the application of academic research in industry. Terry is the host of the popular podcast Data Science in Production, where he interviews leading Data Scientists. His spare time is spent with his wife and two boys in their home in Devon.</p> <p>WHEN AND WHERE<br/>----------<br/>This is an online event via the Zoom platform. Full meeting details will be emailed to attendees no later than 1 hour prior to the event.</p> <p>GET INVOLVED<br/>----------<br/>Subject Data is community organised and volunteer led. We are happy to hear from anyone who would like to get involved. Please follow @SubjData on Twitter, LinkedIn and see www.subjectdata.org for more information.</p> <p>LEVELS<br/>----------<br/>Level 1: Introductory and overview material<br/>Level 2: Intermediate material (background knowledge useful)<br/>Level 3: Advanced (assumes prior subject matter knowledge)<br/>Level 4: Expert (deep level of technical knowledge)</p> <p>Please note our terms and conditions including our Code of Conduct and Recruiter Policy: www.subjectdata.org/events/terms-and-conditions</p> ",
+    "end_time": 1597258800,
+    "link": "https://www.meetup.com/DataBristol/events/271949437/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "databristol",
+    "start_time": 1597255200,
+    "title": "Deep Learning, Python"
+}
