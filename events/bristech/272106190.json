@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Good News! We made it past the first data on k8s meetup and now are cruising onto our second collab Bristech + the DoK.community!</p> <p>This week we are talking with Zach Dunn Senior Director of Platform Operations at Optoro about doing storage on k8s - why they chose to do it and why doctors hate it!</p> <p>**Note: PLEASE REGISTER at <a href=\"https://go.dok.community/register\" class=\"linkified\">https://go.dok.community/register</a></p> <p>Let\u2019s talk about storage. Optoro has moved to running stateful stores on Kubernetes. It\u2019s a challenge, but it has a lot of value. Let\u2019s talk about how we chose to do it, and what we figured out along the way.</p> <p>Key takeaways:<br/>Learn about how Optoro chose to run stateful services on kubernetes.<br/>Laugh at other peoples mistakes! Cry with us over our pain.<br/>Maybe question some of the assumptions around storage in k8s.<br/>Wonder about the future of data in kubernetes.</p> <p>Bio:<br/>Zach's spent most of his tech career in something that vaguely resembles production infrastructure. This has ranged from hot aisle drudgery to professional nerd herder and budget owner. Once an individual but now is he collectively just known as \"Arabella's Dad\" or on occasion \"William's Dad\". He currently is the Senior Director of Platform Operations and CISO at Optoro helping teams build and deliver modern software for enterprise clients</p> <p>Feel free to post questions pre meetup in our slack<br/><a href=\"https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg\" class=\"linkified\">https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg</a></p> ",
+    "end_time": 1595955600,
+    "link": "https://www.meetup.com/bristech/events/272106190/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1595952000,
+    "title": "Dok.community #2: Doing storage on k8s - Learnings and best practices"
+}
