@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Ticketed event via <a href=\"https://2020.bris.tech\" class=\"linkified\">https://2020.bris.tech</a></p> ",
+    "end_time": 1605200400,
+    "link": "https://www.meetup.com/bristech/events/272226692/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1605171600,
+    "title": "BRISTECH 2020 CONFERENCE: BROADCAST LIVE FROM FLOATING HARBOUR STUDIO"
+}
