@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + MLOps.community #30: Scaling Machine Learning Capabilities in Large Organizations</p> <p>** Register at <a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a> **</p> <p>Key takeaways:<br/>-Unorganized growth of ML capabilities brings several problems regarding maintainability, compliance, and efficiency<br/>-Generalize engineering problems and solve them centrally -&gt; create a centralized, self-service model serving platform for company-wide use<br/>-Applying shift-left principles mitigates many of the problems that arise when growing your ML capabilities</p> <p>Machine learning has become an increasingly important means for organizations to extract value from their data. Many companies start off with successful proofs of value but face problems when scaling their capabilities afterward. By generalizing engineering problems and solving them centrally, scaling becomes much more feasible. Model serving platforms generalize the problem of turning a machine learning model in a value-generating application. Combining a serving platform with cultural shifts such as a shift-left approach enhances efficiency even further.</p> <p>Bertjan Broeksema:</p> <p>Bertjan is a Senior Data Engineer, with 15 years of experience in the software industry, specializing in data science and engineering for the last 10 years. He has built a variety of data products and machine learning platforms. He has also worked on both traditional desktop applications as well as cloud native applications in DevOps teams. He is a craftsman with a passion for delivering value through high quality software, aligning stakeholders and coaching junior and medior team members.</p> <p>Axel Goblet:</p> <p>Axel has a background in data science. While getting his data science master degree, he did software engineering and data science projects for a wide range of customers. This experience taught him that the main complexity of data science projects lies in the software built around the predictive models. After finishing his degree, he joined BigData Republic. His main interest lies in tooling that speeds up the development of machine learning applications.</p> <p>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)</p> ",
+    "end_time": 1596646800,
+    "link": "https://www.meetup.com/bristech/events/272296763/",
+    "location": {
+        "address": "0.0.0.0/0",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45451354980469,
+        "longitude": -2.5879099369049072,
+        "name": "**ONLINE VIA SUPPLIED LINK**"
+    },
+    "org": "bristech",
+    "start_time": 1596643200,
+    "title": "MLOps #30: Scaling Machine Learning Capabilities in Large Organizations"
+}
