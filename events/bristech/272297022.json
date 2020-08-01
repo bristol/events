@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>And we just keep rolling along! Round 3 of the data on kubernetes community meetup! This time we will be talking with Nikhil Chandrappa Lead Software engineer at YugabyteDB. We will take a Practical look at running distributed SQL on Kubernetes using YugabyteDB</p> <p>**Note: PLEASE REGISTER at <a href=\"https://go.dok.community/register\" class=\"linkified\">https://go.dok.community/register</a></p> <p>Key takeaways:<br/>- Introduction to YugabyteDB Distributed SQL databases and its design principles<br/>- Design considerations for operationalizing Distributed SQL on Kubernetes<br/>- Deployment strategies for clustered Databases<br/>- Storage orchestration on Kubernetes<br/>- Yugabyte's approach for DBAAS on Kubernetes<br/>- DB Creation, Scale up / Scale down<br/>- Implementing Day 2 operations for distributed SQL databases<br/>- upgrades, backups, and monitoring<br/>- Distributed SQL Demo: A real-world e-commerce application</p> <p>Abstract<br/>This talk is targeted towards cloud-native developers and architects looking to deploy the operational database on Kubernetes. We are going to walk you through the design decisions YugabyteDB's team took when architecting the database as a service on Kubernetes. We are going to cover concepts related to Kubernetes Volume provisioning, pod placement strategies for data resilience/High availability, and how cluster events are used for reconciling the k8s workloads during day 2 operations like upgrades, scale-up/down.</p> <p>Bio:<br/>Nikhil is an ecosystem engineer at Yugabyte. He is leading the efforts on YugabyteDB integrations with open source developer tools like GraphQL, Spring Data, R2DBC, and Kubernetes. He also works with the developer community on the adoption of Distributed SQL databases in cloud native apps.</p> <p>Before joining Yugabyte, he worked as a senior data engineer at Pivotal which is now part of VMware Tanzu, championing the cloud native data APIs and in-memory data grids for fortune 500 customers. He has presented at major developer conferences, SpringOne Platform, PostgreSQL conf, JPMC tech fest. He is originally from Mysore, India, and has graduated with a masters degree in Computer Engineering from Syracuse University.</p> <p>Get involved and join our slack:<br/><a href=\"https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg\" class=\"linkified\">https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg</a></p> ",
+    "end_time": 1596560400,
+    "link": "https://www.meetup.com/bristech/events/272297022/",
+    "location": {
+        "address": "0.0.0.0/0",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45451354980469,
+        "longitude": -2.5879099369049072,
+        "name": "**ONLINE VIA SUPPLIED LINK**"
+    },
+    "org": "bristech",
+    "start_time": 1596556800,
+    "title": "Dok.community #3: Practical look running distributed SQL on k8s using YugabyteDB"
+}
