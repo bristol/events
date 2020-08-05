@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>We were running what and it cost us how much?!</p> <p>Balancing redundancy and HA with costs: did you really need all N replicas? With Ren Lee SRE at Arista Networks</p> <p>Key takeaways:</p> <p>-Balancing redundancy and HA with costs: did you really need all N replicas of that?<br/>-\u201cLazy but Simple\u201d vs. \u201cProactive but Expensive\u201d methods of scaling: knowing when to pay the seemingly scarier price of running infrastructure than costing engineering time, and vice versa<br/>-Hidden costs: cost of bad deployments and things that just don\u2019t work<br/>-When autoscaling becomes the demon: especially in public cloud environments when access to pools of resources is no longer your barrier</p> <p>Abstract:<br/>In an engineer\u2019s ideal world we would love all the resources and redundancies we can possibly get for our services and infrastructure that supports them for sanity and of course, HA. However, how do you balance between \u201cenough\u201d redundancy and the actual operational costs of supporting such engineering choices, and what are some of the tough engineering decisions that need to be made? This talk focuses primarily on services being run on Kubernetes (or public cloud offering of Kubernetes), but the principles can be extended to any infrastructure environment.</p> <p>Key Topics: capacity planning, cost management, distributed services</p> <p>Bio:<br/>SRE at Arista Networks for CloudVision services team. Deeply passionate about fixing broken things without anyone noticing and using effective monitoring to preempt potential disasters. Wrangler of services that run on Kubernetes to keep the zoo running any day, every day.</p> <p>This will be a Fireside chat of wisdom passed down through the generations, the SRE spoken word handbook. Anyone that joins can participate in the storytime and you can also join the conversation early in our slack group: <a href=\"https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg\" class=\"linkified\">https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg</a></p> ",
+    "end_time": 1597165200,
+    "link": "https://www.meetup.com/bristech/events/272387338/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1597161600,
+    "title": "Doing Data on kubernetes: Balancing redundancy and HA with costs"
+}
