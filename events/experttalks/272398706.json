@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Everyone seems to be so concerned with recruiting DevOps practitioners but I feel the process of on-boarding them and giving them the right environment to succeed is still a hit and miss affair, especially in busy organisations.</p> <p>This talk is about ways that you can bootstrap your environments for success and attract and retain people to work on them.</p> <p>SPEAKER:<br/>Martin Jackson. DevOps Consultant for Equal Experts</p> ",
+    "end_time": 1599069600,
+    "link": "https://www.meetup.com/ExpertTalks-Bristol/events/272398706/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "experttalks",
+    "start_time": 1599066000,
+    "title": "Summer Series: So you want to Onboard a DevOps Practitioner"
+}
