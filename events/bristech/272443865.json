@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + MLOps.community #31: Path to Production and Monetizing Machine Learning</p> <p>** Register at <a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a> **</p> <p>Key takeaways:<br/>Steps in the data science lifecycle.<br/>Maintenance and continuous improvement.<br/>The difference between releasing ML to production and monetizing ML.<br/>Building a ML product roadmap and calculating ROI.</p> <p>Abstract:<br/>The concept of machine learning products is a new one for the business world. There is a lack of clarity around key elements: Product Roadmaps and Planning, the Machine Learning Lifecycle, Project and Product Management, Release Management, and Maintenance.</p> <p>In this talk, I will cover a framework-specific to Machine Learning products. I will discuss the improvements businesses can expect to see from a repeatable process. I will also cover the concept of monetization and integrating machine learning into the business model.</p> <p>Bio:<br/>I am an applied data scientist and I teach companies to monetize machine learning. I am currently working on a ML based decision support product as well as my strategy consulting practice.</p> ",
+    "end_time": 1597251600,
+    "link": "https://www.meetup.com/bristech/events/272443865/",
+    "location": {
+        "address": "0.0.0.0/0",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45451354980469,
+        "longitude": -2.5879099369049072,
+        "name": "**ONLINE VIA SUPPLIED LINK**"
+    },
+    "org": "bristech",
+    "start_time": 1597248000,
+    "title": "MLOps community #31: Path to Production and Monetizing Machine Learning"
+}
