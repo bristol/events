@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>//Miranda Mowbray - A robust algorithm from 13th Century Venice</p> <p>This talk is about the remarkable and apparently bizarre algorithm that was used for over 500 years to determine the ruler of Venice. It turns out to have several useful properties that were apparently not noticed for centuries, and to have a connection with 21st Century AI.</p> <p>//About Miranda<br/>Miranda Mowbray is a lecturer at the University of Bristol, where her research interests include data science for cyber security, and big data ethics. Before moving to the University she did industrial research at HP Labs. She was an invited panellist at the 2017 Global Cybersecurity Summit. In 2018 she did a research project with two postgrad students on subverting the security of a swarm of a hundred small autonomous robots. Miranda is a Fellow of the British Computer Society. Her PhD is in Algebra, from London University.</p> <p>//Panelists: Simon Minton and TBC</p> ",
+    "end_time": 1601582400,
+    "link": "https://www.meetup.com/bristech/events/272203181/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1601578800,
+    "title": "BRISTECH: BYTESIZE #9 MIRANDA MOWBRAY - 13TH CENTURY VENICE ALGORITHM + PANEL"
+}
