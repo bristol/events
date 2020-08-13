@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + Data on Kubernetes Community collab #5: Globally Distributed Business Applications with Dave Cook Founder of Gridworkz</p> <p>**Note: PLEASE REGISTER at <a href=\"https://go.dok.community/register\" class=\"linkified\">https://go.dok.community/register</a></p> <p>Key takeaways: Current data scalability challenges outlined. What\u2019s available today.</p> <p>Abstract: Scaling ACID-compliant databases in the cloud is challenging. We\u2019ll look at a specific use case where we\u2019re trying to scale a Saas Odoo ERP offering on Kubernetes and build a scalable Postgres cluster as a backend service.</p> <p>Hi I'm Dave and I\u2019m the founder of Gridworkz. We provide business software solutions to the SMB market. I\u2019m passionate about DevOps and leading-edge open source technology and its practical application to business. Other interests include trying to pay it forward by applying my knowledge to help startups succeed. My latest interest is scaling Odoo and Postgres on Kubernetes. With a long history of working with traditional enterprise systems, I see tremendous potential in redefining how systems will look today and well into the future.</p> <p>This will be a Fireside chat of war stories of trials and tribulations, all audience can participate and ask questions and you can also join the conversation beforehand in our slack group: <a href=\"https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg\" class=\"linkified\">https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg</a></p> ",
+    "end_time": 1597770000,
+    "link": "https://www.meetup.com/bristech/events/272387274/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1597766400,
+    "title": "Doing Data on k8s: Globally Distributed Business Applications"
+}
