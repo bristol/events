@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech + Data on Kubernetes Community collab #6: Operators, operators, operators\u2026.operators With Amit Gupta, Group Product Manager, Confluent.</p> <p>**Note: PLEASE REGISTER at <a href=\"https://go.dok.community/register\" class=\"linkified\">https://go.dok.community/register</a></p> <p>Key takeaways:<br/>Operators represent a great opportunity for the data community to solve for the complexities of managing data products for their customers in a way that standardizes UX and integration points -- historically the most powerful solutions had to be niche and highly customized.</p> <p>Abstract:<br/>Evolution of this space and how we\u2019ve come to operators<br/>Managed services vs. running your own<br/>Are people succeeding or stumbling with K8s<br/>Common challenges for data products on K8s (interested in the community conversation here, what are some common challenges and solutions people are seeing)</p> <p>Bio:<br/>Amit is a Group Product Manager at Confluent, helping to bring the cloud-native experience to Kafka and event streaming. He\u2019s passionate about cloud, container orchestration, infrastructure automation, and wants to see the work of choosing, deploying, and successfully leveraging powerful distributed systems become a piece of cake for everyone in IT.</p> <p>In the past, Amit has worked as Director of Product Management for Platform at Pivotal, and as a Software Engineer working on cloud orchestration technology (think Kubernetes but for VMs) and container scheduling (think Kubernetes, pre-Kubernetes). He has a Master\u2019s degree in mathematics from the University of California, Berkeley. He loves soccer, camping, and coffee.</p> <p>This will be a Fireside chat of war stories of trials and tribulations, all audience can participate and ask questions and you can also join the conversation beforehand in our slack group: <a href=\"https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg\" class=\"linkified\">https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg</a></p> ",
+    "end_time": 1598374800,
+    "link": "https://www.meetup.com/bristech/events/272672387/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1598371200,
+    "title": "Doing Data on k8s: Operators, operators, operators\u2026.operators"
+}
