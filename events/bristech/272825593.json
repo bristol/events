@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #33! This week we will be talking to the creator of the hit email plugin that helps you so exactly what the name suggests, Say Less.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Key takeaways:<br/>Learn about the latest in abstractive summarization models.<br/>Learn how to deploy a Hugging Face model to an HTTP endpoint for realtime inference.</p> <p>// Abstract:<br/>Yoav is the builder behind Say Less, an AI-powered email summarization tool that was recently featured on the frontpage of Hacker News and Product Hunt. In this talk, Yoav will walk us through the end-to-end process of building the tool, from the prototype phase to deploying the model as a realtime HTTP endpoint.</p> <p>// Bio:<br/>Yoav Zimmerman is the engineer/founder behind Model Zoo, a machine learning deployment platform focused on ease-of-use. He has previously worked at Determined AI on large-scale deep learning training infrastructure and at Google on knowledge base construction for features that powered Google Assistant and Search.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1599066000,
+    "link": "https://www.meetup.com/bristech/events/272825593/",
+    "location": {
+        "address": "0.0.0.0/0",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45451354980469,
+        "longitude": -2.5879099369049072,
+        "name": "**ONLINE VIA SUPPLIED LINK**"
+    },
+    "org": "bristech",
+    "start_time": 1599062400,
+    "title": "MLOps #33: Building Say Less: An AI-Powered Summarization App"
+}
