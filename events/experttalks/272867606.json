@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>In this lightning talk, we will introduce the OWASP Top Ten, an industry guide for the biggest security issues facing web applications.</p> <p>We will understand what they are, how to practically exploit and defend them and why most are relevant beyond web applications to anything you are building today.</p> <p>The session is structured as an introduction so no previous experience needed.</p> <p>We will have plenty of time to answer questions (both basic and more advanced) in an interactive Fishbowl discussion after Robert's talk.</p> <p>SPEAKER:<br/>Robert MacLean.<br/>Tech Lead at Equal Experts South Africa</p> <p>Robert is a veteran software engineer based in Cape Town, South Africa.</p> <p>He has led software teams at Amazon Web Services, Microsoft, and has led teams in South Africa to build some of the largest systems in the country.</p> <p>He now works at Equal Experts in South Africa as the Tech Lead, helping the development teams at customers to deliver value.</p> <p>Robert is a passionate speaker having presented over 100 times in South Africa and the USA and is constantly highly rated.</p> <p>Robert is also a director of the largest non-profit community for software engineer education in South Africa and is the founder and co-organiser of the largest community conference for software engineers in South Africa.</p> <p>Outside of work, he is a proud cyclist and owns almost 100 board games.</p> <p>He is a father to an 11-year-old who is a budding professional YouTuber. Pronouns: He/Him</p> <p>**<br/>The link to the recording of this Talk will be posted in the Comments shortly after the Talk takes place.</p> ",
+    "end_time": 1600279200,
+    "link": "https://www.meetup.com/ExpertTalks-Bristol/events/272867606/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "experttalks",
+    "start_time": 1600275600,
+    "title": "An introduction to the OWASP Top Ten by Robert MacLean"
+}
