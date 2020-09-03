@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>iO are excited to announce our next .Net Virtual Meetup, taking place on Tuesday 3rd November at 7pm. This meetup will be featuring special guest speaker Sjoukje Zaal, who will be presenting her talk on \u2018Azure AD B2C: Application Security Made Easy\u2019.</p> <p>Join Sjoukje as she walks you through securing your custom applications with Azure Business-to-Consumer, a Cloud identity service on Azure which provides our of the box identity providers like Facebook, Microsoft Accounts, Google+, LinkedIn and many others \u2013 or alternatively, add your own and leverage these in your applications!</p> <p>We will be going back to the basics of Azure B2C including ..<br/>* Setting up an application using Azure B2C for authentication<br/>* Using built-in policies<br/>* Creating a custom policy<br/>..and much more!</p> <p>About the speaker:<br/>Sjoukje Zaal is a CTO Microsoft, Microsoft Regional Director and Microsoft Azure MVP with over 20 years of experience providing architecture, development, consultancy and design expertise. She works at Capgemini, a global leader in consulting, technology services and digital transformation. She mainly focusses on Cloud, Security, Productivity, and IoT. She loves to share her knowledge and is active in the Microsoft community as a co-founder of the user groups Tech Daily Chronicle, Global XR Community and the Mixed Reality User Group. She is also a board member of Azure Thursdays and Global Azure. Sjoukje is an international speaker and involved in organizing many events. She wrote several books and writes blogs. Sjoukje is also part of the Diversity and Inclusion Advisory Board.</p> <p>Agenda<br/>7:00 pm - Introduction by iO Associates and Speaker<br/>7:05 pm \u2013 Sjoukje Zaal \u2013 Azure AD B2C: Application Security Made Easy<br/>8:00 pm \u2013 Q&amp;A \u2013 questions from the floor<br/>8:15 pm \u2013 Concluding comments and end</p> <p>We hope you can join us and please get in touch at [masked] with any questions or suggestions on future virtual meetups.</p> ",
+    "end_time": 1604435400,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/273002426/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1604430000,
+    "title": "(Aff) iO .Net Virtual Meetup with Sjoukje Zaal - Azure AD B2C"
+}

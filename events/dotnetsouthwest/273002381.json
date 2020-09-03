@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>iO Associates are delighted to announce our next .Net Meetup, scheduled for Wednesday 7th October at 7pm! This meetup will be on \u2018Developing with .Net Core on AWS\u2019, and will feature Martin Beeby, Principal Advocate at Amazon Web Services.</p> <p>Martin will be using lots of demonstrations during this session to walk us through the latest techniques, tools and libraries for developing a .Net application on AWS. From within Visual Studio, we will look at three different ways to run your .Net applications and show you how to integrate with various AWS services, including Logging, Managed SQL Server and Machine Learning Models. This session will cover ways to build and run serverless and containerised applications, as well as show you how you can move legacy .Net apps to the cloud.</p> <p>About the speaker:<br/>Martin is a Principal Advocate for Amazon Web Services, travelling the world showcasing the transformational capabilities of AWS. In total, Martin has spoken at over 200 events and meetups, whilst also producing blogs, tutorials and broadcasts.</p> <p>Developing applications since he was 16, Martin has over 21 years experience, working on projects with many companies and well-known brands. His primary focus is on .Net applications and has worked as a C# and VB developer since 2001. Prior to joining AWS, Martin worked for Oracle and Microsoft as a developer evangelist and software development engineer.</p> <p>Agenda:<br/>7:00 pm - Introduction by iO Associates and Speaker<br/>7:05 pm \u2013 Martin Beeby \u2013 Developing with .NET Core on AWS<br/>8:00 pm \u2013 Q&amp;A \u2013 questions from the floor<br/>8:15 pm \u2013 Concluding comments and end</p> <p>We hope you can join us and please get in touch at [masked] with any questions or suggestions on future virtual meetups.</p> ",
+    "end_time": 1602099000,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/273002381/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1602093600,
+    "title": "(Af) iO .Net Virtual Meetup with Martin Beeby - Developing with .Net Core on AWS"
+}
