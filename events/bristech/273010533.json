@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>For our 8th installation of the Bristech + data on k8s meetup, we will be talking with Mike and Joseph of Adobe.</p> <p>// Register here:<br/><a href=\"https://go.dok.community/register\" class=\"linkified\">https://go.dok.community/register</a></p> <p>// Key takeaways:<br/>Loosely coupled teams, loosely coupled workloads and loosely coupled data - on a built for everyone platform?</p> <p>// Abstract:<br/>Big clusters or small clusters? Where to draw the line and how to know what's best for your use case? We will be talking to Joseph and Mike from Adobe about the inevitable questions that arise when running k8s at scale.</p> <p>If it is run by the platform team, is it inevitably a pet? Or more of a pet? Is that the idea, that we give stuff that \u201d must not fail\u201d to platform teams so they are common services w/ SLAs? Or how is it decided what is owned by the platform vs. the individual teams.</p> <p>While talking with Joseph and Mike we will also dive into what their stack looks like, must-have tools they use on a daily bases, VM vs K8s, differences in stateful apps on k8s, and War stories!</p> <p>// Mike T Bio:<br/>For many years Mike has been building Kubernetes platforms and deployments. With a passion for automation and developer engagement, Mike works towards continuously improving development pipelines to take the complication out of managing services on large-scale infrastructure backed by both vm and containers across multi-cloud environments. Mike is a lazy programmer who would rather write thousands of lines of code for automation instead of running repetitive commands every day. When not coding or playing with his son you\u2019ll find Mike with his nose buried in a book or playing Civilization.</p> <p>// Joseph Bio:<br/>Joseph has been in the tech industry for 25 years running large scale infrastructure primarily in the E-commerce/SaaS. The last 15 years has been spent in leading and a managing role with the high performing. His philosophy is to create space for SRE\u2019s to do their best work and espousing a product-centric point of view when it comes to backend infrastructure and tooling.</p> <p>// Final thoughts<br/>This will be a Fireside chat all audience can participate and ask questions and you can also join the conversation beforehand in our slack group: <a href=\"https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg\" class=\"linkified\">https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg</a></p> <p>You can also check out some of our old meetups on youtube here:<br/><a href=\"https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ\" class=\"embedded\">https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ</a></p> ",
+    "end_time": 1599584400,
+    "link": "https://www.meetup.com/bristech/events/273010533/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1599580800,
+    "title": "Doing data on k8s: Appropriate workloads for databases in K8s"
+}
