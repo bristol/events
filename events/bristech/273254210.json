@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>For our 9th installation of the Bristech + data on k8s meetup, we will be talking with Alex Milowski from Redis Labs.</p> <p>// Register here:<br/><a href=\"https://go.dok.community/register\" class=\"linkified\">https://go.dok.community/register</a></p> <p>// Key takeaways:<br/>How are data collection and consumption workloads fundamentally different?<br/>What are the main challenges for sensor networks? How are those challenges address within the context of K8s?</p> <p>// Abstract:<br/>We use resources like weather reports or air quality measurements to navigate the world. These resources become especially important when faced by extreme events like the current wildfires in the Western USA. The data for the reports, predictions, and maps all start as realtime sensor networks.</p> <p>In this talk, Alex will present some of his research into scientific data representation on the Web and how the key mechanism is the partitioning, annotation, and naming of data representations. We\u2019ll take a look at a few examples, including some recent work on air quality data relating to the current wildfires in the western USA. We\u2019ll explore the central question of how geospatial sensor network data can be collected and consumed within K8s deployments.</p> <p>// Alex Bio<br/>Dr. Milowski is a researcher, developer, entrepreneur, mathematician, and computer scientist. He has been involved in the development of Web and Semantics technologies since the early 1990's, primarily focusing on data representation, algorithms, and processing data at scale; also, an experienced developer skilled in a variety of functional and imperative languages.</p> <p>He received his PhD in Informatics (Computer Science) from the renowned University of Edinburgh School of Informatics (Scotland) on large-scale computation over scientific data on the Web in 2014.</p> <p>Various experience in scientific computing - geospatial and genome data pipelines - and big data platforms.</p> <p>Recently, he has been working in telecommunications on various mobile financial applications and researching how to improve the productivity of machine learning systems and data scientists by utilizing Kubernetes as a platform. He has experience teaching, mentoring, and developing within various data science/ML domains including topics such as cloud computing, Kubernetes, Spark, Hadoop, text processing/NLP, deep learning, data acquisition, and a whole lot of Python.</p> <p>// Final thoughts<br/>This will be a Fireside chat all audience can participate and ask questions and you can also join the conversation beforehand in our slack group: <a href=\"https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg\" class=\"linkified\">https://join.slack.com/t/dokcommunity/shared_invite/zt-g3ui5r0g-jDKz5dhh2W1ayElqwKYYAg</a></p> <p>You can also check out some of our old meetups on youtube here:<br/><a href=\"https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ\" class=\"embedded\">https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ</a></p> ",
+    "end_time": 1600189200,
+    "link": "https://www.meetup.com/bristech/events/273254210/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1600185600,
+    "title": "Doing data on k8s: Geospatial Sensor Networks and Partitioning Data"
+}
