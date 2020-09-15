@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #35! This week we will be talking to Kai about the beast that is apache kafka and how many different ways you can use it!</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Key takeaways:<br/>-Kafka is much more than just messaging<br/>-Kafka is the de facto standard for processing huge volumes of data at scale in real-time<br/>-Kafka and Machine Learning are complementary for various use cases (including data integration, data processing, model training, model scoring, and monitoring)</p> <p>// Abstract:<br/>The combination of Apache Kafka, tiered storage, and machine learning frameworks such as TensorFlow enables you to build one scalable, reliable, but also simple infrastructure for all machine learning tasks using the Apache Kafka ecosystem and Confluent Platform. This discussion features a predictive maintenance use case within a connected car infrastructure, but the discussed components and architecture are helpful in any industry.</p> <p>// Bio:<br/>Kai Waehner is a Technology Evangelist at Confluent. He works with customers across the globe and with internal teams like engineering and marketing. Kai\u2019s main area of expertise lies within the fields of Big Data Analytics, Machine Learning, Hybrid Cloud Architectures, Event Stream Processing and Internet of Things. He is a regular speaker at international conferences such as Devoxx, ApacheCon and Kafka Summit, writes articles for professional journals, and shares his experiences with new technologies on his blog: www.kai-waehner.de. Contact and references: [masked] / @KaiWaehner / LinkedIn (<a href=\"https://www.linkedin.com/in/megachucky/\" class=\"linkified\">https://www.linkedin.com/in/megachucky/</a>).</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1600275600,
+    "link": "https://www.meetup.com/bristech/events/273275306/",
+    "location": {
+        "address": "0.0.0.0/0",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45451354980469,
+        "longitude": -2.5879099369049072,
+        "name": "**ONLINE VIA SUPPLIED LINK**"
+    },
+    "org": "bristech",
+    "start_time": 1600272000,
+    "title": "MLOps #35: Streaming Machine Learning with Apache Kafka and Tiered Storage"
+}
