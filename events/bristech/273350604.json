@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #36! This week we will be talking to Chanchal Chatterjee, AI Leader at Google, about bringing our On-Prem ML Use Cases to Production on Google Cloud using Kubeflow.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Key takeaways:<br/>Port ML Workloads to the Cloud</p> <p>// Abstract:<br/>If you are wondering how to bring your on-prem ML workloads to a scalable, portable, composable and secure production platform, the open source Kubeflow pipelines is your answer. We demonstrate an easy step by step process with ML models built with scikit-learn, xgboost and tensorflow ML frameworks. We will show how to create an end to end ML pipeline on the Google Cloud including data prep, hyperparameter tuning, model training, model deployment, prediction, explanation and training orchestration. The solution can be extended to the Anthos framework for a full multi-cloud deployment.</p> <p>// Bio:<br/>Chanchal Chatterjee, Ph.D, held several leadership roles in machine learning, deep learning and real-time analytics. He is currently leading Machine Learning and Artificial Intelligence at Google Cloud Platform. Previously, he was the Chief Architect of EMC CTO Office where he led end-to-end deep learning and machine learning solutions for data centers, smart buildings and smart manufacturing for leading customers. Chanchal received several awards including Outstanding paper award from IEEE Neural Network Council for adaptive learning algorithms recommended by MIT professor Marvin Minsky. Chanchal founded two tech startups between[masked]. Chanchal has 29 granted or pending patents, and over 30 publications. Chanchal received M.S. and Ph.D. degrees in Electrical and Computer Engineering from Purdue University.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1600880400,
+    "link": "https://www.meetup.com/bristech/events/273350604/",
+    "location": {
+        "address": "0.0.0.0/0",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45451354980469,
+        "longitude": -2.5879099369049072,
+        "name": "**ONLINE VIA SUPPLIED LINK**"
+    },
+    "org": "bristech",
+    "start_time": 1600876800,
+    "title": "Bring Your On-Prem ML Use Cases to Production on Google Cloud using Kubeflow"
+}
