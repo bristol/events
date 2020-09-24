@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>For our 11th installation of the Bristech + data on k8s meetup, we will be talking with both Sr tech Evangelists Jeremy Tanner and David McKay from Packet.</p> <p>// Register here:<br/><a href=\"https://go.dok.community/register\" class=\"linkified\">https://go.dok.community/register</a></p> <p>// Key takeaways:<br/>Data is hard with Kubernetes, especially when adding bare metal to the equation. Attendees will leave with an idea of some pain points they can avoid.</p> <p>// Abstract:<br/>In this talk, we'll look at great ways to lose data (like running databases on Kubernetes and bare metal), pain points for developers, lessons we've learned, and have a Festivus in September airing of grievances sessions for those who have felt this pain.</p> <p>// Jeremy Bio<br/>He / Him. Helps developers understand bare metal at Packet, an Equinix company.</p> <p>Based in Austin, TX and eagerly awaiting a time he can again appear in a city near you. Always an advocate (Developer, Community, BBQ). Likes Motorcycles, bicycles, and mechanical keyboards. Not Questlove.</p> <p>@Penguin on twitter</p> <p>// David Bio<br/>David is a Senior Developer Advocate at Packet and a member of the Kubernetes org and release team.</p> <p>As a professional technology magpie, David was an early adopter of cloud, container, and cloud-native technologies; crossing the murky waters of AWS in 2008, Docker in 2014, and Kubernetes in 2015.</p> <p>With an insatiable love for technology, David is always on the hunt to learn and share knowledge with others in fun and exciting ways.</p> <p>@rawkode on twitter</p> <p>// Final thoughts<br/>This will be a Fireside chat all audience can participate and ask questions and you can also join the conversation beforehand in our slack group:<br/><a href=\"https://go.dok.community/slack\" class=\"linkified\">https://go.dok.community/slack</a></p> <p>You can also check out some of our old meetups on youtube here:<br/><a href=\"https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ\" class=\"embedded\">https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ</a></p> ",
+    "end_time": 1601398800,
+    "link": "https://www.meetup.com/bristech/events/273484415/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1601395200,
+    "title": "Doing data on k8s: How to do Data Wrong on Kubernetes"
+}
