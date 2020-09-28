@@ -1,7 +1,7 @@
 {
     "cancelled": false,
-    "description": "<p>TBC</p> ",
-    "end_time": 1623870000,
+    "description": "<p>Opening meeting - Zoom details:<br/>Topic: OWASP Bristol - Secure Code Warrior Tournament<br/>Time: Oct 27,[masked]:00 PM London</p> <p>Join Zoom Meeting<br/><a href=\"https://zoom.us/j/99583981560?pwd=MkN0Q2NpTDF5eW5wK0ZUajNKS0pPUT09\" class=\"linkified\">https://zoom.us/j/99583981560?pwd=MkN0Q2NpTDF5eW5wK0ZUajNKS0pPUT09</a></p> <p>Meeting ID:[masked]<br/>Passcode:[masked]<br/>One tap mobile<br/>[masked],,[masked]# US (Tacoma)<br/>[masked],,[masked]# US (Germantown)</p> <p>Dial by your location<br/>[masked] US (Tacoma)<br/>[masked] US (Germantown)<br/>[masked] US (Chicago)<br/>[masked] US (Houston)<br/>[masked] US (San Jose)<br/>[masked] US (New York)<br/>Meeting ID:[masked]<br/>Find your local number: <a href=\"https://zoom.us/u/apHTPsgrT\" class=\"linkified\">https://zoom.us/u/apHTPsgrT</a></p> ",
+    "end_time": 1603825200,
     "link": "https://www.meetup.com/OWASP-Bristol/events/268319035/",
     "location": {
         "address": "101 Victoria Street",
@@ -12,6 +12,6 @@
         "name": "IBM Bristol"
     },
     "org": "OWASP-Bristol",
-    "start_time": 1623862800,
-    "title": "TBC"
+    "start_time": 1603821600,
+    "title": "Secure Code Warrior Tournament"
 }
