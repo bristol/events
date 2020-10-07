@@ -4,5 +4,6 @@
     "homepage": "https://www.meetup.com/Anthropology-Technology-Meetup-Group/",
     "meetup": {
         "urlname": "Anthropology-Technology-Meetup-Group"
-    }
+    },
+    "ignore": true
 }

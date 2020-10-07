@@ -158,13 +158,19 @@ def get_events(org):
     print(f"getting events for {org_id}")
     meetup_urlname = org.get("meetup", {}).get("urlname")
     if meetup_urlname:
-        upcoming_meetup_events = get_upcoming_meetup_events(meetup_urlname, org_id)
-        if upcoming_meetup_events:
-            events += upcoming_meetup_events
+        try:
+            upcoming_meetup_events = get_upcoming_meetup_events(meetup_urlname, org_id)
+            if upcoming_meetup_events:
+                events += upcoming_meetup_events
+        except Exception as e:
+            print(f"error getting upcoming events for {org_id}: {e}")
 
-        past_meetup_events = get_past_meetup_events(meetup_urlname, org_id)
-        if past_meetup_events:
-            events += past_meetup_events
+        try:
+            past_meetup_events = get_past_meetup_events(meetup_urlname, org_id)
+            if past_meetup_events:
+                events += past_meetup_events
+        except Exception as e:
+            print(f"error getting past events for {org_id}: {e}")
 
     return events
 
