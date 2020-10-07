@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #37! This week we will be talking to Elizabeth Chabot, Consultant at Deloitte, about When You Say Data Scientist Do You Mean Data Engineer? Lessons Learned From StartUp Life.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Key takeaways:<br/>If you have a data product that you want to function in production, you need MLOps<br/>Education needs to happen about the data product life cycle, noting that ML is just part of the equation<br/>Titles need to be defined to help outside users understand the differences in roles</p> <p>// Abstract:<br/>ML and AI may sound sexy to investors, but if you work in the field you've probably spent late nights reviewing outputs manually, poured over logs and ran root cause analyses until your eyes hurt. If you've created data products at a company where analytics and data science held no meaning before your arrival, you've probably spent many-a-late-night explaining the basics of data collection, why ETL cannot be half-baked and that when you create a supervised model it needs to be supervised. Companies hoping to create a data product can have a data scientist show them how ML/AI can further their product, help them scale, or create better recommendations than their competitors. What companies are not always aware of is once the algorithm is created the data scientist is usually handicapped until more data-hires are made to build the necessary pipelines and frontend to put the algorithm in production. With the number of unique data-titles growing each year, how should the first data-evangelist-wrangler-wizard navigate title assignment?</p> <p>// Bio:<br/>Elizabeth is a researcher turned data nerd. With a background in social and clinical sciences Elizabeth is focused on developing data solutions that focus on creating value adds while allowing the user to make more intelligent decisions.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1602090000,
+    "link": "https://www.meetup.com/bristech/events/273666818/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1602086400,
+    "title": "When You Say Data Scientist Do You Mean Data Engineer?"
+}

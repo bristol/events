@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>For our 12th installation of the Bristech + data on k8s meetup, we will be talking with Senior Software Engineer Sebastien Guilloux from Elastic.</p> <p>// Register here:<br/><a href=\"https://go.dok.community/register\" class=\"linkified\">https://go.dok.community/register</a></p> <p>// Abstract:<br/>How easily can you run distributed workloads on Kubernetes? The initial deployment of your 10-nodes database might be easy to setup, but day-2 operations (changing the configuration, adding and removing nodes, version upgrades, etc.) are much more complicated.</p> <p>We'll discuss how operators can help you manage distributed workloads, and a few operator tricks we learned while working on ECK (Elastic Cloud on Kubernetes) - an operator for the Elastic stack.</p> <p>// Sebastien Guilloux Bio:<br/>Sebastien Guilloux is a senior software engineer at Elastic. He has spent most of his career working with distributed systems, building resilient applications, and orchestrating Apache Kafka and Elasticsearch nodes around the world. He currently works on writing a Kubernetes operator for the Elastic Stack, Elastic Cloud on Kubernetes (ECK).<br/>@cyberdemn on twitter</p> <p>// Final thoughts<br/>This will be a Fireside chat all audience can participate and ask questions and you can also join the conversation beforehand in our slack group:<br/><a href=\"https://go.dok.community/slack\" class=\"linkified\">https://go.dok.community/slack</a></p> <p>You can also check out some of our old meetups on youtube here:<br/><a href=\"https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ\" class=\"embedded\">https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ</a></p> ",
+    "end_time": 1602608400,
+    "link": "https://www.meetup.com/bristech/events/273768295/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1602604800,
+    "title": "Distributed Workloads on Kubernetes: Operators to the Rescue"
+}
