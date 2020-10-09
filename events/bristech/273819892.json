@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #38! This week we will be talking to Matthew Rocklin, CEO at Coiled, Maintainer of Dask, about Scalable Python for Everyone, Everywhere</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>We'd love to chat about<br/>- the challenges of deploying Python data science // ML at scale,<br/>- the various stakeholders (e.g. ICs, team leads, IT)<br/>- How for-profit companies can complement OSS<br/>- The need for companies around OSS<br/>- Why Dask is so awesome!<br/>- Why it's key to build products that take the DevOps out of data science</p> <p>Check out our posts here to get more context around where we're coming from:<br/><a href=\"https://medium.com/coiled-hq/coiled-dask-for-everyone-everywhere-376f5de0eff4\" class=\"linkified\">https://medium.com/coiled-hq/coiled-dask-for-everyone-everywhere-376f5de0eff4</a><br/><a href=\"https://medium.com/coiled-hq/the-unbearable-challenges-of-data-science-at-scale-83d294fa67f8\" class=\"linkified\">https://medium.com/coiled-hq/the-unbearable-challenges-of-data-science-at-scale-83d294fa67f8</a></p> <p>// Bio:<br/>Matthew is an open-source software developer in the numeric Python ecosystem. He maintains several PyData libraries, but today focuses mostly on Dask a library for scalable computing. Matthew worked for Anaconda Inc for several years, then built out the Dask team at NVIDIA for RAPIDS, and most recently founded Coiled Computing to improve Python's scalability with Dask for large organizations.</p> <p>Matthew has given talks at a variety of technical, academic, and industry conferences. A list of talks and keynotes is available at (<a href=\"https://matthewrocklin.com/talks\" class=\"linkified\">https://matthewrocklin.com/talks</a>).</p> <p>Matthew holds a bachelor\u2019s degree from UC Berkeley in physics and mathematics, and a PhD in computer science from the University of Chicago.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://bit.ly/33wDUf1\" class=\"linkified\">https://bit.ly/33wDUf1</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1602694800,
+    "link": "https://www.meetup.com/bristech/events/273819892/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1602691200,
+    "title": "Scalable Python for Everyone, Everywhere"
+}
