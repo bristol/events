@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Details<br/>\ud83d\udc49 Important: Please read message at the bottom of this post. \ud83d\udc48</p> <p>\ud83d\udea8 Please do not join the waitlist \ud83d\udea8</p> <p>RSVP HERE \ud83d\udc49 <a href=\"https://techtalks.io/events/october-2020-brahmos-js-rendering-react-on-the-edge-with-flareact\" class=\"linkified\">https://techtalks.io/events/october-2020-brahmos-js-rendering-react-on-the-edge-with-flareact</a> \ud83d\udc48</p> <p>---</p> <p>Hey Everybody! We're back with two fantastic new talks.</p> <p>As with recent months we're keeping the best bits of what make our events special, our community. Before and after the talk you'll be invited to join a breakout rooms of up to 15 people to have a bit of a social catchup with friends, colleagues and peers.</p> <p>---</p> <p>Brahmos.js - React without VDOM - Sudhanshu Yadav</p> <p>React has a great declarative API and is quite fast for render and updates. But the performance can be improved further with a new rendering pattern inspired by lit-html and hyper-html. This talk will introduce a new JavaScript Library Brahmos which has a faster rendering pattern than VDOM but implement that with same well adopted React\u2019s declarative API.</p> <p>The talk will cover the idea behind the Brahmos, what Brahmos is trying to achieve, compare it with different libraries and compare the rendering pattern of Brahmos with React\u2019s VDOM to explain how it can be a faster alternative to VDOM.</p> <p>I will also present the current progress and future path for the Brahmos.</p> <p>---</p> <p>Rendering React on the Edge with Flareact and Cloudflare Workers - Josh Larson</p> <p>When building a JAMStack site, you're often confronted with a decision to either render a dynamic site on the client through traditional AJAX requests \u2014 or to render a dynamic site statically on the server. Each choice comes with a tradeoff: fresh content vs better performance.</p> <p>Popular solutions like Next.js exist to solve this problem with incremental static regeneration, but Next.js isn't quite supported on a platform like Cloudflare Workers. That's why I built Flareact: a edge-rendered React framework built for Cloudflare Workers. It's modeled after Next.js, and it supports edge-rendering, static caching, and incremental static regeneration \u2014 and it comes with the benefits that Cloudflare Workers already offers, like infinite scalability and 0ms cold starts.</p> <p>---</p> <p>\ud83d\udea8 Please do not join the meetup waitlist \ud83d\udea8</p> <p>Instead RSVP over at TechTalks at \ud83d\udc49 <a href=\"https://techtalks.io/events/october-2020-brahmos-js-rendering-react-on-the-edge-with-flareact\" class=\"linkified\">https://techtalks.io/events/october-2020-brahmos-js-rendering-react-on-the-edge-with-flareact</a> \ud83d\udc48</p> ",
+    "end_time": 1603913400,
+    "link": "https://www.meetup.com/BristolJS/events/273878173/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristoljs",
+    "start_time": 1603906200,
+    "title": "October 2020 - Brahmos.js & Rendering React on the Edge with Flareact"
+}
