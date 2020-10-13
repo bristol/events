@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>**Breakfast Meetup at 7.30am**</p> <p>Big W recognizes the need to be a digital-first business and sees online as a major contributor to growth. Their aim is to deliver software in a rapid, sustainable and automated fashion.</p> <p>Big W is going through a digital transformation from their current monolithic architecture to an event-driven microservices architecture.</p> <p>Equal Experts have been working with Big W for over a year now helping the team with this transformation while also building out features and products to improve the customer experience. Equal Experts are also engaged in delivering best practice agile methods and introducing new ways of working and delivery.</p> <p>This talk will focus on what Big W are trying to achieve in terms of delivery outcomes, how the architectural changes are supporting this and the experiences so far.</p> <p>SPEAKER:<br/>Rohan Berry<br/>Head of Digital IT, Big W</p> <p>Rohan is the Head of Digital IT within Big W and has been leading their technology transformation for the last couple of years.<br/>His team is responsible for the technology that enables the Big W online customer experience and all the supporting processes to deliver on the promise.<br/>This includes demand generation, content management, conversion of orders, fulfillment of orders and the associated customer service</p> <p>** A link to the recording of this Talk will be placed in the Comments shortly after it takes place</p> ",
+    "end_time": 1603873800,
+    "link": "https://www.meetup.com/ExpertTalks-Bristol/events/273902764/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "experttalks",
+    "start_time": 1603870200,
+    "title": "Breakfast Meetup: Migrating from Monolith to Micro-Services. Rohan Berry, Big W"
+}
