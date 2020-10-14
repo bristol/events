@@ -4,12 +4,12 @@
     "end_time": 1603825200,
     "link": "https://www.meetup.com/OWASP-Bristol/events/268319035/",
     "location": {
-        "address": "101 Victoria Street",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45100402832031,
-        "longitude": -2.5871329307556152,
-        "name": "IBM Bristol"
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
     },
     "org": "OWASP-Bristol",
     "start_time": 1603821600,
