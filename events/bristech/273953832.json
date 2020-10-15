@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>For our 14th installation of the Bristech + data on k8s meetup, we will be talking with Cloud System Engineer / Architect Arie van den Bos.</p> <p>// Register here:<br/><a href=\"https://go.dok.community/register\" class=\"linkified\">https://go.dok.community/register</a></p> <p>// Abstract:<br/>In this meetup, Arie will discuss the following:<br/>The importance of cost control while working with the cloud.<br/>K8S, Data &amp; Cost Control.<br/>Hints/Tips around controlling your K8S costs.</p> <p>// Bio:<br/>Arie is a Cloud Solutions Engineer with over 10 years of experience. He has been a team leader and helped previous companies reduce their cloud costs through optimization strategies.</p> <p>As a Solution Architect, Arie has been designing solutions which affect different areas like:</p> <p>- Azure as a Disaster Recovery location<br/>- Azure AD for Identity Management and SSO<br/>- Azure Governance (Cost Control)<br/>- Office 365 Integration<br/>- OKTA Access/Identity Management<br/>- Cloud Automation (IaC)</p> <p>// Final thoughts<br/>This will be a Fireside chat all audience can participate and ask questions and you can also join the conversation beforehand in our slack group:<br/><a href=\"https://go.dok.community/slack\" class=\"linkified\">https://go.dok.community/slack</a></p> <p>You can also check out some of our old meetups on youtube here:<br/><a href=\"https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ\" class=\"embedded\">https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ</a></p> ",
+    "end_time": 1603213200,
+    "link": "https://www.meetup.com/bristech/events/273953832/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1603209600,
+    "title": "Kubernetes Cost Control"
+}
