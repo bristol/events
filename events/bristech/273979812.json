@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>For our 15th installation of the Bristech + data on k8s meetup, we will be talking with Sr Computer Scientist, Software Development, Laurent Rouquette from Adobe.</p> <p>// Register here:<br/><a href=\"https://go.dok.community/register\" class=\"linkified\">https://go.dok.community/register</a></p> <p>// Abstract:<br/>When talking about data, we usually think about big data and scale, and what do we do next. Such limits are sometimes a good problem to have. In this talk, we'll discuss our approach to this situation using the Ingress Controller.</p> <p>// Bio:<br/>\"I'm a software development engineer at Adobe (joined with the Macromedia acquisition in 2005). I started in dev, went to ops (sometimes referred to as \"SRE\" these days), then became a manager and now I'm back to be an individual contributor. This is all on purpose: I like to do new things!</p> <p>I grew up in Marseille, France, but moved to the US right after college: I've never had a real job in Europe...</p> <p>When I'm not coding, I like playing soccer (although I've been doing a lot of \"watching\" since March).\"</p> <p>// Final thoughts<br/>This will be a Fireside chat all audience can participate and ask questions and you can also join the conversation beforehand in our slack group:<br/><a href=\"https://go.dok.community/slack\" class=\"linkified\">https://go.dok.community/slack</a></p> <p>You can also check out some of our old meetups on youtube here:<br/><a href=\"https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ\" class=\"embedded\">https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ</a></p> ",
+    "end_time": 1603908000,
+    "link": "https://www.meetup.com/bristech/events/273979812/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1603904400,
+    "title": "Reaching limits in K8s: A case study with Ingress Controller"
+}
