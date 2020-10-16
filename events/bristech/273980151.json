@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>For our 13th installation of the Bristech + data on k8s meetup, we will be talking with the first Chief Technology Officer of Cloudian, Gary Ogasawara.</p> <p>// Register here:<br/><a href=\"https://go.dok.community/register\" class=\"linkified\">https://go.dok.community/register</a></p> <p>// Abstract:<br/>\"Cloudian\u2019s HyperStore is S3-compatible object storage software focused on the enterprise market. In this talk, I'll discuss how and why we are working on Kubernetes-managed versions of HyperStore, including where we are now and what we're looking.\"</p> <p>// Bio:<br/>Gary Ogasawara is Cloudian\u2019s first Chief Technology Officer, responsible for setting the company\u2019s long-term technology vision and direction. Before assuming this role, he was Cloudian\u2019s founding engineering leader. Prior to Cloudian, Gary led the Engineering team at eCentives, a search engine company. He also led the development of real-time commerce and advertising systems at Inktomi, an Internet infrastructure company. Gary holds a Ph.D. in Computer Science from the University of California at Berkeley, specializing in uncertainty reasoning and machine learning.</p> <p>// Final thoughts<br/>This will be a Fireside chat all audience can participate and ask questions and you can also join the conversation beforehand in our slack group:<br/><a href=\"https://go.dok.community/slack\" class=\"linkified\">https://go.dok.community/slack</a></p> <p>You can also check out some of our old meetups on youtube here:<br/><a href=\"https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ\" class=\"embedded\">https://www.youtube.com/channel/UCUnXJbHQ89R2uSfKsqQwGvQ</a></p> ",
+    "end_time": 1604426400,
+    "link": "https://www.meetup.com/bristech/events/273980151/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1604422800,
+    "title": "HyperStore-C: S3 object storage managed by Kubernetes"
+}
