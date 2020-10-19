@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #39! This week we will be talking to Ivan Nardini, Customer Engineer at SAS, about Operationalize Open Source Models with SAS Open Model Manager</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Analytics are Open.</p> <p>According to their nature, Open Source technologies allows an agile development of the models, but it results difficult to put them in production.</p> <p>The goal of SAS is supporting customers in operationalize analytics</p> <p>In this meetup, I present SAS Open Model Manager, a containerized Modelops tool that accelerates deployment processes and, once in production, allows monitoring your models (SAS and Open Source).</p> <p>// Bio:<br/>As a member of Pre-Sales CI &amp; Analytics Support Team, I'm specialized in ModelOps and Decisioning.<br/>I've been involved in operationalizing analytics using different Open Source technologies in a variety of industries.<br/>My focus is on providing solutions to deploy, monitor and govern models in production and optimize business decisions processes.<br/>To reach this goal, I work with software technologies (SAS Viya platform, Container, CI/CD tools) and Cloud (AWS).</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1603299600,
+    "link": "https://www.meetup.com/bristech/events/274042627/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1603296000,
+    "title": "Operationalize Open Source Models with SAS Open Model Manager"
+}
