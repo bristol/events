@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #40! This coming Wednesday, we will be talking to Theofilos Papapanagiotou, Data Science Architect at Prosus, about Hands-on Serving Models Using KFserving.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>We will look inside some popular model formats like the SavedModel of Tensorflow, the Model Archiver of PyTorch, pickle&amp;ONNX, to understand how the weights of the NN are saved there, the graph and the signature concepts.</p> <p>We will discuss the relevant resources of the deployment stack of Istio (the Ingress gateway, the sidecar and the virtual service) and Knative (the service and revisions), as well as Kubeflow and KFServing. Then we'll get into the design details of KFServing, its custom resources, the controller and webhooks, the logging and configuration.</p> <p>We are going to spend a large part in the monitoring stack, the metrics of the servable (memory footprint, latency, number of requests), as well as the model metrics like the graph, init/restore latencies, the optimizations and the runtime metrics which end up to Prometheus. We will look at the inference payload and prediction logging to observe drifts and trigger the retraining of the pipeline.</p> <p>Finally, a few words about the awesome community and the roadmap of the project on multi-model serving and inference routing graph.</p> <p>// Bio:<br/>Theo is a recovering Unix Engineer with 20 years of work experience in Telcos, on internet services, video delivery and cybersecurity. He is also a university student for life; BSc in CS 1999, MSc in Data Coms 2008 and MSc in AI 2017.</p> <p>Nowadays he calls himself an ML Engineer, as he expresses through this role his passion in System Engineering and Machine Learning.</p> <p>His analytical thinking is driven by curiosity and hacker's spirit. He has skills that span a variety of different areas: Statistics, Programming, Databases, Distributed Systems and Visualization.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1603908000,
+    "link": "https://www.meetup.com/bristech/events/274103575/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1603904400,
+    "title": "Hands-on Serving Models Using KFserving"
+}
