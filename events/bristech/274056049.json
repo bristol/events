@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #41! Grab your popcorn and favorite beverage and tune in to the conversation around Metaflow: Supercharging Data Scientist Productivity with none other than Netflix\u2019s very own Ravi Kiran Chirravuri.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Netflix's unique culture affords its data scientists an extraordinary amount of freedom. They are expected to build, deploy, and operate large machine learning workflows autonomously without the need to be significantly experienced with systems or data engineering. Metaflow, our ML framework (now open-source at metaflow.org), provides them with delightful abstractions to manage their project's lifecycle end-to-end, leveraging the strengths of the cloud: elastic compute and high-throughput storage. In this talk, we preface with our experience working alongside data scientists, present our human-centric design principles when building Machine Learning Infrastructure, and showcase how you can adopt these yourself with ease with open-source Metaflow.</p> <p>// Bio:<br/>Ravi is an individual contributor to the Machine Learning Infrastructure (MLI) team at Netflix. With almost a decade of industry experience, he has been building large scale systems focusing on performance, simplified user journeys and intuitive APIs in MLI and previously Search Indexing and Tensorflow at Google.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1604512800,
+    "link": "https://www.meetup.com/bristech/events/274056049/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1604509200,
+    "title": "Metaflow: Supercharging Our Data Scientist Productivity"
+}
