@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #42! This coming Wednesday, we will be talking to Mark Craddock, Co-Founder &amp; CTO, Global Certification and Training Ltd (GCATI), about UN Global Platform.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Building a global big data platform for the UN. Streaming 600,000,000+ records / day into the platform. The strategy developed using Wardley Maps and the Platform Design Toolkit.</p> <p>// Bio:<br/>Mark contributed to the Cloud First policy for the UK Public sector and was one of the founding architects for the UK Governments G-Cloud programme. Mark developed the initial CloudStore which enabled the UK Public Sector to procure cloud services from over 2,500 suppliers. The UK Public Sector has now purchased over<br/>\u00a36.3Bn of cloud services, with \u00a33.6Bn from Small to Medium Enterprises in the UK.</p> <p>Mark lead the development of the United Nations Global Platform. A multi-cloud platform for capacity building within the national statistics offices in the use of Big Data and its integration with administrative sources, geospatial information, traditional survey and census data.<br/>Mark is now building a non-profit training and certification organization.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1605117600,
+    "link": "https://www.meetup.com/bristech/events/274435495/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1605114000,
+    "title": "UN Global Platform"
+}

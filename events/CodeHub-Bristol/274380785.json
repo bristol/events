@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>About</p> <p>The goal of WebDev101 is to help each other progress in our individual and/or group goals by providing a space and time in which to meet other like-minded developers and ask questions.</p> <p>WebDev101 is split into two parts:</p> <p>Project surgery: 6.15 - 7.15<br/>Got a question about a side project or personal site? Ask it in this informal discussion session.</p> <p>A workshop running from: 7.30 - 8.30<br/>Setting up a portfolio site with Gatsby and Netlify.</p> <p>The topics are picked in the CodeHub WebDev101 Slack channel, join the discussion here: <a href=\"http://slack.codehub.org.uk/\" class=\"linkified\">http://slack.codehub.org.uk/</a></p> <p>This event is part of Workshop Wednesdays, hosted by Women's Tech Hub Bristol. Please join the Zoom call mentioned in the location for this event. WebDev101 will start at 6.15 in a breakout room.</p> <p>You can also sign up through this page to attend any of the events listed here: <a href=\"https://www.meetup.com/Womens-Tech-Hub-Bristol/events/272407396/\" class=\"linkified\">https://www.meetup.com/Womens-Tech-Hub-Bristol/events/272407396/</a></p> <p>Women\u2019s Tech Hub runs a no recruiter and a strict social media policy which you can find in their code of conduct.</p> ",
+    "end_time": 1604523600,
+    "link": "https://www.meetup.com/CodeHub-Bristol/events/274380785/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "CodeHub-Bristol",
+    "start_time": 1604512800,
+    "title": "CodeHub @ Workshop Wednesdays"
+}
