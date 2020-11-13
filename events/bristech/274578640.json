@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #43! This coming Wednesday, we will be talking to Nathan Benaich, General Partner at Air Street Capital and Timothy Chen, Managing Partner at Essence VC about The MLOps Landscape.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>In this session, we will explore the MLOps landscape through the eyes of two accomplished investors. Tim And Nathan will share with us their experience in looking at hundreds of ML and MLOps companies each year to highlight major insights they have gained. What do the ML infrastructure and tooling landscape look like at the moment? Where have they been seeing patterns emerge? What do they expect to see happen within the market in the next couple of years? What current tools out there are the most interesting to them? And last but not least how do they go about selecting which companies to invest in.</p> <p>// Bio:<br/>Nathan Benaich is the Founder and General Partner of Air Street Capital, a venture capital firm investing in early-stage AI-first technology and life science companies. The team\u2019s investments include Mapillary (Acq. Facebook), Graphcore, Thought Machine, Tractable, and LabGenius. Nathan is Managing Trustee of The RAAIS Foundation, a non-profit with a mission to advance education and open-source research in common good AI. This includes running the annual RAAIS summit and funding fellowships at OpenMined. Nathan is also co-author of the annual State of AI Report. He holds a PhD in cancer biology from the University of Cambridge and a BA from Williams College.</p> <p>Timothy Chen is the Managing Partner at Essence VC, with a decade of experience leading engineering in enterprise infra and open source communities/companies.<br/>Prior to Essence, Tim was the SVP of Engineering at Cosmos, a popular open-source blockchain SDK. Prior to Cosmos, Tim cofounded Hyperpilot with Stanford Professor Christos Kozyrakis which later exited to Cloudera. Prior to Hyperpilot, Tim was an early employee at Mesosphere and CloudFoundry.<br/>Tim is also active in the open-source space as an Apache member.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1605722400,
+    "link": "https://www.meetup.com/bristech/events/274578640/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1605718800,
+    "title": "The MLOps Landscape"
+}
