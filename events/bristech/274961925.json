@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #44! Prepare another flavor of your favorite popcorn and beverage and tune in to the conversation around Human-centric ML Infrastructure: A Netflix Original with none other than Netflix\u2019s very own Tech Lead for Machine Learning Infrastructure, Savin Goyal.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>In this conversation, Savin will talk about some of the challenges encountered and choices made by the Netflix ML Infrastructure team while developing tooling for data scientists.</p> <p>// Bio:<br/>Savin is an engineer on the ML Infrastructure team at Netflix. He focuses on building generalizable infrastructure to accelerate the impact of data science at Netflix.</p> <p>Savin is a calm and composed guy who has a high Intellect and provides his best for the work he has been tasked for.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1607536800,
+    "link": "https://www.meetup.com/bristech/events/274961925/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1607533200,
+    "title": "Human-centric ML Infrastructure: A Netflix Original"
+}
