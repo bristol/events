@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #45! This coming Wednesday, we will be talking to Joe Reis, CEO/Co-Founder, Ternary Data, about How To Move From Barely Doing BI to Doing AI - Building A Solid Data Foundation.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>The fact is that most companies are barely doing BI, let alone AI. Joe will discuss ways for companies to build a solid data foundation so they can succeed with machine learning. We'll cover the continuum from cloud data warehousing to MLOps.</p> <p>// Bio:<br/>Joe is a Data Engineer and Architect, Recovering Data Scientist, 20 years in the data game.</p> <p>Joe enjoys helping companies make sense of their culture, processes, and architecture so they can go from dreaming to doing. He\u2019s certified in both AWS and Google Cloud. When not working, you can find Joe at one of the two groups he co-founded\u2014The Utah Data Engineering Meetup and SLC Python. Joe also sits on the board of Utah Python, a non-profit dedicated to advocating Python in Utah.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1608141600,
+    "link": "https://www.meetup.com/bristech/events/275097688/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1608138000,
+    "title": "How To Move From Barely Doing BI to Doing AI - Building A Solid Data Foundation"
+}
