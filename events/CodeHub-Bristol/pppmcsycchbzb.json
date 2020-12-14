@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>As of January 2021 WebDev101 will be focused on building a new website for <a href=\"https://www.bristoltechfair.org/\" class=\"linkified\">https://www.bristoltechfair.org/</a></p> <p>Whether you're a complete novice or quite comfortable with your WebDev skills, there will be plenty of oppurtunity to learn new things! We'll be building this website from the ground up so you can understand what goes into building a site from start to finish.</p> <p>The current plan is to build it with React and Node.js, although this is subject to change!</p> <p>---</p> <p>This event is part of Workshop Wednesdays, hosted by Women's Tech Hub Bristol. Please join the Zoom call mentioned in the location for this event. WebDev101 will start at 6.15 in a breakout room.</p> <p>There are usually some great talks in the second half (7.30 - 8.30). So feel free to go along to them.</p> <p>You can also sign up through this page to attend any of the events listed here:</p> <p><a href=\"https://www.meetup.com/Womens-Tech-Hub-Bristol/events/{eventID}/\" class=\"linkified\">https://www.meetup.com/Womens-Tech-Hub-Bristol/events/{eventID}/</a></p> <p>Women\u2019s Tech Hub runs a no recruiter and a strict social media policy which you can find in their code of conduct.</p> ",
+    "end_time": 1621452600,
+    "link": "https://www.meetup.com/CodeHub-Bristol/events/pppmcsycchbzb/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "CodeHub-Bristol",
+    "start_time": 1621443600,
+    "title": "CodeHub @ Workshop Wednesdays"
+}
