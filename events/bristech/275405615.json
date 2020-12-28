@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #46! Starting the year 2021, we will be talking to Hendrik Brackmann, Director of Data Science and Analytics at Tide, about Real Time Feature Pipelines, A Personal History.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Tide is a U.K.-based FinTech startup with offices in London, Sofia, and Hyderabad. It is one of the first, and the largest business banking platform in the UK, with over 150,000 SME members. As of 2019, one of Tide\u2019s main focuses is to be data-driven. This resulted in the forming of a Data Science and Analytics Team with Hendrik Brackmann at its head. Let's witness Hendrik's personal anecdotes in this episode!</p> <p>// Bio:<br/>After studying probability theory at the University of Oxford, Hendrik joined MarketFinance, an SME lender, in order to develop their risk models. Following multiple years of learning, he joined Finiata, a Polish and German lender in order to build out their data science function. Not only did he succeed in improving the risk metrics of the company he also learnt to manage a different department as interim Head of Marketing.</p> <p>Hendrik's job as Director of Data Science and Analytics at business bank Tide is to oversee data engineering, data science, insights and analytics and data governance functions of Tide.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1609956000,
+    "link": "https://www.meetup.com/bristech/events/275405615/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1609952400,
+    "title": "Real Time Feature Pipelines, A Personal History"
+}
