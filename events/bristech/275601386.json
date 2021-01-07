@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #47! This coming Wednesday, we will be talking to Adri\u00e0 Romero, Founder and Instructor at ProductizeML, about ProductizeML: Assisting Your Team to Better Build ML Products.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>In this talk we will talk about:</p> <p>- Motivations and mission behind ProductizeML.<br/>- Common friction points and miscommunication between technical and management/product teams, and how to bridge these gaps.<br/>- How to define ML product roadmaps, (and more importantly, how to get it signed off by all your team).<br/>- Best practices when managing the end-to-end ML lifecycle.</p> <p>// Takeaways:<br/>- Self-study guide that reviews the end-to-end ML lifecycle starting with some ML theory, data access and management, MLOps, and how to wrap up all these pieces in a viable but still lovable product.<br/>- Free and collaborative self-study guide built by professionals with experience on different stages from the ML lifecycle.</p> <p>// Bio:<br/>Adria is an AI, ML, and product enthusiast with more than 4 years of professional experience on his mission to empower society with data and AI-driven solutions.</p> <p>Born and raised in the beautiful and sunny Barcelona, he began his journey in the AI field as an applied researcher at the Florida Atlantic University, where he published some of the first deep learning works in the healthcare sector. Attracted by the idea of deploying these ideas to the real world, he then joined Triage, a healthcare startup building healthcare solutions powered by AI, such a smartphone app able to detect over 500 skin diseases from a picture. During this time, he has given multiple talks at conferences, hospitals, and institutions such as Novartis and Google. Previously, he interned at Huawei, Schneider Electric, and Insight Center for Data Analytics.</p> <p>Early this year, he started crafting ProductizeML, An Instruction and Interactive Guide for Teams Building Machine Learning products where he and a team of AI &amp; product specialists carefully prepare content to assist on the end-to-end ML lifecycle.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1610560800,
+    "link": "https://www.meetup.com/bristech/events/275601386/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1610557200,
+    "title": "ProductizeML: Assisting Your Team to Better Build ML Products "
+}
