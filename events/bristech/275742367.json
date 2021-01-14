@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #48! This coming Wednesday, we will be talking to Manoj Agarwal, Software Architect at Salesforce, about Serving ML Models at a High Scale with Low Latency.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Serving machine learning models is a scalability challenge at many companies. Most applications require a small number of machine learning models (often &lt;100) to serve predictions. On the other hand, cloud platforms that support model serving, though they support hundreds of thousands of models, provision separate hardware for different customers. Salesforce has a unique challenge that only very few companies deal with; Salesforce needs to run hundreds of thousands of models sharing the underlying infrastructure for multiple tenants for cost-effectiveness.</p> <p>// Takeaways:<br/>This talk will explain how Salesforce hosts hundreds of thousands of models on a multi-tenant infrastructure to support low-latency predictions.</p> <p>// Bio:<br/>Manoj Agarwal is a Software Architect in the Einstein Platform team at Salesforce. Salesforce Einstein was released back in 2016, integrated with all the major Salesforce clouds. Fast forward to today and Einstein is delivering 80+ billion predictions across Sales, Service, Marketing &amp; Commerce Clouds per day.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1611165600,
+    "link": "https://www.meetup.com/bristech/events/275742367/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1611162000,
+    "title": "Serving ML Models at a High Scale with Low Latency"
+}
