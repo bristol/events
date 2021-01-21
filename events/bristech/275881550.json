@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #49! This coming Wednesday, we will be talking to Valliappa Lakshmanan, Director of Data Analytics and AI Solutions at Google, about Machine Learning Design Patterns for MLOps.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Design patterns are formalized best practices to solve common problems when designing a software system. As machine learning moves from being a research discipline to a software one, it is useful to catalogue tried-and-proven methods to help engineers tackle frequently occurring problems that crop up during the ML process. In this talk, I will cover five patterns (Workflow Pipelines, Transform, Multimodal Input, Feature Store, Cascade) that are useful in the context of adding flexibility, resilience and reproducibility to ML in production. For data scientists and ML engineers, these patterns provide a way to apply hard-won knowledge from hundreds of ML experts to your own projects.</p> <p>Anyone designing infrastructure for machine learning will have to be able to provide easy ways for the data engineers, data scientists, and ML engineers to implement these, and other, design patterns.</p> <p>// Bio:<br/>Lak is the Director for Data Analytics and AI Solutions on Google Cloud. His team builds software solutions for business problems using Google Cloud's data analytics and machine learning products. He founded Google's Advanced Solutions Lab ML Immersion program and is the author of three O'Reilly books and several Coursera courses. Before Google, Lak was a Director of Data Science at Climate Corporation and a Research Scientist at NOAA.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1611770400,
+    "link": "https://www.meetup.com/bristech/events/275881550/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1611766800,
+    "title": "Machine Learning Design Patterns for MLOps"
+}
