@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>About the talk:<br/>This talk is full of true tales of tragedies, failed projects, bad code, and other crazy things that software engineers, designers, and really bad bosses do. Have you been on a project that turned into a death march? Or perhaps you\u2019ve seen code that defies all logic? Have you measured code quality by the number of times you shout \u201cWTF?!?\u201d per minute?</p> <p>Whether it\u2019s ruining all integrity of a database, or apps that can\u2019t even handle the load of 5 users concurrently, every day we see engineers and architects implement spectacularly bad solultions. The language doesn\u2019t matter, nor does the vendor or technology. It happens in C# and C++, VB and Ruby, SQL and DBase, JavaScript and Java, and everywhere in between.</p> <p>In this session, you\u2019ll see the best of the worst examples of what not to do. All the failures have been witnessed by the speaker\u2019s decades of experience writing software. And we\u2019ll look at what should have been done instead to avoid the disasters. It is these kind of developer dysfunctions that happen just as someone says that all-too-common saying, \u201cBut it works on my machine!\u201d</p> <p>About the speaker:<br/>Rachel currently works for JetBrains as a Developer Advocate. She has been in the business of creating software for over 25 years, as an author, mentor, and speaker at top industry conferences such as Microsoft\u2019s //BUILD, \u00d8redev, NetConf, SDD and others. During her career, she has worked on projects of all sizes from the smallest of apps, to the largest enterprise systems at some of the world\u2019s leading companies.</p> <p>Rachel\u2019s expertise is in web development on the Microsoft stack, specifically Azure Functions, ASP.NET MVC, Web Forms, SignalR, C#, HTML, CSS, JavaScript, and TypeScript. Her hobbies include science, reading, languages, and travel.</p> <p>Twitter: @RachelAppel</p> ",
+    "end_time": 1614286800,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/275915783/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1614279600,
+    "title": "Virtual - It works on my machine! with Rachel Appel"
+}
