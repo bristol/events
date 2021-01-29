@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #52! On February 17, we will be talking to Luke Feeney and Gavin Mendel-Gleason of TerminusDB, about 'Git for Data' - How and Why?</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>A look at the open-source 'Git for Data' landscape with a focus on how the various tools fit into the pipeline. Following that scene-setting, we will delve into how and why TerminusDB builds a revision control database from the ground up.</p> <p>// Takeaways<br/>- Understanding the 'git for data' offering and landscape<br/>- See how to technically approach a revision control database implementation<br/>- Dream of a better tomorrow</p> <p>// Bio:<br/>Luke Feeney<br/>Operations Lead, TerminusDB</p> <p>Luke Feeney is Operations Director at TerminusDB. Prior to joining TerminusDB, Luke worked in the Irish Foreign Ministry for a number of years. He served in Ireland\u2019s Permanent Mission to the UN in New York and the Embassies in South Africa and Greece. He was Ireland\u2019s acting Ambassador to Greece for 2016 and 2017. Luke was also the Head of the Government of Ireland\u2019s Brexit Communications Team and the Government Brexit Spokesperson from 2017 to 2018.</p> <p>Gavin Mendel-Gleason<br/>Chief Technology Officer, TerminusDB</p> <p>Dr. Gavin Mendel-Gleason is CTO of TerminusDB. He is a former research fellow at Trinity College Dublin in the School of Statistics and Computer Science. His research focuses on databases, logic and verification in software engineering. His work includes contributing to the Seshat global historical databank, an ambitious project to record and analyse patterns in human history. He is the inventor of the Web Object Query Language and the primary architect of TerminusDB. He is interested in improving the best practices of the software development community and a strong believer in formal methods and the use of mathematics and logic as disciplines to increase the quality and robustness of software.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1613584800,
+    "link": "https://www.meetup.com/bristech/events/276047151/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1613581200,
+    "title": "'Git for Data' - How and Why?"
+}

@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #51! On February 10, we will be talking to Pamela Jasper, Founder of Jasper Consulting Inc, about Agile AI Ethics: Balancing Short Term Value with Long Term Ethical Outcomes.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>One of the challenges to the widespread adoption of AI Ethics is not only its integration with MLOps, but the added processes to embed ethical principles will slow and impede Innovation. I will discuss ways in which DS and ML teams can adopt Agile practices for Responsible AI.</p> <p>// Bio:<br/>Pamela M. Jasper, PMP is a global financial services technology leader with over 30 years of experience developing front-office capital markets trading and quantitative risk management systems for investment banks and exchanges in NY, Tokyo, London, and Frankfurt. Pamela developed a proprietary Credit Derivative trading system for Deutsche Bank and a quantitative market risk VaR system for Nomura.</p> <p>Pamela is the CEO of Jasper Consulting Inc, a consulting firm through which she provides advisory and audit services for AI Ethics governance. Based on her experience as a software developer, auditor and model risk program manager, Pamela created an AI Ethics governance framework called FAIR \u2013 Framework for AI Risk which was presented at the NeurIPS 2020 AI conference.</p> <p>Pamela is available as an Advisor, Auditor and Keynote Speaker on AI Ethics Governance. She is a member of BlackInAI, The Professional Risk Managers Industry Association, Global Association of Risk Managers and ForHumanity.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1612980000,
+    "link": "https://www.meetup.com/bristech/events/276046732/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1612976400,
+    "title": "Agile AI Ethics: Balancing Short Term Value with Long Term Ethical Outcomes"
+}
