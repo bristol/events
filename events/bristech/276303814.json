@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #53! On February 24, we will be talking to Krishna Gade, CEO &amp; Co-Founder of Fiddler Labs, about How Explainable AI is Critical to Building Responsible AI.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Training and deploying ML models have become relatively fast and cheap, but with the rise of ML use cases, more companies and practitioners face the challenge of building \u201cResponsible AI.\u201d One of the barriers they encounter is increasing transparency across the entire AI lifecycle to not only better understand predictions, but also to find problem drivers. In this session with Krishna Gade, we will discuss how to build AI responsibly, share examples from real-world scenarios and AI leaders across industries, and show how Explainable AI is becoming critical to building Responsible AI.</p> <p>// Bio:<br/>Krishna is the Co-founder and CEO of Fiddler, an Explainable AI Monitoring company that helps address problems regarding bias, fairness and transparency in AI. Prior to founding Fiddler, Gade led the team that built Facebook\u2019s explainability feature \u2018Why am I seeing this?\u2019. He\u2019s an entrepreneur with a technical background with experience creating scalable platforms and expertise in converting data into intelligence.</p> <p>Having held senior engineering leadership roles at Facebook, Pinterest, Twitter and Microsoft, he\u2019s seen the effects that bias has on AI and machine learning decision making processes, and with Fiddler, his goal is to enable enterprises across the globe solve this problem.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1614189600,
+    "link": "https://www.meetup.com/bristech/events/276303814/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1614186000,
+    "title": "How Explainable AI is Critical to Building Responsible AI"
+}
