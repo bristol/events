@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>About Talk:<br/>Developing cross-platform apps for Windows, iOS, macOS, Android and WebAssembly can be a complex process, especially when it comes to the user interface. Each platform has its own ways of defining dynamic layouts, with some being more efficient, some more verbose, some more elegant, and some more performant than others.</p> <p>Luckily, the open-source Uno Platform removes many complexities and enables developers to reuse their existing XAML and C# skills, resulting in a gain of overall productivity when creating pixel-perfect UI-rich and data-driven applications. Come learn what the Uno Platform is all about (www.platform.uno)</p> <p>About Speaker:<br/>.NET developer, ex-physicist, occasional game designer. Core Team Engineer on the Uno Platform. Father of two small people.</p> <p>Twitter: @DJODissolute</p> ",
+    "end_time": 1632427200,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/276346398/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1632420000,
+    "title": "Virtual - Intro to open source Uno Platform (C#/XAML) with David Oliver"
+}
