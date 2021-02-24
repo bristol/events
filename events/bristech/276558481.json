@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #56! On March 24, we will be talking to Josh Tobin, Founder of Stealth-Stage Startup, about A Missing Link in the ML Infrastructure Stack.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Machine learning is quickly becoming a product engineering discipline. Although several new categories of infrastructure and tools have emerged to help teams turn their models into production systems, doing so is still extremely challenging for most companies. In this talk, we survey the tooling landscape and point out several parts of the machine learning lifecycle that are still underserved. We propose a new category of tool that could help alleviate these challenges and connect the fragmented production ML tooling ecosystem. We conclude by discussing similarities and differences between our proposed system and those of a few top companies.</p> <p>// Bio:<br/>Josh Tobin is the founder and CEO of a stealth machine learning startup. Previously, Josh worked as a deep learning &amp; robotics researcher at OpenAI and as a management consultant at McKinsey. He is also the creator of Full Stack Deep Learning (fullstackdeeplearning.com), the first course focused on the emerging engineering discipline of production machine learning. Josh did his PhD in Computer Science at UC Berkeley advised by Pieter Abbeel.</p> <p>//Other Links<br/>course.fullstackdeeplearning.com</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1616608800,
+    "link": "https://www.meetup.com/bristech/events/276558481/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1616605200,
+    "title": "A Missing Link in the ML Infrastructure Stack"
+}
