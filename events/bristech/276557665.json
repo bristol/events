@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #54! On March 3, we will be talking to Laszlo Sragner, Founder of Hypergolic, about Product Management in Machine Learning.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>How Laszlo's experience in quant finance and software engineering influenced how they ran ML at a London Fintech Startup. How to solve business problems with incremental ML? What's the difference between academic and industrial ML?</p> <p>// Bio:<br/>Laszlo worked as a quant researcher at multiple investment managers and as a DS at the world's largest mobile gaming company. As Head of Data Science at Arkera, he drove the company's data strategy delivering solutions to Tier 1 investment banks and hedge funds. He currently runs Hypergolic (hypergolic.co.uk) an ML Consulting company helping startups and enterprises bring the maximum out of their data and ML operations.</p> <p>//Takeaways<br/>Continuous evaluation and monitoring are indistinguishable in a well set up product team.<br/>Separation of concerns (SE, ML, DevOps, MLOps) is significant for smooth operation; low friction team coordination/communication is key.<br/>To be able to iterate business features into models you need a modelling framework that can express these which is usually a DL package.<br/>DS-es are well motivated to go more technical because they see the rewards of it. All well run (from DS perspective) startups in my experience do the same.</p> <p>//Other Links<br/>Free eBook about MLPM: <a href=\"https://machinelearningproductmanual.com/\" class=\"linkified\">https://machinelearningproductmanual.com/</a><br/>Lightweight MLOps Python package: <a href=\"https://hypergol.ml/\" class=\"linkified\">https://hypergol.ml/</a><br/>Blog: laszlo.substack.com</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1614794400,
+    "link": "https://www.meetup.com/bristech/events/276557665/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1614790800,
+    "title": "Product Management in Machine Learning"
+}

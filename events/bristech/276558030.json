@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #55! On March 17, we will be talking to Daniel Stahl, Head of Data and Analytic Platforms of Regions Bank, about Operationalizing Machine Learning at a Large Financial Institution.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>The Data Science practice has evolved significantly at Regions, with a corresponding need to scale and operationalize machine learning models. Additionally, highly regulated industries such as finance require a heightened focus on reproducibility, documentation, and model controls. In this session with Daniel Stahl, we will discuss how the Regions team designed and scaled their data science platform using DevOps and MLOps practices. This has allowed Regions to meet the increased demand for machine learning while embedding controls throughout the model lifecycle. In the 2 years since the data science platform has been onboarded, 100% of data products have been successfully operationalized.</p> <p>// Bio:<br/>Daniel Stahl leads the ML platform team at Regions Bank and is responsible for tooling, data engineering, and process development to make operationalizing models easy, safe, and compliant for Data Scientists.</p> <p>Daniel has spent his career in financial services and has developed novel methods for computing tail risk in both credit risk and operational risk, resulting in peer-reviewed publications in the Journal of Credit Risk and the Journal of Operational Risk. Daniel has a Masters in Mathematical Finance from the University of North Carolina Charlotte.</p> <p>Daniel lives in Birmingham, Alabama with his wife and two daughters.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1616004000,
+    "link": "https://www.meetup.com/bristech/events/276558030/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1616000400,
+    "title": "Operationalizing Machine Learning at a Large Financial Institution"
+}
