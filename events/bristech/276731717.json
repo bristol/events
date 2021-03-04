@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #55! On March 10, we will be talking to Igor Lushchyk, Data Engineer of Adyen, about How to Avoid Suffering in Mlops/Data Engineering Role.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Building Data Science and Machine Learning platforms at a scale-up. Having the main difficulty in finding correct processes and basically being a toddler who learns how to walk on a steep staircase. The transition from homegrown platform to open source solutions, supporting old solutions and maturing them with making data scientists happy.</p> <p>// Bio:<br/>Igor is a software engineer with more than 10 years of experience. With a background in bioinformatics, he even started PhD but didn't finish it.</p> <p>As a data engineer, Igor has been working for the last 6 or 7 years, or maybe more - because he was doing almost the same data engineering stuff but his position was named differently.</p> <p>Igor has been doing a lot of MLOps in 4-5 years now. He doesn't know what he was doing more then - Data Engineering or MLOps. And that\u2019s how this topic came about.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1615399200,
+    "link": "https://www.meetup.com/bristech/events/276731717/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1615395600,
+    "title": "How to Avoid Suffering in Mlops/Data Engineering Role"
+}
