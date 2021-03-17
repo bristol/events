@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>In this workshop, you will learn how to prepare the Spark interactive shell on a Google Cloud Dataproc cluster, create a training dataset for machine learning using Spark, develop a logistic regression machine learning model using Spark, and evaluate the predictive behaviour of a machine learning model using Spark on Google Cloud Datalab.</p> <p>Together with Goran Minov (Technical Project Manager, RBH and Co-Organiser, GDG London), you will cover the basics on how to implement logistic regression using a machine learning library for Apache Spark running on a Google Cloud Dataproc cluster to develop a model for data from a multivariable dataset.</p> <p>To join this workshop you should have basic Linux sysadmin skills and some familiarity with Machine Learning basics. Experience with Dataproc will be beneficial but is not essential.</p> <p>This event is being hosted by GDG London. Please RSVP on their event page: <a href=\"https://gdg.community.dev/events/details/google-gdg-london-presents-machine-learning-with-spark-on-google-cloud-dataproc-workshop/#/\" class=\"linkified\">https://gdg.community.dev/events/details/google-gdg-london-presents-machine-learning-with-spark-on-google-cloud-dataproc-workshop/#/</a></p> <p>Note: In order to participate you will need an account with <a href=\"https://google.qwiklabs.com/\" class=\"linkified\">https://google.qwiklabs.com/</a>. You can create an account for free. We will provide a voucher code to launch the lab during the workshop.</p> ",
+    "end_time": 1616702400,
+    "link": "https://www.meetup.com/GDG-Bristol/events/276984592/",
+    "location": null,
+    "org": "gdg-bristol",
+    "start_time": 1616695200,
+    "title": "Machine Learning with Spark on Google Cloud Dataproc Workshop"
+}
