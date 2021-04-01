@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>What we're doing</p> <p>We\u2019re starting a Clojure book group on Cracking the Coding Interview, going through chapter by chapter to help improve our interviewing and Clojure skills.</p> <p><a href=\"http://crackingthecodinginterview.com\" class=\"linkified\">http://crackingthecodinginterview.com</a></p> <p>Suggested format for the evenings</p> <p>30 minutes Socialising, discussions about Clojure and interviewing, how interviewing has changed during the Covid-19 pandemic, such as interviewing remotely.<br/>30 minutes Conversations about the interview process, behavioural questions, and system design.<br/>1 hour of Solving interview coding questions in Clojure as a group.</p> <p>How to join</p> <p>The meet up is hosted on Zoom and the link to the online event is available on the event page, if you have any questions please contact us on #bristol-clojurians on the Clojurians slack.</p> <p><a href=\"https://clojurians.slack.com\" class=\"linkified\">https://clojurians.slack.com</a></p> ",
+    "end_time": 1634157000,
+    "link": "https://www.meetup.com/Bristol-Clojurians/events/hnctgsyccnbrb/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "clojurians",
+    "start_time": 1634149800,
+    "title": "Cracking the Coding Interview"
+}
