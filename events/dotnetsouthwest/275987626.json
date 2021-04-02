@@ -1,6 +1,6 @@
 {
     "cancelled": false,
-    "description": "<p>TBD</p> ",
+    "description": "<p>About the Talk:<br/>When the word Leadership is said, what does it mean to you? Leadership means different things to different people and there are many conceptions of how to lead technical changes in products and in teams.</p> <p>In this talk, I will walk through some of what I have learnt so far about leadership while guiding teams through technical changes. We\u2019ll talk through what leadership means, and the link between the people and technical aspects of projects and what this means for the role.</p> <p>About the Speaker:<br/>Jessica is a lead developer, international speaker, Microsoft MVP in Developer Technologies &amp; avid learner. Topics that they are interested in include community building, monitoring and continuous improvement of systems.</p> <p>They are a Director and Co-Founder of DDD East Midlands Conference. Previous to this they founded the Women In Tech, Nottingham meetup in 2015 and ran it until 2017.</p> <p>Before switching to technology, they spent a previous life as a neuroscientist. They are easily bribed with coffee &amp; loves hearing about other people\u2019s experiences.</p> <p>Twitter: @JessPWhite</p> ",
     "end_time": 1626897600,
     "link": "https://www.meetup.com/dotnetsouthwest/events/275987626/",
     "location": {
@@ -13,5 +13,5 @@
     },
     "org": "dotnetsouthwest",
     "start_time": 1626890400,
-    "title": "Virtual - TBD with Jessica White"
+    "title": "Virtual - Learning Technical Leadership with Jessica White"
 }
