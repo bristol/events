@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #60! On April 14, we will be talking to Vishnu Prathish, Director Of Engineering, AI Products of Innovyze, about Deploying Machine Learning Models at Scale in Cloud.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>The way Data Science is done is changing. Notebook sharing and collaboration were messy and there was minimal visibility or QA into the model deployment process. Vishnu will talk about building an ops platform that deploys hundreds of models at-scale every month. A platform that supports typical features of MLOps (CI/CD, Separated QA, Dev and PROD environment, experiments tracking, Isolated retraining, model monitoring in real-time, Automatic Retraining with live data) and ensures quality and observability without compromising the collaborative nature of data science.</p> <p>// Takeaways:<br/>Why is MLOps necessary for model building at scale?<br/>What are various cloud-based models for MLOps?<br/>Where can ops help in various points in the ML pipeline Data Prep, Feature Engineering, Model building, Training, Retraining, Evaluation and inference</p> <p>// Bio:<br/>With 10 years in building production-grade data-first software at BBM &amp; HP Labs, I started building Emagin's AI platform about three years ago with the goal of optimizing operations for the water industry. At Innovyze post-acquisition, we are part of the org building world-leading water infrastructure data analytics product.</p> <p>//Other Links<br/><a href=\"https://vishnuprathish.medium.com/\" class=\"linkified\">https://vishnuprathish.medium.com/</a></p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1618419600,
+    "link": "https://www.meetup.com/bristech/events/277416811/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1618416000,
+    "title": "Deploying Machine Learning Models at Scale in Cloud"
+}
