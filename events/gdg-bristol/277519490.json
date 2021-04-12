@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>In this workshop, you will learn how to build, train and tune your own convolutional neural networks from scratch with Keras and Tensorflow 2. You will also look at multiple approaches from very simple transfer learning to modern convolutional architectures such as Squeezenet. It includes theoretical explanations about neural networks and is a good starting point for developers learning about deep learning.</p> <p>What you'll learn</p> <p>- To use Keras and Tensor Processing Units (TPUs) to build your custom models faster.</p> <p>- To use the tf.data.Dataset API and the TFRecord format to load training data efficiently.</p> <p>- To use transfer learning instead of building your own models.</p> <p>- To use Keras sequential and functional model styles.</p> <p>- To build your own Keras classifier with a softmax layer and cross-entropy loss.</p> <p>- To fine-tune your model with a good choice of convolutional layers.</p> <p>- To explore modern convnet architecture ideas like modules, global average pooling, etc.</p> <p>- To build a simple modern convnet using the Squeezenet architecture.</p> <p>This event is being hosted by GDG London. Please follow the link to RSVP on their event page: <a href=\"https://gdg.community.dev/events/details/google-gdg-london-presents-keras-and-modern-convnets-on-tpus/\" class=\"linkified\">https://gdg.community.dev/events/details/google-gdg-london-presents-keras-and-modern-convnets-on-tpus/</a></p> ",
+    "end_time": 1618426800,
+    "link": "https://www.meetup.com/GDG-Bristol/events/277519490/",
+    "location": null,
+    "org": "gdg-bristol",
+    "start_time": 1618419600,
+    "title": "Keras and modern convnets, on TPUs"
+}
