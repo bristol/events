@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #61! On April 28, we will be talking to Lex Beattie, ML Engagement Lead of Spotify, Mike Moran, Principal Engineer of Skyscanner, and Michael Munn, ML Solutions Engineer of Google about From Idea to ML Production.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>This will be a panel discussion. The goal is to discuss the process of turning ideas into production ML products.</p> <p>// Bio:<br/>Lex Beattie<br/>Lex Beattie is the Machine Learning Engagement Lead at Spotify. In the last year, she has helped over 40 different teams across Spotify understand ML best practices, Productionize ML workflows and implement impactful ML in their products. Lex is also a PhD candidate at the University of Oklahoma, focusing on feature importance and interpretability in deep neural networks. Beyond her passion for all things ML, she enjoys exploring the great outdoors in Montana with her German Wirehaired Pointer, Bridger.</p> <p>Mike Moran<br/>Mike has worked across many dimensions; in large/tiny companies, in back-end/front-end, with many languages, and as a sys-admin / engineer/manager.<br/>Mike have a healthy scepticism for most things, and like solving problems through applying System thinking.</p> <p>Michael Munn<br/>Michael is an ML Solutions Engineer with Google Cloud and Google's Advanced Solutions Lab. In his role, he works with customers to build and deploy end-to-end ML solutions with Google Cloud. Within the Advanced Solutions Lab, he teaches these skills to customers.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1619629200,
+    "link": "https://www.meetup.com/bristech/events/277548799/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1619625600,
+    "title": "From Idea to ML Production"
+}
