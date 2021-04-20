@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #63! On May 12, we will be talking to Felipe Campos Penha, Senior Data Scientist of Cargill, about Learnings from Live Coding: An MLOps Project on Twitch.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Can one learn anything useful by creating content online? The usual answer is a sounding YES. But what about live coding an MLOps project on Twitch? Can anything good come out of it?</p> <p>// Takeaways:<br/>Twitch is a great place to learn and develop a sense of community<br/>Live coding is more realistic than traditional tutorials<br/>Live Coding is a trend that is going to last<br/>Exposure is healthy and makes you more mature and prepared for real industry work. Being okay to make mistakes live is something that helps you evolve as a Data Scientist and as a developer</p> <p>// Bio:<br/>Felipe Penha creates content about Data Science regularly on the Data Science Bits channel on YouTube and Twitch. He has 8+ years of experience with hands-on data-related work, starting with his doctorate in Astroparticle Physics. His career in the private sector has been devoted to bringing value to various segments of the Food and Beverages Industry through the use of Analytics and Machine Learning.</p> <p>//Website<br/>github.com/felipepenha</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1620838800,
+    "link": "https://www.meetup.com/bristech/events/277684164/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1620835200,
+    "title": "Learnings from Live Coding: An MLOps Project on Twitch"
+}
