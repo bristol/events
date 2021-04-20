@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>How do you transform speed from 10 to 5,000 deployments per year, while increasing overall website reliability for 30 teams working on a \u00a33.5 billion retail website? How do you embed an operability mindset into product teams working at one of Britain\u2019s oldest, largest, and most popular retailers?</p> <p>John Lewis &amp; Partners has provided its customers with retail merchandise since 1864. The company is co-owned by its 78,000 employees, and it operates 42 stores across the UK as well as johnlewis.com. Over the past few years, John Lewis &amp; Partners has been on a digital transformation journey, replacing its ecommerce monolith with tens of microservices and teams, and a bespoke, award-winning digital platform.\u00a0</p> <p>We have a big emphasis on operability. We\u2019ve built a Paved Road for telemetry, including availability targets and service level objective alerts. We\u2019ve implemented You Build It You Run It at scale. We\u2019ve adopted Chaos Days, post-incident reviews, and per-team incident management.\u00a0</p> <p>We\u2019d like to share with you the successes we\u2019ve had, and the lessons we\u2019ve learned while adopting operability at scale. We\u2019re hoping to encourage and inspire other folks working in large enterprise organisations! Your takeaways will be: how a digital platform can remove telemetry friction, how you can track leading indicators of operability, and how you can measure the cost effectiveness of You Build It You Run It.\u00a0\u00a0\u00a0\u00a0</p> <p>SPEAKERS:</p> <p>Simon Skelton<br/>Partner &amp; Platform &amp; Operations Manager<br/>John Lewis &amp; Partners</p> <p>Steve Smith<br/>Principal Consultant<br/>Equal Experts</p> <p>**<br/>This talk will be recorded and the link to the recording put in the Comments after the event takes place.<br/>**</p> ",
+    "end_time": 1620237600,
+    "link": "https://www.meetup.com/ExpertTalks-Bristol/events/277689795/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "experttalks",
+    "start_time": 1620234000,
+    "title": "Operability and You Build It You Run It at John Lewis & Partners"
+}
