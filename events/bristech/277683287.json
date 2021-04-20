@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #62! On May 5, we will be talking to Oguzhan Gencoglu, Co-founder &amp; Head of AI of Top Data Science, about the Law of Diminishing Returns for Running AI Proof-of-Concepts.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Starting the AI adoption with AI Proof-of-Concepts (PoCs) is the most common choice for most companies. Yet, a significant percentage of AI PoCs do not make it into production whether they were successful or not. Furthermore, running yet another AI PoC follows the law of diminishing returns in various aspects. This talk will revolve around this theme.</p> <p>// Bio:<br/>Oguzhan (Ouz) Gencoglu is the Co-founder and Head of AI at Top Data Science, a Helsinki-based AI consultancy. With his team, he delivered more than 70 machine learning solutions in numerous industries for the past 5 years. Before that, he used to conduct machine learning research in several countries including the USA, Czech Republic, Turkey, Denmark, and Finland. Oguzhan has given more than 40 talks on machine learning to audiences of various backgrounds.</p> <p>//Website<br/>topdatascience.com</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1620234000,
+    "link": "https://www.meetup.com/bristech/events/277683287/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1620230400,
+    "title": "Law of Diminishing Returns for Running AI Proof-of-Concepts"
+}
