@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #64! On May 19, we will be talking to Christopher Bergh, CEO of DataKitchen, about Your Model is Not An Island: Operationalize Machine Learning at Scale with MLOps.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Join this talk with Chris Bergh, DataKitchen CEO and Head Chef, on the intersection of DataOps and Model/MLOps.</p> <p>// Takeaways:<br/>Your model is not an island. For success, Data science requires a high level of technical collaboration with other parts of the data organization.</p> <p>// Bio:<br/>Chris Bergh is the CEO and Head Chef at DataKitchen. Chris has more than 25 years of research, software engineering, data analytics, and executive management experience. At various points in his career, he has been a COO, CTO, VP, and Director of Engineering. Chris is a recognized expert on DataOps. He is the co-author of the \"DataOps Cookbook\u201d and the \u201cDataOps Manifesto,\u201d and a speaker on DataOps at many industry conferences.</p> <p>// Website<br/>datakitchen.io</p> <p>// Other Links:<br/>On-Demand Webinar - Your Model is Not an Island:<br/>Operationalizing Machine Learning at Scale with ModelOps <a href=\"https://info.datakitchen.io/watch-on-demand-webinar-operationalize-machine-learning-at-scale-with-modelops\" class=\"linkified\">https://info.datakitchen.io/watch-on-demand-webinar-operationalize-machine-learning-at-scale-with-modelops</a></p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1621443600,
+    "link": "https://www.meetup.com/bristech/events/277685686/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1621440000,
+    "title": "Your Model is Not An Island: Operationalize Machine Learning at Scale with MLOps"
+}
