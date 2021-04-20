@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #65! On May 26, we will be talking to Kseniia Melnikova, Product Owner (Data/AI) of SoftwareOne, about Common Mistakes in the AI Development Process.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>We will talk about the model lifecycle and development stages and then analyze the main mistakes that everybody does at each stage. Kseniia will also provide the audience with solutions to the mistakes and we will discuss existing tools for experiments management.</p> <p>// Bio:<br/>Kseniia is a product owner for Data/AI-based products. Right now, she is working mostly with numeric data analysis, customer insights and product recommendations.<br/>Previously Kseniia worked at Samsung Research with the biometrics team. She has technical background - she was studying computer science in Russia(Moscow) and a little bit of management in South Korea (Seoul). One of the most interesting directions of research - Model Lifecycle Management Systems and Reproducibility.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1622048400,
+    "link": "https://www.meetup.com/bristech/events/277687522/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1622044800,
+    "title": "Common Mistakes in the AI Development Process "
+}
