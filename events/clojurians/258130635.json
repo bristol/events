@@ -7,8 +7,8 @@
         "address": "1 Victoria Street",
         "city": "Bristol",
         "country": "gb",
-        "latitude": 51.45322799682617,
-        "longitude": -2.5909390449523926,
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
         "name": "Immersive Labs"
     },
     "org": "clojurians",
