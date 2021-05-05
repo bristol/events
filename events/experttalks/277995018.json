@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>In this talk Simon will explain where AI excels, how to implement it and what pitfalls to look out for.</p> <p>He will cover challenges such as bias and explainability and what aspects of data governance you need to worry about.</p> <p>There will be plenty of time to have your questions answered in an interactive Fishbowl discussion with Simon and other members of the Equal Experts Data Practice.</p> <p>SPEAKER:<br/>Simon Case<br/>Data Practice Lead, Equal Experts.</p> <p>***<br/>This talk will be recorded and the link to the recording placed in the Comments shortly after the event takes place.<br/>***</p> ",
+    "end_time": 1620842400,
+    "link": "https://www.meetup.com/ExpertTalks-Bristol/events/277995018/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "experttalks",
+    "start_time": 1620838800,
+    "title": "Applying AI: how to get the best from your data"
+}
