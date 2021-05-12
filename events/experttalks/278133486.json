@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Simon will talk about the principles, practice and pitfalls of creating Data Pipelines, as covered in our new Data Pipeline Playbook.</p> <p>After his talk there will be an open discussion with Lewis Gaskin (John Lewis &amp; Partners) and others about their experiences with creating and using Data Pipelines in their own organisations.</p> <p>**<br/>SPEAKER:<br/>Simon Case<br/>Data Practice Lead, Equal Experts</p> <p>Panelist:</p> <p>Lewis Gaskin<br/>Senior Product Owner, John Lewis &amp; Partners</p> <p>***<br/>This talk will be recorded and a link to the recording placed in the Comments shortly after the event<br/>***</p> ",
+    "end_time": 1622052000,
+    "link": "https://www.meetup.com/ExpertTalks-Bristol/events/278133486/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "experttalks",
+    "start_time": 1622048400,
+    "title": "Principles, practice and pitfalls of creating Data Pipelines"
+}
