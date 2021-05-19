@@ -1,7 +1,7 @@
 {
     "cancelled": false,
     "description": "<p>tbc</p> ",
-    "end_time": 1623956400,
+    "end_time": 1624561200,
     "link": "https://www.meetup.com/OWASP-Bristol/events/277163169/",
     "location": {
         "address": null,
@@ -12,6 +12,6 @@
         "name": "Online event"
     },
     "org": "OWASP-Bristol",
-    "start_time": 1623949200,
+    "start_time": 1624554000,
     "title": "TBC"
 }
