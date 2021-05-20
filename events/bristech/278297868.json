@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #66! On June 2, we will be talking to Alfredo Deza, Author and Speaker, about Practical MLOps Part 2.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>We will talk about the importance of bringing DevOps principles and discipline into Machine Learning, creating the MLOps role: automation, constant feedback loops, and the number one objective - to ship models into production.</p> <p>Additionally, we'll cover some aspects of getting started with Machine Learning that are critical, in particular how democratization ML knowledge is critical to a better environment, from libraries to courses, to production results. Spreading the knowledge is key!</p> <p>// Bio:<br/>Alfredo Deza is a passionate software engineer, speaker, author, and former Olympic athlete. With almost two decades of DevOps and software engineering experience, he teaches Machine Learning Engineering and gives lectures around the world about software development, personal development, and professional sports.</p> <p>Alfredo has written several books about DevOps and Python including<br/>Python For DevOps and Practical MLOps. He continues to share his knowledge about resilient infrastructure, testing, and robust development practices in courses, books, and presentations.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1622653200,
+    "link": "https://www.meetup.com/bristech/events/278297868/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1622649600,
+    "title": "Practical MLOps Part 2"
+}
