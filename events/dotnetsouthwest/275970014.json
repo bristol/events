@@ -1,5 +1,5 @@
 {
-    "cancelled": false,
+    "cancelled": true,
     "description": "<p>About Talk:<br/>Windows Terminal is the newest tool from Microsoft intended to improve your command line experience. Come learn about how this project came to life and how to customize and integrate the terminal into your workflow.</p> <p>About Speaker:<br/>Program Manager at Microsoft currently working on Windows Terminal and Cascadia Code.</p> <p>Twitter: @cinnamon_msft</p> ",
     "end_time": 1623870000,
     "link": "https://www.meetup.com/dotnetsouthwest/events/275970014/",
