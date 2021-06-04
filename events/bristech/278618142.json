@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #70! On June 30, we will be talking to Monika Venckauskaite, Machine Learning Engineer of Vinted, about Machine Learning in Cyber Security.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>One of the areas, that is the most transformed by ML these years is cybersecurity. Traditionally, SIEM (Security Intelligence and Event Management) is performed by human analysts.</p> <p>However, as the cyber powers and tools of the world are growing, we need more and more of these specialists. The entire area of cybersecurity is experiencing a shortage of talent.</p> <p>This is where the ML is coming in to help us. Cybersecurity ML systems require a lot of expertise from specialists as well as unique ways of handling user-sensitive data. This imposes various architectural solutions.</p> <p>In this talk, Monika will introduce us to the ways of using ML in cybersecurity and the unique challenges we face.</p> <p>// Bio:<br/>Monika is a keen and curious ML engineer, loving to build systems. She's started in machine learning as a master's student, looking for Higgs Boson and Dark matter within the CERN data. Later on, Monika moved to the IT industry and worked on various machine learning projects, including Open Source Intelligence Tools and a distributed system for ML cybersecurity analytics.</p> <p>Currently, Monika works as an MLOps engineer, improving the MLOps platform that is used in production to shipping models to a 45 million-user platform. Monika also works in a start-up that is innovating satellite communication. In her free time, she loves books, traveling, and playing some music.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1625072400,
+    "link": "https://www.meetup.com/bristech/events/278618142/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1625068800,
+    "title": "Machine Learning in Cyber Security"
+}
