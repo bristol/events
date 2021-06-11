@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #69! On June 23, we will be talking to Emmanuel Raj, Senior Machine Learning Engineer of TietoEvry, about Engineering MLOps.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>The talk will focus on simplifying/demystifying MLOps, encourage others to take steps to learn this powerful SE method. We can talk about my journey in ML engineering, the evolution of MLOps, daily life, and SE problems, and what's next in MLOps (fusion of AIOps, EU AI regulations impact on MLOps workflow, etc).</p> <p>// Bio:<br/>Emmanuel Raj is a Finland-based Senior Machine Learning Engineer. He is a passionate ML Researcher, Software engineer, speaker, and author. He is also a Machine Learning Engineer at TietoEvry and a Researcher at Arcada University of Applied Sciences in Finland.</p> <p>With over 6+ years of experience building ML solutions in the industry, he has worked on multiple domains such as Healthcare, Manufacturing, Finance, Retail, e-commerce, aviation, etc.</p> <p>Emmanuel is passionate about democratizing AI and bringing state-of-the-art research to the industry. He has a keen interest in R&amp;D in technologies such as Edge AI, Blockchain, NLP, MLOps, and Robotics. He believes the best way to learn is to teach and he is passionate about teaching about new technologies, that's one reason for writing a book and making an online course on MLOps.</p> <p>Emmanuel is the author of the book \"Engineering MLOps\". The book covers industry best case practices and hands-on implementation to Rapidly build, test, and manage production-ready machine learning life cycles at scale. There is a big evolution happening in Data science for good, and we are moving away from notebooks and models sharing to a collaborative way of working via MLOps. We will discuss this big evolution of DevOps, MLOps, Data Engineering, Data Science, and Data-Driven business in the meetup.</p> <p>// Takeaways<br/>Why ML projects fail (based on my experience), principle challenges in productionizing ML<br/>How is MLOps a saviour (projects succeeding)<br/>What is AIOps (automated error handling in DevOps)<br/>MLOps process simplified<br/>MLOps tools recommendations<br/>Explainable Monitoring (production monitoring framework and techniques)<br/>AI regulations in Europe, how will it shape MLOps.<br/>Next steps for killer ML solutions- AIOps + MLOps</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1624467600,
+    "link": "https://www.meetup.com/bristech/events/278767478/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1624464000,
+    "title": "Engineering MLOps"
+}
