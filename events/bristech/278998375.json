@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #72! On July 14, we will be talking to Sadik Bakiu, a Freelance ML Engineer, about Orchestrating Spark Jobs with Kubeflow.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>Apache Spark and Kubernetes have been established as de facto standards for data processing and container orchestration respectively. This talk will cover how these technologies can be integrated under the orchestration of Kubeflow. (Kubeflow has been emerging as a platform to make ML workflows easy to work with and deploy.)</p> <p>// Bio:<br/>Sadik is a Freelance ML Engineer focused on creating production-grade ML workflows. Since the early beginning of his career, more than a decade ago, he was fascinated by Data and Information management systems and has been working in this field ever since. Sadik also writes occasionally about technology topics.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1626282000,
+    "link": "https://www.meetup.com/bristech/events/278998375/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1626278400,
+    "title": "Orchestrating Spark Jobs with Kubeflow"
+}
