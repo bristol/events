@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristech &amp; MLOps collab #73! On July 28, we will be talking to David Aronchick, Program Manager, Azure Innovations of Microsoft, about The SAME Project: A Cloud Native Approach to Reproducible Machine Learning.</p> <p>// Register at:<br/><a href=\"https://go.mlops.community/register\" class=\"linkified\">https://go.mlops.community/register</a></p> <p>// Abstract:<br/>We live in a time of both feast and famine in machine learning. Large organizations are publishing state-of-the-art models at an ever-increasing rate but the average data scientist faces daunting challenges to reproduce the results themselves. Even in the best cases, where a newly forked code runs without syntax errors (often not the case), this only solves a part of the problem as the pipelines used to run the models are often completely excluded.</p> <p>The Self-Assembling Machine Learning Environment (SAME) project is a new project and community around a common goal: creating tooling that allows for quick ramp-up, seamless collaboration, and efficient scaling. This talk will discuss our initial public release, done in collaboration with data scientists from across the spectrum, where we are going next, and how people can use our learnings in their own practices.</p> <p>// Bio:<br/>David leads works in the Azure Innovation Office on Machine Learning. This means he spends most of my time helping humans to convince machines to be smarter. David is only moderately successful at this.</p> <p>Previously, David led product management for Kubernetes on behalf of Google, launched Google Kubernetes Engine, and co-founded the Kubeflow project. David has also worked at Microsoft, Amazon, and Chef and co-founded three startups.</p> <p>When not spending too much time in service of electrons, he can be found on a mountain (on skis), traveling the world (via restaurants), or participating in kid activities, of which there are a lot more than he remembers than when he was that age.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1627491600,
+    "link": "https://www.meetup.com/bristech/events/279587656/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1627488000,
+    "title": "The SAME Project: A Cloud Native Approach to Reproducible Machine Learning"
+}
