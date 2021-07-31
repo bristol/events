@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>About the Talk:<br/>System.NullReferenceException: 'Object reference not set to an instance of an object.'<br/>I used to read this message quite almost every day.<br/>But null references, also referred to as the \"billion-dollar mistake\" in that context, are also a great mechanism to express optionality and unavailability of a certain resource.</p> <p>There are great tools to help us deal with ... utilize null pointers.<br/>IDEs and Analyzers have introduced diagnostics which warn us at compile time about potential trouble at runtime.<br/>And recently the magnificent C# 8.0 has brought us nullable reference types: a language feature which lets us annotate our API to clearly communicate the design intent of nullability.</p> <p>So let's explore nullable reference types (including the accompanying nullable attributes of the BCL), their representation in both Reflection Metadata and the Roslyn API, and complement that with other available keywords and operators based on null. As a side effect, we will learn about the fundamental difference of nullable reference types and nullable value types in .NET. Additionally, we shall discover an alternative to null while still retaining the semantics of \"nothing\" - Spoiler: the null object pattern.</p> <p>About the Speaker:<br/>My passion is to practice Clean Code and test-driven development in order to build maintainable software in an ever-evolving team, supported by tools from the .NET Ecosystem. I love to attend and speak at public developer events and author open source projects, complementing my expertise in professional software development.</p> <p>Twitter: @0x_F0<br/>GitHub Repo: <a href=\"https://github.com/Flash0ver/F0-Talks-NullVoid\" class=\"linkified\">https://github.com/Flash0ver/F0-Talks-NullVoid</a></p> ",
+    "end_time": 1639513800,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/279821093/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1639508400,
+    "title": "Virtual - Null & Void - Everything about Nothing in .NET with Stefan P\u00f6lz"
+}
