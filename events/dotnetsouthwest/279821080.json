@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>About the Talk:<br/>Meet the most productive IDE for cross-platform .NET development. Rider is based on JetBrains\u2019 two flagship products \u2013 namely IntelliJ IDEA and ReSharper. Its multi-process architecture ensures a smooth typing experience. Features from the IDEA front-end include a mature VCS integration, local history support, run configurations, database integration, and thousands of plugins. Commonly known ReSharper features like quick-fixes, navigation, refactorings, and code inspections are also available. Beyond that, Rider includes a powerful debugger, on-the-fly decompilation, an Azure and AWS toolkit, support for SpecFlow and Avalonia, and much more.</p> <p>Come to this talk to get to know one of the most exciting development tools. Existing users are invited to get their knowledge boosted, to get even more out of their favorite IDE.</p> <p>About the Speaker:<br/>Matthias is a passionate C# developer and likes to talk about clean code, testing and tooling in general. Much of his spare time in the last years was devoted to his very own open source projects, including NUKE. He is working at JetBrains as developer advocate for the .NET department.</p> <p>Twitter: @matkoch87</p> ",
+    "end_time": 1634671800,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/279821080/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1634666400,
+    "title": "Virtual - JetBrains Rider: Tips & Tricks with Matthias Koch"
+}
