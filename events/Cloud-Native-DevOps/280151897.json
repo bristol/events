@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Bristol Cloud Native &amp; DevOps are excited to announce our next event with Senior Engineer, Tess Barnes. Tess works for consulting firm, Made Tech, working closely with their vast array of Public Sector clients.</p> <p>On Thursday 8th September, Tess will be doing a talk titled; \"Cloud vs Covid success: Choosing your VPN for your remote everything\".</p> <p>Synopsis:</p> <p>From supporting staff working from home to onboarding new starters, how do you go about deciding on a solution that allows secure connections in a way that is easily maintained?</p> <p>Back In 2019, we might have used VPNs around 10% of the time to keep our connections secure. Now, as a global pandemic has triggered a rise of remote working, we're all experiencing 'new' challenges about keeping our connections secure, while continuing to give employees flexibility over how they work.</p> <p>The answer could be Cloud-based solutions</p> <p>Join Senior Engineer Tess Barnes as she walks through some contextual examples of Cloud-based solutions and discusses the key factors and considerations to take into account when choosing the right option for you.</p> <p>Bio:</p> <p>Tess Barnes is a Senior Engineer working for Made Tech and their clients in Bristol. Her experience with AWS and Azure-based solutions has led her to believe that the Cloud is not an abstract panacea and the best tool to use is the one that fits the job you\u2019re facing.</p> ",
+    "end_time": 1631106000,
+    "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/280151897/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "Cloud-Native-DevOps",
+    "start_time": 1631102400,
+    "title": "Cloud vs Covid success: Choosing your VPN for your remote everything"
+}
