@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>This talk starts at 8.30am<br/>**<br/>What is You Build It You Run It?</p> <p>Why is it a key enabler for Continuous Delivery and operability, and how do you implement it for 5,10 or 30 teams in a large enterprise organisation?</p> <p>How can you achieve You Build It You Run It at scale, when your delivery teams are only incentivised to crank out features, and your operations team is always putting out fires?</p> <p>This talk will look at You Build It You Run It in depth, including experiences from various large organisations.</p> <p>We\u2019ll cover principles, practices, and pitfalls for on-call product teams, as well as what makes Ops Run It so problematic in the first place.</p> <p>**<br/>SPEAKERS<br/>**<br/>Steve Smith<br/>Principal Consultant and Practice Lead, Equal Experts</p> <p>Bethan Timmins<br/>Managing Director, Equal Experts Australia and New Zealand</p> <p>***<br/>This talk will be recorded and a link to the recording added in the Comments shortly after the event takes place<br/>***</p> ",
+    "end_time": 1634113800,
+    "link": "https://www.meetup.com/ExpertTalks-Bristol/events/281097406/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "experttalks",
+    "start_time": 1634110200,
+    "title": "When to adopt You Build In You Run It in enterprise organisations"
+}
