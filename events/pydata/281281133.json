@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>The PyData Global Online Conference is where users, contributors, and newcomers can share experiences to learn from one another and grow together. PyData provides a virtual forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. The global PyData network promotes discussion of best practices, new approaches, and emerging technologies for data management, processing, analytics, and visualization.</p> <p>This three-day online event consists of talks, tutorials, and discussions to bring attendees the latest project features along with cutting-edge use cases.</p> <p>The time span of the conference stretches beyond any single time zone, reflecting the global nature of our community. To accommodate our attendees, each session will be recorded and made available to attendees the following day. Following the Conference, all recordings will be posted to the PyData YouTube channel.</p> ",
+    "end_time": 1635651000,
+    "link": "https://www.meetup.com/PyData-Bristol/events/281281133/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "pydata",
+    "start_time": 1635420600,
+    "title": "PyData Global 2021 (GLOBAL ONLINE CONFERENCE)"
+}
