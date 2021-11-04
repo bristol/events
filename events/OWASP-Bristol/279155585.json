@@ -1,7 +1,7 @@
 {
     "cancelled": false,
-    "description": "<p>We are looking to publish on @YouTube the recordings of our meetups. If you would like to be notified when we a new video is published, please feel free to subscribe on our channel at:<br/><a href=\"https://www.youtube.com/channel/UC1lUjD1zM1gD2JkSa1rxMYQ\" class=\"embedded\">https://www.youtube.com/channel/UC1lUjD1zM1gD2JkSa1rxMYQ</a></p> ",
-    "end_time": 1637787600,
+    "description": "<p>New virtual event - OWASP CTF 2021, led by OWASP Dorset Chapter and in collaboration with OWASP Diversity and Inclusion Committee and UK Chapters: Bristol, Cambridge, London, Newcastle, Reading, Suffolk.</p> <p>The CTF will be hosted by Security Innovation and be instructor lead. It combines with Security Innovation's CMD+Ctrl Bootcamp and they are extending an offer to all participants for 4-weeks FREE access to the self-paced training courses.</p> <p>Although the event is online, as this is a live participatory event it will not be recorded.</p> <p>Event registration link will be shared nearer to the time.</p> ",
+    "end_time": 1637269200,
     "link": "https://www.meetup.com/OWASP-Bristol/events/279155585/",
     "location": {
         "address": null,
@@ -12,6 +12,6 @@
         "name": "Online event"
     },
     "org": "OWASP-Bristol",
-    "start_time": 1637780400,
-    "title": "TBC"
+    "start_time": 1637258400,
+    "title": "OWASP CTF 2021 (Virtual event)"
 }
