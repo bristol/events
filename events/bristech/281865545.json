@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p># Andy Mott - Data Mesh<br/>An introduction to Data Mesh (more details to follow!)</p> <p>## About Andy<br/>With more than 20 years of experience in IT and big data analytics, Andy Mott is an expert at optimizing an organization\u2019s use of analytics, culture and processes through technologies such as self service data tools, cloud, and streaming analytics.</p> <p>His approach often results in fortifying existing revenue, improving business processes, and most importantly, influencing senior stakeholders to ensure that the strategic direction of the organization with respect to Big Data and analytics is relevant, and will ultimately enable them to out compete their markets.</p> <p>Andy Mott is currently EMEA head of partner solutions architecture, Data Mesh lead at Starburst and lives in the United Kingdom.</p> <p># Panel discussion with...</p> <p>TBC</p> <p># Bristech Meetup Sponsors 2021</p> <p>Oracle Cloud Infrastructure - <a href=\"https://www.oracle.com/uk/cloud/\" class=\"linkified\">https://www.oracle.com/uk/cloud/</a></p> <p>Oracle Cloud Infrastructure (OCI) is an IaaS that delivers high-performance computing power to run cloud-native and enterprise company's IT workloads. OCI provides real-time elasticity for enterprise applications by combining Oracle's autonomous services, integrated security, and serverless computing. OCI has 30 regions worldwide and is also the only IaaS available in a company's private data centre.</p> <p>The OCI team in the UK build and run many core OCI services including API Gateway, Compute, Functions (FaaS), Container Engine for Kubernetes (OKE) Engine, Networking &amp; Storage.</p> <p>OVO Energy - <a href=\"https://www.ovoenergy.com/\" class=\"linkified\">https://www.ovoenergy.com/</a></p> <p>Storm Consultancy - <a href=\"https://stormconsultancy.co.uk/\" class=\"linkified\">https://stormconsultancy.co.uk/</a></p> <p>Storm works with startups, scale ups and corporate innovators to design and build world-class web apps, digital platforms and websites.<br/>Storm is here to see your digital business idea or project through from initial brainstorm to launch (and beyond!).</p> <p>We're your technology partner, your sounding board and your business confidant. We're fully invested. We build partnerships and enjoy nothing more than celebrating your success.</p> ",
+    "end_time": 1638565200,
+    "link": "https://www.meetup.com/bristech/events/281865545/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "bristech",
+    "start_time": 1638561600,
+    "title": "BRISTECH BYTESIZE #20: Andy Mott - Data Mesh"
+}
