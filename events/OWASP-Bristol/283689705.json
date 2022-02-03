@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>Agenda:<br/>* OWASP Updates<br/>* Talk: Captain hindsight: finding log4shell with CodeQL with Alvaro Munoz<br/>* Open discussion</p> <p>Title: Captain hindsight: finding log4shell with CodeQL</p> <p>We are looking to publish on @YouTube the recordings of our meetups. If you would like to be notified when we a new video is published, please feel free to subscribe on our channel at:<br/><a href=\"https://www.youtube.com/channel/UC1lUjD1zM1gD2JkSa1rxMYQ\" class=\"embedded\">https://www.youtube.com/channel/UC1lUjD1zM1gD2JkSa1rxMYQ</a></p> ",
+    "end_time": 1645732800,
+    "link": "https://www.meetup.com/OWASP-Bristol/events/283689705/",
+    "location": null,
+    "org": "OWASP-Bristol",
+    "start_time": 1645725600,
+    "title": "Finding log4shell with CodeQL"
+}
