@@ -4,12 +4,12 @@
     "end_time": 1644958800,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/283718888/",
     "location": {
-        "address": "1 Rivergate",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45026397705078,
-        "longitude": -2.5841450691223145,
-        "name": "OVO Energy"
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
     },
     "org": "agile",
     "start_time": 1644949800,
