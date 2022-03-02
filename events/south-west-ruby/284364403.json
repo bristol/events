@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Join us again at Newtown Park Brewing Co in Bristol, this month for an in-person South West Ruby meetup.</p> <p>Schedule</p> <p>18:00 - Arrive, grab a drink, and have a chat with fellow attendees. Meet fellow Ruby and Rails users in the South West!<br/>19:00 - \"Lessons for developers from the Post Office Horizon scandal\" by Tom Cartwright<br/>20:00 - More chatting!</p> <p>Slack</p> <p>If you like to join us on Slack please join <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> ",
+    "end_time": 1647466200,
+    "link": "https://www.meetup.com/south-west-ruby/events/284364403/",
+    "location": {
+        "address": "Saint Philips Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45645523071289,
+        "longitude": -2.571161985397339,
+        "name": "Newtown Park Brewing Co"
+    },
+    "org": "south-west-ruby",
+    "start_time": 1647455400,
+    "title": "South West Ruby #36 In Person"
+}
