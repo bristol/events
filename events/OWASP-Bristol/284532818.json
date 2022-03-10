@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Event lead by OWASP Suffolk.<br/>Talk: The best practices of working securely on AWS<br/>Event details at:<br/>[<a href=\"https://www.meetup.com/OWASP-Suffolk-Chapter/events/283317246/](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283317246/\" class=\"linkified\">https://www.meetup.com/OWASP-Suffolk-Chapter/events/283317246/](https://www.meetup.com/OWASP-Suffolk-Chapter/events/283317246/</a>)</p> ",
+    "end_time": 1648582200,
+    "link": "https://www.meetup.com/OWASP-Bristol/events/284532818/",
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
+    "org": "OWASP-Bristol",
+    "start_time": 1648576800,
+    "title": "The best practices of working securely on AWS"
+}
