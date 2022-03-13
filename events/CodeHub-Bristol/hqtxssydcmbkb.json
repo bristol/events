@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>We are delighted to be participating in Workshop Wednesdays, alongside Women's Tech Hub, for real life meetings at Desklodge House.</p> <p>It is a slightly later start than a couple of years ago (ie last time we were face to face!) as many people will be travelling from home due to remote working. 6.30 pm is now the checking-in time. There won't be pizzas (this may change if we get some sponsors in), though we will provide drinks.</p> <p>Format<br/>It will be a drop in for networking, discussion and support, allowing beginners as well as professionals to mix easily. For beginners, the specialists should be able to propose training in the areas of expertise and support where help is needed. We will also be supported by Slack channels.</p> <p>There are already a few groups forming. In particular:</p> <p>* Pylab (ie Python for learners): A project, Team Groove, is being resurrected as a learning opportunity and is suitable for anyone with interest in Python, at whatever level. (Previous progress came to a halt because participants got jobs!)<br/>* Bristol Data Science and Machine Learning: this group is getting together for all interested in discussions on these topics.<br/>* WebDev: hints of a group are emerging - come along to find out more and get involved from the outset</p> <p>Other groups will emerge over time, depending on what attendees are looking to learn and develop.</p> ",
+    "end_time": 1662580800,
+    "link": "https://www.meetup.com/CodeHub-Bristol/events/hqtxssydcmbkb/",
+    "location": {
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44868850708008,
+        "longitude": -2.5871479511260986,
+        "name": "DeskLodge House"
+    },
+    "org": "CodeHub-Bristol",
+    "start_time": 1662571800,
+    "title": "CodeHub @WorkshopWednesdays: \"in the real\""
+}
