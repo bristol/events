@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>\ud83e\udd80 Rust Bristol is now a thing, and we're kicking off this group with not one but 2 events and this is the first.</p> <p>Program of that evening (order may change):</p> <p>1. Welcome note &amp; introduction to \" \ud83e\udd80 Rust Bristol\"<br/>2. Intro to Rust for programmers - *Joshua Barretto*<br/>3. Using `std` in embedded Rust - *Tim Hutt*<br/>4. Pioneering Autonomous Guidance Systems for the Next Generation of Aircraft - *[Volant Autonomy](<a href=\"https://volantautonomy.com/\" class=\"linkified\">https://volantautonomy.com/</a>) (sponsor)*</p> <p>Venue:<br/>Framework<br/>35 King Street<br/>Bristol, BS1 4DZ</p> ",
+    "end_time": 1649874600,
+    "link": "https://www.meetup.com/rust-bristol/events/284703797/",
+    "location": {
+        "address": "35 King Street",
+        "city": "Bristol City",
+        "country": "gb",
+        "latitude": 51.4519157409668,
+        "longitude": -2.5945920944213867,
+        "name": "Framework Coworking"
+    },
+    "org": "rust-bristol",
+    "start_time": 1649869200,
+    "title": "Rust Bristol \ud83e\udd80 Kickoff (1/2) - Intro & Embedded"
+}
