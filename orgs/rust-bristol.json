@@ -1,0 +1,8 @@
+{
+    "id": "rust-bristol",
+    "name": "Rust Bristol",
+    "homepage": "https://www.meetup.com/rust-bristol/",
+    "meetup": {
+        "urlname": "rust-bristol"
+    }
+}
