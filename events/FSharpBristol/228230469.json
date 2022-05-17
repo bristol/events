@@ -3,14 +3,7 @@
     "description": "<p>The emergence of Cloud platforms has fundamentally changed the IT landscape, to the extent that it is now unthinkable for a technology-focused startup not to operate on the cloud. However, attempting to ride on this ever-expanding platform ecosystem wave has created a new set of challenges.</p> <p>Join Yan Cui in this talk as he draws on his extensive experience with AWS over the last 6 years to illustrate, with real-world use cases, how you can use F# to build internal and external DSLs to successfully navigate AWS service complexity.</p> ",
     "end_time": 1456952400,
     "link": "https://www.meetup.com/FSharpBristol/events/228230469/",
-    "location": {
-        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "JUST EAT"
-    },
+    "location": null,
     "org": "FSharpBristol",
     "start_time": 1456941600,
     "title": "Taming Cloud Complexity with F# DSLs - Yan Cui"

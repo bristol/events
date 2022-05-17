@@ -3,14 +3,7 @@
     "description": "<p>When organisations begin to adopt Continuous Delivery, engineering teams begin to deliver at a pace that can create a strain on other parts of the business. Security teams often struggle to adapt to this faster delivery model, but that doesn\u2019t need to be the case.<br/>In this talk, Stuart will discuss a few ways you can take advantage of continuous delivery to make security a first class citizen of software engineering. Grounding the theory with real world experience, he\u2019ll share a few stories of how other organisations have used these ideas to transform their delivery.</p> <p>SPEAKER: Stuart Gunter</p> <p>Stuart is the Security Practice Lead at Equal Experts. He has over 20 years experience in software engineering, architecture and security. He has worked with a variety of public and private sector organisations across a range of industries, helping them effectively embed security within agile delivery.</p> ",
     "end_time": 1593626400,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/271247173/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "experttalks",
     "start_time": 1593622800,
     "title": "Secure Continuous Delivery"

@@ -3,14 +3,7 @@
     "description": "<p>*** This is our first .NET South West virtual meetup!</p> <p>We will be running the event over Zoom, we encourage attendees to have their cameras on, but it is not compulsory. ***</p> <p>Abstract</p> <p>Let's face it, we've all done it at some point. You have a value in your code that you don't want to hard code as it will vary in different environments or needs to change in a runtime environment, so you want to make it configurable in a file. That's where the fun begins.</p> <p>In the.NET Framework, you usually create an XML configuration file and reference it using some static methods. Or maybe you use the designer in Visual Studio to do the work for you? In .NET Core, you are given a JSON file by default and access it through the IConfiguration interface. Job done ...or so you think.</p> <p>\u2022 How do you code the keys to access the values?<br/>\u2022 How do you unit test it and what if you need to test different values?<br/>\u2022 What if you want to store values other than primitive types?<br/>\u2022 What if you want to have secure passwords, but don't want them in your source control?<br/>\u2022 What if you don't want to use JSON files ... or come to that, don't want to use files at all?<br/>\u2022 What if you want to change values in a Docker container<br/>.. and the questions go on and on.</p> <p>In this talk, we start with a brief overview of the history of configuration in .NET Framework and how Microsoft handed developers a loaded gun to shoot themselves in the foot. Moving on to .NET Core, things are much better, but there are still some gotchas.</p> <p>Lastly, the talk goes on to deal with the questions raised above with a \"SOLID\" based approach that makes configuration not only fully testable, but adds enhancements to handle encrypted configuration values (because you're not storing passwords as clear text in source control are you?) and validation of the configuration data before it hits your code.</p> <p>The talk aims to help new and intermediate developers avoid the pitfalls that others have fallen down and give experienced developers some food for thought as to how they might want to reconsider how they do configuration.</p> ",
     "end_time": 1586289600,
     "link": "https://www.meetup.com/dotnetsouthwest/events/269724664/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1586284200,
     "title": "Virtual Meetup - .NET Configuration is Easy ...Right? by Steve Collins"

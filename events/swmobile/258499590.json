@@ -3,14 +3,7 @@
     "description": "<p>Welcome to February\u2019s SWmobile event, kindly hosted this month by the folks at Just Eat.</p> <p>Talks<br/>- We are living in a post-agile world (Holly Bowman &amp; Chris Rodd)<br/>- I \u2764\ufe0f Charles (Proxy) (Scott Alexander-Bown)<br/>- Instant Apps, ytho? (David Branton)<br/>- Chomping at the Bit(rise) (Daniel Leivers)<br/>- App Experimentation with Optimizely X (Dave Jones)</p> <p>Timings<br/>18:30 Doors, Food &amp; Drink<br/>19:00 Talks<br/>19:50 Break<br/>20:00 More talks!<br/>20:50 Tidy up<br/>21:00 Head to a local pub to continue the conversation</p> <p>As always we welcome new speakers. Please message the organisers if you have a talk idea, or fill out the form at <a href=\"http://cfp.swmobile.org\" class=\"linkified\">http://cfp.swmobile.org</a></p> ",
     "end_time": 1551214800,
     "link": "https://www.meetup.com/swmobile/events/258499590/",
-    "location": {
-        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "JUST EAT"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1551205800,
     "title": "February Talk Night \ud83d\udde3"

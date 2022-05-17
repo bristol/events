@@ -3,14 +3,7 @@
     "description": "<p>Domain-Drive Design (DDD) is an approach to building systems that are focused on the business needs rather than the technology. DDD is a big topic and can be difficult to know where and how to apply it. To make DDD real this talk uses a concept-to-code style to show the pros and cons of using a DDD approach in an ASP.NET Core/Entity Framework Core application.</p> <p>About Jon P Smith</p> <p>Jon is an independent software architect/developer who focuses on the .NET platform, mainly around web/mobile applications. He is also the Author of the book \"Entity Framework Core In Action\" \u2013 see <a href=\"http://bit.ly/2m8KRAZ\" class=\"linkified\">http://bit.ly/2m8KRAZ</a> .</p> <p>Jon is interested in building robust, high-performance applications quickly. To that end he has developed a number of patterns and libraries help with this. You can find his technical blog at <a href=\"https://www.thereformedprogrammer.net/\" class=\"linkified\">https://www.thereformedprogrammer.net/</a> and his open-source libraries at <a href=\"https://github.com/JonPSmith\" class=\"linkified\">https://github.com/JonPSmith</a>.</p> ",
     "end_time": 1540324800,
     "link": "https://www.meetup.com/dotnetsouthwest/events/254708281/",
-    "location": {
-        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "JUSTEAT Technology"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1540315800,
     "title": "Using Domain-Driven Design with Entity Framework Core"

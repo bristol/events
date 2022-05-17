@@ -3,14 +3,7 @@
     "description": "<p>Our next event on November 21st is open to talks of any length/format. If you would like to give a talk at this event please contact an organiser via Meetup message.</p> ",
     "end_time": 1574370000,
     "link": "https://www.meetup.com/ACCU-Bristol/events/266155010/",
-    "location": {
-        "address": "2 Lower Castle Street",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45606231689453,
-        "longitude": -2.584908962249756,
-        "name": "Bristol Marriott Hotel City Centre"
-    },
+    "location": null,
     "org": "accu",
     "start_time": 1574362800,
     "title": "A Call for Speakers"

@@ -3,14 +3,7 @@
     "description": "<p>There will be a talk on software design, OO stuff, unit testing with PHP examples.</p> <p>If anyone else would like to talk about something similar to the above or anything PHP, please contact me.</p> <p>Room is booked from 6.30pm. Talk will not start until after 7pm.</p> <p>\u00a0</p> <p>\u00a0</p> <p>\u00a0</p> <p>\u00a0</p> <p>\u00a0</p> <p>\u00a0</p> ",
     "end_time": 1367353800,
     "link": "https://www.meetup.com/php-sw/events/114007332/",
-    "location": {
-        "address": "74 Old Market Street, St Philips, BS2 0EJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.455604553222656,
-        "longitude": -2.5829410552978516,
-        "name": "Stag and Hounds"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1367343000,
     "title": "First meetup of the year"

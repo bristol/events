@@ -3,14 +3,7 @@
     "description": "<p>Talk 1 - <b>Mobile UXcessibility</b> (Jon Gibbins and Indu Kaila).</p> <p>Talk 2 - <b>How to move beyond the touch screen for a better accessibility of mobile and tablet native applications</b> (Fabien Marry).</p> <p><b>Mobile UXcessibility (Jon Gibbins and Indu Kaila).</b></p> <p>Join us for a talk exploring the overlap between Mobile Accessibility and UX Design and leave with a toolkit that will help you to be inclusive in your designs.</p> <p>Jon Gibbins is a Digital Accessibility Consultant with Dig Inclusion based in Bristol. Indu Kaila is a UX Designer (Contractor) based in Bristol and an active member of the UX community.</p> <p><b>How to move beyond the touch screen for a better accessibility of mobile and tablet native applications\u00a0(Fabien Marry)</b></p> <p>For many with different abilities, using a smartphone or a tablet through their touch screen can be difficult. We will see why and how to make your native apps more accessible. We'll start with pitfalls to avoid and simple steps with great results. Then we'll see how to tap into the powerful built-in accessibility systems that allow you to make your app usable by wheelchair controls or that turn your graphical user interface into an auditory user interface.</p> <p>The usual format:\u00a0</p> <p>\u2022\u00a018:30 doors open / pizza arrive</p> <p>\u2022\u00a019:00 Intro by SWmobile organiser (venue admin i.e toilets, fire exits)</p> <p>\u2022\u00a019:05 talk one</p> <p>\u2022\u00a019:[masked]min comfort break</p> <p>\u2022\u00a019:50 Talk two\u00a0</p> <p>\u2022\u00a020:30 finish up and head to the pub\u00a0</p> ",
     "end_time": 1453841100,
     "link": "https://www.meetup.com/swmobile/events/227797995/",
-    "location": {
-        "address": "2 College Square",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45281219482422,
-        "longitude": -2.6004979610443115,
-        "name": "cxpartners"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1453833000,
     "title": "Mobile UX & Accessibility"

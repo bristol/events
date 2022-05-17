@@ -3,14 +3,7 @@
     "description": "<p>This is a free online event and one of a number we are planning in the coming weeks that we would like to welcome you to. It is co-hosted by the Bristol, Cardiff and Swindon regional Subject Data groups in place of our usual in-person Meetups.</p> <p>AGENDA: 19:00 - 20:00<br/>----------<br/>SPEAKER: Alex Yates<br/>TOPIC: Database DevOps Anti-patterns (aka. How to screw up your ability to deliver database updates in 16 simple steps) (Level 2)</p> <p>A cheerful review of the 16 most popular strategies for screwing up your ability to deliver your users\u2019 data requirements. In the session I describe fifteen database DevOps anti-patterns:</p> <p>- Fear every change<br/>- Wait until you are already screwed<br/>- Build a tangled web of databases<br/>- Customize each production instance<br/>- Don\u2019t use a standard source control process<br/>- Impose new process on underlings<br/>- Don\u2019t provide any training<br/>- Use the wrong model/migration approach<br/>- Hot-fix all the problems in production<br/>- Don\u2019t use branching or tagging<br/>- Use branches to solve every problem<br/>- Re-invent the wheel<br/>- Have a functional stand-off<br/>- Create a DevOps teams/role<br/>- Give up</p> <p>BIO: Alex Yates has been helping organisations to apply DevOps principles to relational database development and deployment since 2010. He\u2019s most proud of helping Skyscanner develop the ability to deploy 95 times a day. Originally for Redgate, later for DLM Consultants, Alex has worked with clients on every continent except Antarctica \u2013 so he\u2019s keen to meet anyone who researches penguins.</p> <p>A keen community member, he co-organises Data Relay, is the founder of www.SpeakingMentors.com and has been recognised as a Microsoft Data Platform MVP since 2017.</p> <p>WHEN AND WHERE<br/>----------<br/>This is an online event via the Microsoft Teams platform. Full meeting details will be emailed to attendees no later than 1 hour prior to the event. You can view the event via your web browser or using the Teams application.</p> <p>GET INVOLVED<br/>----------<br/>Subject Data is community organised and volunteer led. We are happy to hear from anyone who would like to get involved. Please follow @SubjData on Twitter, LinkedIn and see www.subjectdata.org for more information.</p> <p>LEVELS<br/>----------<br/>Level 1: Introductory and overview material<br/>Level 2: Intermediate material (background knowledge useful)<br/>Level 3: Advanced (assumes prior subject matter knowledge)<br/>Level 4: Expert (deep level of technical knowledge)</p> <p>Please note our terms and conditions including our Code of Conduct and Recruiter Policy: www.subjectdata.org/events/terms-and-conditions</p> ",
     "end_time": 1593630000,
     "link": "https://www.meetup.com/DataBristol/events/271393105/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "databristol",
     "start_time": 1593626400,
     "title": "Database DevOps Anti-patterns [Online Event]"

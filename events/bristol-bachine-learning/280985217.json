@@ -3,14 +3,7 @@
     "description": "<p>We're very excited to announce our next online talk from Niall Twomey.</p> <p>Niall Twomey is a principal applied scientist at KidsLoop, currently focusing on research innovation in the intersection of education technology and machine learning. He spent several years in academic and industrial research, developing bespoke machine learning models for various healthcare applications including early-warning systems for allergic reactions in clinical environments, behavioural models for pre-dementia and early-stage Alzheimer's disease progression, and personalised recommendation systems in the food technology sector.</p> <p>His talk is titled - Machine learning for human teaching</p> <p>Here's Niall's description of the talk:</p> <p>\"We all know that machine learning can be used in many computationally difficult tasks, like image recognition, games like chess/go/starcraft, and recommendations. But can machine learning be applied in learning and education settings with real students, teachers and schools?</p> <p>There is a surprisingly long legacy of data-intensive techniques being used for personalisation and optimising content delivery in the classroom. In this talk I will introduce the context to the problem and bring you through he intuition, strengths and limitations of these approaches and what the future of ML and the algorithm of learning in education may look like.\"</p> <p>Here are the details of the zoom call:</p> <p><a href=\"https://us02web.zoom.us/j/86097473804?pwd=WmY0WnptTi9YSDFhcDcwTXVaZGhUZz09\" class=\"linkified\">https://us02web.zoom.us/j/86097473804?pwd=WmY0WnptTi9YSDFhcDcwTXVaZGhUZz09</a></p> <p>Passcode:[masked]</p> <p>Look forward to seeing you there!</p> ",
     "end_time": 1633091400,
     "link": "https://www.meetup.com/Bristol-Machine-Learning/events/280985217/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "bristol-bachine-learning",
     "start_time": 1633087800,
     "title": "Bristol Machine Learning #17 - Niall Twomey"

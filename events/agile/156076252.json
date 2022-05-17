@@ -3,14 +3,7 @@
     "description": "<p>In 2001 a few of us met in hopes that we could agree on a simple statement that defines lightweight processes. \u00a0We wrote a simple manifesto, and chose the name Agile. \u00a0We had no idea how successful this idea would be. \u00a0At that meeting, Kent Beck stated a prime goal: \u201cTo heal the divide between business and development\u201d. \u00a0</p> <p>Has that divide been healed? \u00a0Or has it been made worse? \u00a0Is Agile succeeding today or, like so many other movements before it, has it been diluted into irrelevance?</p> <p>I'm sure Bob needs no introduction, but just in case:</p> <p>Robert Martin (Uncle Bob) (@unclebobmartin) has been a programmer since 1970. He is the Master Craftsman at 8th Light inc, an acclaimed speaker at conferences worldwide, and the author of many books including: The Clean Coder, Clean Code, Agile Software Development: Principles, Patterns, and Practices, and UML for Java Programmers.\u00a0 He is a prolific writer and has published hundreds of articles, papers, and blogs.\u00a0 He served as the Editor-in-chief of the C++ Report, and as the first chairman of the Agile Alliance.\u00a0 He is the creator of the acclaimed educational video series at <a href=\"http://www.cleancoders.com\">clean</a><a href=\"http://www.cleancoders.com/\">coders.com</a>.</p> <p>For this event we're pleased to partner with\u00a0<a href=\"http://accu.org/index.php\">ACCU</a>, who have been kind enough to lend us a space following the first day of their\u00a0<a href=\"http://accu.org/index.php/conferences/accu_conference_2014\">Developers Conference</a>.</p> ",
     "end_time": 1396987200,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/156076252/",
-    "location": {
-        "address": "2 Lower Castle Street, Old Market, ",
-        "city": "Bristol BS1 3AD",
-        "country": "gb",
-        "latitude": 51.45596694946289,
-        "longitude": -2.5847840309143066,
-        "name": "Bristol Marriott Hotel City Centre "
-    },
+    "location": null,
     "org": "agile",
     "start_time": 1396980000,
     "title": "The future of Agile (if there is any)."

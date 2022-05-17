@@ -3,14 +3,7 @@
     "description": "<p>Join us at Cookpad HQ in Bristol, this month for great talks and discussions. Expect another Ruby packed evening with great conversations, beers and bites to eat.</p> <p>Schedule</p> <p>18:30 - 19:00 - Arrive, grab a drink, some delicious locally supplied food and have a chat with fellow attendees.</p> <p>19:00-20:00 Talks</p> <p>1. Keeping Projects Sustainable Over Time by @ styrmis</p> <p>2. Open Mic: Lightning Talk</p> <p>Slack</p> <p>If you like to join us on Slack please join <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> <p>Notices</p> <p>Please let us know in the comments of the event if you have any specific food allergies, dietary or access requirements so we can be sure to best accommodate everyone!</p> ",
     "end_time": 1553027400,
     "link": "https://www.meetup.com/south-west-ruby/events/259261771/",
-    "location": {
-        "address": "3 Broad Plain, BS2 0JP",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45417404174805,
-        "longitude": -2.582395076751709,
-        "name": "Cookpad"
-    },
+    "location": null,
     "org": "south-west-ruby",
     "start_time": 1553020200,
     "title": "South West Ruby #15"

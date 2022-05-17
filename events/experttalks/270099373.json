@@ -3,14 +3,7 @@
     "description": "<p>Today\u2019s systems are inherently complex, with some component parts often operating in or close to suboptimal or failure modes. Left unchecked, as complexity increases, the compounding of failure modes will inevitably lead to catastrophic system failure.</p> <p>Chaos Days help us address this risk by spending time deliberately inducing failures, then analysing the response.</p> <p>This session summarises our experience of running Chaos Days on a large scale platform. We\u2019ll explore the what, why, how and when of running a Chaos Day, plus tips for running them remotely.</p> <p>SPEAKER: Lyndsay Prewer, Technical Delivery Manager, Equal Experts</p> ",
     "end_time": 1587578400,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/270099373/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "experttalks",
     "start_time": 1587574800,
     "title": "Running Chaos Days on large platforms even in today's Remote-First world"

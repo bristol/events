@@ -3,14 +3,7 @@
     "description": "<p>Andy Gray will be discussing:<br/>- where blockchains came from<br/>- why they got hyped up (and you got bored of hearing about them)<br/>- why they are still surviving even though you don't hear about them as much.</p> <p>After the talk there will be an interactive virtual Fishbowl for you to ask questions and discuss with Andy and James Morgan</p> <p>***<br/>SPEAKER: Andy Gray.</p> <p>With over 20 years commercial experience developing enterprise IT systems I am now primarily focussed on emerging Blockchain and distributed ledger technologies. #decentralise</p> <p>I am co-founder and director of BlockRocket.tech; a Manchester based Blockchain consultancy and engineering company.<br/>We also run a popular community group: Blockchain Manchester.</p> <p>Technically we have been developing decentralised applications (Dapps) with Solidity smart contracts, Truffle, and Web 3.0 tech for over two years. This technology is in its infancy but I believe it offers a new way to think about how to deliver solutions to the modern marketplace.</p> <p>We have built and delivered the following products: KnownOrigin, niftyfootball.cards, CryptoKaiju.io, BlockCities.co and many more bespoke innovative solutions.</p> <p>Before BlockRocket I was an Equal Experts associate consultant and worked with the award-winning Coop Digital team transforming the Funeralcare business.</p> <p>I work with teams heavily involved test driven lean agile implementations. Through practical application I understand how this methodology can lead to significant benefits in quality and productivity.</p> ",
     "end_time": 1595440800,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/271916756/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "experttalks",
     "start_time": 1595437200,
     "title": "Summer Series: Blockchains: A Dead Parrot?"

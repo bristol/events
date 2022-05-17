@@ -3,14 +3,7 @@
     "description": null,
     "end_time": 1566417600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/263403223/",
-    "location": {
-        "address": "Bar + Block Steakhouse",
-        "city": "Bristol",
-        "country": "GB",
-        "latitude": 51.45198059082031,
-        "longitude": -2.5928099155426025,
-        "name": "Bar + Block Steakhouse"
-    },
+    "location": null,
     "org": "accu",
     "start_time": 1566410400,
     "title": "ACCU Summer Social"

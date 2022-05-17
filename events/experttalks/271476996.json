@@ -3,14 +3,7 @@
     "description": "<p>It\u2019s not uncommon for teams practicing, or moving towards, continuous delivery to face a growing backlog of customer-reported bugs and struggle to maintain their deployment cadence. If a team has testers, the testers may be expected to continue with their same testing activities, without any thought as to how those can be fit into CD. Teams without testing specialists often struggle with insufficient coverage from their automated regression tests, and they may miss serious problems entirely because of inadequate exploratory testing.</p> <p>How can teams build confidence to release small changes so frequently?</p> <p>It\u2019s not just about testing, it\u2019s about finding ways to build quality into the product. This interactive session will introduce:<br/>\u2022 a pipeline visualization exercise teams can do to find ways to fit in all testing activities, including manual ones, and shorten feedback loops<br/>\u2022 using a test suite canvas to determine the minimum automated tests needed<br/>\u2022 ways testing specialists help teams prevent defects and transfer testing skills across the team</p> <p>This is a session for everyone on the software delivery team, who may or may not have experience with continuous delivery and deployment.</p> <p>**</p> <p>Lisa's talk will be followed by a Virtual Fishbowl session where all attendees will have the opportunity to take part in a live discussion</p> <p>**</p> <p>SPEAKER: Lisa Crispin</p> <p>Lisa Crispin is the co-author, with Janet Gregory, of three books: Agile Testing Condensed: A Brief Introduction, More Agile Testing: Learning Journeys for the Whole Team, Agile Testing: A Practical Guide for Testers and Agile Teams; the LiveLessons Agile Testing Essentials video course, and \u201cThe Whole Team Approach to Agile Testing\u201d 3-day training course offered through the Agile Testing Fellowship.</p> <p>Lisa was voted by her peers as the Most Influential Agile Testing Professional Person at Agile Testing Days in 2012. She is co-founder with Janet of Agile Testing Fellowship, Inc.</p> <p>Please visit www.lisacrispin.com, www.agiletestingfellow.com, and www.agiletester.ca for more.</p> <p>Lisa is currently a Fellow Quality Owner at OutSystems, helping with the<br/>observability practice.</p> ",
     "end_time": 1594231200,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/271476996/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "experttalks",
     "start_time": 1594227600,
     "title": "Lisa Crispin - A Whole Team Approach to Quality in Continuous Delivery"

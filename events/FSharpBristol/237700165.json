@@ -3,14 +3,7 @@
     "description": "<p><b>A functional approach to Domain Driven Design - Scott Wlaschin</b></p> <p>Statically typed functional programming languages like F# encourage a very different way of thinking about types. The type system is your friend, not an annoyance, and can be used in many ways that might not be familiar to OO programmers.\u00a0</p> <p>Types can be used to represent the domain in a fine-grained, self documenting way. And in many cases, types can even be used to encode business rules so that you literally cannot create incorrect code. You can then use the static type checking almost as an instant unit test \u2014 making sure that your code is correct at compile time.\u00a0</p> <p>In this talk, we'll look at some of the ways you can use types as part of a domain driven design process, with some simple real world examples in F#. No jargon, no maths, and no prior F# experience necessary.</p> <p><b>About Scott:</b>\u00a0Scott is a developer and architect at a UK non-software company. He has over 20 years experience in a wide variety of areas from high-level UX/HCI to low-level database implementations. Scott is the author of\u00a0fsharpforfunandprofit.com</p> <p><b>Lightning talk: Functional ASP.NET Core with\u00a0AspNetCore.Lambda - Stuart Lang</b></p> <p>A 15 lightning talk showing how to build web applications with ASP.NET Core &amp; F# in a more idiomatic and functional way.</p> ",
     "end_time": 1488313800,
     "link": "https://www.meetup.com/FSharpBristol/events/237700165/",
-    "location": {
-        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "JUST EAT"
-    },
+    "location": null,
     "org": "FSharpBristol",
     "start_time": 1488306600,
     "title": "A functional approach to Domain Driven Design - Scott Wlaschin"

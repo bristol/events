@@ -3,14 +3,7 @@
     "description": "<p>Sadly, Jon has been taken ill, so this evening's talk has been cancelled.</p> <p>Please accept my apologies, and hope you make a speedy recovery Jon.</p> ",
     "end_time": 1527105600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/250408231/",
-    "location": {
-        "address": "2 Lower Castle Street",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.61016082763672,
-        "longitude": -2.52667498588562,
-        "name": "Bristol Marriott Hotel City Centre"
-    },
+    "location": null,
     "org": "accu",
     "start_time": 1527098400,
     "title": "Jon Chesterfield on Compile Time - Cancelled!!"

@@ -3,14 +3,7 @@
     "description": "<p>Please note that the meeting will be on ground floor in Staff restaurant\u201d.</p> <p>Agenda:<br/>\u2022 6:00 pm - Social<br/>\u2022 6:30 pm - OWASP update<br/>\u2022 6:35 pm - Presentation 1: The Android app hacker\u2019s toolbox - Iain Baughen<br/>\u2022 7:30pm - Presentation 2: Red Team tactics against a windows enterprise lock down network infrastructure (Part 2) - Sadi Zane, Raytheon<br/>\u2022 After - Heading to Wetherspoon's \"The Knights Templar\" pub</p> <p>Presentation 1: The Android app hacker\u2019s toolbox</p> <p>Abstract: What makes an Android app secure? How can you test your own Android apps? This talk takes a look at a range of free tools that can be used for static and dynamic analysis, code review and and reverse engineering. There will be live app hacking!</p> <p>Bio: Iain has 12 years' experience as a software engineer and has recently made a move into the security field. Working for a Bristol software company his current role involves a mix of development, pen testing web and mobile applications and code analysis</p> <p>Presentation 2: Red Team tactics against a windows enterprise lock down network infrastructure (Part 2)</p> <p>Abstract:<br/>This talk demonstrate some of the lesser known advance red team tricks techniques against a typical enterprise network setup:<br/>- Kerberos Authentication<br/>- Kerberos Service accounts<br/>- Active directory user delegation/rights<br/>- Active directory secrets/ password objects<br/>- Living off the land and (Windows Built in tools)<br/>- Pivoting network with kerberos ticket</p> <p>Bio: Sadi, a Red Team Security Consultant working for Raytheon (ACS) Advanced Cyber Security Team, delivers advanced security red team projects. Qualified OSCP Offensive Security Certified Professional and check team member.</p> ",
     "end_time": 1542317400,
     "link": "https://www.meetup.com/OWASP-Bristol/events/254049342/",
-    "location": {
-        "address": "Digital Studio, Level 2, TQ1 Trinity Quay, Avon St ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45296859741211,
-        "longitude": -2.5835189819335938,
-        "name": "Royal Bank of Scotland"
-    },
+    "location": null,
     "org": "OWASP-Bristol",
     "start_time": 1542304800,
     "title": "The Android app hacker\u2019s toolbox & Red Team tactics against Windows Enterprisee"

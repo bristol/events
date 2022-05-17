@@ -3,14 +3,7 @@
     "description": "<p><b>Feature Talk:\u00a0Building a conversational bot live with Microsoft Bot Framework by Ben Paul</b></p> <p>Voice and conversation is becoming more and more prominent within our homes and lives as we start to see digital assistants like Cortana, Alexa, Siri and Google Now as well as messaging platforms like Skype, Slack and SMS - Your apps and platforms now need to know how to react and respond in a conversational manner!</p> <p>Learn how to use the Microsoft Bot Framework, Machine Learning, LUIS and the Bot Connector to connect your apps and services to conversational platforms and meet Jammy-5... the AI chat bot that won first prize at the Skype Hackathon in Palo Alto, Silicon Valley who can order your takeaway, start a party for you and your friends and use cognitive services to recognise photos of food and find nearby restaurants that serve it... all while staying cheeky, much like our brand!</p> <p><b>This demonstration will be a live coding of a conversational bot that will select a name from our raffle at the end of the meet up!</b></p> <p><b>About Ben Paul:\u00a0</b></p> <p>Ben is a Senior Engineer working in the Research &amp; Development department of Just Eat and has recently been working closely with both Skype and Microsoft in the area of conversational bots, L.U.I.S and Machine Learning.</p> <p>Ben was part of the team that travelled to Skype in Palo Alto and beat 25 teams to win first prize for best conversational bot, earning $5000 (donated to charity) in the process.<br/>As well as working with bots, Ben is responsible for researching new and innovative products and technologies that can be applied within Just Eat.</p> <p><b>Lightning Talk:\u00a0Beyond Functions - 3 Ways TypeScript 2.0 is a great functional language, with\u00a0Mike Tinning</b></p> <p>It has long been recognised amongst JavaScript developers that functions are the languages best feature, but that doesn\u2019t make it a great (or even good!) functional language. With TypeScript 2.0 many of JavaScript\u2019s shortcomings are rectified, making writing functional code a joyous experience.</p> <p><b>About Mike Tinning:</b></p> <p>Mike is a Senior Developer at Scott Logic and has worked in Bristol for 7 years, having decided to stick around after graduating from the University of Bristol. He is passionate about sharing knowledge and building a software development community in the South West, and helps organise Bristech during his breaks from coding. His current obsession is functional programming, and he\u2019s desperate to talk about how awesome it is to anyone who will listen.</p> ",
     "end_time": 1474403400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/233414466/",
-    "location": {
-        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "JUSTEAT Technology"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1474392600,
     "title": "Building a conversational bot live with Microsoft Bot Framework"

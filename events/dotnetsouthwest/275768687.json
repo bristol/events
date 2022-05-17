@@ -3,14 +3,7 @@
     "description": "<p>Registration link: <a href=\"https://us02web.zoom.us/meeting/register/tZcpfuysrjkvE9FqH78G3yNnKmPfCOnQkmxJ\" class=\"linkified\">https://us02web.zoom.us/meeting/register/tZcpfuysrjkvE9FqH78G3yNnKmPfCOnQkmxJ</a></p> <p>iO Associates are delighted to announce our first .Net virtual meetup of 2021 will be taking place on Wednesday 17th February at 7pm! We will be joined by Prasad Rao, Senior Partner Solutions Architect at Amazon Web Services, who will be speaking on \u2018Port That .Net Framework Application to .Net5\u2019.</p> <p>.NET 5 represents a new era within the .NET ecosystem. New development on the .NET Framework has ended, and while it is still a viable application framework, the writing is definitely on the wall as there is no reason that any new development projects would use the v4.x .NET Framework. Instead, they would most likely be on .NET 5 or .NET Core 3.1. This could end up with projects within a company being scattered across various development frameworks as your team manages both current applications and new systems.</p> <p>In this session, we will look at how to port your .NET Framework application. We will use the Porting Assistant for .NET (an open-source AWS-created application) to evaluate the level of effort needed to convert the applications as well as work through several of the most common porting issues and concerns.</p> <p>About the speaker<br/>Prasad Rao is a Senior Partner Solutions Architect for AWS based out of the UK. His focus areas are .NET Application Modernisation and Windows Workloads on AWS. He leverages his experience to help AWS Partners across EMEA for their long term technical enablement to build scalable architecture on AWS. He also mentors diverse people who are new to the cloud and would like to get started on AWS.</p> <p>We hope you can join us and please get in touch with any questions or suggestions on future virtual meetups.</p> <p>In addition, if there\u2019s anything we can help you with in regards to sourcing candidates or finding a new role please do also get in touch.</p> <p>We hope you can join us and please get in touch with any questions or suggestions on future virtual meetups!</p> <p>In addition, if you would like any information on how the market's currently looking, assisting with finding contract or permanent people for your team or you're looking for a new role please don't hesitate to let us know.</p> <p>Thanks,</p> <p>Michael - iO Associates</p> ",
     "end_time": 1613593800,
     "link": "https://www.meetup.com/dotnetsouthwest/events/275768687/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1613588400,
     "title": "Port That .Net Framework Application To .Net5 - Prasad Rao (Aff)"

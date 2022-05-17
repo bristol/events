@@ -3,14 +3,7 @@
     "description": "<p>Let's catch up about the cool new features, apis and toys for us developers to play with in Android 4.3, iOS 7, Mobile web, Windows 8, and Blackberry.</p> <p>** update:\u00a0we've struggled to get speakers and actually numbers are down on usual - we're putting it down to time of year.\u00a0</p> <p>So plan is to move venue to Colston Yard and make it a let's chat about what's new in mobile rather than formal talks.\u00a0</p> <p>I'll no doubt be busy reviewing the beer menu in deep contemplation about which Belgium beer to have, but just come over and say hi - especially if it;s your first time. \u00a0</p> <p>Please update your RSVP status if you can't make it.\u00a0</p> <p>See you there!\u00a0</p> ",
     "end_time": 1378328400,
     "link": "https://www.meetup.com/swmobile/events/132195472/",
-    "location": {
-        "address": "Colston St, Bristol",
-        "city": "BS1 5BD",
-        "country": "gb",
-        "latitude": 51.455787658691406,
-        "longitude": -2.597567081451416,
-        "name": "Colston Yard [the snug]"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1378317600,
     "title": "What's new in Mobile?"

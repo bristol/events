@@ -3,14 +3,7 @@
     "description": "<p>As October is the month containing Halloween our theme is Coding Horror Stories! We've got 8 fantastic lighting talks for you to enjoy.</p> <p>Thanks to Rixxo (<a href=\"https://www.rixxo.com/\" class=\"linkified\">https://www.rixxo.com/</a>) for providing venue sponsorship. Without them we wouldn't be able to put on this night.</p> <p>We've got 8 amazing talks lined up:</p> <p>Doug Fitzmaurice will tell us why if we're thinking of sending emails... we shouldn't.</p> <p>Dan Ackroyd will share his Docker Container Disasters.</p> <p>Ade Slade talks about Daemonic PHP and his lessons learnt from running long running processes in production.</p> <p>Rob Wilson will explain to use about Code, Coffee and the Bleedin Obvious.</p> <p>Nathaniel Smith will share coding, sorry I mean, Recruitment Horror Stories.</p> <p>Michael Bush will tell us about The Horror of a Hash Complexity Attack.</p> <p>Jonathan Jefferies tells us about the Night of the Legacy Code</p> <p>Plus we've also got a talk from Christopher Gee on turning coding nightmares into coding dreams.</p> <p>So sign up ASAP because it'd be a nightmare to miss out on an evening of talks this good.</p> <p>After the talks we will stay for drinks. Yes the venue, Runway East, has it's own bar!</p> <p>See you on Wednesday 10th October.</p> <p>--</p> <p>As always, a big thanks to our meetup sponsors Ents24 (<a href=\"http://www.ents24.com/\" class=\"linkified\">http://www.ents24.com/</a>), Brightpearl (<a href=\"http://www.brightpearl.com/\" class=\"linkified\">http://www.brightpearl.com/</a>), Space 48 (<a href=\"https://www.space48.com/\" class=\"linkified\">https://www.space48.com/</a>), Helastel (<a href=\"https://www.helastel.com/\" class=\"linkified\">https://www.helastel.com/</a>) &amp; Deep Blue Sky (<a href=\"http://deepbluesky.com/\" class=\"linkified\">http://deepbluesky.com/</a>) without whom we wouldn't be able to put on our meetups.</p> ",
     "end_time": 1539201600,
     "link": "https://www.meetup.com/php-sw/events/255002891/",
-    "location": {
-        "address": "1, Victoria Street",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45316696166992,
-        "longitude": -2.590857982635498,
-        "name": "Runway East"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1539193500,
     "title": "Coding Horror Stories"

@@ -3,14 +3,7 @@
     "description": "<p>Yair Etziony from Polar Squad will speak on 'DevOps \u2013 A Search For a Better Definition'</p> <p>In my talk, I would try to find a better definition of the term DevOps. Whats are the relations between DevOps to sysadmins, cloud computing, and your organizational culture. Why do so many DevOps transformations fail? I will try to use some ideas from philosophy, comparative literature, and my experience to try and find a better definition for that term.</p> ",
     "end_time": 1589976000,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/270174554/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "Cloud-Native-DevOps",
     "start_time": 1589972400,
     "title": "Cloud native & devOps talks - DevOps \u2013 A Search For a Better Definition"

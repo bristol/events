@@ -3,14 +3,7 @@
     "description": "<p>iO Associates are delighted to announce our next Virtual Meetup will be on Tuesday 20th July at 7pm! We will be joined by William Eastbury, Principal Azure Architect and Engineer at Microsoft, who will be delivering a session on 'Implementing the Geode Pattern in Azure with Front Door, Azure App Service, and Azure Cosmos DB'.</p> <p>Many large-scale services have specific challenges around geo-availability and scale.</p> <p>The Geode pattern involves deploying a collection of backend services into a set of geographical nodes, each of which can service any request for any client in any region. This pattern allows serving requests in an active-active style, improving latency and increasing availability by distributing request processing around the globe.</p> <p>We will walk through a practical demo of this architecture and build a cloud-scale, globally geo-resilient, and globally performant scaled data storage service architecture that will perform at scale from all corners of the globe.</p> <p>About Will:</p> <p>Will is a Principal Engineer on the FastTrack for Azure Engineering team at Microsoft, helping customers to build, deploy and scale cloud solutions. A 25 year technology veteran in the sector, Will helps customers ask, and answer the hardest challenges around cloud technologies, regardless of size or budget.</p> <p>Register: <a href=\"https://www.ioassociates.co.uk/events/20th-july-net-virtual-meetup-implementing-the-geode-pattern-in-azure\" class=\"linkified\">https://www.ioassociates.co.uk/events/20th-july-net-virtual-meetup-implementing-the-geode-pattern-in-azure</a><br/>\u200b<br/>iO Associates, tech and digital recruitment specialists, have always been very active members of multiple Meetup groups across the UK. We\u2019re really keen to help keep our community positive and engaged hearing from the best speakers on the topics of your choice so encourage you to share this with your team and the wider community.</p> <p>We hope you can join us and please get in touch at [masked] with any questions or suggestions on future virtual meetups.</p> <p>In addition, if there\u2019s anything we can help you with, in regards to sourcing candidates or finding a new role please do also get in touch.</p> <p>Cheers,</p> <p>Michael Collins - iO Associates</p> ",
     "end_time": 1626809400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/279482744/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1626804000,
     "title": "iO .Net Virtual Meetup - Will Eastbury (Aff)"

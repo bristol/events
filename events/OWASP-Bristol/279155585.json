@@ -3,14 +3,7 @@
     "description": "<p>New virtual event - OWASP CTF 2021, led by OWASP Dorset Chapter and in collaboration with OWASP Diversity and Inclusion Committee and UK Chapters: Bristol, Cambridge, London, Newcastle, Reading, Suffolk.</p> <p>The CTF will be hosted by Security Innovation and be instructor lead. It combines with Security Innovation's CMD+Ctrl Bootcamp and they are extending an offer to all participants for 4-weeks FREE access to the self-paced training courses.</p> <p>Although the event is online, as this is a live participatory event it will not be recorded.</p> <p>Event registration link :<br/><a href=\"https://web.securityinnovation.com/bootcamp/2021nov?bc\" class=\"linkified\">https://web.securityinnovation.com/bootcamp/2021nov?bc</a><br/>Form Fields are optional so feel free to put \"N/A\" anywhere you do not wish to provide information, although you will need a working email address and the name fields will be used to identify you for the CTF. The blurb concentrates on the Bootcamp and we are working to switch it around but we have confirmed this is the correct link for CTF registration and you are invited to continue the Bootcamp training with for free! Happy hacking! :-D</p> ",
     "end_time": 1637269200,
     "link": "https://www.meetup.com/OWASP-Bristol/events/279155585/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "OWASP-Bristol",
     "start_time": 1637258400,
     "title": "OWASP CTF 2021 (Virtual event)"

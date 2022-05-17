@@ -3,14 +3,7 @@
     "description": "<p>This is a joint event with OWASP Dorset (<a href=\"https://www.meetup.com/OWASP-Dorset-Chapter/\" class=\"linkified\">https://www.meetup.com/OWASP-Dorset-Chapter/</a>) and OWASP Reading (<a href=\"https://owasp.org/www-chapter-reading/\" class=\"linkified\">https://owasp.org/www-chapter-reading/</a>)</p> <p>Agenda:<br/>* OWASP Updates<br/>* Talk: A Project progress update<br/>* Talk: Respect in Security with Nikki Webb<br/>* Questions and Discussion</p> <p>Talk: A Project progress update<br/>Replacing JavaScript with Python in an interactive server-side UI framework that builds upon an MVC framework. The framework allows all the user data and code to be stored on the server while transmitting the information between the client and the server over a secure WebSocket</p> <p>Varun Kulkari - Software Engineer</p> <p>Talk: Respect in Security</p> <p>Respect In Security, three very simple yet important words, it may sound like a fairly obvious statement but sadly it is not, according to our research, more than a third of Infosec professionals have experienced harassment or abuse from their peers. The other founders of Respect in Security and I, have taken a stand to help encourage more positive and inclusive behaviour and to help support those victims of harassment. I will be telling you all a little more about how we are planning on doing just that. - Nikki Webb</p> <p>To find out more about Respect in Security please review their website: <a href=\"https://respectinsecurity.org/\" class=\"linkified\">https://respectinsecurity.org/</a></p> <p>Bio: Nikki is the Global Channel Manager for Custodian360 and is also the Marketing Manager for the UK-based charity The Cyber Helpline. Over the last year, she has also been an avid volunteer for Cyber House Party (<a href=\"https://www.cyberhouseparty.com/\" class=\"linkified\">https://www.cyberhouseparty.com/</a>). Nikki is also nominated for the third year running for the CRN Women in Channel Rising Star award (<a href=\"https://event.channelweb.co.uk/crnwomeninchannelawards2021/en/page/2021-nominations\" class=\"linkified\">https://event.channelweb.co.uk/crnwomeninchannelawards2021/en/page/2021-nominations</a>).</p> <p>Nikki runs various workshops in educational settings to not only encourage people into the industry but to also teach the younger generation what is acceptable behaviour online, as well as how to protect their own privacy online and create a positive digital footprint from a young age.</p> <p>The event will be streamed online on YouTube at:<br/><a href=\"https://www.youtube.com/watch?v=dpoRwKr-vds\" class=\"embedded\">https://www.youtube.com/watch?v=dpoRwKr-vds</a></p> ",
     "end_time": 1632942000,
     "link": "https://www.meetup.com/OWASP-Bristol/events/280939676/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "OWASP-Bristol",
     "start_time": 1632934800,
     "title": "Respect In Security"

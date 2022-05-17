@@ -3,14 +3,7 @@
     "description": "<p>Hello all! So after some time away, we are kicking off our new DevSecOps meetups with a different style and format.</p> <p>First up is a debate where we get 2 panels going head to head to a series of questions. Whoever gets the loudest cheers from the audience after each round will win that round! It's going to be a lot of fun!</p> <p>We are moving registration to Eventbrite as Meetup will imminently start charging \u00a32 for RSVP and we don't want to charge anyone to attend (we will still advertise the Meetup on Meetup.com).</p> <p>Registration:<br/><a href=\"https://www.eventbrite.com/e/debate-security-culture-in-the-age-of-devsecops-tickets-78543773541\" class=\"linkified\">https://www.eventbrite.com/e/debate-security-culture-in-the-age-of-devsecops-tickets-78543773541</a></p> <p>More info on the Meetup here:</p> <p>It's debate time!</p> <p>Cloud native processes and tooling have accelerated the speed at which organisations can bring new products and services to market.</p> <p>Organisational structures are morphing away from rigid departmental silos to facilitate x-functional teams that are empowered to move fast (and sometimes break things).</p> <p>Yet often security teams remain siloed away from what is happening across the rest of the business. Why?</p> <p>And in this brave new world of cloud, kubernetes and serverless technologies... who owns security? Do we need to create a shared responsibility model for internal teams?</p> <p>Perhaps the biggest question of all - how do we inculcate a security culture when the business has a negative perception of security?</p> <p>All to be (hotly) debated! We'll have 2 teams going head to head with a series of questions where the audience gets to choose who they think is right. It's going to be loud, it's going to be fun, and we'll all walk away a little wiser than before.</p> <p>Time: 6pm</p> <p>Venue: OVO energy, 1 Rivergate Temple Quay Bristol, BS1 6ED</p> <p>Sustenance: Pizza and drinks will be provided courtesy of our awesome sponsors IO Associates!</p> <p>Prizes: There might be prizes!!</p> <p>Panelists:</p> <p>Eliza May Austin (Ladies of London Hacking Society)</p> <p>Kevin Fielder (CISO at Just Eat)</p> <p>Ian Murphy (Co-Founder at LMNTRIX)</p> <p>Adrian Taylor (CISO Advisory)</p> <p>Jonny Tyers (Cloud Security Project Lead)</p> <p>+ more!</p> <p>Moderator: Simon Minton</p> ",
     "end_time": 1574884800,
     "link": "https://www.meetup.com/DevSecOps-force-4-change/events/266203899/",
-    "location": {
-        "address": "1 Rivergate",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45026397705078,
-        "longitude": -2.5841450691223145,
-        "name": "OVO Energy"
-    },
+    "location": null,
     "org": "devsecops",
     "start_time": 1574877600,
     "title": "Security culture in the age of DevSecOps"

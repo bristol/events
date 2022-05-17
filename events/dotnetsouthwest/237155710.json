@@ -3,14 +3,7 @@
     "description": "<p><b>Feature Talk: A man, the \"Roslyn\" compiler and an Azure VM. A peek into the .NET Compiler Platform by Martin Beeby</b></p> <p>Project Roslyn now called The Microsoft .NET Compiler Platform is a complete renewal of the C# and Visual Basic compilers, exposing them as full fidelity APIs for everyone to use, and providing a great foundation for evolving the tool experience and the languages themselves.</p> <p>In this hour long session Martin will show you what the new compiler looks like, how to use it and what it\u2019s capable of.</p> <p><b>About Martin Beeby</b></p> <p>Martin Beeby works for Microsoft where he talks to developers about HTML 5, Windows\u00a010 and the web. Martin has been developing since he was 16 and over the past 17 \u00a0years has worked on projects with many major brands</p> <p>Martin has written articles for, and been featured in, .NET Magazine, Creative Bloq, SitePoint,\u00a0ZDNet, the Microsoft Developer Network, and many more.</p> <p><b>Lightning Talk: Let them use Cake</b></p> <p>Cake (C# Make) is a cross platform build automation system with a C# DSL (domain specific language). This talk will discuss the reasons for using Cake, describe the technology involved and include a live coding demo or two.</p> <p><b>About\u00a0Chester Burbidge</b></p> <p>Chester is a Software Engineer throwing himself headfirst into the devops world and loving every second of it. Currently a member of the Abide Financial crew, where he uses C# and Powershell via AWS to make the markets safer.</p> ",
     "end_time": 1487021400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/237155710/",
-    "location": {
-        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "JUSTEAT Technology"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1487010600,
     "title": "A man, the \"Roslyn\" compiler and an Azure VM. A peek into the .NET Compiler"

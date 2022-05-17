@@ -3,14 +3,7 @@
     "description": "<p>In March we're hosting a night of talks focussed around testing and debugging.</p> <p>This month we'll be at BaseKit.</p> <p>Our talks this month:</p> <p><b>-\u00a0Behaviour Driven Development &amp; Behat: Telling stories through code.<br/></b><a href=\"https://www.meetup.com/php-sw/members/154425842/\">&lt;/a&gt;&lt;a href=\"https://twitter.com/brunty\"&gt;Matt Brunt</a>, Organiser or PHPEM and problem solver at <a href=\"http://www.vivait.co.uk/\">Viva IT</a><a href=\"https://simpleweb.co.uk/\">&lt;/a&gt;</p> <p>Stories? Scenarios? BDD? Are these just more words in the ever-growing list of jargon that developers have to know? Or are they something more important than new terms to memorise?</p> <p>In this session we'll look at how BDD fits into the software development work-flow, how to tell user stories through features, and how to automate them in Behat.</p> <p>These techniques will help to ensure you're writing well designed and tested software that focuses on what the users want from a system.</p> <p><b>-\u00a0Remote debugging with Xdebug<br/></b>&lt;a href=\"https://www.meetup.com/php-sw/members/14618145/\"&gt;</a><a href=\"http://www.meetup.com/php-sw/members/39370012\">Tom Adam</a>, Developer at <a href=\"http://www.instantiate.co.uk/\">Instantiate</a></p> <p>Are you using var_dump, echo and die for debugging PHP? Imagine how much easier your\u00a0life would be if you could follow the execution of your code, see and modify variablesas your app was running. I'll be talking about configuring, using and avoiding the pitfalls\u00a0of Xdebug for remote debugging.</p> <p>--</p> <p><a href=\"http://www.basekit.com/\">BaseKit</a> have kindly offered to host the evening at their office, and as always we'll sort out some ales, lagers, soft drinks and snacks. Don't forget to check them out - and if you're looking, they are hiring.</p> <p>As always, a big thanks to our meetup sponsors <a href=\"http://www.ents24.com/\">Ents24</a>, <a href=\"http://www.brightpearl.com/\">Brightpearl</a>, <a href=\"https://www.meanbee.com/\">Meanbee</a> &amp; <a href=\"http://deepbluesky.com/\">Deep Blue Sky</a> without whom we wouldn't be able to put on our meetups.\u00a0</p> <p>Afterwards we'll head to the pub, probably the\u00a0<a href=\"http://volunteertavern.co.uk/real-ales\">Volunteer Tavern</a>!</p> <p>--</p> <p>View on the PHPSW website</p> ",
     "end_time": 1489009500,
     "link": "https://www.meetup.com/php-sw/events/237881022/",
-    "location": {
-        "address": "5th Floor, One Castlepark, Tower Hill",
-        "city": "Bristol, BS2 0JA",
-        "country": "gb",
-        "latitude": 51.4552116394043,
-        "longitude": -2.5848910808563232,
-        "name": "BaseKit"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1488998700,
     "title": "Testing & Debugging"

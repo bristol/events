@@ -3,14 +3,7 @@
     "description": "<p>Event lead by OWASP Dorset.<br/>Talk: Secure Coding Tournament<br/>Event details at:<br/>[<a href=\"https://www.meetup.com/OWASP-Dorset-Chapter/events/284553310/](https://www.meetup.com/OWASP-Dorset-Chapter/events/284553310/\" class=\"linkified\">https://www.meetup.com/OWASP-Dorset-Chapter/events/284553310/](https://www.meetup.com/OWASP-Dorset-Chapter/events/284553310/</a>)</p> <p>Sign up to SecureCodeWarrior at:<br/>[<a href=\"https://discover.securecodewarrior.com/OWASPDorset-registration.html](https://discover.securecodewarrior.com/OWASPDorset-registration.html\" class=\"linkified\">https://discover.securecodewarrior.com/OWASPDorset-registration.html](https://discover.securecodewarrior.com/OWASPDorset-registration.html</a>)</p> ",
     "end_time": 1647546300,
     "link": "https://www.meetup.com/OWASP-Bristol/events/284612401/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "OWASP-Bristol",
     "start_time": 1647540900,
     "title": "Secure Coding Tournament"

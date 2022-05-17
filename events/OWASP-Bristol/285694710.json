@@ -3,14 +3,7 @@
     "description": "<p>No agenda, no slides, no recording, 100% unscripted.</p> <p>You know the rules..</p> ",
     "end_time": 1653422400,
     "link": "https://www.meetup.com/OWASP-Bristol/events/285694710/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "OWASP-Bristol",
     "start_time": 1653415200,
     "title": "OWASP Suffolk Fight Club - May 2022"

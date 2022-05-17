@@ -3,14 +3,7 @@
     "description": "<p>Server-less mobile apps with MBaaS - e.g parse.com, netmera, kii,\u00a0kinvey.</p> <p>Mobile backend as a service (MBaaS) is a newish thing that as an mobile app developer focus on the app and let someone else auto gen APIs, libraries,\u00a0handle scaling and maintenance.</p> <p>Too go to be true? let's find out.</p> <p>Agenda:</p> <p># Intro - Scott\u00a0Alexander-Bown</p> <p>#Overview/What is MBaaS? - James Frost</p> <p>#Kinvey -brief\u00a0overview and poke around kinvey dev console - Scott Alexander-Bown</p> <p>#Parse.com with some real life case studies -\u00a0Kieran Gutteridge</p> <p>We're looking for people to share\u00a0experiences\u00a0of these type of platforms.</p> ",
     "end_time": 1363905000,
     "link": "https://www.meetup.com/swmobile/events/102332232/",
-    "location": {
-        "address": "Carpenter House, Broad Quay",
-        "city": "Bath BA1 1UB",
-        "country": "gb",
-        "latitude": 51.37791061401367,
-        "longitude": -2.3608899116516113,
-        "name": "Bath Innovation Centre"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1363894200,
     "title": "Talk night #5: Server-less mobile apps (Bath)"

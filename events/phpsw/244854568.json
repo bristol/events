@@ -3,14 +3,7 @@
     "description": "<p><i>Twas a few weeks before Christmas, when all through Bristol<br/>Not a creature was stirring, not even an ElePHPant.</i></p> <p>In a PHPSW tradition, we're finishing up the year with a social, rather than a normal evening of talks.</p> <p>This year we'll be hosting it upstairs at the Famous Royal Navy Volunteer. We'll be providing a couple of drinks for everyone and a small buffet.</p> <p>As well as plenty of time for chatting and socialising, we'll be organising a few activities (possibly including the return of JeoPHPardy) and giving away plenty of prizes too.</p> <p>--</p> <p>As always, a big thanks to our meetup sponsors\u00a0<a href=\"http://www.ents24.com/\">Ents24</a>,\u00a0<a href=\"http://www.brightpearl.com/\">Brightpearl</a>,\u00a0<a href=\"https://www.meanbee.com/\">Meanbee</a>, <a href=\"http://deepbluesky.com/\">Deep Blue Sky</a>\u00a0&amp; <a href=\"https://equiniticybersecurity.com/careers/\">Equiniti</a> without whom we wouldn't be able to put on events the likes of which we have this year.\u00a0</p> <p>We'd also like to thank\u00a0<a href=\"https://twitter.com/phptraininguk\">@phptraininguk</a> who are kindly buying the first round of drinks, and <a href=\"https://laracon.net/\">Laracon Online</a> for providing us with two tickets to include as raffle prizes.</p> <p>\ud83c\udf84 \ud83c\udf89 \ud83c\udf7b\u00a0</p> ",
     "end_time": 1513202400,
     "link": "https://www.meetup.com/php-sw/events/244854568/",
-    "location": {
-        "address": "17-18 King St",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45168685913086,
-        "longitude": -2.5945589542388916,
-        "name": "The Famous Royal Navy Volunteer"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1513191600,
     "title": "End of Year Social 2017"

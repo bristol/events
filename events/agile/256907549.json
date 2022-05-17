@@ -3,14 +3,7 @@
     "description": "<p>Never mind the 12 days of Christmas, this December we present the 12 objects of Agility!</p> <p>This talk is an interactive guided journey through the history of Agility far beyond the \u2018Agile Manifesto\u2019. Our goal is to discover lessons from past times that can help us meet our volatile future.</p> <p>For the business in which we work, we\u2019ll discuss objects from the ancient Greeks, the CIA and others that might offer more insight into an \u2018Agile\u2019 way forward than simply trying to reverse-engineer software practices for wider application.</p> <p>For ourselves, we\u2019ll discuss the human need for Agility, some personal challenges in achieving it, and the beauty of helping others have it.</p> <p>And because it\u2019s our own time, we\u2019ll have some fun along the way - please come prepared for interaction and collaboration :-)</p> <p>About our speaker:<br/>Mike Robinson is an independent agile consultant, who\u2019s been helping people, managers and teams in many industries, since first learning of \u201cAgile\" in 1994.</p> <p>Huge thanks to Matthew Dodwell and BJSS for helping to make the event happen.</p> ",
     "end_time": 1544562000,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/256907549/",
-    "location": {
-        "address": "90 Victoria Street",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45136260986328,
-        "longitude": -2.586549997329712,
-        "name": "BJSS"
-    },
+    "location": null,
     "org": "agile",
     "start_time": 1544554800,
     "title": "A History of Agility in 12 Objects with Michael Robinson"

@@ -3,14 +3,7 @@
     "description": "<p>Save the date for our next online meeting! This month we are happy to welcome Kevlin Henney, for a delve into how numbers and numeric quantities can sometimes be misused when not put into context or understood deeply.</p> <p>Agile by Numbers</p> <p>When asked to quantify work or improvements in work, perhaps one of the biggest problems is that people will do just that: quantify. They will measure what they can, which is often what is easiest to measure, rather than what they should, which can be both subtle and hard. By anchoring on particular metrics, such as team velocity and test coverage, they run the risk not only of measuring and rewarding the wrong thing, but missing the right thing and the bigger picture. There are many pitfalls and category errors to fall into, ranging from questionable testing practices through to bad physics.</p> <p>If you thought that you could report team velocity as a single figure, that test coverage could be reported as a percentage, that technical debt could be expressed as a currency value or that prioritising requirements by business value was actually possible, this talk is for you.</p> <p>About our speaker:</p> <p>Kevlin Henney is an independent consultant, speaker, writer and trainer. His development interests include programming languages, software architecture and programming practices, with a particular emphasis on unit testing and reasoning about practices at the team level. Kevlin loves to help and inspire others, share ideas and raise questions. He has helped many teams with their code, culture and practices. He has been a columnist for a number of magazines and sites, an author of books on design patterns and editor of two books in O'Reilly's 97 Things series, including the recently published 97 Things Every Java Programmer Should Know, which he edited with Trisha Gee. He lives in Bristol and online.</p> <p>Please feel free to join us on our Slack channel: <a href=\"https://app.slack.com/client/T013BLU7CPM/C013Q3KPMT3\" class=\"linkified\">https://app.slack.com/client/T013BLU7CPM/C013Q3KPMT3</a></p> ",
     "end_time": 1592938800,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/271141443/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "agile",
     "start_time": 1592933400,
     "title": "Agile by Numbers with Kevlin Henney"

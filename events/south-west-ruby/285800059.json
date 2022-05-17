@@ -3,14 +3,7 @@
     "description": "<p>Join us at **Newtown Park Brewing Co** in Bristol this month for an in-person South West Ruby meetup featuring great beer \ud83c\udf7a (sponsored by Cookpad) and a talk by **Newtown Park Brewing Co** co-founder Michael McKelvaney.</p> <p>There's time for another speaker. If you're interested in giving a talk about anything Ruby-related, please leave a comment below or message Ollie (<a href=\"https://www.meetup.com/members/208474359\" class=\"linkified\">https://www.meetup.com/members/208474359</a>).</p> <p>Schedule</p> <p>18:00 - Arrive, grab a drink, have a chat<br/>19:00 - \"Even Fuller Stack Ruby\" by Michael McKelvaney<br/>19:30 - More mingling</p> <p>Slack</p> <p>If you like to join us on Slack please join <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> ",
     "end_time": 1652904000,
     "link": "https://www.meetup.com/south-west-ruby/events/285800059/",
-    "location": {
-        "address": "Saint Philips Road",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.456443786621094,
-        "longitude": -2.5711450576782227,
-        "name": "Newtown Park Brewing Co"
-    },
+    "location": null,
     "org": "south-west-ruby",
     "start_time": 1652893200,
     "title": "South West Ruby #37 In Person"

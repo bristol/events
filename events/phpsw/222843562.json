@@ -3,14 +3,7 @@
     "description": "<p>In July we're hosting a night of talks about eCommerce!</p> <p>- <b>Building and selling modules for Magento eCommerce</b><br/>\u00a0\u00a0<a href=\"http://www.meetup.com/php-sw/members/13538427\">Christos Constantinou</a>, Full stack JavaScript developer</p> <p>Christos builds and sells commercial modules for Magento eCommerce. His implementation of the Stripe payment gateway for Magento is currently the most popular Stripe implementation in the Magento marketplace. In his talk, he will be sharing some insights about the Magento marketplace and his experience with developing and selling modules for Magento.</p> <p>- <b>Moltin</b><br/>\u00a0\u00a0<a href=\"http://www.meetup.com/php-sw/members/6076812\">Drew McLellan</a>, Lead developer on Perch CMS and publisher of <a href=\"http://24ways.org\">24 ways</a></p> <p>Moltin is an ecommerce API for building online stores without needing to implement carts, inventory management and payment gateway integrations yourself. In this talk, find out how to use the Moltin PHP SDK on your next ecommerce project, where its strengths and weaknesses lie, and why you might consider building on top of an API rather than building something custom.</p> <p>--</p> <p><a href=\"https://www.brightpearl.com\">Brightpearl</a> have kindly offered to host the evening at their office, and provide drinks and pizza. Don't forget to check them out- and if you're looking, <a href=\"https://www.brightpearl.com/company/careers\">they are hiring</a>.</p> <p>Afterwards we'll head to the beer garden at <a href=\"http://volunteertavern.co.uk/real-ales/\">The Volunteer Tavern</a>!</p> <p>--</p> <p><a href=\"http://phpsw.uk/events/222843562-ecommerce\">View on the PHPSW website</a></p> ",
     "end_time": 1436389200,
     "link": "https://www.meetup.com/php-sw/events/222843562/",
-    "location": {
-        "address": "New Bond House, Bond Street, Bristol BS2 9AG",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.460060119628906,
-        "longitude": -2.584520101547241,
-        "name": "Brightpearl"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1436378400,
     "title": "eCommerce"

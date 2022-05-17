@@ -3,14 +3,7 @@
     "description": "<p>About Talk:<br/>What would happen if we took immutability seriously?</p> <p>Immutability -- the self-imposed architectural constraint that data cannot be modified or deleted -- solves many of the technical problems of distributed systems. It prevents duplication; if you receive the same immutable message twice, you can see that you've already stored it. And it solves synchronization; two copies of the same immutable record are always exactly the same.</p> <p>Moreover, immutability solves many business problems as well. Immutable documents capture the intent of each collaborating party. They preserve the history of that collaboration. And they enable future business processes that we cannot immediately predict.</p> <p>Some architectural patterns give a nod to immutability: model-view-update, and reactive programming for example. But what if we really took it seriously? What would an immutable architecture really look like?</p> <p>I'll show you what it looks like. Whether you are building an immutable architecture for Web, mobile, or distributed systems, the modeling tools and patterns are the same. Learn how to implement immutability in a SQL database. See how immutability affects an API. And extend immutability across service boundaries via messages.</p> <p>Together we will build an immutable architecture in .NET, persist data in SQL Server, and deploy it across distributed services. The example is open source, and based on real-world systems. They have benefited from immutability to solve technical and business problems. Come see how you can do the same for your clients.</p> <p>About Speaker:<br/>Software is math. Every class is a theorem. The compiler is the proof. And unit tests check our work.</p> <p>Michael wrote The Art of Immutable Architecture, a book on applying mathematics to building distributed systems. Learn more at <a href=\"https://immutablearchitecture.com\" class=\"linkified\">https://immutablearchitecture.com</a>.</p> <p>Michael has recorded Pluralsight courses on Distributed Systems, XAML Patterns, and Cryptography, in addition to Provable Code. Formerly a Microsoft MVP for seven years, he maintains the spoon-bending Assisticant and Jinaga open-source libraries. You can find his videos about distributed systems at historicalmodeling.com. And he helps his clients at Improving benefit from the power of software mathematics.</p> <p>Twitter: @michaellperry</p> ",
     "end_time": 1615926600,
     "link": "https://www.meetup.com/dotnetsouthwest/events/275868219/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1615921200,
     "title": "Virtual - Exploring an Immutable Architecture with Michael L Perry"

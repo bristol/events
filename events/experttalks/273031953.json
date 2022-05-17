@@ -3,14 +3,7 @@
     "description": "<p>Practical tips and heroic war stories on how to secure a large, modern, fast software delivery platform.</p> <p>From building a team to building cool stuff, dealing with organisational setups to dealing with security incidents.</p> <p>Zero Buzzwords Guaranteed.</p> <p>**<br/>After the talk there will be an interactive virtual Fishbowl for you to ask questions and discuss with Chris and the panelists<br/>**</p> <p>SPEAKER:<br/>Chris Rutter.<br/>Security Engineer</p> <p>Chris has spent the last few years obsessed with making security, engineering and the business work together.</p> <p>Starting his career as an engineer, he uses a deep understanding of Agile, Devops, and product delivery to solve security problems in a way that enables teams, rather than hitting them with bricks.</p> <p>**<br/>The link to the recording of this Talk will be posted in the Comments shortly after the Talk takes place.</p> ",
     "end_time": 1601488800,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/273031953/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "experttalks",
     "start_time": 1601485200,
     "title": "Platform Security IRL: Busting Buzzwords and Building Better"

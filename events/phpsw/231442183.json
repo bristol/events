@@ -3,14 +3,7 @@
     "description": "<p>In June we're hosting a night of Tips and Tricks with lightening talks from many speakers, including....\u00a0</p> <p>- <b>Tips on PHP tools, Windows and Git</b><br/><a href=\"http://www.meetup.com/php-sw/members/47315872/\">Doug Fitzmaurice</a>, Developer at\u00a0<a href=\"https://www.ents24.com/\">ENTS 24</a></p> <p>Tips and tricks for tools: Amiss, King, XDebug, ConEmu, Kitty and lots of Git related goodies \u00a0(Power Prompt, rebase -i, share alias and many more).</p> <p>- <b>Zend Apigility<br/></b><a href=\"http://www.meetup.com/php-sw/members/143806542/\">Jan Franciszek Kowalski</a>, Backend PHP Web Developer</p> <p>Zend Apigility it the world's easiest way to create high quality APIs. Find out how in this Lightening talk.\u00a0</p> <p>-\u00a0<b>PHPStorm\u00a0</b><br/><a href=\"http://www.meetup.com/php-sw/members/24583172/\">Nathan McBride</a>, Certified Magento Developer at <a href=\"https://www.meanbee.com/\">Meanbee</a></p> <p>Tips on what you can do with PHPStorm</p> <p>-\u00a0<b>Vim with all the things</b>\u00a0<br/><a href=\"http://www.meetup.com/php-sw/members/59457302/\">Luke Sturgess-Durden</a>, Operations and Development Lead at <a href=\"http://deepbluesky.com/\">Deep Blue Sky</a></p> <p>Pick up some Vim tips from Luke</p> <p>-\u00a0<b>Amazon SQS</b><br/><a href=\"http://www.meetup.com/php-sw/members/31894252/\">Lee Stone</a>, Web Team Lead at <a href=\"https://www.gradwell.com/\">Gradwell</a></p> <p>Get an introduction as to why you should consider Amazon SQS as a queuing solution.</p> <p>-\u00a0<b>CI tips </b><br/><a href=\"http://www.meetup.com/php-sw/members/96221542/\">Tom Adam</a>, \u00a0Developer at <a href=\"http://www.instantiate.co.uk/\">Instantiate</a></p> <p>A brief dip into CI tools.</p> <p>-\u00a0<b>Tmux</b><br/><a href=\"https://twitter.com/dantleech\">Daniel Leech</a>,\u00a0Open source PHP developer involved in the Symfony CMF and is the developer of\u00a0<a href=\"https://github.com/phpbench/phpbench\">PHPBench</a></p> <p>An intro to Tmux.</p> <p>--</p> <p><a href=\"http://www.basekit.com/\">BaseKit</a>\u00a0have kindly offered to host the evening at their office, and as always we'll sort out some ales, lagers, soft drinks and snacks. Don't forget to check them out - and if you're looking, they are hiring.</p> <p>Afterwards we'll head to the pub, probably the\u00a0<a href=\"http://volunteertavern.co.uk/real-ales\">Volunteer Tavern</a>!</p> <p>--</p> <p><a href=\"http://phpsw.uk/events/230654971-upgrades\">View on the PHPSW website</a></p> ",
     "end_time": 1465417800,
     "link": "https://www.meetup.com/php-sw/events/231442183/",
-    "location": {
-        "address": "5th Floor, One Castlepark, Tower Hill",
-        "city": "Bristol, BS2 0JA",
-        "country": "gb",
-        "latitude": 51.4552116394043,
-        "longitude": -2.5848910808563232,
-        "name": "BaseKit"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1465407000,
     "title": "Tips and Tricks"

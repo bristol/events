@@ -3,14 +3,7 @@
     "description": "<p>Join us at Cookpad HQ in Bristol, this month for more great talks. Expect another Ruby packed evening with great conversations, beers and bites to eat.</p> <p>Schedule</p> <p>18:30 - 19:00 - Arrive, grab a drink, some delicious locally supplied food and have a chat with fellow attendees.</p> <p>19:00-20:00 Talks</p> <p>Cintamani Puddu - \"Keep it small, do it right\"</p> <p>Iterative and incremental development in practice. The do and don'ts</p> <p>Slack</p> <p>If you like to join us on Slack please join <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> ",
     "end_time": 1547586000,
     "link": "https://www.meetup.com/south-west-ruby/events/257658266/",
-    "location": {
-        "address": "3 Broad Plain, BS2 0JP",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45417404174805,
-        "longitude": -2.582395076751709,
-        "name": "Cookpad"
-    },
+    "location": null,
     "org": "south-west-ruby",
     "start_time": 1547578800,
     "title": "South West Ruby #13 : Happy Birthday SWR!"

@@ -3,14 +3,7 @@
     "description": "<p>How do you take your knowledge of F# from \u201cHello world\u201d to an F# web application running in the cloud? This workshop shows you how! We\u2019ll start with building a web service using Saturn, a functional web framework which lets you write idiomatic F# web services running on top of ASP.NET Core. After that we\u2019ll go onto build a web application running in the web browser, written in F# and compiled over to JavaScript with the Fable compiler. We\u2019ll also then deploy it up into the cloud with Azure.</p> <p>This workshop will expose you to all elements of the SAFE stack and the F# development ecosystem, allowing you to build full stack cloud ready web applications entirely in F#. You\u2019ll get to see:<br/>Web services with Saturn<br/>Deployment to the cloud with Azure<br/>F# in the browser with Fable<br/>Functional UI design with the Elmish architecture</p> <p>If you want to attend this workshop you\u2019ll need a few things:<br/>A laptop running macOS, Linux or Windows<br/>An F# editor such as VS Code with Ionide, Rider or VS2017<br/>A .NET core installation<br/>Node.js<br/>Yarn<br/>If you\u2019re on macOS or Linux, you\u2019ll also need Mono installed to run some of the tooling</p> ",
     "end_time": 1534964400,
     "link": "https://www.meetup.com/FSharpBristol/events/252393795/",
-    "location": {
-        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "JUST EAT"
-    },
+    "location": null,
     "org": "FSharpBristol",
     "start_time": 1534957200,
     "title": "SAFE Stack Workshop - Anthony Brown"

@@ -3,14 +3,7 @@
     "description": "<p>Join us at Cookpad HQ in Bristol this month for a great talk and **an exciting Ruby Quiz**. Expect another Ruby packed evening with plenty of conversation, beers and bites to eat.</p> <p>Schedule</p> <p>18:30 - 19:00 - Arrive, grab a drink, some delicious locally supplied food and have a chat with fellow attendees</p> <p>19:00 - \"Rewriting your code at scale with synvert\u201d by @NoNeeeed</p> <p>19:45 - Ruby Quiz with mystery prizes</p> <p>Slack</p> <p>If you like to join us on Slack please join <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> <p>Notices</p> <p>Please let us know in the comments of the event if you have any specific food allergies, dietary or access requirements so we can be sure to best accommodate everyone!</p> ",
     "end_time": 1568750400,
     "link": "https://www.meetup.com/south-west-ruby/events/264516504/",
-    "location": {
-        "address": "3 Broad Plain, BS2 0JP",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45417404174805,
-        "longitude": -2.582395076751709,
-        "name": "Cookpad"
-    },
+    "location": null,
     "org": "south-west-ruby",
     "start_time": 1568743200,
     "title": "South West Ruby #20"

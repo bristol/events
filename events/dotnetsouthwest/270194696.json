@@ -3,14 +3,7 @@
     "description": "<p>*** We will be running the event over Zoom, we encourage attendees to have their cameras on, but it is not compulsory. ***</p> <p>Abstract</p> <p>What started as a prototype in 2017 has become one of the hottest technologies in the .NET ecosystem. Blazor is Microsoft\u2019s new front-end framework for building single page applications using C#, not JavaScript. That\u2019s right, C# running in your browser. No plugins, transpilation or voodoo magic involved - just web standards.</p> <p>In this talk, you'll learn all about this game changing platform and how it brings choice back into front-end development.</p> <p>Starting from the beginning, you'll explore Blazor's flexible architecture and it's different rendering modes. You'll learn how C# code is able to run in the browser via a technology called WebAssembly. You'll also cover Blazor's component model, syntax, project types and more.</p> <p>By the end, you'll have a solid understanding of what Blazor is and how it could be the last framework you'll ever need!</p> ",
     "end_time": 1588019400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/270194696/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1588012200,
     "title": "Virtual Meetup - What is Blazor? And why\u2019s it so exciting? by Chris Sainty"

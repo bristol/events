@@ -3,14 +3,7 @@
     "description": "<p>Join us for a Scrum Master Retrospective.</p> <p>Join Andy Hiles from Agile Rocks and Steve Trapps from The Agile Trainer for an evening of collaborative conversations.</p> <p>The purpose of the Scrum Master Retrospective is to create a safe space in which attendees can raise &amp; discuss issues with their Scrum implementations, with the group helping to share their experiences.</p> <p>The format is free flowing structured conversations, using Liberating Structures, rather than a central presenter suggesting how to solve issues.</p> <p>All you need to bring is yourself, an open mind, be willing to live &amp; support the Scrum Values (Courage, Openness, Commitment, Respect and Focus) whilst in the group.</p> ",
     "end_time": 1590521400,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/270502040/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "agile",
     "start_time": 1590514200,
     "title": "Bristol & Bath Scrum Master Retrospective"

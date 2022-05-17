@@ -3,14 +3,7 @@
     "description": "<p>After the storming success of the first talk night (thanks again for everybody who attended), we are proud to announce our second talk night, with two confirmed speakers and a prize draw to win a BlackBerry PlayBook!</p> <p>First up is Jan Warnstam, CTO of <b>Kudan</b>, who specialise in Augmented Reality and related digital services and solutions. Jan will be talking about how Kudan develop mobile AR products and will then present a selection of seriously impressive tech demos and real-world use cases. Following this will be a short Q&amp;A where Jan will answer questions on AR best practice and mobile implementation.</p> <p>After a short break, Simon Howard, BlackBerry developer evangelist at RIM will talk about the new <b>BlackBerry 10</b> platform.\u00a0Simon will\u00a0give a brief overview of the architecture of BlackBerry's latest Operating System, the SDKs and the development tools. He will continue by walking through native code samples running on a BlackBerry 10 developer device and discuss porting strategies with a particular emphasis on how you can port an iPhone app to BlackBerry 10.</p> <p>At the end of the evening, Simon will be giving away a <b>BlackBerry PlayBook</b> to one lucky attendee, providing the winner with an ideal way to prepare for Blackberry 10 development!</p> <p>Looking forward to seeing you all there at the Stag and Hounds. We will be upstairs from 6.45pm with the first talk starting at 7pm. They serve great food and have a good selection of beers on tap in the bar downstairs. For those of you that need parking, the closest car park is at Cabot Circus, about a 5 minute walk away. See you then!</p> ",
     "end_time": 1348174800,
     "link": "https://www.meetup.com/swmobile/events/74818832/",
-    "location": {
-        "address": "74 Old Market Street, St Philips, BS2 0EJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.455604553222656,
-        "longitude": -2.5829410552978516,
-        "name": "Stag and Hounds"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1348164000,
     "title": "Talk night #2"

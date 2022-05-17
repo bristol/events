@@ -3,14 +3,7 @@
     "description": "<p>Over the last couple of years, Joel has presented 20 tricks and tips that he's found invaluable as a Tech Lead. But in this session, Joel wants to turn things around and look at applying some of those to solving specific issues that are common within many software development teams.</p> <p>Joel will be taking lessons learned from the last 2 years of a major development project and using them to illustrate his points.</p> <p>He'll look at managing your BAs and PMs and how to balance their need to understand exactly how long everything takes versus your team's need to not be over-pressured by artificial deadlines.</p> <p>We'll see how a structured approach to analysing problems encountered in LIVE can make everyone's life easier, and how to prove whether the problem is (or is not) the fault of your software. And how to handle that inevitable case where it is.</p> <p>And we'll look at the problems of implementing uniformity across multiple code-bases and multiple teams delivering multiple releases of multiple features... and where getting your tooling right can give the biggest benefits.</p> <p>Amongst other things...</p> <p>About Joel Hammond-Turner</p> <p>Joel has a very broad experience of software development over 15 years and a passion for both technology and elegance in his solutions that make him an extremely capable software architect.</p> <p>Personable and professional, he revel in complex challenges, but always make time to coach and mentor team members.</p> ",
     "end_time": 1553027400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/259666974/",
-    "location": {
-        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "JUSTEAT Technology"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1553020200,
     "title": "You're the Tech Lead - *you* fix it!"

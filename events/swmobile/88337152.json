@@ -3,14 +3,7 @@
     "description": "<p>Our third talk night, focussing this time on the recent new iOS6 and Android releases, and a very interesting discussion on hacking into smartphones.</p> <p>First up, Scott Alexander-Bown and James Frost will be presenting the latest features of Google and Apple's mobile operating systems, and how this affects the design and development of both native and web applications.</p> <p>After a brief round of Q&amp;A we will move onto our main talk from Seyton Bradford. Seyton is from the mobile security firm Via Forensics, and he will be using a tool called Santoku to:</p> <p>- Demonstrate how to by-pass the built-in iOS protection schemes on the iPhone, and showing what data ends up being left unprotected<br/>- Crack the Android encryption.<br/>- Decrypt the iPhone encryption and pulling out application data, SQLlite database fields and more<br/>- How these security holes can be mitigated during development<br/>- Show a sneak preview of AndroidAgent and iOSAgent in Santuko Lab/Pro.</p> <p>Sayton gave a talk a couple of weeks back on these concepts and the results are pretty incredible. Even if security isn't your thing, as a smartphone user it's worth checking out how easily it is to break in to your device!</p> <p>First talk will begin at 7pm. Hope to see you all there!</p> ",
     "end_time": 1354224600,
     "link": "https://www.meetup.com/swmobile/events/88337152/",
-    "location": {
-        "address": "74 Old Market Street, St Philips, BS2 0EJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.455604553222656,
-        "longitude": -2.5829410552978516,
-        "name": "Stag and Hounds"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1354213800,
     "title": "Talk night #3"

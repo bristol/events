@@ -3,14 +3,7 @@
     "description": "<p>Kubernetes Operators are the next phase of the journey towards automating complex applications in containers.</p> <p>The Kudo project introduces an easy way to build Kubernetes operators using declarative YAML. Many Operators that exist today handle initial deployment, but they don\u2019t provide automation for tasks like binary upgrades, configuration updates, and failure recovery.</p> <p>Implementing a production-grade controller for a complex workload typically requires thousands of lines of code and many months of development. As a result, the quality of operators that are available today varies. The Kudo project provides a universal operator to enable automated creation of operators for Kubernetes, in most cases just using YAML.</p> <p>In this talk, Matt Will introduce the Kudo project, and demo the creation of a Kubernetes operator using Kudo.</p> <p>Matt Jarvis is Senior Director of Community and Evangelism at D2iQ. Matt has spent more than 15 years building products and services around open source software, on everything from embedded devices to large scale distributed systems. Most recently he has been focused on the open cloud infrastructure space, and in emerging patterns for cloud native applications. Matt is a regular speaker at conferences and meetups across the world, including MesosCon, Open Infrastructure Summit and All Things Open.</p> ",
     "end_time": 1588160700,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/270082434/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "Cloud-Native-DevOps",
     "start_time": 1588158000,
     "title": "The Kudo Project"

@@ -3,14 +3,7 @@
     "description": "<p>Join us for an evening of talks at BaseKit.</p> <p>-\u00a0<b>Composer + you, the good, the bad, and the horribly ugly\u00a0<br/></b> \u00a0 \u00a0<a href=\"http://www.meetup.com/php-sw/members/39370012\">Dan Ackroyd</a></p> <p>-\u00a0<b>gigHUB, the journey so far<br/>\u00a0 (Laravel, Varnish, Pound &amp; big data)<br/></b> \u00a0 \u00a0<a href=\"http://www.meetup.com/php-sw/members/48502732\">Adam Nicholls</a>,\u00a0<a href=\"http://goramandvincent.com/\">Goram &amp; Vincent</a></p> <p>- <b>Introduction to PHP-FPM<br/></b> \u00a0 \u00a0<a href=\"http://www.meetup.com/php-sw/members/96221542\">Tom Adam</a>, <a href=\"http://www.instantiate.co.uk\">Instantiate</a></p> <p>Doors will be open from 6:45, talks will start around 7.</p> <p>BaseKit have kindly sponsored the event again, providing their office as the venue, as well as beer and pizza!\u00a0Don't forget to check them out- and if you're looking, they are hiring.</p> <p>Afterwards we'll probably go to the pub, Horts tends to be the theme.</p> <p>--</p> <p>If there's anything in particular you want to hear about at PHPSW, make sure to add it to our Tricider <a href=\"http://tricider.com/brainstorming/1QCB5\" class=\"linkified\">http://tricider.com/brainstorming/1QCB5</a></p> <p>If you want to speak at PHPSW, drop Steve a line at <a href=\"mailto:[masked]\">[masked]</a></p> ",
     "end_time": 1394661600,
     "link": "https://www.meetup.com/php-sw/events/168633542/",
-    "location": {
-        "address": "4th Floor, The Pithay, BS1 2ND ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45576858520508,
-        "longitude": -2.592099905014038,
-        "name": "BaseKit Office (Bristol)"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1394650800,
     "title": "Composer, FPM & gigHUB Night"

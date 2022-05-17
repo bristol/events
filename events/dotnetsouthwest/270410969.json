@@ -3,14 +3,7 @@
     "description": "<p>PLEASE REGISTER HERE:<br/><a href=\"https://register.gotowebinar.com/register/2340726521577381389\" class=\"linkified\">https://register.gotowebinar.com/register/2340726521577381389</a></p> <p>Our good friends and long time sponsor iO Associates are exciting to bring you their next instalment in the iO .NET Virtual Meetups, and for the first time online, they will be hosting a series of lightning talks.</p> <p>Taking place on Wednesday 6th May at 7pm, this series of talks will be hosted by iO Associates\u2019 Michael Collins and Stella Webster. As well as an additional speaker we will be announcing we have;</p> <p>\u200b<br/>Robin Minto, Head of Technical Architecture at ByBox (a supply chain technology company in the UK) will be kicking us off with \u2018OWASP ZAP HUD WTF?\u2019</p> <p>In this talk, you'll see how the features of ZAP can be used to find issues during development, as you navigate your web application so that you can deploy a better-tested app. OWASP Zed Attack Proxy can help you automatically find security vulnerabilities in your web applications while you are developing and testing, and now it has a Head Up Display!</p> <p>Stuart Lang will be following up with his lightning talk on \u2018C# 8 -Async Streams &amp; Channels\u2019. We'll take a look at what's new in .NET for asynchronous processing, with hands on examples.</p> <p>Finally we will host a panel Q&amp;A with our 3 speakers and open the floor to you for questions.</p> <p>\u200b</p> <p>Agenda</p> <p>7:00 pm: Introduction by iO Associates and speakers</p> <p>7:10 pm: Robin Minto on \u2018OWASP ZAP HUD WTF?\u2019</p> <p>7:25 pm: Stuart Lang on \u2018C# 8 -Async Streams &amp; Channels\u2019</p> <p>7:40 pm \u2013 Final speaker</p> <p>7:55 pm \u2013 Panel Q&amp;A \u2013 questions from the floor</p> <p>8:15 pm \u2013 Concluding comments and end</p> <p>\u200b</p> <p>This new platform will allow us to reach more of our community, interact directly with you and get the most in-demand speakers on your choice of topics so please let us know any suggestions.</p> <p>iO hope you can join and please get in touch at [masked] with any questions or suggestions on future virtual meetups.</p> <p>\u200b<br/>About iO Associates</p> <p>Specialising in recruitment across the Tech and Digital market, iO Associates have extensive experience in recruiting the highest calibre of talent to create the products and infrastructure of the future. Get in touch to find out more on what we do and how we can help you.</p> <p>www.ioassociates.co.uk</p> ",
     "end_time": 1588791600,
     "link": "https://www.meetup.com/dotnetsouthwest/events/270410969/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1588788000,
     "title": "(Affiliated) iO .NET Virtual Meetup - Lightning Talks"

@@ -3,14 +3,7 @@
     "description": "<p>As summer is finally arriving, let's meet at our regular post-meeting haunt to set the coding world To rights.\u00a0This is a social meeting of software professionals, with interesting conversation ranging across many software and non software topics.\u00a0</p> <p>Come along to catch up with members of the group.\u00a0There is no planned talk or agenda, but please sign up so that I can gauge the numbers attending.</p> <p>See you there!</p> ",
     "end_time": 1469044800,
     "link": "https://www.meetup.com/ACCU-Bristol/events/230093768/",
-    "location": {
-        "address": "142 Temple St, BS1 6EN",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 0,
-        "longitude": 0,
-        "name": "The Cornubia"
-    },
+    "location": null,
     "org": "accu",
     "start_time": 1469037600,
     "title": "Summer social"

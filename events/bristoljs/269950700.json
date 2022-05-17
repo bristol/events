@@ -3,14 +3,7 @@
     "description": "<p>Hey folks...</p> <p>We decided it would be nice to get everyone together for an end of (early week) online social, we'll setup some breakout rooms so come and join us with a \ud83c\udf7a\ud83c\udf77\u2615\ufe0f\ud83c\udf79 \ud83e\uddc9</p> <p>Link on the event page and Bristol JS Slack.</p> ",
     "end_time": 1586457000,
     "link": "https://www.meetup.com/BristolJS/events/269950700/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "bristoljs",
     "start_time": 1586449800,
     "title": "A COVID-19 Special - Social Chat"

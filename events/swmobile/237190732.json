@@ -3,14 +3,7 @@
     "description": "<p>Welcome to March's SWmobile meetup! hosted at Desklodge's Oak tree room. There's new air conditioning so expect things to be fresher and cooler that last time.\u00a0</p> <p>As usual please only RSVP if you are certain you can make it and update accordingly. Thanks</p> <p>Thanks to our group sponsors for providing funds for the venue hire and for us to cater this event and cover the 1st round at the pub afterwards. \u00a0</p> <p><b>Talk 1: Pillarisation: modular architecture using pillars at Hotels.com\u00a0</b></p> <p>Richard Rauser, freelance iOS Developer @ Just Eat</p> <p>Maciej Matyjas, Director, Technology @ Hotels.com</p> <p>Wojciech Rutkowski, iOS Engineer @ Hotels.com</p> <p>Structuring your iOS app as a set of independently runnable and testable app \"pillars\" can produce serious benefits, like increased modularity, clearer separation of concerns, and the ability to effectively organise teams around product areas. Come learn how Hotels.com made this happen with Richard Rauser (iOS Developer @ Just Eat via 101 Ways), Maciej Matyjas (Directory of Technology @ Hotels.com), Wojciech Rutkowski (iOS engineer @ Hotels.com).</p> <p>[Break]</p> <p><b>Talk 2 (lighting): \u00a0</b><b>SwiftLint is out! Let's implement some of Ray Wenderlich's coding standards (for Swift)!</b></p> <p>By Daniele Pietrobelli<br/>In essence I will show a tutorial implementing and using some of the coding standards defined by Ray Wenderlich for Swift and show how you can create a file with these and integrate it in your project.</p> <p><b>Talk 3 (Lighting) : Building Android in Docker</b></p> <p>By Dave Bradon and Dave Jones</p> <p><b>\u00a04 (Lighting): TBC</b></p> <p><b><br/></b></p> <p><b>Timetable</b>:\u00a0</p> <p>\u2022\u00a018:00-18:15 - organisers/volunteers arrive</p> <p>\u2022\u00a018:30 doors open / pizza arrive</p> <p>\u2022\u00a019:00 Intro by SWmobile organiser (thank sponsors, venue admin i.e toilets, fire exits)</p> <p>\u2022\u00a019:05 talk one</p> <p>\u2022 19:[masked]min comfort break</p> <p>\u2022\u00a019:50 Talk two</p> <p>\u2022\u00a020:30 finish up and head to the pub</p> <p>\u2022\u00a020:45 Volunteers leave after helping tidy up</p> ",
     "end_time": 1490131800,
     "link": "https://www.meetup.com/swmobile/events/237190732/",
-    "location": {
-        "address": "4th Floor, 1 Temple Way, Bristol",
-        "city": "BS2 0BY",
-        "country": "gb",
-        "latitude": 51.454734802246094,
-        "longitude": -2.582711935043335,
-        "name": "DeskLodge 4th Floor, Oaktree"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1490121000,
     "title": "SWmobile: March meetup"

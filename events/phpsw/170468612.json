@@ -3,14 +3,7 @@
     "description": "<p>Talks on databases!</p> <p>- <b>From SQL to noSQL</b><br/>\u00a0 \u00a0<a href=\"https://twitter.com/derickr\">Derick Rethans</a>, PHP Engineer/Evangelist on <a href=\"http://www.mongodb.org\">MongoDB</a>, internals expert &amp; author of <a href=\"http://xdebug.org\">Xdebug</a></p> <p>- <b>One does not simply query a database</b><br/>\u00a0 \u00a0<a href=\"http://www.meetup.com/php-sw/members/67450042\">Kat Zien</a>, Software Developer at <a href=\"http://www.brightpearl.com\">Brightpearl</a></p> <p>- <b>An introduction to graph databases</b><br/>\u00a0 \u00a0<a href=\"http://www.meetup.com/php-sw/members/132866502\">Kiel Doyle</a>, newly Bristol-based freelancer</p> <p>BaseKit have kindly sponsored the event again, providing their office as the venue, as well as beer and pizza! Don't forget to check them out- and if you're looking, they are hiring.</p> <p>Afterwards we'll probably go to the pub, The Apple if it's warm!</p> ",
     "end_time": 1400099400,
     "link": "https://www.meetup.com/php-sw/events/170468612/",
-    "location": {
-        "address": "4th Floor, The Pithay, BS1 2ND ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45576858520508,
-        "longitude": -2.592099905014038,
-        "name": "BaseKit Office (Bristol)"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1400090400,
     "title": "Database Night"

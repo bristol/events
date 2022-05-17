@@ -3,14 +3,7 @@
     "description": "<p>We're very pleased to have Simon Whiteley (@MrSiWhiteley) of Advancing Analytics Ltd presenting a talk on Azure Databricks:</p> <p>AGENDA<br/>----------<br/>18.15 \u2013 18:30 Meet &amp; Greet<br/>----------</p> <p>18:30 - 19:30<br/>TALK #1 - Simon Whiteley \"Azure Databricks\" (Level 2)<br/>----------<br/>Azure Databricks brings a PaaS offering of Apache Spark, which allows for blazing fast data processing, interactive querying and hosting of ML models all in one place! Most of the buzz is around Data Science &amp; AI - what about the humble data engineer who wants to harness the in-memory processing power within their ETL pipelines?</p> <p>This session focuses on Azure Databricks as your data ingestion, transformation and curation tool of choice.</p> <p>We will:<br/>Introduce the Databricks service &amp; language options available<br/>Discuss the hosting &amp; compute options available<br/>Demonstrate a sample data processing task<br/>Compare against alternative approaches using SSIS, U-SQL and HDInsight<br/>Demonstrate pipeline management &amp; orchestration<br/>Review the wider architectures and extension patterns</p> <p>The session is aimed at Data Engineers seeking to put the Azure Databricks technology in the right context and learn how to use the service.</p> <p>-- Bio -- Director of Engineering for Advancing Analytics Ltd and Microsoft Data Platform MVP. Simon is a seasoned solution architect &amp; technical lead with well over a decade of Microsoft Analytics experience. A deep techie with a focus on emerging cloud technologies and applying \"big data\" thinking to traditional analytics problems, Simon also has a passion for bringing it back to the high level and making sense of the bigger picture. When not tinkering with tech, Simon is a death-dodging London cyclist, a sampler of craft beers, an avid chef and a generally nerdy person.</p> <p>19:30 - 20:30<br/>NETWORKING<br/>----------<br/>Refreshments and Pizza provided :-)</p> <p>SPONSORS<br/>----------<br/>We would like to thank our generous sponsors for supporting us:</p> <p>Ovo Energy (www.ovoenergy.com) - Venue/Refreshments/Pizza</p> <p>WHEN AND WHERE<br/>----------<br/>The venue is: Ovo Energy, 1 Rivergate Temple Quay, Bristol, BS1 6ED. If for any reason, you cannot make it, please un-RSVP in good time.</p> <p>LEVELS<br/>----------<br/>Level 1: Introductory and overview material<br/>Level 2: Intermediate material (background knowledge useful)<br/>Level 3: Advanced (assumes prior subject matter knowledge)<br/>Level 4: Expert (deep level of technical knowledge)</p> ",
     "end_time": 1563305400,
     "link": "https://www.meetup.com/DataBristol/events/257686041/",
-    "location": {
-        "address": "1 Rivergate",
-        "city": "Bristol BS1 6ED ",
-        "country": "gb",
-        "latitude": 51.45016098022461,
-        "longitude": -2.5842130184173584,
-        "name": "Ovo Energy"
-    },
+    "location": null,
     "org": "databristol",
     "start_time": 1563297300,
     "title": "Data Bristol: Azure Databricks - Apache Spark\u2013based analytics service"

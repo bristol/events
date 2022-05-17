@@ -3,14 +3,7 @@
     "description": "<p>The Talk:</p> <p>Machine Learning is increasingly being used by companies as a disruptor or providing a USP. This means that Machine Learning models need to cope with being a critical part of solutions and if those solutions use PCI-DSS or PII then the models must be highly secure.<br/>In addition, if a Machine Learning model is part of your USP then you will want to protect it. Also, the EU AI Regulation and UK AI Strategy means that AI is becoming increasingly regulated. This means you need to be able to prove what model made a prediction and why it made it by providing auditability and explainabilty.<br/>In this talk we go over these issues and how to address them including using AWS and how to implement development best practices.<br/>About the speaker:<br/>Phil Basford is one of the Ipswich AWS User Group Leaders and contributes to the AWS Community by speaking at a number of summits, community days and meet-ups. He is a regular blogger, open-source contributor, and SME on Machine Learning, MLOps, DevOps, Containers and Serverless. Phil has over 6 years of commercial AWS experience and holds 12 AWS Certifications, including: AWS Certified Solutions Architect Professional AWS DevOps Engineer Professional and Amazon Machine Learning Specialism. Phil works for Inawisdom (an AWS Partner) as a CTO AI &amp; ML. Phil is Inawisdom\u2019s AWS APN Ambassador and evangelist.</p> <p>Agenda:</p> <p>* Welcome and OWASP updates<br/>* Talk: Securing your Machine Learning solutions and protecting your models<br/>* Q&amp;A</p> ",
     "end_time": 1651608000,
     "link": "https://www.meetup.com/OWASP-Bristol/events/285373305/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "OWASP-Bristol",
     "start_time": 1651600800,
     "title": "Securing your Machine Learning solutions and protecting your models"

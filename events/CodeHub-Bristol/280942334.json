@@ -3,14 +3,7 @@
     "description": "<p>This event is part of Workshop Wednesdays, hosted by Women's Tech Hub Bristol.</p> <p>Please check out today's programme on the event page at WTH's meetup group here <a href=\"https://www.meetup.com/Womens-Tech-Hub-Bristol/events/qvvqfsyccmbdc/\" class=\"linkified\">https://www.meetup.com/Womens-Tech-Hub-Bristol/events/qvvqfsyccmbdc/</a></p> <p>Women\u2019s Tech Hub runs a no recruiter and a strict social media policy which you can find in their code of conduct.</p> ",
     "end_time": 1632340800,
     "link": "https://www.meetup.com/CodeHub-Bristol/events/280942334/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "CodeHub-Bristol",
     "start_time": 1632330000,
     "title": "CodeHub @ Workshop Wednesdays"
