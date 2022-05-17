@@ -3,7 +3,14 @@
     "description": "<p>Joint meeting with ISSA-UK Bristol \u00a0at our sponsor: \u00a0\u00a0Grant Thornton Bristol\u00a0</p> <p>Explore the many ways we can hack an\u00a0(intentionally) insecure website and how to fix the problems.\u00a0</p> <p>Learn about threat\u00a0modelling\u00a0used in Secure Development Lifecycles and\u00a0how to use Threat Dragon modelling tool.</p> <p><b>Agenda</b>:\u00a0</p> <p>\u2022 6:30 pm -\u00a0Social</p> <p>\u2022 6:55 pm \u00a0- OWASP update</p> <p>\u2022\u00a07:00 pm - Presentation 1: Let's hack a website\u00a0 - Craig Francis\u00a0\u00a0</p> <p>\u2022 8:00 pm -\u00a0Presentation 2:\u00a0A short introduction to Threat Modelling -\u00a0Jon Gadsden\u00a0\u00a0</p> <p><b>Presentation 1:</b>\u00a0Let's hack a website\u00a0</p> <p><b>Abstract</b>: We will look at the most (intentionally) insecure website ever created, and work out how many ways we can hack it - discussing each approach, with a quick demo, along with ways to fix the problems.\u00a0</p> <p><b>Bio</b>: I'm Craig Francis, and I've been creating websites for a while (let's just say that I once considered IE6 a good thing). Those websites help businesses operate on a daily basis (invoices, diaries, reports, etc), and operate with Security, Performance, and Accessibility in mind. From a security point of view, I created the first website to gain 130 points on the Mozilla Observatory.</p> <p><b>Presentation 2:</b>\u00a0\"A short introduction to Threat Modelling</p> <p><b>Abstract:\u00a0</b>This short introduction will provide an overview of threat\u00a0modelling\u00a0used in Secure Development Lifecycles, and covers:</p> <p>\u2022\u00a0\u00a0Threat Models</p> <p>\u2022\u00a0\u00a0The tools used to create them</p> <p>\u2022\u00a0\u00a0Why they are useful</p> <p>\u2022\u00a0\u00a0Open source Threat Dragon</p> <p>\u2022\u00a0\u00a0How to get involved</p> <p><b>Bio:\u00a0</b>Jon is an embedded C/C++ engineer who specialises in product security and secure development lifecycle activities. For the last few years he has been a security advocate at Cisco, a role which requires interest and knowledge of secure development along with a hefty dose of tact. Jon tends to enjoy threat modeling more than static analysis, and penetration testing more than security baselines ... but it is all good.\u00a0</p> <p>In his spare time he likes to help organise security conferences and contribute to open source projects - the latest being the OWASP Threat Dragon modelling tool.</p> ",
     "end_time": 1506632400,
     "link": "https://www.meetup.com/OWASP-Bristol/events/240114497/",
-    "location": null,
+    "location": {
+        "address": "Hartwell House Hartwell House 55-61 Victoria St Bristol BS1 6FT",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45197677612305,
+        "longitude": -2.588438034057617,
+        "name": "Grant Thornton Bristol"
+    },
     "org": "OWASP-Bristol",
     "start_time": 1506621600,
     "title": "Website hacking and Threat Modelling"

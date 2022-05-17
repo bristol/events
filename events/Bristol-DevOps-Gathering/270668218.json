@@ -3,7 +3,14 @@
     "description": "<p>We are pleased to announce the next of our online webinar events! Please join our Slack DevOps Bunker to access the discussion.</p> <p>Join the bunker here: <a href=\"https://join.slack.com/t/devops-bunker/shared_invite/zt-cy0rb3xx-SzRIiCenuWzfW7kqyr81zQ\" class=\"linkified\">https://join.slack.com/t/devops-bunker/shared_invite/zt-cy0rb3xx-SzRIiCenuWzfW7kqyr81zQ</a></p> ",
     "end_time": 1590076800,
     "link": "https://www.meetup.com/Bristol-DevOps-Gathering/events/270668218/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "Bristol-DevOps-Gathering",
     "start_time": 1590073200,
     "title": "DevOps Bunker - DevOps and Continuous Delivery Might Save Your Business"

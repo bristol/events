@@ -3,7 +3,14 @@
     "description": "<p>The Bath Scrum User Group hits 50 this month - that's 50 meetings since May 2012, so let's celebrate with a social gathering at The Cork where we held the first meeting.</p> <p>Since then we have often ventured outside Bath, and often covered topics beyond core Scrum. By we have built a strong community, do come along to catch up and network with other members of the group. The format is flexible: we may run a Lean Coffee session, and bear in mind that both drinks and food will be available at The Cork.</p> <p>Hope to see you all there!</p> ",
     "end_time": 1471377600,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/233182143/",
-    "location": null,
+    "location": {
+        "address": "11/12 Westgate Buildings",
+        "city": "Bath",
+        "country": "gb",
+        "latitude": 51.380001068115234,
+        "longitude": -2.361346960067749,
+        "name": "The Cork"
+    },
     "org": "agile",
     "start_time": 1471370400,
     "title": "Summer Social (BSUG is 50!)"

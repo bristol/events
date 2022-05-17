@@ -3,7 +3,14 @@
     "description": "<p>Couple of years back we had a general talk on cross platform and experiences of Appcelerator and Conrona, but since then have any of these cross platform/compilers come of age and caught up with native development?\u00a0</p> <p>Looking to gather some interest and entice some people to volunteer to share experiences both for and against. Tell us about a project where you or your team used a cross mobile platform technology such as PhoneGap, Appcelerator, Xamarin, mobile web + others, what worked? what was a pain? Looks for developer and PM perspectives.\u00a0</p> <p>Also looking for people to share perspectives of clients? maybe you're a client and can't understand why native developers balk at the mention of cross platform, why can't you have your cake and eat it.</p> <p>Talks:\u00a0</p> <p>Ben Reed -\u00a0Myth busting cross platform frameworks?</p> <p><a href=\"http://www.meetup.com/swmobile/members/12928259/\">Gavin Bryan</a>\u00a0- Lessons learnt using Xamarin\u00a0\u00a0</p> <p>Ian Bound -\u00a0I haz dun Xamarin</p> <p>Tom Spencer - Writing mobile apps with JavaScript</p> <p>Our friends at\u00a0<a href=\"http://realadventure.co.uk\">The Real Adventure</a> \u00a0are kindly hosting us in their great space near Bristol Temple Meads.<a href=\"http://www.realadventure.co.uk/contact\"> Finding us</a> help. Note: we'll \u00a0be closing the RSVP 24hrs before had to give security a list of names.\u00a0</p> ",
     "end_time": 1427833800,
     "link": "https://www.meetup.com/swmobile/events/219807477/",
-    "location": null,
+    "location": {
+        "address": "Temple Quay",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.4498176574707,
+        "longitude": -2.583540916442871,
+        "name": "1 Glass Wharf"
+    },
     "org": "swmobile",
     "start_time": 1427823000,
     "title": "Are mobile cross platform tools ready to take on native?"

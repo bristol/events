@@ -3,7 +3,14 @@
     "description": "<p>Simon will talk about the principles, practice and pitfalls of creating Data Pipelines, as covered in our new Data Pipeline Playbook.</p> <p>After his talk there will be an open discussion with Arron Maspero, Senior Delivery Manager, Office for National Statistics; Jon Vines<br/>Engineering Lead, AO.com; Nadia Schmid, Director, EU Data Engineering &amp; Analytics @ Wayfair and Lewis Crawford, Data Engineer, Equal Experts about their experiences with creating and using Data Pipelines in their own organisations.</p> <p>**</p> <p>SPEAKER:<br/>Simon Case<br/>Data Practice Lead, Equal Experts<br/>**</p> <p>PANELISTS:</p> <p>Arron Maspero<br/>Senior Delivery Manager, Office for National Statistics</p> <p>Jon Vines<br/>Engineering Lead, AO.com</p> <p>Nadia Schmid<br/>Director, EU Data Engineering &amp; Analytics @ Wayfair</p> <p>Lewis Crawford<br/>Data Engineer, Equal Experts</p> <p>***<br/>This talk will be recorded and a link to the recording placed in the Comments shortly after the event<br/>***</p> ",
     "end_time": 1622052000,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/278133486/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1622048400,
     "title": "Principles, practice and pitfalls of creating Data Pipelines"

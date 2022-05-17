@@ -3,7 +3,14 @@
     "description": "<p>In this event, we will be drafting a letter to the PCC about the legal basis and controls on the use of the Cellebrite and other similar mobile phone data extraction tools. We are encouraging concerned members of the public to help us with this.</p> <p>It will be a nice collective action to get together in a physical space to discuss it and have a tangible outcome.</p> <p>Info on the use of these tools by the local authorities can be found here:</p> <p><a href=\"https://thebristolcable.org/2017/01/phone-cracking-tech/\" class=\"linkified\">https://thebristolcable.org/2017/01/phone-cracking-tech/</a></p> <p>Illustration: Louis Wood</p> ",
     "end_time": 1539284400,
     "link": "https://www.meetup.com/ORG-Bristol/events/255094422/",
-    "location": null,
+    "location": {
+        "address": "14 Robertson Road, Easton",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.46942138671875,
+        "longitude": -2.5621519088745117,
+        "name": "Kebele"
+    },
     "org": "org",
     "start_time": 1539277200,
     "title": "Drafting letter to the PCC about the legal basis of Cellebrite"

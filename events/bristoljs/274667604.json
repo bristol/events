@@ -3,7 +3,14 @@
     "description": "<p>Details<br/>\ud83d\udc49 Important: Please read message at the bottom of this post. \ud83d\udc48</p> <p>\ud83d\udea8 Please do not join the waitlist \ud83d\udea8</p> <p>RSVP HERE \ud83d\udc49 <a href=\"https://techtalks.io/events/november-2020-gatsby-js-with-sanity-io-nodered\" class=\"linkified\">https://techtalks.io/events/november-2020-gatsby-js-with-sanity-io-nodered</a> \ud83d\udc48</p> <p>---</p> <p>Hey Everybody! We're back with two fantastic new talks.</p> <p>As with recent months we're keeping the best bits of what make our events special, our community. Before and after the talk you'll be invited to join a breakout rooms of up to 15 people to have a bit of a social catchup with friends, colleagues and peers.</p> <p>---</p> <p>Building a Static Site with Gatsby JS and Sanity.io - Obinna Ekwuno</p> <p>Headless CMSs and static sites are all the rage in the JAMstack. Have you ever wondered how to combine Gatsby with a headless CMS like Sanity.io? In this video, Obinna will look at creating a static site with Gatsby JS and Sanity.io.</p> <p>---</p> <p>Introduction to Low-Code with NodeRED - Julia Biro</p> <p>Developers no longer have the monopoly on making computers do their bidding. The rise of low-code solutions and visual builder tools is empowering a whole generation of new developers to bring their ideas to life with only a little coding knowledge.</p> <p>Far from putting us out of a job, these tools could be useful to us as well! In this session, I will introduce you to NodeRED, a JavaScript-based open-source low-code tool. We'll look at the basics of getting started, the tasks NodeRED is really good at, and how you can extend the NodeRED platform.</p> <p>Come along and decide if a low-code tool deserves a space in your high-code toolbox!</p> <p>---</p> <p>\ud83d\udea8 Please do not join the meetup waitlist \ud83d\udea8</p> <p>Instead RSVP over at TechTalks at \ud83d\udc49 <a href=\"https://techtalks.io/events/november-2020-gatsby-js-with-sanity-io-nodered\" class=\"linkified\">https://techtalks.io/events/november-2020-gatsby-js-with-sanity-io-nodered</a> \ud83d\udc48</p> ",
     "end_time": 1606332600,
     "link": "https://www.meetup.com/BristolJS/events/274667604/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "bristoljs",
     "start_time": 1606325400,
     "title": "November 2020 - Gatsby JS with Sanity.io & NodeRED"

@@ -3,7 +3,14 @@
     "description": "<p>For our first post-ACCU Conference meeting, I thought it would be good to have a social.</p> <p>So to that end, I propose that we have a conference retrospective, discussing the best bits of the conference, and which speakers would you like to see give a talk at ACCU Bristol in the near future.</p> <p>We'll be meeting initially at the Brewdog. \u00a0I say initially as I've been trying to get hold of them to book us a table, however, I've not got hold of anyone via phone or e-mail. \u00a0So we'll take our chance. \u00a0</p> <p>If it's too busy, then I'm sure we'll be able to find an alternative venue.</p> <p>So bring your ACCU programme\u00a0if you have one, I have a bunch I'll bring with me, and we'll go through it and chew the fat.</p> <p>Hope to see you there.</p> ",
     "end_time": 1495573200,
     "link": "https://www.meetup.com/ACCU-Bristol/events/239978469/",
-    "location": null,
+    "location": {
+        "address": "58 Baldwin Street, BS1 1QW",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45357131958008,
+        "longitude": -2.592639923095703,
+        "name": "Brewdog Bristol"
+    },
     "org": "accu",
     "start_time": 1495562400,
     "title": "ACCU Conference Retrospective"

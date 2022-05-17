@@ -3,7 +3,14 @@
     "description": "<p>About the Talk:<br/>You probably know how to secure your API with access tokens, but did you know you can use reference tokens to improve security? The token exchange standard for delegated access? A custom grant for API to API access? And what about improving client authentication for those use cases where clientid &amp; client secret don't cut it anymore?</p> <p>In this in-depth session, we'll cover all of these topics, extensively using IdentityServer4 in the process. Note that some previous knowledge on OAuth2 and OpenID Connect is a must.</p> <p>About the Speaker:<br/>Kevin is a freelance solution architect, Pluralsight author &amp; consultant, living in Antwerp (Belgium). These days he's mainly focused on RESTful architectures &amp; application security.</p> <p>He's a Microsoft MVP, and a keen proponent of open-source software.</p> <p>Also: wine.</p> ",
     "end_time": 1597953600,
     "link": "https://www.meetup.com/dotnetsouthwest/events/271666161/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1597946400,
     "title": "Virtual - API Security with OAuth2 and OpenID Connect in Depth with Kevin Dockx"

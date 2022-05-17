@@ -3,7 +3,14 @@
     "description": "<p>This month we'll be presenting an evening of lightning talks. If you have been to previous Lightning Talk evenings, or the ACCU Conference, you'll be familiar with the format: a series of short talks from various members of the group.\u00a0</p> <p>Each talk will be ten minutes or less. Come along and enjoy a varied, fascinating evening! We have talks on test frameworks, motivation, hyper-threading and more. Our lightning talkers are:</p> <p>\u2022\u00a0Grant Armstrong - How unit testing changed my code</p> <p>\u2022 David Banks - What is a quality test suite?</p> <p>\u2022 Jon Chesterfield\u00a0- DIY test framework</p> <p>\u2022 Perry Gollo - Motivation</p> <p>\u2022 Dave Needham - Moving below the database with Event Sourcing</p> <p>\u2022 Ed Nutting - FlingOS: Teaching students on their level</p> <p>\u2022 Dominic Robinson -\u00a0A little bit of Pluscal</p> <p>\u2022 Steven Simpson -\u00a0Mixing compiled and interpreted languages: Why and how with examples using Python and C++</p> <p>\u2022 Dan Towner -\u00a0Hyper-threading: making 2 plus 2 equal 3</p> ",
     "end_time": 1463601600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/230093189/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1463594400,
     "title": "Lightning Talks"

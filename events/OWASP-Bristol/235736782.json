@@ -3,7 +3,14 @@
     "description": "<p>Discuss the proactive controls that will guide developers down the path of secure software.</p> <p>Agenda:</p> <p>\u2022\u00a07:00 pm - Social</p> <p>\u2022\u00a07:30 pm -\u00a0Presentation\u00a0</p> <p>\u2022\u00a0After - we go to \u00a0<a href=\"http://www.smallbar.co.uk/locations-1/\">Small Bar</a>\u00a0on King street.\u00a0</p> <p><b>Presentation</b>: Cyber attacks are a real and growing threat to businesses and an increasing number of attacks take place at application layer. The best defence is to develop applications where security controls are incorporated in development cycle and used by developers while writing their code. How can developers deliver more secure applications? What are the security techniques they can use while writing the software?\u00a0</p> <p>This presentation will discuss the proactive controls that will guide developers down the path of secure software. It will explore the security techniques that can be incorporated in development cycle and will provide real world examples on how to solve some of the most prevalent security problems on the internet. \u00a0</p> <p><b>Bio</b>: Katy Anton \u00a0- comes from development background.\u00a0In her current role as Application Security Consultant at Veracode, Katy works with developers and architects around the world and help them secure their software.</p> ",
     "end_time": 1492722000,
     "link": "https://www.meetup.com/OWASP-Bristol/events/235736782/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45161437988281,
+        "longitude": -2.5968339443206787,
+        "name": "Just-eat.com"
+    },
     "org": "OWASP-Bristol",
     "start_time": 1492711200,
     "title": "The path of secure software"

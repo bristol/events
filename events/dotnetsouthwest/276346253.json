@@ -3,7 +3,14 @@
     "description": "<p>About Talk:<br/>Learn the fundamentals of cryptography, including public/private and symmetric encryption, hashing, and digital signatures. Discover which techniques are appropriate for various situations. Review practical real-life examples for storing passwords, protecting URL parameters, securely exchanging information with partners, and safely encrypting sensitive information on public web sites. Concepts apply to all platforms, examples will be in C# for both .NET and .NET Core.</p> <p>About Speaker:<br/>Robert Boedigheimer works for Schwan's Home Delivery providing business solutions with web technologies. He is a Microsoft MVP, a Progress Ninja (Fiddler), an ASPInsider, a Pluralsight author, and a 3rd-degree black belt in Tae Kwon Do. Robert regularly speaks at national and international events.</p> <p>Twitter: @boedie</p> ",
     "end_time": 1630008000,
     "link": "https://www.meetup.com/dotnetsouthwest/events/276346253/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1630000800,
     "title": "Virtual - Cryptography 101 with Robert Boedigheimer"

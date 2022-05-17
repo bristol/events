@@ -3,7 +3,14 @@
     "description": "<p>\ud83e\udd80 Rust Bristol is now a thing, and we're kicking off this group with not one but 2 events and this is the second!</p> <p>Program of that evening (order may change):</p> <p>1. Welcome note &amp; introduction to \" \ud83e\udd80 Rust Bristol\"<br/>2. Rust is great for data engineering! - *Fay\u00e7al Arbai*<br/>3. Programming [asciiPicture](<a href=\"https://www.asciipicture.com/\" class=\"linkified\">https://www.asciipicture.com/</a>) - *James Baum*<br/>4. [Eventual sponsor presentation]</p> <p>Venue:<br/>The Station<br/>Silver Street<br/>BS1 2AG</p> ",
     "end_time": 1650393000,
     "link": "https://www.meetup.com/rust-bristol/events/284704573/",
-    "location": null,
+    "location": {
+        "address": "Silver Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45729446411133,
+        "longitude": -2.592587947845459,
+        "name": "The Station"
+    },
     "org": "rust-bristol",
     "start_time": 1650387600,
     "title": "Rust Bristol \ud83e\udd80 Kickoff (2/2) - Data engineering & asciiPicture"

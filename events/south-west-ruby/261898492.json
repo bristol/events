@@ -3,7 +3,14 @@
     "description": "<p>Join us at Cookpad HQ in Bristol, this month for great talks and discussions. Expect another Ruby packed evening with great conversations, beers and bites to eat.</p> <p>Schedule</p> <p>18:30 - 19:00 - Arrive, grab a drink, some delicious locally supplied food and have a chat with fellow attendees.</p> <p>19:00-21:00 Talks</p> <p>1. An open-data API for food safety alerts and recalls</p> <p>Working for the Food Standards Agency (FSA), we<br/>transformed the publication and presentation of<br/>Food Safety Alerts from HTML-only to open data,<br/>accessible via an open-API. In part 1 of this talk,<br/>I\u2019ll describe the overall architecture of the system,<br/>including the RDF data model, the API, and the<br/>Ruby-on-Rails application that supports the FSA in<br/>managing alerts publication.</p> <p>In part 2, we\u2019ll look in a bit more depth at some of<br/>the uses of Ruby in the codebase, including some of<br/>the design patterns we\u2019ve found useful (and otherwise!)</p> <p>About the speaker</p> <p>Ian Dickinson is the Web Applications Lead at<br/>Epimorphics Ltd, a software and data consultancy<br/>based in Portishead near Bristol. Epimorphics specialises<br/>in the use of Linked Data as a foundational technology<br/>for creating open-data datasets, APIs and applications.</p> <p>Ian studied CompSci at Univ. York before gaining a PhD<br/>in Artificial Intelligence, which he obtained before<br/>deep-learning came along and supplanted the use of<br/>logic in AI systems. Nevertheless, he still likes Prolog!<br/>One of the joint-founders of Epimorphics, he now leads a<br/>team working with Ruby, Rails, JavaScript and user-centred<br/>design to create apps that make open-data usable and<br/>useful.</p> <p>2. Intro to Ruby for developers and testers by Richard Brooke</p> <p>Would you like to speak too? Please say so in Slack!</p> <p>Slack</p> <p>If you like to join us on Slack please join <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> <p>Notices</p> <p>Please let us know in the comments of the event if you have any specific food allergies, dietary or access requirements so we can be sure to best accommodate everyone!</p> ",
     "end_time": 1560888000,
     "link": "https://www.meetup.com/south-west-ruby/events/261898492/",
-    "location": null,
+    "location": {
+        "address": "3 Broad Plain, BS2 0JP",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45417404174805,
+        "longitude": -2.582395076751709,
+        "name": "Cookpad"
+    },
     "org": "south-west-ruby",
     "start_time": 1560879000,
     "title": "South West Ruby #18"

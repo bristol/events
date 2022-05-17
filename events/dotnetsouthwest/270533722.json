@@ -3,7 +3,14 @@
     "description": "<p>About the Talk:<br/>Let's talk about career management. In this meetup, we will talk about three critical elements of career management, each of which could have a direct impact on a job search. We will go into personal branding, networking (and \"networking on steroids\"), and developing multiple revenue streams. Come with questions and challenges you are facing to have a lively discussion.</p> <p>About the Speaker:<br/>Jason Alba started his IT career as a web developer and has since had various responsibilities, from email administrator to network admin to tech support to various developer roles. He conceptualized and owns JibberJobber.com, a CRM for job seekers. Recently he has focused on marketing and product management for Saas products. Jason is a Pluralsight author with 34 courses focusing on careers, soft skills, and professional development. He is active on Twitter: @jasonalba</p> ",
     "end_time": 1589832000,
     "link": "https://www.meetup.com/dotnetsouthwest/events/270533722/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1589824800,
     "title": "Virtual Meetup - Career Management with Jason Alba"

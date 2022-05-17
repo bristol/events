@@ -3,7 +3,14 @@
     "description": "<p>\u2022 What we'll do<br/>Tune in and watch the Google I/O keynote and enjoy conversation, food and drinks with fellow SWmobile members.</p> <p>The keynote starts at 6:00pm which is an hour earlier than our Meetups usually start.</p> <p>We're kindly being hosted by Dyson in their new office just off College Green. See the event photo for where to find the door.</p> <p>\u2022 Important to know<br/>Venue security requirements means we need to have full names of all attendees, so each attendee will need to register separately rather than as '+1's.</p> <p>RSVPs will close on the Friday 3rd at 4pm as Monday is a Bank Holiday.</p> ",
     "end_time": 1557257400,
     "link": "https://www.meetup.com/swmobile/events/260382296/",
-    "location": null,
+    "location": {
+        "address": "One Cathedral Square",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451454162597656,
+        "longitude": -2.5996639728546143,
+        "name": "Dyson Bristol Office"
+    },
     "org": "swmobile",
     "start_time": 1557246600,
     "title": "Google I/O 2019 - Keynote"

@@ -3,7 +3,14 @@
     "description": "<p>Join us for an evening of productive chaos with Lyndsay Prewer, in conjunction with Equal Experts' Expert Talks.</p> <p>Today\u2019s systems are inherently complex, with some component parts often operating in or close to sub-optimal or failure modes. Left unchecked, as complexity increases, the compounding of failure modes will inevitably lead to catastrophic system failure. Chaos days help us address this risk by spending time deliberately inducing failures, then analysing the response. This session summarises our experience of running chaos days on a large scale platform. We\u2019ll explore the what, why, how and when of running a chaos day.</p> <p>Our speaker, Lyndsay Prewer is an agile delivery consultant at Equal Experts with over 20 years' experience of helping individuals, teams and organisations improve their software delivery. <a href=\"https://twitter.com/lyndsp\" class=\"linkified\">https://twitter.com/lyndsp</a></p> <p>To keep us fuelled through the chaos Equal Experts will be providing food and drinks.</p> <p>Their name will be familiar to many, as long term contributors to the agile community in the UK. They cover any and all elements of software development \u2013 from the technology and processes used, to the proven techniques that help keep deliveries on track. <a href=\"https://www.equalexperts.com\" class=\"linkified\">https://www.equalexperts.com</a></p> <p>Equal Experts host regular Expert Talks in the South West, providing an opportunity for the software community to to share and learn from real-world experiences, and have a good old-fashioned chinwag! <a href=\"https://www.equalexperts.com/events/\" class=\"linkified\">https://www.equalexperts.com/events/</a></p> ",
     "end_time": 1583872200,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/268824447/",
-    "location": null,
+    "location": {
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44874572753906,
+        "longitude": -2.5870449542999268,
+        "name": "DeskLodge House"
+    },
     "org": "agile",
     "start_time": 1583865000,
     "title": "Embracing collaborative chaos - running chaos days on large platforms"

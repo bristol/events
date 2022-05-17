@@ -3,7 +3,14 @@
     "description": "<p>We're very excited to announce our next online talk from Miranda Mowbray.</p> <p>Miranda is an honorary lecturer at the University of Bristol, where she helped to set up the PhD programme in Interactive AI. She is an affiliate scholar of the PiLoTlab policy lab at Penn State University, and a member of the advisory council for the Open Rights Group.</p> <p>Her talk is titled - Bias in Natural Language Processing: Bristolians and Stochastic Parrots.</p> <p>Here's Miranda's description of the talk:</p> <p>\"This talk is about the demographic bias that can occur in natural language processing, focusing on the large language models that Emily Bender and Timnit Gebru described as \"stochastic parrots\".</p> <p>I will discuss what the AI text-generator GPT-2 associates with Bristolians, and why.</p> <p>I will also give some practical tips on what to do if you find yourself involved at work with something you disagree with ethically.\"</p> <p>Here are the details of the zoom call:</p> <p><a href=\"https://us02web.zoom.us/j/85935848183?pwd=anB0Z1NNRlFzSUlwVlFaeldZM1RmZz09\" class=\"linkified\">https://us02web.zoom.us/j/85935848183?pwd=anB0Z1NNRlFzSUlwVlFaeldZM1RmZz09</a></p> <p>Passcode:[masked]</p> <p>Look forward to seeing you there!</p> ",
     "end_time": 1627043400,
     "link": "https://www.meetup.com/Bristol-Machine-Learning/events/279460685/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "bristol-bachine-learning",
     "start_time": 1627039800,
     "title": "Bristol Machine Learning #16 - Miranda Mowbray"

@@ -3,7 +3,14 @@
     "description": "<p>With Jeff Williams, CTO and Co-Founder Contrast Security<br/>Please note this event starts at 16.30 BST<br/>**<br/>Modern software demands velocity, and traditional \u201coutside in\u201d scanning and firewalling are creating bottlenecks and slowing things down.<br/>In this talk, Jeff will approach application security from the \u201cinside out\u201d.</p> <p>We will show you how to create simple agents that get inside a running application (like a profiler or debugger) and give you access to everything you need for fantastic security observability.</p> <p>We\u2019ll demonstrate real agents that identify vulnerabilities without changing any code, scanning, or extra steps.</p> <p>We\u2019ll identify vulnerabilities, analyze access control, and even prevent RCE attacks. Unlike scanning and firewalling, this approach establishes a safe and powerful way for development, security, and operations teams to collaborate.</p> <p>We\u2019ll discuss how software security instrumentation works, how it\u2019s being used in many organizations, and the implications for the practice of application security..</p> <p>SPEAKER:<br/>Jeff Williams, CTO and Co-Founder Contrast Security</p> <p>Jeff brings more than 20 years of security leadership experience as co-founder and Chief Technology Officer of Contrast Security.</p> <p>He recently authored the DZone DevSecOps, IAST, and RASP refcards and speaks frequently at conferences including JavaOne (Java Rockstar), BlackHat, QCon, RSA, OWASP, Velocity, and PivotalOne.</p> <p>Jeff is also a founder and major contributor to OWASP, where he served as Global Chairman for 9 years, and created the OWASP Top 10, OWASP Enterprise Security API, OWASP Application Security Verification Standard, XSS Prevention Cheat Sheet, and many more popular open source projects.</p> <p>Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown. <a href=\"https://www.linkedin.com/in/planetlevel/\" class=\"linkified\">https://www.linkedin.com/in/planetlevel/</a></p> <p>**<br/>The link to the recording of this Talk will be posted in the Comments shortly after the Talk takes place.</p> ",
     "end_time": 1599669000,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/272867561/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1599665400,
     "title": "How to Build Security Instrumentation to Automate AppSec Testing and Protection"

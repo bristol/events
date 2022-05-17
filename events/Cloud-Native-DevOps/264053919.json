@@ -3,7 +3,14 @@
     "description": "<p>- SPECIAL THANKS TO OUR NEW SPONSOR BJSS FOR AGREEING TO HOST -</p> <p>19:00 - arrive</p> <p>19:00 - 19:20 - refreshments, networking</p> <p>19:25 - 20:00 Alistair Hey, Software Engineer at Blackcat Solutions, will give a talk on \"Container Runtimes - Who is running my Kubernetes container?\"</p> <p>Talk summary:<br/>We will be taking a tour through the history of container runtimes in the Kubernetes project, looking at the alternative container runtimes and when we might want to use them. Finally we will take a dive into the guts of the containerd and runc CLIs to see them running our Kubernetes pods.</p> <p>Alistair is a Senior Software engineer at BlackCat solutions in Birmingham. I work on Platform Automation, DevOps, CI/CD</p> <p>20:00 - 20:30 Darren Royle and Vlastimil Zeman, DevOps Engineers at Diffblue, will give a talk on 'Into The Serverless Playground'. How DiffBlue went from installing appliances inside major banks, with a bi-monthly release cycle and an 'Enterprise grade' manual QA cycle, to a completely server-and-database-less offering in two months. With lessons learned, technologies that were set on fire, mistakes you should really avoid, and other top tips about continuous integration and deployment in this brave new world!</p> ",
     "end_time": 1567022400,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/264053919/",
-    "location": null,
+    "location": {
+        "address": "90 Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45127868652344,
+        "longitude": -2.586751937866211,
+        "name": "James Tudor House"
+    },
     "org": "Cloud-Native-DevOps",
     "start_time": 1567015200,
     "title": "'Who is running my Kubernetes container?' & 'Serverless Playground'"

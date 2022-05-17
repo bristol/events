@@ -3,7 +3,14 @@
     "description": "<p>The meeting is organized by OWASP Chapter Vienna</p> <p>As it suits UK hours - please find below the details of the meetup - for those interested to join.</p> <p>Talk Details:<br/>Title: Do you even pentest bro?,<br/>Speaker: Daniel Cuthbert<br/>Abstract: Introducing the OWASP Application Security Verification Standard (ASVS) and why it solves world peace, makes appsec oh so easy and helps us all</p> <p>Youtube streaming: <a href=\"https://www.youtube.com/watch?reload=9&amp;v=D4Zjin4hDno\" class=\"embedded\">https://www.youtube.com/watch?reload=9&amp;v=D4Zjin4hDno</a></p> <p>Original meetup details can be found at:<br/><a href=\"https://www.meetup.com/OWASP-Vienna-Chapter/events/270688764/\" class=\"linkified\">https://www.meetup.com/OWASP-Vienna-Chapter/events/270688764/</a></p> ",
     "end_time": 1590602400,
     "link": "https://www.meetup.com/OWASP-Bristol/events/270881467/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "OWASP-Bristol",
     "start_time": 1590595200,
     "title": "Virtual meeting: Do you even pentest bro?"

@@ -3,7 +3,14 @@
     "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>More talks, more fun, more food \ud83c\udf55 and more drinks \ud83c\udf7b. You Gophers know the drill!</p> <p>Speakers:</p> <p>\ud83d\udde3 Benjamin King - Go 1.13</p> <p>Go 1.13 is a big change: the introduction of GOPROXY &amp; GOSUMDB, the introduction of wrapping errors and most crucially \"This release improves performance of most uses of defer by 30%.\"; such a big change deserves a talk! So I will talk about them.</p> <p>Benjamin King is a Software Engineer at Tumelo. Ben is not particularly interesting but Tumelo obviously is.</p> <p>\ud83d\udde3 Mat Evans - Being lazy with OpenAPI and Go</p> <p>Documenting an API is one of the more boring parts of the job, but what if you could write one spec and have documentation and all the boilerplate for an API service in Go written for you? A quick tour through The openAPI spec and some of the tooling available in Go.</p> <p>Mat Evans has been messing around with Go since 2013, when he was bored at work and thought he'd learn something new. He's worked with Go in advertising, sports data, and is currently contracting at News UK where he's helping to build a paywall-as-service.</p> <p>\ud83c\udf7a As always, afterwards we will be heading to a pub for a little .</p> <p>\ud83d\udce3 We are looking for help with organising! If you or anyone you know would like to help, give us a shout! As you can see, our pun game especially is in dire need of a</p> <p>\ud83d\udce3Help us grow! JetBrains offers free licences to meet-ups with attendance greater than 30. If we can reach this, we will apply and be handing it out as a prize at events.</p> <p>\ud83d\udccd - Cookpad<br/>\ud83c\udf55 - Tumelo (who are hiring Go developers <a href=\"https://www.tumelo.com/careers/\" class=\"linkified\">https://www.tumelo.com/careers/</a>)</p> ",
     "end_time": 1571770800,
     "link": "https://www.meetup.com/golang-bristol/events/264616451/",
-    "location": null,
+    "location": {
+        "address": "1 Broad Plain",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454097747802734,
+        "longitude": -2.5825579166412354,
+        "name": "Cookpad"
+    },
     "org": "golang",
     "start_time": 1571763600,
     "title": "Go(ctober) - OpenAPI and Go 1.13"

@@ -3,7 +3,14 @@
     "description": "<p>Let's kick off the last week of work of 2012 with a few drinks at the newly opened Brewdog pub on Baldwin street. Tom and I will head there after work for ~6.30 onwards, pop down if you fancy it.<br/>[p.s It's a good chance to thank Tom for his hard work arranging venues/events this year]</p> ",
     "end_time": 1355781600,
     "link": "https://www.meetup.com/swmobile/events/94442852/",
-    "location": null,
+    "location": {
+        "address": "58 Baldwin Street, BS1 1QW",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45357131958008,
+        "longitude": -2.592639923095703,
+        "name": "Brewdog Bristol"
+    },
     "org": "swmobile",
     "start_time": 1355770800,
     "title": "SWmobile Xmas drinks"

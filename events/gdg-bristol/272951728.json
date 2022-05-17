@@ -3,7 +3,14 @@
     "description": "<p>Love or want to find out more about Google Cloud? Then join us for Cloud NEXT Extended!</p> <p>Join us on Thursday, September 10th, from 6pm to 8pm, from the comfort of your homes, to listen to interesting talks from speakers from the Google Cloud Team and Cloud Google Developer Experts.</p> <p>TO RSVP - book via Eventbrite - <a href=\"https://www.eventbrite.co.uk/e/devparty-cloud-next-extended-tickets-118744914235\" class=\"linkified\">https://www.eventbrite.co.uk/e/devparty-cloud-next-extended-tickets-118744914235</a></p> <p>Here are some of the talks in store -</p> <p>TALK 01 - Making Small Talk with Serverless by Rich Rose</p> <p>Speaker bio - Rich Rose is a Lab Architect at Google Cloud and author of Hands On Serverless with Google Cloud. Rich loves Serverless and Kubernetes and in his spare time likes to tinker with his many Raspberry PIs.</p> <p>TALK 02 - Dialogflow - To infinity and beyond! by Guilherme Quelhos</p> <p>Speaker bio - Guilherme, an ACE certified senior computer engineer, helps customers to improve their Customer Experience (CX) by adopting cutting-edge engagement solutions provided by Genesys and Google. Huge experience working as Solution Architect dealing, more recently, with a variety of Google services such as DialogFlow and Speech APIs. He lives in London and dreams with sunny days in Brazil - difficult times to not be able to travel to your home town.</p> <p>TALK 03 - Google Cloud Data Center Security by Stephanie Wong</p> <p>Speaker bio - Stephanie Wong is a Developer Advocate, writer, and architect with a mission to create remarkable online developer content. She\u2019s the creator of the Youtube series Networking End-to-End, Eyes on Enterprise, and the podcast How I Launched This: A SaaS Story. Born and raised in San Francisco, Stephanie's active in her community, supporting women in tech, mentoring students, and is a hip hop dancer. You can find her online at @swongful.</p> <p>TO RSVP - book via Eventbrite - <a href=\"https://www.eventbrite.co.uk/e/devparty-cloud-next-extended-tickets-118744914235\" class=\"linkified\">https://www.eventbrite.co.uk/e/devparty-cloud-next-extended-tickets-118744914235</a></p> <p>The event will be broadcasted via YouTube Live here &gt;&gt; <a href=\"https://www.youtube.com/channel/UCuAj2rWo6S8Vbovya0eX6oA/featured\" class=\"embedded\">https://www.youtube.com/channel/UCuAj2rWo6S8Vbovya0eX6oA/featured</a>. The link is up and you can even set a reminder from there!</p> <p>The event will start at 6pm UK &amp;Ireland time (BST/IST or UTC+1). Join us and tweet with the hashtags #GDGDevParty #cloudnextextended</p> ",
     "end_time": 1599764400,
     "link": "https://www.meetup.com/GDG-Bristol/events/272951728/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "gdg-bristol",
     "start_time": 1599757200,
     "title": "DevParty - Cloud NEXT Extended"

@@ -3,7 +3,14 @@
     "description": "<p>Please note, this is an online event and one of a number we are planning in the coming weeks that we would like to welcome you to.</p> <p>AGENDA: 19:00 - 20:00<br/>----------<br/>SPEAKER: Andrew Pruski<br/>TOPIC: Chaos Engineering for SQL Server (Level 2)</p> <p>In this session we will explore the concept of Chaos Engineering, its core concepts, and the methodologies behind it.</p> <p>Then we'll look at how it can be implemented with regard to SQL Server. SQL has various different high availability solutions but can you be sure that they'll react as expected to a real world issue? Has your HA architecture only ever been tested in a planned maintenance window?</p> <p>How can we test potential weaknesses in SQL Server with Chaos Engineering experiments? We'll go through how to identify issues and then run an experiment.</p> <p>We'll also have some fun by looking at KubeInvaders, a chaos engineering tool for Kubernetes...using Space Invaders!</p> <p>This session is for SQL Server DBAs and Developers who want to know how Chaos Engineering works and want to learn its main principles.</p> <p>BIO: SQL Server DBA originally from Wales but now exploring Ireland. I'm a SQL Server DBA, Microsoft Data Platform MVP, and Certified Kubernetes Administrator. You can find me on twitter @dbafromthecold and blogging at dbafromthecold.com</p> <p>WHEN AND WHERE<br/>----------<br/>This is an online event via the Zoom platform. Full meeting details will be emailed to attendees no later than 1 hour prior to the event.</p> <p>GET INVOLVED<br/>----------<br/>Subject Data is community organised and volunteer led. We are happy to hear from anyone who would like to get involved. Please follow @SubjData on Twitter, LinkedIn and see www.subjectdata.org for more information.</p> <p>LEVELS<br/>----------<br/>Level 1: Introductory and overview material<br/>Level 2: Intermediate material (background knowledge useful)<br/>Level 3: Advanced (assumes prior subject matter knowledge)<br/>Level 4: Expert (deep level of technical knowledge)</p> <p>Please note our terms and conditions including our Code of Conduct and Recruiter Policy: www.subjectdata.org/events/terms-and-conditions</p> ",
     "end_time": 1594839600,
     "link": "https://www.meetup.com/DataBristol/events/271403634/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "databristol",
     "start_time": 1594836000,
     "title": "Chaos Engineering for SQL Server [Online Event]"

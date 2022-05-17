@@ -3,7 +3,14 @@
     "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>We're continuing with the workshops! We will be alternating them with talks, hoping to create a theme that connects the two from here on. This time around our theme is ...</p> <p>Building an HTTP service in GO</p> <p>Following the two brilliant talks by Matt &amp; John who joined us in our last meetup to talk about Golang API services and GRPC respectively, we will be trying to put their lessons into action. If you wish to join us, make sure to sign up!</p> <p>For links to the two brilliant talks:</p> <p>- Mat's insights into building HTTP services: <a href=\"https://youtu.be/XGVZ0Ip4XPM\" class=\"embedded\">https://youtu.be/XGVZ0Ip4XPM</a><br/>- Johan's crash course into GRPC and Buf: <a href=\"https://youtu.be/IjJDZObWYj4\" class=\"embedded\">https://youtu.be/IjJDZObWYj4</a></p> <p>On top of this theme we encourage you to bring your own problems and we can work through them together. We encourage you to treat this as office hours; pop in any time if you get stuck, ask us questions and we'll do our best to help you out. We can use breakout rooms if you fancy working as a pair/group.</p> <p>Plan:<br/>- 18:00-18:05 - short introduction to the repository<br/>- 18:05-onwards - work on classifier (breakout rooms if needed)</p> <p>Repo in question: <a href=\"https://github.com/bristolgolang/apitutorial\" class=\"linkified\">https://github.com/bristolgolang/apitutorial</a>. We plan to work on it until the event so do forgive us if it changes and you have started to work on it beforehand.</p> <p>\ud83c\udf81 Sponsorship - Tumelo who are hiring Golang developers <a href=\"https://www.tumelo.com/careers/\" class=\"linkified\">https://www.tumelo.com/careers/</a> have kindly donated some gifts that we will be giving out during the event.</p> <p>\ud83d\udce3 We are looking for help with organising! If you or anyone you know would like to help, give us a shout!</p> <p>\ud83d\udce3Help us grow! JetBrains offers free licences to meet-ups with attendance greater than 30. If we can reach this, we will apply and be handing it out as a prize at events.</p> ",
     "end_time": 1601488800,
     "link": "https://www.meetup.com/golang-bristol/events/272822150/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "golang",
     "start_time": 1601481600,
     "title": "Go(ne) online - HTTP Service Workshop"

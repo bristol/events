@@ -3,7 +3,14 @@
     "description": "<p>Bristol Cloud Native &amp; DevOps are excited to announce our next installment; In a Container Nobody Can Hear You Scream: Next Generation Process Isolation, with CEO and co-founder of ControlPlane, Andrew Martin.</p> <p>ControlPlane is a cloud-native consultancy, securing Kubernetes from supply-chain and runtime attacks using zero trust and continuous security. Andrew\u2019s career spans multiple sectors before co-founding ControlPlane in 2017, specialising in regulated industries and hard security problems.</p> <p>Bio:<br/>\"This talk asks: is it ever safe to run untrusted code in containers? Should process isolation keep workloads in, or attackers out? What would it take to run a malware test lab in Kubernetes?</p> <p>With fast start-up times and consistent execution environments containers beat traditionally slow, monolithic VMs \u2014 but with the advancement of micro VMs the boundaries have become blurred. It is increasingly difficult to know which isolation technology to choose for our next application. Can we run different workloads in different \u201ccontainer\u201d types \u2014 on the same cluster?</p> <p>In this talk we:<br/>- Examine the history of trying to safely run unsafe processes<br/>- Compare and contrast the emerging generation of process isolation and security techniques<br/>- Rationalise the design decisions that drive each project<br/>- Learn about what workloads are best suited to run in each technology\"</p> <p>Andy's LinkedIn Profile - <a href=\"https://www.linkedin.com/in/andr3wmartin/\" class=\"linkified\">https://www.linkedin.com/in/andr3wmartin/</a></p> ",
     "end_time": 1617107400,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/276828510/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "Cloud-Native-DevOps",
     "start_time": 1617103800,
     "title": "In a Container Nobody Can Hear You Scream: Next Generation Process Isolation"

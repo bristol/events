@@ -3,7 +3,14 @@
     "description": "<p>*Timed changed from 7pm to 7.30pm*</p> <p>Online Q&amp;A with an expert panel of Microsoft MVP data engineers to find out the latest about the Microsoft Data Platform and ask your questions.</p> <p>Panelists:</p> <p>Simon Whiteley<br/><a href=\"https://www.linkedin.com/in/simon-whiteley-uk/\" class=\"linkified\">https://www.linkedin.com/in/simon-whiteley-uk/</a></p> <p>Craig Porteous<br/><a href=\"https://www.linkedin.com/in/craigporteous/\" class=\"linkified\">https://www.linkedin.com/in/craigporteous/</a></p> <p>Heini Ilmarinen<br/><a href=\"https://www.linkedin.com/in/heini-ilmarinen-744772133/\" class=\"linkified\">https://www.linkedin.com/in/heini-ilmarinen-744772133/</a></p> <p>Cathrine Wilhelmsen<br/><a href=\"https://www.linkedin.com/in/cathrinewilhelmsen/\" class=\"linkified\">https://www.linkedin.com/in/cathrinewilhelmsen/</a></p> <p>Welcome back to Data Bristol! We are looking forward to in-person events, but until we can host them, we will do some online events to touch base with you all and catch up with some of our awesome speakers.</p> <p>It would be great to hear some of your questions in advance so we can prepare some discussions with our panelists. Please send us a message with anything you'd like to ask.</p> <p>Looking forward to seeing you there!</p> <p>The zoom link is available when you RSVP. The passcode will be send out just before the event.</p> <p>Thanks!<br/>John, Anna and the team.</p> ",
     "end_time": 1631649600,
     "link": "https://www.meetup.com/DataBristol/events/280312644/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "databristol",
     "start_time": 1631644200,
     "title": "Microsoft Data Engineering - Panel Q&A"

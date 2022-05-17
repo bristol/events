@@ -3,7 +3,14 @@
     "description": "<p>14 speakers over 14 hours, split into two streams.</p> <p><a href=\"https://conf.livecoders.dev\" class=\"linkified\">https://conf.livecoders.dev</a></p> <p>Full schedule can be found here.</p> ",
     "end_time": 1586494800,
     "link": "https://www.meetup.com/dotnetsouthwest/events/269525151/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1586437200,
     "title": "(Affiliated) The Live Coders Conference"

@@ -3,7 +3,14 @@
     "description": "<p>This is a self-directed study group for everyone interested in improving their coding skills. It is going to be our first in-person event since March last year, so we are starting up small.</p> <p>The goal is to help each other progress in our individual and/or group goals by providing space and time to meet other like-minded developers and ask questions.</p> <p>What to bring: Your own laptop and complete dedication to respecting others</p> <p>Attendance is currently limited to 10 people, if you registered and then can't make it anymore, please change your RSVP.</p> ",
     "end_time": 1634155200,
     "link": "https://www.meetup.com/CodeHub-Bristol/events/281206469/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": "Redland",
+        "country": "gb",
+        "latitude": 51.46772003173828,
+        "longitude": -2.6062400341033936,
+        "name": "Redland"
+    },
     "org": "CodeHub-Bristol",
     "start_time": 1634148000,
     "title": "Coding Self-Study"

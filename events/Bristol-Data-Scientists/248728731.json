@@ -3,7 +3,14 @@
     "description": "<p>To view the agenda and register for this meet up, visit: <a href=\"https://ti.to/bristol-data-scientists/march-2018\" class=\"linkified\">https://ti.to/bristol-data-scientists/march-2018</a></p> <p>Join us for an exciting special edition of Bristol Data Scientists at The Watershed on 27 March 2018.</p> <p>We are collaborating with the Royal Statistical Society's Data Science Section to bring you an extended meeting, focusing on the Industrialisation and Professionalisation of Data Science. You will have the opportunity to find out:<br/>* What a good data science workflow looks like<br/>* How data science should fit into the structure of an organisation<br/>* What executives and managers need to know about data science<br/>* What a Data Scientist's responsibility is to the wider society \u2022 Important to know<br/>Registrations are via external ticketing only: <a href=\"https://ti.to/bristol-data-scientists/march-2018\" class=\"linkified\">https://ti.to/bristol-data-scientists/march-2018</a></p> ",
     "end_time": 1522179000,
     "link": "https://www.meetup.com/Bristol-Data-Scientists/events/248728731/",
-    "location": null,
+    "location": {
+        "address": "1 Canon's Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.449302673339844,
+        "longitude": -2.6010661125183105,
+        "name": "The Watershed"
+    },
     "org": "Bristol-Data-Scientists",
     "start_time": 1522157400,
     "title": "Bristol Data Scientists/Royal Statistical Society meetup - 27 March"

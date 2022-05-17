@@ -3,7 +3,14 @@
     "description": "<p>Games and exercises are a great way to help people explore and\u00a0understand agile principles &amp; concepts in a safe to fail environment.</p> <p>This session will give you a chance to try out some games and exercises for yourself.</p> <p>If anyone has a particular game or exercise that they would like to recommend (and/or facilitate) for the session then please get in touch.</p> ",
     "end_time": 1400011200,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/156076342/",
-    "location": null,
+    "location": {
+        "address": "Lysander House, Catbrain Hill",
+        "city": "Bristol BS10 7TQ",
+        "country": "gb",
+        "latitude": 51.52449417114258,
+        "longitude": -2.614530086517334,
+        "name": "Brightside Group"
+    },
     "org": "agile",
     "start_time": 1400004000,
     "title": "Agile games & exercises workout"

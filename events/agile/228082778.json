@@ -3,7 +3,14 @@
     "description": "<p>When one speaker isn't enough for you, this month we are offering at least half a dozen people from the local agile community all giving lightning talks of up to 10 mins each. This is a great way to get to hear talks about a variety of Scrum and agile-related topics, and an even better opportunity to share your experience with the community by presenting a short talk.</p> <p>The Lightning Talks are always a popular and entertaining evening, come along and join the fun! Our lineup is:</p> <p>\u2022\u00a0Lee Berry - How we started Scrum</p> <p>\u2022\u00a0John Coleman - I am the Change</p> <p>\u2022\u00a0Matthew Dodwell - We don't know what we're talking about \u00a0</p> <p>\u2022\u00a0Keith Jackson - The value of P4D\u00a0</p> <p>\u2022\u00a0Craig Livings - Standup Surgery \u00a0</p> <p>\u2022\u00a0Gez Smith - Why does agile cause arguments?\u00a0</p> <p>\u2022\u00a0Robin Warren - Trello for Agile teams\u00a0</p> ",
     "end_time": 1455051600,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/228082778/",
-    "location": null,
+    "location": {
+        "address": "BA1 5LR",
+        "city": "Bath",
+        "country": "gb",
+        "latitude": 51.383705139160156,
+        "longitude": -2.357667922973633,
+        "name": "IPL Offices"
+    },
     "org": "agile",
     "start_time": 1455044400,
     "title": "Lightning Talks"

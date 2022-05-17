@@ -3,7 +3,14 @@
     "description": "<p>Improve your secure coding skills by joining the UK Wide OWASP Secure Coding Tournament!</p> <p>The closing ceremony where we announce the winners, is on: Tuesday 3rd Nov 6pm ( UK time) - streamed via YouTube OWASP WIA at: <a href=\"https://youtu.be/2-9zIoen0r8\" class=\"embedded\">https://youtu.be/2-9zIoen0r8</a></p> <p>Remember :<br/>- You can still register for the tournament at:<br/><a href=\"https://discover.securecodewarrior.com/OWASPUKBristol.html\" class=\"linkified\">https://discover.securecodewarrior.com/OWASPUKBristol.html</a><br/>- It takes about 1-2 hours to do the challenges<br/>- You can see the instructions at: <a href=\"https://youtu.be/Jfzm3Gt1GLU?t=494\" class=\"embedded\">https://youtu.be/Jfzm3Gt1GLU?t=494</a></p> <p>Participants can either dial in via Zoom or join the stream via YouTube at: <a href=\"https://youtu.be/2-9zIoen0r8\" class=\"embedded\">https://youtu.be/2-9zIoen0r8</a></p> <p>Below are the Zoom details if you want to join Zoom Meeting:<br/><a href=\"https://zoom.us/j/97142954918?pwd=aHA1cWlvWXlCVnE1VHB3U3d4dHQ2QT09\" class=\"linkified\">https://zoom.us/j/97142954918?pwd=aHA1cWlvWXlCVnE1VHB3U3d4dHQ2QT09</a></p> <p>Meeting ID:[masked]<br/>Passcode:[masked]<br/>One tap mobile<br/>[masked],,[masked]# United Kingdom<br/>[masked],,[masked]# United Kingdom</p> <p>Dial by your location<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>Meeting ID:[masked]<br/>Find your local number: <a href=\"https://zoom.us/u/aemZj240dh\" class=\"linkified\">https://zoom.us/u/aemZj240dh</a></p> ",
     "end_time": 1604430000,
     "link": "https://www.meetup.com/OWASP-Bristol/events/274077843/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "OWASP-Bristol",
     "start_time": 1604426400,
     "title": "OWASP UK - Secure Code Warrior Tournament - Closing Ceremony "

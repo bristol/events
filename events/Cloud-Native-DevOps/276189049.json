@@ -3,7 +3,14 @@
     "description": "<p>Bristol Cloud Native &amp; DevOps are excited to announce our next installment; 'Working on DevSecOps over working in DevSecOps' with recently published author, Glenn Wilson.</p> <p>Glenn is the Chief Technology Officer and Founder of Dynaminet, a consultancy company that specialises in DevSecOps and Agile security. Glenn is an experienced development and security professional who has worked for over twenty years in the IT industry spanning multiple sectors.</p> <p>Glenn has recently published \"DevSecOps - A leader's guide to producing secure software without compromising flow, feedback and continuous improvement\". The book provides a clear path to building systems and protocols that promotes taking ownership of software security and supports the DevOps philosophy.</p> <p>We will be providing more details on the talk itself and the points that will be covered in due course.</p> <p>Glenn's LinkedIn Profile - <a href=\"https://www.linkedin.com/in/glennwilson/\" class=\"linkified\">https://www.linkedin.com/in/glennwilson/</a></p> <p>If you have any topics you are keen to hear about please drop me a message.</p> ",
     "end_time": 1614258000,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/276189049/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "Cloud-Native-DevOps",
     "start_time": 1614254400,
     "title": "Working on DevSecOps over working in DevSecOps"

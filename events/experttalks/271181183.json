@@ -3,7 +3,14 @@
     "description": "<p>The Multi-channel Digital Tax Platform (MDTP) employs Continuous Delivery at scale.</p> <p>In this talk Ben explains how this has allowed HM Revenue and Customs to meet the urgent demands of Covid-19</p> <p>**<br/>Ben's talk will be followed by a Virtual Fishbowl session where all attendees will have the opportunity to take part in a live discussion<br/>**</p> <p>SPEAKER:</p> <p>Ben Conrad is the Head of Agile Delivery for MDTP at HM Revenue &amp; Customs</p> ",
     "end_time": 1593021600,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/271181183/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1593018000,
     "title": "How the MDTP has supported HMRC's successful launch of Covid-19 services"

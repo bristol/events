@@ -3,7 +3,14 @@
     "description": "<p>AGENDA: 19:00 - 20:00<br/>----------<br/>SPEAKER: Simon Whiteley<br/>TOPIC: Spark Showdown - Databricks VS Synapse Analytics</p> <p>We now have two slick, platform-as-a-service spark offerings in Azure, but which one should you choose? Azure Databricks is powering forward with advancements to the spark engine, a mature workspace and cross-platform compatibility, but Azure Synapse Analytics' new Spark engine sits at the beating heart of a fully integrated platform.</p> <p>Which do you choose - separate specialist tools or a one-size-fits-all solution?</p> <p>In this session we'll take a look at the key differences, contrast how we achieve different Spark patterns and equip you will all the knowledge to pick the right solution for you going forward.</p> <p>BIO: Director of Engineering &amp; Owner of Advancing Analytics, Simon is a seasoned Cloud Solution Architect and tech lead with well over a decade of Microsoft Analytics experience. A deep techie with a focus on emerging cloud technologies and applying \"big data\" thinking to traditional analytics problems, Simon also has a passion for bringing it back to the high level and making sense of the bigger picture. When not tinkering with tech, Simon is a death-dodging London cyclist, a sampler of craft beers, an avid chef, and a generally nerdy person.</p> <p>WHEN AND WHERE<br/>----------<br/>This is an online event via the Zoom platform. Full meeting details will be emailed to attendees no later than 1 hour prior to the event.</p> <p>GET INVOLVED<br/>----------<br/>Subject Data is community organised and volunteer led. We are happy to hear from anyone who would like to get involved. Please follow @SubjData on Twitter, LinkedIn and see www.subjectdata.org for more information.</p> <p>LEVELS<br/>----------<br/>Level 1: Introductory and overview material<br/>Level 2: Intermediate material (background knowledge useful)<br/>Level 3: Advanced (assumes prior subject matter knowledge)<br/>Level 4: Expert (deep level of technical knowledge)</p> <p>Please note our terms and conditions including our Code of Conduct and Recruiter Policy: www.subjectdata.org/events/terms-and-conditions</p> ",
     "end_time": 1596049200,
     "link": "https://www.meetup.com/DataBristol/events/271949458/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "databristol",
     "start_time": 1596045600,
     "title": "Spark Showdown - Databricks VS Synapse Analytics"

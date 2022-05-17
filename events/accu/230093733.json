@@ -3,7 +3,14 @@
     "description": "<p>This talk presents the design and implementation of a 'Replay Tool' and shows how replaying output files as input stimuli can be an effective, low-cost means of software validation. Replays offer a number of benefits, including: deterministically detecting and recreating bugs, creating pertinent and pathological test-cases, increasing the accuracy of bug triage teams and enabling real-time remote pair debugging.</p> <p>As a running example, we present our own implementation, namely, the 'Hardware Composer Replay Tool'. In an Android system, the Hardware Composer (HWC) is the piece of software that interfaces the Android graphics stack to the vendor specific hardware. The Intel HWC implements a complex asynchronous state-machine that combines heuristics and monitoring into a service that is optimised for power. Validating the HWC is challenging and so the replay tool provides a means of rigorously reasoning about its correctness.</p> <p>This presentation takes a pragmatic focus and will equip members of the audience with the insight required to implement their own tools. We provide a technical description of the Intel Hardware Composer Replay Tool, a brief explanation of the Android Graphics Stack and a tutorial on the use of C++11 Regular Expressions.</p> <p><b>About our speaker:</b></p> <p>James Pascoe is a Senior Graphics Engineer at Intel, where he uses C++1y and Python to develop a validation infrastructure for the Intel Android Hardware Composer. In addition to his love of all things C++, James is responsible for the team\u2019s CI and automation strategy (Jenkins).</p> <p>Prior to Intel, James was a Senior Microprocessor Architect at STMicroelectronics, worked at U4EA Technologies (a Bristol University start-up) where he implemented novel QoS algorithms in the firmware of a network processor, and was a Research Fellow in the Math-CS department at Emory University (Atlanta, GA) where he developed semantically enhanced multicast communication primitives.</p> <p>James has a 1st\u00a0class degree and a PhD in Computer Science from The University of Reading and an MBA (with distinction) from Warwick University.</p> ",
     "end_time": 1466625600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/230093733/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1466618400,
     "title": "James Pascoe: A Replay Approach to Software Validation Using C++11 Regexes"

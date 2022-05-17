@@ -3,7 +3,14 @@
     "description": "<p>I'm pleased to announce that Chris Simmons will be kicking us off with a practical workshop in using evolutionary algorithms in Java. So do come along and join us, for an evening of fun, learning and drinks afterwards.</p> <p>PLEASE NOTE!! This will be a practical workshop so please do bring a laptop. The Wifi password will be provided at the time.</p> <p>Synopsis</p> <p>There will be much programming with Java! Things begin with a brief introduction on evolutionary algorithms and the many freely available frameworks for optimization with evolutionary computing. Next, taking the open source Java Class Library for Evolutionary Computing (JCLEC) (<a href=\"http://jclec.sourceforge.net\" class=\"linkified\">http://jclec.sourceforge.net</a>), folks are encouraged to program with the framework to address three optimization challenges such as:</p> <p>(i) \u2018OneMax\u2019, a \u2018hello world\u2019-type example for evolutionary algorithms,</p> <p>(ii) \u2018how to program you way out of a paper bag\u2019, and<br/>(iii) \u2018travelling salesman problem\u2019 (or TSP). TSP is like a kata for Machine Learning. TSP-type problems tend to crop up quite a lot\u2026</p> <p>Participants are strongly encouraged to download and install the JCLEC framework before attending this programming workshop, and bring their own laptop with a Java development environment installed.</p> <p>Acknowledgement: This workshop has been jointly developed with Frances Buontempo.</p> ",
     "end_time": 1519851600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/245886100/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1519844400,
     "title": "Simply the Best: Optimizing with an Evolutionary Computing Framework"

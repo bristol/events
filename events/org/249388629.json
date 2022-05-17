@@ -3,7 +3,14 @@
     "description": "<p>Could new plans to make Britain \"the safest place in the world to be online\" have unintended consequences?</p> <p>Hear from ORG campaigns manager Mike Morel, legal officer Alex Haydock about how the Government is working with social media companies to decide acceptable standards for online content.</p> <p>Learn how heavy fines encourage the use of not-so-smart filters that can silence free speech, and how murky definitions of 'harmful content' give social media companies unprecedented control over free expression.</p> <p>No experience is necessary to attend this FREE event.</p> ",
     "end_time": 1524771000,
     "link": "https://www.meetup.com/ORG-Bristol/events/249388629/",
-    "location": null,
+    "location": {
+        "address": "Stokes Croft, Bristol",
+        "city": "BS13QY",
+        "country": "gb",
+        "latitude": 51.46282958984375,
+        "longitude": -2.589651107788086,
+        "name": "Hamilton House (Reception will inform you which floor)"
+    },
     "org": "org",
     "start_time": 1524765600,
     "title": "Modern Threats to free speech online"

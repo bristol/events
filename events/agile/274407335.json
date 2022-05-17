@@ -3,7 +3,14 @@
     "description": "<p>There is a lot of noise and miss-understanding about Scrum and Kanban working together. This session is a simple and intuitive explanation of how to create collaboration between teams and methods to generate value flow for customers. It includes an explanation of Kanban at the Service Level, and how it differs from but complements teams using the Scrum framework.</p> <p>About the speaker<br/>Dan is passionate about helping organisations transform, to improve service delivery to customers, and improve the working lives of people within the organisation. My philosophy is: \u2018Simplify and inspire in a fun and safe way, always be positive and transparent.\u2019<br/>He is a coach, practitioner, teacher and public speaker, focusing on Scrum, Kanban and Agile. He is very well known as Kanban-Dan.</p> <p>Linkedin: <a href=\"https://www.linkedin.com/in/kanbandan/\" class=\"linkified\">https://www.linkedin.com/in/kanbandan/</a><br/>Twitter: @kanbandan</p> <p>Video channel <a href=\"https://www.youtube.com/channel/UCMR9gtmncIt6pYJX8QbQqBw\" class=\"embedded\">https://www.youtube.com/channel/UCMR9gtmncIt6pYJX8QbQqBw</a></p> <p>Zoom Details...<br/>Topic: Scrum is from Mars, Kanban is from Venus<br/>Time: Nov 10,[masked]:15 PM London</p> <p>Join Zoom Meeting<br/><a href=\"https://us02web.zoom.us/j/83870645434?pwd=bzdzNnMvYi9sbjlJeXlwV0l0UWMrQT09\" class=\"linkified\">https://us02web.zoom.us/j/83870645434?pwd=bzdzNnMvYi9sbjlJeXlwV0l0UWMrQT09</a></p> <p>Meeting ID:[masked]<br/>Passcode: Venus<br/>One tap mobile<br/>[masked],,[masked]#,,,,,,0#,,176564# United Kingdom<br/>[masked],,[masked]#,,,,,,0#,,176564# United Kingdom</p> <p>Dial by your location<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] US (Chicago)<br/>[masked] US (Houston)<br/>[masked] US (New York)<br/>[masked] US (San Jose)<br/>[masked] US (Tacoma)<br/>[masked] US (Washington D.C)<br/>Meeting ID:[masked]<br/>Passcode:[masked]<br/>Find your local number: <a href=\"https://us02web.zoom.us/u/keTUO1qIq\" class=\"linkified\">https://us02web.zoom.us/u/keTUO1qIq</a></p> ",
     "end_time": 1605038400,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/274407335/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "agile",
     "start_time": 1605033000,
     "title": "Scrum is from MARS, Kanban is from Venus  - with Dan Brown aka KanbanDan"

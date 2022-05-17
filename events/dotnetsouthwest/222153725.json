@@ -3,7 +3,14 @@
     "description": "<p>The first meetup in our new, hopefully permanent home complete with 80 inch screen and bar!\u00a0</p> <p>We have two excellent talks and as usual plenty of swag from our lovely sponsors! Come join us, tell your friends and colleagues, help build a fantastic .NET community and get some FREE Beer and Pizza in with the bargain! Can you imagine a better evening?!</p> <p>--- TALK 1 ---\u00a0</p> <p>Topic:\u00a0Oded Coster -\u00a0How to ask questions on Stack Overflow and not die trying</p> <p>Description:\u00a0As developers, we need to get answers to our programming questions - and the best way to do that is to ask good questions. In this presentation I will talk about the why, what and how of asking good questions, in general and specifically on Stack Overflow.\u00a0You will learn how to get quick, high quality answers on Stack Overflow to your well asked questions.</p> <p>Bio:\u00a0Oded\u00a0Coster has been a software developer for nearly 20 years, most recently with Stack Exchange, the creators of Stack Overflow and over 140 other Q&amp;A sites.</p> <p>He has been part of the Stack Overflow community since the beta in 2008, and has seen the site grow and evolve from there. With over 9,000 answers to his name on Stack Overflow, he just might know something about what makes a good, answerable question.</p> <p>When not improving Stack Overflow, he can be found enjoying anime &amp; manga, reading sci-fi books and spending time with his family.</p> <p>--- TALK 2 ---</p> <p>Topic:\u00a0Alex West -\u00a0.NET for Indie Devs</p> <p>Description:\u00a0When we talk about Dot NET most think it's for Enterprise (with capital E), big banks with loads of cash, companies with more Microsoft licenses you can shake a stick at. MS is now making a concerted effort to disrupt this image and is making .NET available for all, not only those who can afford the complicated licensing agreements. I'll be demoing what can be done by your average teenager without forking out \u00a3400 for a Visual Studio license.</p> <p>Bio:\u00a0Alex West is the Development Manager for MHI. Currently building a new product called Sendvia (<a href=\"http://www.sendvia.co.uk/\">www.sendvia.co.uk</a>), with the lofty aim of allowing anyone send anything anywhere.</p> ",
     "end_time": 1432242000,
     "link": "https://www.meetup.com/dotnetsouthwest/events/222153725/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay House, Broad Quay, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1432231200,
     "title": "Oded Coster - Stack Overflow Questions / Alex West - .NET for Indie Devs"

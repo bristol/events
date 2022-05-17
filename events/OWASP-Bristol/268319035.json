@@ -3,7 +3,14 @@
     "description": "<p>Improve your secure coding skills and compete against the other OWASP chapters by joining the UK Wide OWASP Secure Coding Tournament!<br/>Opening ceremony : Tuesday 27th Oct 6pm (UK time) - streamed via OWASP WIA YouTube at: <a href=\"https://youtu.be/Jfzm3Gt1GLU\" class=\"embedded\">https://youtu.be/Jfzm3Gt1GLU</a><br/>Closing ceremony: Tuesday 3rd Nov 6pm ( UK time) - streamed via OWASP WIA YouTube at: <a href=\"https://youtu.be/2-9zIoen0r8\" class=\"embedded\">https://youtu.be/2-9zIoen0r8</a></p> <p>Please register asap on:<br/><a href=\"https://discover.securecodewarrior.com/OWASPUKBristol.html\" class=\"linkified\">https://discover.securecodewarrior.com/OWASPUKBristol.html</a><br/>You will get access to the SCW platform and can start training !</p> <p>This meeting is for the Opening Ceremony<br/>Participants can dial in via Zoom or join the stream via YouTube at: <a href=\"https://youtu.be/Jfzm3Gt1GLU\" class=\"embedded\">https://youtu.be/Jfzm3Gt1GLU</a></p> <p>Below are the Zoom details if you want to join Zoom Meeting<br/><a href=\"https://zoom.us/j/99583981560?pwd=MkN0Q2NpTDF5eW5wK0ZUajNKS0pPUT09\" class=\"linkified\">https://zoom.us/j/99583981560?pwd=MkN0Q2NpTDF5eW5wK0ZUajNKS0pPUT09</a></p> <p>Meeting ID:[masked]<br/>Passcode:[masked]<br/>One tap mobile<br/>[masked],,[masked]# United Kingdom<br/>[masked],,[masked]# United Kingdom</p> <p>Dial by your location<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>[masked] United Kingdom<br/>Meeting ID:[masked]<br/>Find your local number: <a href=\"https://zoom.us/u/apHTPsgrT\" class=\"linkified\">https://zoom.us/u/apHTPsgrT</a></p> ",
     "end_time": 1603825200,
     "link": "https://www.meetup.com/OWASP-Bristol/events/268319035/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "OWASP-Bristol",
     "start_time": 1603821600,
     "title": "OWASP UK - Secure Coding Tournament - Opening Ceremony "

@@ -3,7 +3,14 @@
     "description": "<p>About the talk:<br/>Once upon a time, relational databases or RDMS (think SQL), was the only data store in town. But now there\u2019s a competitor, Document Databases aka NoSQL. In this talk, you will learn about the basic differences between them, what MongoDB is, why document databases are so powerful, how MongoDB can be used with .NET and some really cool uses cases that show databases can be cool ;).</p> <p>About the speaker:<br/>Luce is a Developer Advocate for MongoDB, based in Manchester, UK. She is also a proud Microsoft MVP and Twilio Champion. When not speaking at events, she can be found writing mobile apps with Xamarin, taking on ADHD, streaming on Twitch or helping developers build confidence and battle Impostor Syndrome, one line of code or story at a time.</p> <p>Twitter: @LuceCarter1</p> ",
     "end_time": 1642710600,
     "link": "https://www.meetup.com/dotnetsouthwest/events/280872366/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1642705200,
     "title": "Virtual - Intro to MongoDB and .NET - From Tables to Documents with Luce Carter"

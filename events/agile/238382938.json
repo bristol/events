@@ -3,7 +3,14 @@
     "description": "<p>As described in Mike's recent blog post\u00a0<a href=\"https://blog.agendashift.com/2017/01/05/lean-agile-transformation-as-lean-agile-process/\">Lean-Agile transformation as Lean-Agile process</a>\u00a0we'll look at least one of the 'Discover' or 'Exploration' elements of the five part transformation process:\u00a0</p> <p><b>Discovery<br/></b>Identifying strategic goals, obstacles, and outcomes</p> <p><b>Exploration<br/></b>Debriefing your Agendashift values-based delivery assessment, agreeing scope and approach</p> <p><b>Mapping<br/></b>Building your transformation plan</p> <p><b>Elaboration<br/></b>Generating, framing, and developing actions</p> <p><b>Operation<br/></b>Organising for continuous transformation</p> <p>Don't expect a long talk. Do expect a hands-on experience :-) Definitely some Clean Language. Time permitting some Cynefin also.</p> <p>As it happens, the full workshop takes place locally the following day:\u00a0<a href=\"https://www.eventbrite.co.uk/e/agendashift-facilitator-day-bristol-tickets-31600242175\">Agendashift facilitator day, Bristol</a></p> <p>Mike is the founder of <a href=\"https://www.agendashift.com/\">Agendashift</a>, author of the book Kanban from the Inside, consultant, coach, and trainer. In recent months he has been the interim delivery manager for two UK government digital \"exemplar\" projects and consultant to public and private sector organisations at home and abroad. Prior to his consulting career, he was global development manager and Executive Director at a top tier investment bank, and IT Director for an energy risk management startup.\u00a0</p> <p>Mike is working on his next book: '<i>Agendashift: clean conversations, coherent collaboration, continuous transformation', </i>preview it\u00a0<a href=\"https://www.agendashift.com/book\">here</a></p> <p>Our kind hosts, <a href=\"https://www.just-eat.co.uk/jobs\">Just Eat</a> will be providing pizza and refreshments.</p> ",
     "end_time": 1493240400,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/238382938/",
-    "location": null,
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
     "org": "agile",
     "start_time": 1493229600,
     "title": "Exercises in Lean-Agile transformation"

@@ -3,7 +3,14 @@
     "description": "<p>Ben Bennett presents for the first segment in the Startup Series! Join us as we kick off the third series of informative content from the experts.</p> <p>Listen and Learn | Q&amp;A | Excellent Discussion</p> <p>Join the conversation in the Bunker now: <a href=\"https://join.slack.com/t/devops-bunker/shared_invite/zt-cy0rb3xx-SzRIiCenuWzfW7kqyr81zQ\" class=\"linkified\">https://join.slack.com/t/devops-bunker/shared_invite/zt-cy0rb3xx-SzRIiCenuWzfW7kqyr81zQ</a></p> ",
     "end_time": 1604512800,
     "link": "https://www.meetup.com/Bristol-DevOps-Gathering/events/274283423/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "Bristol-DevOps-Gathering",
     "start_time": 1604509200,
     "title": "Startup Series with Ben Bennett \"Steps to Take Before You Start Selling\""

@@ -3,7 +3,14 @@
     "description": "<p>**Functional Programming** is a style of programming that's been around since the 1950s, a long time before object-orientation even became a thing!</p> <p>Even though OO is considered mainstream by most programmers today, there is a solid resurgence to this older programming style.</p> <p>This talk will look at why you should consider using Functional Programming and delve into the benefits of using this programming style on modern hardware. We'll be dealing primarily with concepts but might look at a few lines of code too.</p> <p>SPEAKER<br/>**Marco Vermeulen**<br/>Lead author of \"Functional Programming in Kotlin\".</p> <p>\\*\\*<br/>This talk will be recorded and a link to the video added in the Comments shortly after the event takes place.</p> ",
     "end_time": 1649268000,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/284775440/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1649264400,
     "title": "What is Functional Programming, and why should I care?"

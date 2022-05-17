@@ -3,7 +3,14 @@
     "description": "<p>Remote Meetup - link to meeting room will be posted in #bristol-clojurians on <a href=\"https://clojurians.slack.com\" class=\"linkified\">https://clojurians.slack.com</a></p> <p>This event we'll be playing with GPT-2 an AI model from OpenAI that can be used to power services like:<br/>\u2022 <a href=\"https://talktotransformer.com/\" class=\"linkified\">https://talktotransformer.com/</a><br/>\u2022 <a href=\"https://aidungeon.io/\" class=\"linkified\">https://aidungeon.io/</a></p> <p>More information here: <a href=\"https://openai.com/blog/better-language-models/\" class=\"linkified\">https://openai.com/blog/better-language-models/</a></p> <p>We'll be doing this via Python interop following this tutorial: <a href=\"http://gigasquidsoftware.com/blog/2020/01/10/hugging-face-gpt-with-clojure/\" class=\"linkified\">http://gigasquidsoftware.com/blog/2020/01/10/hugging-face-gpt-with-clojure/</a></p> <p>\u2022 What we'll do - This study group is for people who want to learn or improve their knowledge of Clojure (<a href=\"https://clojure.org/\" class=\"linkified\">https://clojure.org/</a>) and ClojureScript (<a href=\"https://clojurescript.org/\" class=\"linkified\">https://clojurescript.org/</a>)</p> <p>All levels of experience are welcome.</p> <p>It would be helpful if you have Leiningen (<a href=\"https://leiningen.org/\" class=\"linkified\">https://leiningen.org/</a>) installed and an IDE with a Clojure plugin, though not essential.</p> <p>Additionally, we'll be helping beginners start with their IDEs &amp; hello world style projects for anyone new to Clojure</p> ",
     "end_time": 1585166400,
     "link": "https://www.meetup.com/Bristol-Clojurians/events/zdfnqrybcfbhc/",
-    "location": null,
+    "location": {
+        "address": "6 Temple Studios",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448184967041016,
+        "longitude": -2.5816330909729004,
+        "name": "Polecat"
+    },
     "org": "clojurians",
     "start_time": 1585159200,
     "title": "Clojure Programming Group (Playing with Python AI GPT2)"

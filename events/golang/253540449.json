@@ -3,7 +3,14 @@
     "description": "<p>Join us for our August meetup where we'll be looking at Go Cloud!</p> <p>Thanks to Temple Studios for kindly hosting us this month, and to Hedge for providing food and drinks.</p> <p>Here is the plan with (infeasibly precise) timings.</p> <p>18:45 - Arrive at Temple Studios (BS1 6QA)</p> <p>19:00 - Welcome</p> <p>19:05 - \"Go is good for DevOps\" - James Andrews</p> <p>DevOps practices are seen as one of the answers to today's problems of running fast-changing, highly available systems. We'll look at how Go is a great fit for these practices.</p> <p>19:20 - Break</p> <p>19:30 - \"Go - the language of portable cloud applications\" - Jake Clarkson</p> <p>The Go team at Google recently released (24th July) Go Cloud, a project that aims to make Go the \"language of choice for developers building portable cloud applications\". Armed with a brief history of the cloud as a concept, the evolution of DevOps and the open cloud we will look at how Go Cloud goes about achieving its aim with the aid of some live demos (wish me luck in advance!).</p> <p>From Jake:<br/>I'm CTO at Amigo (<a href=\"https://amigotechnology.com/\" class=\"linkified\">https://amigotechnology.com/</a>). I've loved Go ever since it delivered on its promise of giving the agile workflow of a dynamic language while offering the type safety and runtime performance and portability of compiled languages - two traits I had previously accepted as being mutually exclusive. We've been using Go in production for &gt;3 years and it's one of the best decisions I've ever made.</p> <p>20:20 Head home or continue your conversations at the pub.</p> ",
     "end_time": 1535486400,
     "link": "https://www.meetup.com/golang-bristol/events/253540449/",
-    "location": null,
+    "location": {
+        "address": "Temple Gate",
+        "city": "Bristol, BS1 6QA",
+        "country": "gb",
+        "latitude": 51.447959899902344,
+        "longitude": -2.5822761058807373,
+        "name": "Temple studios"
+    },
     "org": "golang",
     "start_time": 1535478300,
     "title": "DevOps, Cloud, Go!"

@@ -3,7 +3,14 @@
     "description": "<p>About the Talk:<br/>Microsoft Azure is huge and changes fast! There are already over 90 service with many features. Which ones are valuable for you, as a developer? And which ones should you use when?</p> <p>In this session, I demystify the purpose of the services in Azure that are meant for developers. I'll tell you which ones are meant for which scenarios, so that you know how to pick the ones that fit your needs. Amongst many other things, you'll learn the differences between the options for hosting your applications in Azure and what you need to look for when deciding on a data store in Azure. You'll learn how to pick the right services for speeding up your application and what you should use to monitor your application.</p> <p>In short, this session answers the question that everybody wants an answer to: Which Azure services should I use for my scenario?</p> <p>About the Speaker:<br/>Barry is an independent software architect and developer with a passion for the cloud. He is also a Pluralsight author. He has worked for lots of companies throughout the last decade and is keen to share his knowledge with the community. He has a broad and deep knowledge of the Microsoft stack with a special interest on web technology and the cloud. He currently teaches people about the benefits of the cloud. He lives in the Netherlands with his beautiful wife and kids and loves to play with their two Siberian huskies. You can reach Barry on Twitter<br/>@AzureBarry<br/>and through his website at <a href=\"https://azurebarry.com\" class=\"linkified\">https://azurebarry.com</a>.</p> ",
     "end_time": 1594150200,
     "link": "https://www.meetup.com/dotnetsouthwest/events/271309073/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1594144800,
     "title": "Virtual - Answering the million dollar question: What to use when? (in Azure)"

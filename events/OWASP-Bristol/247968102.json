@@ -3,7 +3,14 @@
     "description": "<p>Agenda:<br/>\u2022 6:00 pm - Social<br/>\u2022 6:30 pm - OWASP update<br/>\u2022 6:35 pm - Presentation 1: Red Team tactics against a windows enterprise lock down network infrastructure - Sadi Zane, Raytheon<br/>\u2022 7:30pm - Presentation 2: DNS as a Cyber Security tool - Jonny Tyers<br/>\u2022 After - Pub: The Famous Royal Navy Volunteer (<a href=\"http://navyvolunteer.co.uk/\" class=\"linkified\">http://navyvolunteer.co.uk/</a>)</p> <p>Presentation 1: Red Team tactics against a windows enterprise lock down network infrastructure</p> <p>Abstract: This talk demonstrate demonstrate Red Team technique/tactics against a windows enterprise lock down network infrastructure, from an initial foothold with user level access to domain administrator without missing security patches. This a technical talk that will cover the followings:<br/>- Red Team infrastructure design review<br/>- Initial foothold using native windows built tools<br/>- Privilege escalation from authenticated user to local administrator<br/>- Credential harvesting from Local Security Authority Service<br/>- Lateral movement from initial foothold to primary domain controller ( Native windows Tool)<br/>- Stealth Persistence (Native windows tool)</p> <p>Bio: Sadi, a Red Team Security Consultant working for Raytheon (ACS) Advanced Cyber Security Team, delivers advanced security red team projects.Qualified OSCP Offensive Security Certified Professional and check team member.</p> <p>Presentation 2: DNS as a cyber security tool<br/>- the data you can get out of DNS<br/>- the protection you can provide using DNS (incl vulnerabilities in DNS today)<br/>- the ease of deploying DNS-based protection in an organisation/cloud infrastructure<br/>- secure DNS / the future of DNS</p> <p>Bio: Sysadmin, developer and cyber security entrepreneur, Jonny has been hacking, coding and reading about computers since the days of 486es and dialup modems. Until recently working in secure government systems, he lives in Bristol and runs SHEPD (cyber-as-a-service for SMEs) and consults as a security architect.</p> ",
     "end_time": 1529008200,
     "link": "https://www.meetup.com/OWASP-Bristol/events/247968102/",
-    "location": null,
+    "location": {
+        "address": "Floor 4, Broad Quay House, Broad Quay Bristol  BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45170974731445,
+        "longitude": -2.596795082092285,
+        "name": "Forgerock"
+    },
     "org": "OWASP-Bristol",
     "start_time": 1528995600,
     "title": "DNS as Cyber Tool & Red Team Tactics against a Windows network"

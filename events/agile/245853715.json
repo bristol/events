@@ -3,7 +3,14 @@
     "description": "<p>Thomas Guest is a member of a distributed engineering team. They have an office and all share the same timezone, but the amount of time team-members spend in that office varies between 10% and 90%.</p> <p>This separation would seem like a barrier to the effective teamwork that forms the centre of agile software development, but they've found ways to survive and thrive at a distance.</p> <p>The technology and tools that support remote working have been good enough for some time, and continue to improve. Some practices bridge the gap more effectively than others. There are surprising benefits. There are also pitfalls, but Thomas will argue that designing a remote-friendly workplace is to everyone's advantage. This case study is based on his own experience but there will be time for questions and discussion.</p> <p>About our speaker</p> <p>Thomas Guest is an experienced and enthusiastic software engineer. He likes programming, puzzles, running and noodles. He works at @clinithinkWales (<a href=\"http://twitter.com/clinithinkWales\" class=\"linkified\">http://twitter.com/clinithinkWales</a>). His website is wordaligned.org (<a href=\"http://wordaligned.org/\" class=\"linkified\">http://wordaligned.org/</a>).</p> ",
     "end_time": 1516050000,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/245853715/",
-    "location": null,
+    "location": {
+        "address": "1 Rivergate",
+        "city": "Bristol BS1 6ED ",
+        "country": "gb",
+        "latitude": 51.451011657714844,
+        "longitude": -2.583268880844116,
+        "name": "Ovo Energy"
+    },
     "org": "agile",
     "start_time": 1516042800,
     "title": "Agile at a distance with Thomas Guest"

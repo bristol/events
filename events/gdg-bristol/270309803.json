@@ -3,7 +3,14 @@
     "description": "<p>Hello!</p> <p>We\u2019re sure most of you are interested in learning new technologies and tools. That\u2019s why we\u2019re excited to participate in the Community Speedrun Challenge that Google is organizing for developer communities in Europe. And as part of the GDG Bristol community, you\u2019re among the first to know about this!</p> <p>The Community Speedrun Challenge is a training program that will run in May where you\u2019ll have the opportunity to join four Speedruns and get hands-on experience with Machine Learning on Google Cloud, and take your first steps with tools like BigQuery, Cloud Speech API, and Cloud ML Engine. Every Speedrun is open for a week to give you the ability to finish all labs in your best time, scoring more points and winning prizes.</p> <p>PLEASE NOTE: This event is run by Google, and you must register on the Community Speedrun Challenge website to participate!</p> <p>Find more information and to register go to: <a href=\"https://bit.ly/speedrunchallengeeurope\" class=\"linkified\">https://bit.ly/speedrunchallengeeurope</a></p> <p>Schedule:<br/>Speedrun Start Dates: May 4th, 11th, 18th, and 25th<br/>Webinar Time: Mondays from 7pm to 9pm (GMT+2)<br/>(Google publish times as GMT+2, British Summer Time is GMT+1 so the Meetup event times should be correct!)</p> <p>Topics<br/>Baseline: Data, ML, AI with Zack Akil (Google)<br/>Intro to ML: Language Processing with Dale Markowitz (Google)<br/>Intermediate ML with Lee Boonstra (Google)<br/>BigQuery for Machine Learning with Felipe Hoffa (Google)</p> ",
     "end_time": 1589223600,
     "link": "https://www.meetup.com/GDG-Bristol/events/270309803/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "gdg-bristol",
     "start_time": 1589216400,
     "title": "Community Speedrun Challenge #2:  Intro to ML: Language Processing"

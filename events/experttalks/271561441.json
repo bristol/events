@@ -3,7 +3,14 @@
     "description": "<p>To round off our series of six talks around \"Continuous Delivery\" we are bringing together some of the Speakers in an hour-long Expert Clinic Fishbowl.</p> <p>**<br/>The six Talks were :<br/>Dave Farley - The Rationale for Continuous Delivery<br/>Lyndsay Prewer - Smoothing the Continuous Delivery Path: a tale of two architectures<br/>Steve Smith - Measuring Continuous Delivery<br/>Ben Conrad - How their digital tax platform has supported the rapid launch of Covid-19 services at HMRC<br/>Stuart Gunter - Secure Continuous Delivery<br/>Lisa Crispin - A Whole Team Approach to Quality in Continuous Delivery</p> <p>**<br/>You can see details (and recordings) of all these Talks at www.equalexperts.com/expert-talks<br/>**<br/>Join us and put your questions to these Continuous Delivery Experts!<br/>**</p> ",
     "end_time": 1594836000,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/271561441/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1594832400,
     "title": "Expert Clinic:  Fishbowl discussion on the subject of Continuous Delivery"

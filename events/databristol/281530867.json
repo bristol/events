@@ -3,7 +3,14 @@
     "description": "<p>Online Q&amp;A with an expert panel of Data Scientists to find out the latest in the world of Data Science and ask your questions.</p> <p>Panelists</p> <p>Terry McCann: <a href=\"https://www.linkedin.com/in/tpmccann/\" class=\"linkified\">https://www.linkedin.com/in/tpmccann/</a></p> <p>Jan Teichmann: <a href=\"https://www.linkedin.com/in/janteichmann/\" class=\"linkified\">https://www.linkedin.com/in/janteichmann/</a></p> <p>Gavita Regunath: <a href=\"https://www.linkedin.com/in/gavitaregunath/\" class=\"linkified\">https://www.linkedin.com/in/gavitaregunath/</a></p> <p>Steph Locke: <a href=\"https://www.linkedin.com/in/stephanielocke/\" class=\"linkified\">https://www.linkedin.com/in/stephanielocke/</a></p> <p>Welcome back to Data Bristol! We are looking forward to in-person events, but until we can host them, we will do some online events to touch base with you all and catch up with some of our awesome speakers.</p> <p>It would be great to hear some of your questions in advance so we can prepare some discussions with our panelists. Please send us a message with anything you'd like to ask.</p> <p>Looking forward to seeing you there!</p> <p>The zoom link will be made available when you RSVP. The passcode will be send out just before the event.</p> <p>Thanks!<br/>John, Anna and the team.</p> ",
     "end_time": 1637182800,
     "link": "https://www.meetup.com/DataBristol/events/281530867/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "databristol",
     "start_time": 1637175600,
     "title": "Microsoft Data Science - Panel Q&A"

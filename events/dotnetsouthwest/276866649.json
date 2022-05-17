@@ -3,7 +3,14 @@
     "description": "<p>iO Associates are delighted to bring you our next .Net Virtual Meetup on May 19th at 6:30 pm! This session will be led by Poornima Nayar, Umbraco MVP and Senior Developer, and Clare Sudbery, Lead Engineer. This talk will cover GraphQL in .Net Core &amp; How to Stop Testing and Break your Code Base.</p> <p>This session will be split into two parts. The first half of this talk will be led by Poornima Nayar, Umbraco MVP and Senior Developer.</p> <p>Register here- <a href=\"https://us02web.zoom.us/meeting/register/tZElc-GurzwvHNdrCRJnNCfDBx4DTnyMYl_P\" class=\"linkified\">https://us02web.zoom.us/meeting/register/tZElc-GurzwvHNdrCRJnNCfDBx4DTnyMYl_P</a></p> <p>About the speaker:</p> <p>Poornima is a .Net developer with over 10 years of experience in .Net and Umbraco. She is passionate about learning new technologies and keeping herself up-to-date with the latest developments in technology. Outside her work, Poornima enjoys music and is undergoing training in Indian Classical music. Based in Langley, UK she mothers a little girl and spends her spare time reading, cooking and watching movies.</p> <p>Poornima gives us some insight on her upcoming session:</p> <p>\u2018GraphQL is a cool kid on the block. It's a term that is gaining traction these days and the tech stack is getting quite popular. In my session, I will introduce GraphQL as a concept. From there on, we will look at how we can create a GraphQL service and consume that GraphQL service in a Blazor App\u2019</p> <p>The second half of this session will be led by Clare Sudbery, Lead Engineer:</p> <p>Clare is a lead consultant developer with Made Tech. She is a maths graduate with 20 years of software engineering experience, and a particular interest in teaching and mentoring; encouraging more women into IT, and banishing impostor syndrome. Seven years ago she returned to IT with a sigh of relief after a few years as a high school maths teacher. Since then she has embraced all things XP. She is on a mission to awaken the inner geek in clever women (and men) everywhere.</p> <p>In this session, Clare will be asking: Do you code on your own? When you do, do you write unit tests? Do you agree that there are benefits to using test-driven development?</p> <p>Cheers,</p> <p>Michael Collins - iO Associates</p> ",
     "end_time": 1621450800,
     "link": "https://www.meetup.com/dotnetsouthwest/events/276866649/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1621445400,
     "title": "Virtual - iO .Net Virtual Meetup with Poornima Nayar & Clare Sudbery"

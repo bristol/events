@@ -3,7 +3,14 @@
     "description": "<p>It's that time of year where we can kick back and watch the Google I/O Keynote via live stream from the comfort of Hargreaves Lansdown's conference space complete with food and refreshments.\u00a0</p> <p><b>Watch with your fellow SWmobile members and discuss the new announcements as they happen! </b>Bonus points if you can spot any SWmobile members who are over in San Francisco in person.\u00a0</p> <p>If you haven't heard of Google I/O it's an annual developer conference held by Google in San Francisco, California. I/O showcases technical in-depth sessions focused on building web, mobile, and enterprise applications with Google and open sources such as Android, Chrome and Chrome OS, APIs, Google Web Toolkit, App Engine, and more.</p> <p><b>As with previous events at Hargreaves Lansdown you'll have RSVP (so any guests will have to register as member) and bring photo id.</b></p> ",
     "end_time": 1495051200,
     "link": "https://www.meetup.com/swmobile/events/238213878/",
-    "location": null,
+    "location": {
+        "address": "One College Square South, Anchor Road, City of Bristol BS1 5HL",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 0,
+        "longitude": 0,
+        "name": "hargreaves lansdown"
+    },
     "org": "swmobile",
     "start_time": 1495039500,
     "title": "Watch the Google I/O Keynote via live stream"

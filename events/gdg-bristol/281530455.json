@@ -3,7 +3,14 @@
     "description": "<p>PLEASE RSVP USING THE LINK BELOW</p> <p><a href=\"https://gdg.community.dev/events/details/google-gdg-bristol-presents-devfest-uk-ireland-external-rsvp/\" class=\"linkified\">https://gdg.community.dev/events/details/google-gdg-bristol-presents-devfest-uk-ireland-external-rsvp/</a></p> <p>What is DevFest?</p> <p>DevFest is one of the larger scale community-driven tech conferences in the UK &amp; Ireland, carefully crafted for you by the Google Developer Group (GDG) community! GDG is a group of developers passionate about Google technologies with a strong focus on knowledge exchange and networking.</p> <p>This year's DevFest UK &amp; Ireland will be a hybrid one (in-person and virtual), with the in-person part being held at and hosted by King's College London.</p> <p>Learn about Mobile, Web, Cloud, AI, Machine Learning, Hot Tech and more from world experts. We also have a track dedicated solely on Diversity, Equity &amp; Inclusion.</p> <p>**NOTE if attending in person:**</p> <p>As this is a hybrid event, for anyone attending in person we have some requirements to ensure the safety of our attendees, speakers, sponsors, and volunteers.</p> <p>To gain entry to the venue attendees will be required to show proof of vaccination or a negative lateral flow test taken within the last 48 hours. Also, everyone will be required to wear a mask (unless you have a proof of exemption) for the duration of the event when inside and not eating or drinking.&amp;nbsp;</p> <p>---</p> <p>PLEASE RSVP USING THE LINK BELOW</p> <p><a href=\"https://gdg.community.dev/events/details/google-gdg-bristol-presents-devfest-uk-ireland-external-rsvp/\" class=\"linkified\">https://gdg.community.dev/events/details/google-gdg-bristol-presents-devfest-uk-ireland-external-rsvp/</a></p> ",
     "end_time": 1643479200,
     "link": "https://www.meetup.com/GDG-Bristol/events/281530455/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": "London",
+        "country": "gb",
+        "latitude": 51.512508392333984,
+        "longitude": -0.11654199659824371,
+        "name": "Bush House South East Wing, King's College London"
+    },
     "org": "gdg-bristol",
     "start_time": 1643446800,
     "title": "DevFest UK & Ireland (External RSVP)"

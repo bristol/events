@@ -3,7 +3,14 @@
     "description": "<p>Software development practices &amp; Infrastructure as Code - how well do they work together?</p> <p>Infrastructure as Code (IaC) has rapidly become a key part of cloud native engineering.<br/>The hard gained experience from writing software can be applied to infrastructure, but fundamental differences means some fundamental approached need to be reconsidered.<br/>This talk will explore the implications for test driven development and build pipelines applied to IaC.</p> <p>**</p> <p>SPEAKER: Jon Barber<br/>Engineer - Equal Experts</p> <p>Jon has been paid to write software for over 30 years, and has spent most of his time recently in the platform engineering space.<br/>He\u2019s a keen advocate of XP values and practices, and sees himself more as an engineer than craftsman.</p> ",
     "end_time": 1597860000,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/272249153/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1597856400,
     "title": "Summer Series: Software development practices & Infrastructure as Code...."

@@ -3,7 +3,14 @@
     "description": "<p>There are 2.7 billion employees worldwide who don\u2019t sit behind a desk.</p> <p>When it comes to implementing hardware and software to accommodate their needs, employers have lagged behind.</p> <p>Paul will share why the Mobile Practice at Equal Experts believes now is the time for enterprises to invest in the non-office workforce and why it makes business sense to give these workers modern tools and technology.</p> <p>&gt;&gt;&gt;Followed By:&gt;&gt;&gt;&gt;</p> <p>Virtual Fishbowl session where all attendees will have a chance take part in a discussion on how Mobile can make work more engaging and productive</p> <p>SPEAKER:<br/>Paul Stringer: Enterprise Mobile Practice Lead, Equal Experts</p> ",
     "end_time": 1589392800,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/270500067/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1589389200,
     "title": "A mobile workforce requires mobile solutions (now more than ever)"

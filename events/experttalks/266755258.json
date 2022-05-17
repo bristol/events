@@ -3,7 +3,14 @@
     "description": "<p>TALK 1 - Avoiding The Security Brick</p> <p>A talk exploring some battle-tested techniques to help security teams stop throwing (metaphorical) bricks at engineers and make sure security is done properly while delivering at pace.</p> <p>Chris Rutter<br/>Security Engineer / Transformation specialist<br/>at Equal Experts.</p> <p>TALK 2 - How a major UK retailer transformed its shop-floor culture, with an app!</p> <p>How can a simple app transform how people behave on the shop-floor of a multibillion-pound retailer? What is it that brings users back daily? This case study tells the story of how one agile delivery team overcame some complex challenges to deliver a web-app that attracted users in 93% of stores within two weeks of launch and sees 90% of users returning, every week.</p> <p>Paul O\u2019Donnell<br/>Delivery Lead<br/>at Equal Experts</p> ",
     "end_time": 1579809600,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/266755258/",
-    "location": null,
+    "location": {
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44877243041992,
+        "longitude": -2.5869550704956055,
+        "name": "DeskLodge House"
+    },
     "org": "experttalks",
     "start_time": 1579802400,
     "title": "ExpertTalks Bristol"

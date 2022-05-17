@@ -3,7 +3,14 @@
     "description": "<p>This talk goes into my experience over the last couple of years building systems based on microservics architecture.</p> <p>Whilst I'll mention the technology used this talk won't be about the technology more about general principles and the lessons learnt during these projects.</p> <p>I'll cover how we built the system, deploying the code &amp; most importantly how to support the system.</p> <p>About Nathan Gloyn</p> <p>Nathan is a passionate developer and firm believer in agile principles. In his day time job he is contractor helping clients deliver working software.</p> <p>Nathan has successfully boot strapped scrum &amp;amp; agile teams in various companies that he has worked at and has given presentations on technology and agile at a number of events.</p> <p>You can find out more about Nathan by his blog located at <a href=\"http://designcoderelease.blogspot.com\" class=\"linkified\">http://designcoderelease.blogspot.com</a></p> ",
     "end_time": 1535486400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/253579661/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1535477400,
     "title": "Microservices: What I\u2019ve learned after a year building systems"

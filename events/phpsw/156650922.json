@@ -3,7 +3,14 @@
     "description": "<p>Meet up and talk about beer and new years, and maybe even PHP too.</p> <p>Venue: Horts, Broad Street -\u00a0<a href=\"http://www.hortsbristol.com\" class=\"linkified\">http://www.hortsbristol.com</a></p> ",
     "end_time": 1389218400,
     "link": "https://www.meetup.com/php-sw/events/156650922/",
-    "location": null,
+    "location": {
+        "address": "49 Broad Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.455406188964844,
+        "longitude": -2.59395694732666,
+        "name": "Horts"
+    },
     "org": "phpsw",
     "start_time": 1389207600,
     "title": "Social Night"

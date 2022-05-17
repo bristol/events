@@ -3,7 +3,14 @@
     "description": "<p>With the digitalisation of the economy we are confronted with a new information order often described as \u2018surveillance capitalism\u2019 that thrives on the exploitation of huge amounts of data across our social and everyday lives.</p> <p>How should we make sense of these developments? And what do they mean for long-standing struggles for social, economic, racial and environmental justice?</p> <p>In this talk we\u2019ll take stock of some of the ways data is collected and used in society, their implications, and how we might advance alternative data infrastructures and economies.</p> <p>With Lina Dencik (Data Justice Lab, Cardiff University<br/>Sponsored by Open Rights Group</p> <p>This event is part of Bristol Transformed. Tickets and full programme are available here:<br/><a href=\"http://bristoltransformed.org/crbc\" class=\"linkified\">http://bristoltransformed.org/crbc</a></p> ",
     "end_time": 1554561000,
     "link": "https://www.meetup.com/ORG-Bristol/events/260366722/",
-    "location": null,
+    "location": {
+        "address": "Stokes Croft",
+        "city": "Avon",
+        "country": "gb",
+        "latitude": 51.46204376220703,
+        "longitude": -2.5897369384765625,
+        "name": "City Road Baptist Church"
+    },
     "org": "org",
     "start_time": 1554555600,
     "title": "Data Justice Lab & ORG Bristol: Resisting Surveillance Capitalism"

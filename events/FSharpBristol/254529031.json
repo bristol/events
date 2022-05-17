@@ -3,7 +3,14 @@
     "description": "<p>Workshop for those who's like to learn F# and functional languages in general, aimed at attendees who have a general knowledge of object-oriented languages like C#, Java, Python, JavaScript etc.</p> <p>The workshop consists of 2 segments:</p> <p>1 - Presentation explaining the fundamental concepts &amp; advantages of F#<br/>2 - Interactive workshop where we will each build a Logo Turtle from scratch</p> <p>Please bring along a laptop if you can; if you haven't got one available we will happily pair you up with other attendees or the presenters to work through the exercise</p> <p>As always beer and pizza will be provided.</p> <p>--- Laptop Setup Instructions ---</p> <p>You will need the .NET Core 2.1 SDK installed locally.</p> <p>If you don't already have this installed click \"Download .NET Core SDK\" here: <a href=\"https://www.microsoft.com/net/download/core\" class=\"linkified\">https://www.microsoft.com/net/download/core</a></p> <p>You'll also need Visual Studio Code, Ionide and the Visual F# Tools.</p> <p>Go here: <a href=\"http://fsharp.org/use/windows/\" class=\"linkified\">http://fsharp.org/use/windows/</a> and follow \"Options 2: Install Visual Studio Code\", then \"Option 4: Install the Visual Studio 2017 Build Tools\".</p> <p>If you run into any troubles please feel free to contact us prior to the exercise. We will also set some time aside to get everyone up &amp; running prior to starting on the day.</p> <p>--- Resources ---</p> <p>The exercise code can be found here: <a href=\"https://github.com/FSharpBristol/FSharpTurtleTutorial\" class=\"linkified\">https://github.com/FSharpBristol/FSharpTurtleTutorial</a></p> <p>The slides can be found here: <a href=\"https://fsharpbristol.github.io/FSharpBristol/presentations/FSharpTurtleTutorial#/\" class=\"linkified\">https://fsharpbristol.github.io/FSharpBristol/presentations/FSharpTurtleTutorial#/</a></p> ",
     "end_time": 1539201600,
     "link": "https://www.meetup.com/FSharpBristol/events/254529031/",
-    "location": null,
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
     "org": "FSharpBristol",
     "start_time": 1539190800,
     "title": "Introduction to F#:  The Turtle Tutorial"

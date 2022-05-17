@@ -3,7 +3,14 @@
     "description": "<p>So what <i>is</i>\u00a0new in mobile? Google just had Google I/O, Apple just had WWDC, there's been announcements left right and centre!</p> <p>Come find out what's changed and what features are available to developers now/soon.</p> <p>The lineup will include:</p> <p><b>\u2022 Jack Newcombe</b>\u00a0-\u00a0What's new in iOS</p> <p>\u2022\u00a0<b>Andrew Wyld</b> -\u00a0What's new in Android</p> <p>\u2022\u00a0<b>Alex West</b> -\u00a0What's new in Windows Mobile</p> ",
     "end_time": 1437510600,
     "link": "https://www.meetup.com/swmobile/events/222474505/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
     "org": "swmobile",
     "start_time": 1437499800,
     "title": "SWMobile: What's new in mobile"

@@ -3,7 +3,14 @@
     "description": "<p>First, a big welcome to all the new members and a promise we will be re-starting our DevSecOps meetups in the Autumn.</p> <p>Secondly, it\u2019s *conference* time!! - We are hosting our inaugural Cyber conference in Bristol on May 15th, at the Watershed!</p> <p>Get your tickets here!! <a href=\"https://www.bristolcybercon.com\" class=\"linkified\">https://www.bristolcybercon.com</a></p> <p>****This is not a meetup event and is a paid event, so you will need to go via the website to pick up tickets. Tickets are limited so buy early!***</p> <p>We have 4 interactive workshops/hackathons, a Red Team vs Blue Team panel debate, and 15+ inspiring speakers that are thought leaders in their space - including DevSecOps.<br/>The conference is designed to be fun, informative and engaging, whatever your experience - and we will be practicing social engineering and gameification techniques at the event!</p> <p>Immersive Labs, Secure Code Warrior, BAE Systems and IBM will be hosting Hackathons, Lock picking and Wargame exercises throughout the day, plus we\u2019ll have comedy cyber skits courtesy of our comedy duo Adrian Taylor &amp; Ian Murphy.</p> <p>In terms of DevSecOps speakers, we have:<br/>- Colin Domoney back by popular demand - he will be presenting on how GitOps can be used to securely deploy enterprise software.<br/>- Jon Hatton Brown of Dyson will be back - explaining how he\u2019s reverse engineered an electric car\u2019s CAN bus<br/>- Sash Rigby will be demonstrating how he both infiltrates and hacks into large enterprise organisations<br/>- Tash Norris from Photobox - Tash is going to show you how to equip your engineering teams with the TTPs (Tactics, Tools and Procedures) to defend against attackers<br/>- Adrian Taylor - On playing Chess with your adversaries, and giving you the tools to beat them<br/>- Ian Murphy - Ian will be punning the Verve with his \u201cThe logs don\u2019t work, they just make it worse\u201d. Why SOC\u2019s can\u2019t find the needle in a haystack.</p> <p>See the website for more speakers. We\u2019re also looking at hosting a \u2018wall of sheep\u2019 to demonstrate how easy it is to harvest data from a wifi network, plus a casino corner where we\u2019ll join together for a code-playing card game!</p> <p>Tickets are limited so book early!</p> <p><a href=\"https://www.bristolcybercon.com\" class=\"linkified\">https://www.bristolcybercon.com</a></p> ",
     "end_time": 1557937800,
     "link": "https://www.meetup.com/DevSecOps-force-4-change/events/260713143/",
-    "location": null,
+    "location": {
+        "address": "1 Canon's Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451393127441406,
+        "longitude": -2.5982589721679688,
+        "name": "Watershed"
+    },
     "org": "devsecops",
     "start_time": 1557907200,
     "title": "BristolCyberCon - Bristol's 1st cyber conference!"

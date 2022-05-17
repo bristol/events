@@ -3,7 +3,14 @@
     "description": "<p>Our next meetup will be about the quest for quality apps. Can we quantify the quality of our apps? How do we quit writing bugs and quell the occurrence of regressions? How many other words can we think of that start with Q?</p> <p>Let's not quibble as we discuss all things QA.</p> <p>We're being hosted by the University of Bristol, at the Merchant Venturers building. Meeting from 6:30pm, with the talks starting around 7pm.</p> <p>Speakers:</p> <p>\u2022 Dan Box \u2013 Bugfinders: Testing-as-a-service \u00a0</p> <p>\u2022 Dave Jones - Squashing Bugs In The Wild</p> <p>\u2022\u00a0Scott Alexander-Bown: 24 Pull Requests</p> <p>Afterwards we'll be heading to Zero Degrees where there will be a free first drink courtesy of our sponsors.</p> ",
     "end_time": 1416951000,
     "link": "https://www.meetup.com/swmobile/events/207313202/",
-    "location": null,
+    "location": {
+        "address": "Merchant Venturers Building Woodland Road Bristol BS8 1UB",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.4561653137207,
+        "longitude": -2.60315203666687,
+        "name": "University of Bristol, Merchant Venturers Building"
+    },
     "org": "swmobile",
     "start_time": 1416940200,
     "title": "QA: Quality Apps = Quite Awesome"

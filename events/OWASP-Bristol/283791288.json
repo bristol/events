@@ -3,7 +3,14 @@
     "description": "<p>Event lead by OWASP Suffolk.<br/>Talk: Thinking Like The Enemy with Peter Cochrane OBE.<br/>Event details at:<br/><a href=\"https://www.meetup.com/OWASP-Suffolk-Chapter/events/283194340/\" class=\"linkified\">https://www.meetup.com/OWASP-Suffolk-Chapter/events/283194340/</a></p> ",
     "end_time": 1644958800,
     "link": "https://www.meetup.com/OWASP-Bristol/events/283791288/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "OWASP-Bristol",
     "start_time": 1644951600,
     "title": "Cyber Security - Thinking Like The Enemy "

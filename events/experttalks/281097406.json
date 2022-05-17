@@ -3,7 +3,14 @@
     "description": "<p>This talk starts at 8.30am<br/>**<br/>Why can\u2019t you achieve frequent deployments, high availability, and a high rate of learning at the same time with many delivery teams and a central Ops team?</p> <p>What is the You Build It You Run It operating model, how is it different, and when do you adopt it in a large enterprise organisation?</p> <p>How can you calculate which operating model is right for your digital services, when all you\u2019ve ever known is an Ops team putting out fires for your delivery teams?</p> <p>This talk will look in depth at the benefits and drawbacks of the You Build It You Run It operating model, including experiences from a variety of large organisations.</p> <p>We\u2019ll cover how to get started, with an operating model selector that demonstrates when on-call product teams are the best approach for your organisation.</p> <p>**<br/>SPEAKERS<br/>**<br/>Steve Smith<br/>Principal Consultant and Practice Lead, Equal Experts</p> <p>Bethan Timmins<br/>Managing Director, Equal Experts Australia and New Zealand</p> <p>***<br/>This talk will be recorded and a link to the recording added in the Comments shortly after the event takes place<br/>***</p> ",
     "end_time": 1634113800,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/281097406/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1634110200,
     "title": "When to adopt You Build It You Run It in enterprise organisations"

@@ -3,7 +3,14 @@
     "description": "<p>Dan Laasna Reuter Invites you to a topic focused Pop-up Meetup, rumour has it this could be the world's first Lean Cider Meeting.</p> <p>The Pop-up Meetup is an experiment in topic focused gatherings, offered or requested by the community. They run alongside and complement regular meetings. Your thoughts and feedback on this concept are welcomed.</p> <p>Topic: How can the \u201ctraditional\u201d PMO add value to the Agile delivery framework?</p> <p>Background: At Aviva, where I am a Scrum Master, there is a PMO Centre of Excellence who have recently produced another Delivery Methodology and Key Deliverables that is very Traditional. The Agile team, including myself, have been trying to influence the discussion and tailor elements to support the Agile Framework. However, some people believe that an Agile supporting PMO is an oxymoron and others that in a pure Agile environment the PMO simply aren\u2019t needed. Given that Aviva is not a pure Agile environment, I believe that the PMO can add value to the Agile journey and would like to talk to those with experience of this being the case elsewhere.</p> <p>Format: Free flowing discussion which I hope to facilitate, ideally with significant contribution from either Agile PMO\u2019s themselves or those who have worked in such an environment with an Agile PMO.</p> <p>Where: Naval Volunteer, King Street, Bristol</p> <p>This is not a sponsored event, so any food and drinks will have to be paid for. The venue limit is the size of the pub, please RSVP as usual so we can gauge interest.</p> ",
     "end_time": 1561667400,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/262284087/",
-    "location": null,
+    "location": {
+        "address": "17-18 King Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451751708984375,
+        "longitude": -2.5945849418640137,
+        "name": "The Famous Royal Navy Volunteer"
+    },
     "org": "agile",
     "start_time": 1561662000,
     "title": "[Popup Meetup] How can the \u201ctraditional\u201d PMO add value to Agile Delivery?"

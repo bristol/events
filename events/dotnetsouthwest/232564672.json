@@ -3,7 +3,14 @@
     "description": "<p><b>Lighting Talk:</b>\u00a0I'm a Dapper .NET man by\u00a0Matt McCabe</p> <p><b>About Matt:</b><br/>Matt is a web developer who is as happy writing SQL as he is tweaking CSS. He takes a pragmatic approach to solving problems and is excited by the evolution of Modern Javascript and C#. His current focus is on Aurelia and modular design.</p> <p><b>Featured Talk:</b> Google Cloud Platform by Google Engineer, Chris Bacon</p> <p>Clouds are everywhere, but Google\u2019s Cloud Platform may not (yet!) be an obvious choice for a .NET developer.</p> <p>Chris will talk about what GCP (Google Cloud Platform) is, a bit of its history, a bit about how it\u2019s implemented, how they currently support .NET platform and developers, and what\u2019s planned for the future.</p> <p>He\u2019ll also mention many details on how they design the .NET client library APIs (and what you can do about it if you don\u2019t like it); why API design is hard; some of the challenges around targeting multiple .NET platforms; and why C# development isn't always simple at Google.</p> <p><b>About Chris:</b></p> <p>Chris has been in software development for quite some time; mostly in C#, Java, Scala, and C.</p> <p>Having worked in much smaller companies, he now finds himself in the only team at Google that develops for the .NET platform :)</p> <p><b><br/></b></p> ",
     "end_time": 1471377600,
     "link": "https://www.meetup.com/dotnetsouthwest/events/232564672/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1471368600,
     "title": "Chris Bacon (Google) - Google Cloud Platform"

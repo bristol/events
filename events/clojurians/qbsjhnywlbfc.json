@@ -3,7 +3,14 @@
     "description": "<p>\"Programming in the Pub\" is a chance to casually meet up with other Clojurians and talk about Clojure, Lisp, and code. You can bring some code in to work on, and ask other Clojurians for help. Or you can just spend the evening chatting with fellow Lispers!</p> ",
     "end_time": 1503518400,
     "link": "https://www.meetup.com/Bristol-Clojurians/events/qbsjhnywlbfc/",
-    "location": null,
+    "location": {
+        "address": " 31/32 King Street, The Beermuda Triangle, BS1 4DZ ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45195007324219,
+        "longitude": -2.59489107131958,
+        "name": "Small Bar"
+    },
     "org": "clojurians",
     "start_time": 1503507600,
     "title": "Programming in the Pub"

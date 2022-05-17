@@ -3,7 +3,14 @@
     "description": "<p><b>Feature Talk:\u00a07 Key Decisions For Any New Xamarin Project</b></p> <p>Now that Xamarin is more accessible than ever, many developers will have the opportunity to apply their existing .NET, C# or F# skills to building cross-platform mobile apps.</p> <p>While there is no shortage of information out there to\u00a0help you get started, making the most of the\u00a0right tools and established best practices can really kickstart your development efforts. On any new project you\u2019ll face key questions such as:\u00a0Xamarin.Forms or Native UI? What architecture and/or frameworks are appropriate? How should I persist the state of my applications? What is the best tooling to test, build and deploy my apps?</p> <p>I'll walkthrough the early stages\u00a0of a new Xamarin project, explaining the options and tackling these key decisions to show how you can quickly deliver professional apps across multiple platforms.</p> <p><b>About Chris Williams:</b>\u00a0</p> <p>Chris is a Xamarin Certified Developer who has been building desktop, web and now mobile applications for more than fifteen years, specialising in C# and .NET.</p> <p>He first got into Xamarin three years ago as a lead developer at Nokia and Microsoft, where MixRadio made the Guardian\u2019s Top 25 Apps of the Year on both Android and iOS.\u00a0He\u2019s currently using Xamarin to deliver connected audio experiences as Principal Engineer at Audiogum.</p> ",
     "end_time": 1477427400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/234099735/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1477416600,
     "title": "7 key decisions for any new Xamarin Project"

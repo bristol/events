@@ -3,7 +3,14 @@
     "description": "<p>A chance to get into the Christmas spirit with a good ol' pub quiz! There will be some nice prizes available too....</p> ",
     "end_time": 1418158800,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/156076802/",
-    "location": null,
+    "location": {
+        "address": "20 Claverton Street, Bath",
+        "city": "BA2 4LD",
+        "country": "gb",
+        "latitude": 51.37668228149414,
+        "longitude": -2.354780912399292,
+        "name": "The Ram"
+    },
     "org": "agile",
     "start_time": 1418151600,
     "title": "Christmas Pub Quiz"

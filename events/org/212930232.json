@@ -3,7 +3,14 @@
     "description": "<p>The new Laura Poitras film about Edward Snowden is being shown in Bristol at the Watershed. We'll be meeting beforehand in the bar at 7:30, and afterwards. Film starts at 8pm. Book tickets here:<br/><a href=\"http://www.watershed.co.uk/whatson/6204/citizenfour-premiere-satellite-qa/\" class=\"linkified\">http://www.watershed.co.uk/whatson/6204/citizenfour-premiere-satellite-qa/</a></p> ",
     "end_time": 1413581400,
     "link": "https://www.meetup.com/ORG-Bristol/events/212930232/",
-    "location": null,
+    "location": {
+        "address": "1 Canon's Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.449302673339844,
+        "longitude": -2.6010661125183105,
+        "name": "The Watershed"
+    },
     "org": "org",
     "start_time": 1413570600,
     "title": "Citizenfour film"

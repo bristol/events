@@ -3,7 +3,14 @@
     "description": "<p>\u203c RSVP at <a href=\"https://www.crowdcast.io/e/pydata1\" class=\"linkified\">https://www.crowdcast.io/e/pydata1</a> \u203c</p> <p>Is it a talk? Is it a workshop? No, it's a masterclass!</p> <p>Join co-hosts John Sandall and Ben Sparks as we build upon Ben's hit Numberphile Youtube video, The Coronavirus Curve, to understand:</p> <p>\ud83d\udc68\u200d\ud83c\udfeb The mathematics behind the so-called SIR Model being used to predict the spread of Coronavirus (COVID-19)<br/>\ud83d\udc0d How to implement the SIR Model in both GeoGebra and Python/SciPy<br/>\u2728 Using Jupyter Widgets to add interactivity to your notebooks<br/>\ud83d\udcc8 Using matplotlib to create animated charts</p> <p>This masterclass is designed to be interactive. If you want to follow along, we will provide links to the Jupyter Notebook as well as a one-click \"it just works\" notebook in your browser using Binder.</p> <p>If you prefer not to follow along, that's also fine! You can watch the show, join in the chat and ask some questions. There will be a Q&amp;A session at the end where, if you wish, you can be a part of the show by joining the co-hosts live on air to ask your question.</p> <p>If you are new to Python, you can try PyData Bristol's free online workshops in your browser right now using Binder: <a href=\"https://mybinder.org/v2/gh/pydatabristol/workshops/master?filepath=workshop_2020_01_23_intro_to_python\" class=\"linkified\">https://mybinder.org/v2/gh/pydatabristol/workshops/master?filepath=workshop_2020_01_23_intro_to_python</a></p> <p>Follow @pydatabristol (<a href=\"https://twitter.com/pydatabristol\" class=\"linkified\">https://twitter.com/pydatabristol</a>) for updates on this and future events, as well as news from the global PyData community.</p> <p>\ud83d\udcdc CODE OF CONDUCT<br/>=======================</p> <p>The PyData Code of Conduct governs this meetup (<a href=\"https://pydata.org/code-of-conduct/\" class=\"linkified\">https://pydata.org/code-of-conduct/</a>). To discuss any issues or concerns relating to the code of conduct or behavior of anyone at the PyData meetup, please contact the PyData Bristol organisers, or you can submit a report of any potential Code of Conduct violation directly to NumFOCUS (<a href=\"https://numfocus.typeform.com/to/ynjGdT\" class=\"linkified\">https://numfocus.typeform.com/to/ynjGdT</a>).</p> ",
     "end_time": 1589479200,
     "link": "https://www.meetup.com/PyData-Bristol/events/270568039/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "pydata",
     "start_time": 1589475600,
     "title": "PyData Bristol Masterclass - Build An Interactive Coronavirus Model In Jupyter"

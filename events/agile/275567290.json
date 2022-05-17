@@ -3,7 +3,14 @@
     "description": "<p>Come join us to start off the new year on a high with one of the world leading exponents in Product Management... Roman Pichler.<br/>He'll be discussing with us Product Goals in Scrum, aligned with the recent updates in the Scrum guide.</p> <p>Product goals are a new edition to the Scrum framework. In this talk, Roman will share his view on how you can successfully apply them in a Scrum context: What are they? Where do they come from? And how do they relate to the product vision, the product roadmap, and the product backlog?</p> <p>Feel free to bring any mince pies and mulled wine you haven't managed to finish off and any questions you have been saving!!</p> <p>ROMAN PICHLER is a globally renowned product management expert specialised in digital products. He has more than 15 years experience in teaching product managers and product owners, advising product leaders, and helping companies build successful product management organisations.\u200b\u200b</p> <p>Roman is the author of three books on product management, including How to Lead in Product Management, and one on Scrum. Roman writes a popular blog for product professionals, he hosts his own product management podcast, and he has created a range of product management tools.</p> <p>If you haven't seen Roman before he's well worth it and I'm truely excited to have him talking at our meet-up</p> ",
     "end_time": 1610481600,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/275567290/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "agile",
     "start_time": 1610476200,
     "title": "Product Goals in Scrum, with Roman Pichler"

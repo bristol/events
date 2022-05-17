@@ -3,7 +3,14 @@
     "description": "<p>This is a relaxed social event to discuss last month's ACCU conference, and future ACCU events. Food and drinks menus are available from the venue's website (www.smallbar.co.uk), including vegetarian and vegan options.</p> ",
     "end_time": 1558641600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/261255794/",
-    "location": null,
+    "location": {
+        "address": "31 King Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45181655883789,
+        "longitude": -2.595026969909668,
+        "name": "Small Bar"
+    },
     "org": "accu",
     "start_time": 1558634400,
     "title": "Post Conference Social"

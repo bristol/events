@@ -3,7 +3,14 @@
     "description": "<p>DevOps practices use multiple deployment strategies to manage applications, including such scenarios such as \"Continuous Deployment\", \"Blue-Green Deployments\", \"Canary Deployments\" and more. In this workshop, we will see how easy it is to accomplish these common scenarios in Kubernetes by scaling and managing containers in Google Kubernetes Engine.</p> <p>Tim Berry (Training Architect, A Cloud Guru) will provide a quick theory lesson on the building blocks and Kubernetes components that will be used to create these deployment strategies. As a group we will then work through the Qwiklab \u201cManaging Deployments with Kubernetes\u201d, getting hands-on with our own GKE clusters in a free (and risk-free) environment. Tim and some other GKE pros will be on hand to answer any questions if you get stuck.</p> <p>To join this workshop you should have basic Linux sysadmin skills and some familiarity with Docker containers. Experience with Kubernetes will be beneficial but is not essential.</p> <p>We're centralising RSVPs through GDG London, so click through to their event page to register: <a href=\"https://gdg.community.dev/events/details/google-gdg-london-presents-cloud-workshop-managing-deployments-with-kubernetes/#/\" class=\"linkified\">https://gdg.community.dev/events/details/google-gdg-london-presents-cloud-workshop-managing-deployments-with-kubernetes/#/</a></p> <p>Note: In order to participate you will need an account with <a href=\"https://google.qwiklabs.com/\" class=\"linkified\">https://google.qwiklabs.com/</a>. You can create an account for free. We will provide a voucher code to launch the lab during the workshop.</p> ",
     "end_time": 1612468800,
     "link": "https://www.meetup.com/GDG-Bristol/events/275844230/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "gdg-bristol",
     "start_time": 1612461600,
     "title": "Cloud Workshop: Managing Deployments with Kubernetes"

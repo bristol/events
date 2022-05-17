@@ -3,7 +3,14 @@
     "description": "<p>More and more organisations seem to get intimidated by failed attempts of applying set frameworks or 'Silver Bullets' to their organisation and end up thinking that Agile won't work for them. Experience has taught us that you don't need a framework or a set of acronyms to realise the benefits of agility, so that if your organisation doesn't believe that Agile methods will work, agility is still possible without the buzzwords or the prescribed solutions.\u00a0</p> <p>This interactive session bans the buzzwords and helps participants explore the principles behind the manifesto without calling it Agile so that we can encourage organisations to increase their agility without 'Doing Agile'.</p> <p>The session will be highly interactive, giving participants 'buzzword bingo' cards filled with Agile terms that will be banned for the duration of the talk. Audience members will be set challenges to emerge their own explanations so they leave with a smile on their face, and some new techniques that they can experiment with after the meeting.</p> <p><b>About our speaker:</b></p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/c/6/e/4/600_447170916.jpeg\" /></p> <p>Craig Livings has worked in the technology industry for over 15 years and prides himself on helping organisations understand product development without the jargon. He has buckets of enthusiasm and experience with Agile transformation in a wide range of environments, particularly software agencies with large clients.\u00a0</p> <p>Craig is the co-founder and Technical Director at Astratto Ltd, a consultancy/learning provider that works with organisations throughout and beyond development to ensure that they realise the value that they expected from the product.</p> ",
     "end_time": 1458075600,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/229063711/",
-    "location": null,
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
     "org": "agile",
     "start_time": 1458068400,
     "title": "Craig Livings on Sneaky Agile - Agility without Agile"

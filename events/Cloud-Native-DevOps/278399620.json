@@ -3,7 +3,14 @@
     "description": "<p>Bristol Cloud Native &amp; DevOps are excited to celebrate hitting the 1000 member mark with a very special event taking place next month.</p> <p>On the 16th June we will be hosting 6 fantastic guests who will all be conducting their own 5-10 minute lightning talk.</p> <p>We will be confirming the individual talk details this week but are happy to announce we will be joined by:</p> <p>Jon Hammant - Head of Commute UK &amp; Ireland at Amazon Web Services (AWS).<br/>Talk Title: 3 Key Future Trends in Tech<br/>Synopsis: Jon will briefly talk through what he sees as three of the most interesting trends in tech, how these will impact the world and how you can get started in them now.</p> <p>Marcin Pajdzik - Partner at Epitechnic<br/>Talk Title: Applying governance to CI/CD pipelines<br/>Synopsis: IT practitioners often use CI/CD pipelines to automate software delivery without truly mitigating risks. Marcin will talk about IT governance principles and practices that can be applied to CI/CD pipelines to ensure security, control and standards.</p> <p>Shane Preater - Chief Technology Officer at Argo DevOps Solutions<br/>Talk Title: 3 common problems when migrating to the cloud<br/>Synopsis: This will cover the 3 things that Shane has found come up frequently when he takes their clients on the journey from on-premise to a fully cloud-native approach.</p> <p>Andy Nash - Head of Technical at Muddy Boots<br/>Talk Title: DevOps Structure\u2026..A Lego story<br/>Synopsis: Andy talks about the learnings on how to structure DevOps in a tech organisation and what the team could do\u2026with Lego instead of Venn Diagrams.</p> <p>Phil Basford - Head of Solution Engineering at Inawisdom<br/>Talk Title: Serving your ML Model 3 ways!<br/>Synopsis: A brief talk about the three of the ways of getting predictions on AWS using SageMaker, Fargate and lambda. Including tips, tricks and gotchas.</p> <p>Pulak Agrawal - DevOps Practice Lead at Accenture UK</p> <p>As always, this will be held during lunchtime and is certainly not an event to be missed.</p> ",
     "end_time": 1623844800,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/278399620/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "Cloud-Native-DevOps",
     "start_time": 1623841200,
     "title": "1000 Members Special Lightning Talk Event"

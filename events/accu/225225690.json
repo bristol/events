@@ -3,7 +3,14 @@
     "description": "<p>In the past decade high level development including .NET, Java and web technologies has exploded. The world has shifted from doing things on a local workstation with specialist hardware to hosting apps in the cloud and interacting largely through the web browser. C# has kept pace with this and now has hundreds of tools to help you. But in a world of high-level developers, how low-level your understanding goes is becoming increasingly important.</p> <p>So how low can you go? In this talk I\u2019ll discuss; how in the next ten years low-level development is going to see a dramatic comeback, the importance of high-level developers understanding the low-level architecture, the educational challenge facing schools and Universities and how you can get ahead of the game using FlingOS and other online resources.</p> <p><b>About our speaker:</b></p> <p>Edward Nutting is the founder and lead developer of FlingOS, a project aiming to plug the gap in online resources for learning OS and low-level development. He has been actively developing projects for the past seven years in largely high-level development but in the past 4 years has moved increasingly low-level. Ed started out in C# with music apps, games and networking software, then moving even higher-level to web-based development (in which he had a startup company) and at around the same time began being interested in hardware. Amongst his more amusing achievements is an 8-bit computer built in Minecraft (display, RAM, keyboard and all). For the past 3 years Ed has been working in low-level and OS development, including internships with Imagination Technologies, work on the Cosmos project and predominantly self-teaching along the way.</p> <p>Born and raised in North London, Ed is now nineteen and studying Computer Science and Electronics and The University of Bristol. He is a well-educated, enthusiastic, young man who has self-taught programming from the age of eight and had two internships with Imagination Technologies (prior to reaching university). A large proportion of his work is philanthropic and he is always willing to help others learn and to answer their questions. Ed enjoys playing tenor saxophone, engaging with technical theatre and casual cycling.</p> ",
     "end_time": 1445457600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/225225690/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1445450400,
     "title": "Edward Nutting: How low can you go?"

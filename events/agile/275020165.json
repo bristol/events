@@ -3,7 +3,14 @@
     "description": "<p>Join us for a natter and a chance to find your next good read. The evening provides an opportunity to shout about a professional book that you rate and hear what other people recommend. Along the way there's time for a natter, a wee dram and a mince pie, you may even get some last minute present ideas.</p> <p>Conscious that we\u2019re all spending time online looking at screens we\u2019ll start early, and try to find a format that works audio only, so you can join from the fireside in your fluffy slippers.</p> <p>Festivities aside there is a serious point to this \u2013 our time and attention are precious, new books and publications constantly appear with varying degrees of quality and novelty. It is hard to judge a book by the cover, or indeed buzz word filled marketing blurb, so we\u2019ll be using the wisdom of the community to find out where to invest our time.</p> <p>It works like this:<br/>Anyone who wants to recommend a read brings a book along, we move into small groups and hear about the books people have brought, allowing time for questions and discussion.</p> <p>Book recommenders should:<br/>-Introduce the book\u2019s main theme and topic<br/>-Describe why it was valuable to them<br/>-Explain who they would recommend it to and why.</p> <p>We aren\u2019t looking for a detailed description of the book content, the whole idea is to inspire people\u2019s next read.</p> <p>We\u2019ll also see if we can collect some data, and get recommendations for categories, such as \u2018Best book for aspiring team leads\u2019 or \u2018Best DevOps book for managers\u2019</p> <p>As always we welcome input and ideas, especially for the categories above, do share your thoughts and help shape the evening.*</p> <p>Remote meeting details will be sent closer to the event.</p> <p>*Offer excludes Mariah Carey Christmas Karaoke</p> ",
     "end_time": 1608058800,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/275020165/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "agile",
     "start_time": 1608055200,
     "title": "Reindeer and Reading \u2013 A thinly Veiled Excuse For a Christmas get together."

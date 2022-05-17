@@ -3,7 +3,14 @@
     "description": "<p>What can the experience of dogfighting during the Korean and Vietnam wars teach us about modern software delivery?</p> <p>The talk will introduce the OODA Loop, a cognitive model developed by the maverick American fighter pilot Col. John Boyd. As a decision making framework, it originally emphasised how agility and feedback can be used to overcome a military adversary, but has since been applied more broadly in the commercial world. Within software delivery we also find a number of crossovers, particularly in developing areas such as DevOps and Site Reliability Engineering.</p> <p>By applying the principles espoused in the OODA model we can find additional ways of incorporating and utilising feedback loops in our software.</p> <p>Drawing on the speaker\u2019s experiences in both the military and tech industries, we will look at how this allows us to build products more quickly and reliably in our own organisations.</p> <p>Speaker: Chris Rowe, Developer, Equal Experts. ex - Army Reservist</p> <p>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;<br/>The talk will be followed by a Virtual FishBowl - an interactive discussion session with audience participation<br/>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;</p> ",
     "end_time": 1588183200,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/270221147/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1588179600,
     "title": "The Top Gun Guide to DevOps"

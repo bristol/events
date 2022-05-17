@@ -3,7 +3,14 @@
     "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>We're keeping our talks online for now.</p> <p>Speakers:</p> <p>\ud83d\udde3 Tobias Theel - Hello TinyGophers</p> <p>Going small. We are diving into the world of TinyGo, by first exploring what TinyGo is then we check what features it brings to the table and then we check out how microcontrollers and Wasm are being brought together by TinyGo. We do so by checking out a simple Homeautomation project, that consists of a Wasm dashboard and an Arduino Nano 33 IoT that is able to control various devices.</p> <p>Tobias Theel works as the Technical Lead and DevOps for a German FinTech startup fino and since 2020 he has also started working for RegTech startup, ClariLab, as Lead Software Engineer. Being a software architect and an expert for Go and TinyGo alongside C# and Java, he is also iSAQB certified. Theel is a highly enthusiastic community contributor and is among the top 10% responders in C# and Unity3D as well as top 20% responders in .NET, Go, and Visual Studio on StackOverflow.</p> <p>When not programming for fino or ClariLab, he can be found developing games, mainly at game jams such as the Ludum Dare Jam, where he develops games from scratch within 72 hours. As an active speaker at tech talks and a participant for numerous hackathons, Theel loves to share his knowledge of software development with fellow enthusiasts.</p> <p>\u23f0 Schedule:</p> <p>- 18:00-18:05 intro/welcome<br/>- 18:05-18:50 first speaker<br/>- 18:50-19:00 farewell/next event info</p> <p>\ud83d\udce3 We are looking for help with organising! If you or anyone you know would like to help, give us a shout! As you can see, our pun game especially is in dire need of a</p> <p>\ud83d\udce3Help us grow! JetBrains offers free licences to meet-ups with attendance greater than 30. If we can reach this, we will apply and be handing it out as a prize at events.</p> <p>\ud83d\udccd - Online</p> ",
     "end_time": 1625076000,
     "link": "https://www.meetup.com/golang-bristol/events/278488893/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "golang",
     "start_time": 1625072400,
     "title": "Go(ne online) - TinyGo"

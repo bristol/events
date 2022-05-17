@@ -3,7 +3,14 @@
     "description": "<p><b>The Anatomy of Exceptional Engineers</b></p> <p>Lets take a look at some of the tools, techniques and traits that separate the ordinary from the extraordinary in the world of software engineering.</p> <p><i>About our speaker:\u00a0</i></p> <p>Roja Buck is Head of Technology at JUSTEAT with responsibility for the international product and technology platform portfolio for the world's leading food delivery aggregator.</p> ",
     "end_time": 1436385600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/222576439/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1436378400,
     "title": "The Anatomy of Exceptional Engineers"

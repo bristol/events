@@ -3,7 +3,14 @@
     "description": "<p>Katie Gamanji from American Express will speak on the following:</p> <p>Title: Interoperability of Open-Source Tools: The Emergence of Interfaces</p> <p>Abstract:<br/>\"In the past years, Kubernetes has been the nucleus of container orchestration frameworks. Numerous tools have been developed to extend Kubernetes capabilities and enhance its features. Over time, tools with similar functionalities would have fundamentally different implementations and practices to converge with the Kubernetes components. The emergence of shared standards and a set of best practices became imperative.</p> <p>This talk will focus on the evolution of interfaces within the Kubernetes landscape, including networking, storage, service mesh and cluster provisioning. Attendees will acquire an understanding of why the interoperability of open-source tools is pivotal in the modern infrastructure. \"</p> <p>Bio:<br/>\"Currently a Cloud Platform Engineer at American Express. Former cloud platforms engineer at Cond\u00e9 Nast, that contributed to the creation of a centralized, globally distributed platform, with Kubernetes as its centerpiece. In the past worked on maintaining and automating site delivery on OpenStack based infrastructure, which transitioned into a role that focuses on designing, deploying and evolving cloud-native infrastructure.</p> <p>A strong advocate for women in STEM, and public speaker on topics that gravitate towards cloud-native tools and Kubernetes ecosystem. \"</p> ",
     "end_time": 1591185600,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/269036980/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "Cloud-Native-DevOps",
     "start_time": 1591182000,
     "title": "Cloud native and DevOps talks - 'The interoperability of Open-Source Tools'"

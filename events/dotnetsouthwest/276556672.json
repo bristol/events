@@ -3,7 +3,14 @@
     "description": "<p>iO Associates are excited to announce our next .Net Virtual Meetup will be on Tuesday 30th March at 7pm. We will be joined by Scott Hunter, Director of Programme Management at Microsoft, who will be delivering a talk on .NET 5 and .NET 6.</p> <p>This talk will cover the state of .NET and give you an overview of all the new capabilities in .NET 5. Including new features for building smaller, faster Web API\u2019s and gRPC for Microservices, Windows desktop enhancements including ClickOnce, and the new features in Blazor for SPA\u2019s. We will also talk about the journey to One .NET and show a preview of Project Tye for building and publishing Microservices. Ending with a look to the future in .NET 6.</p> <p>About the speaker:</p> <p>Scott Hunter is responsible for Microsoft\u2019s .NET platform, which includes the .NET Framework, .NET Core, ASP.NET, Entity Framework, .NET Tools, Web Tools, and the managed languages (C#, F#, and VB). Prior to leading the .NET Platform, Hunter helped the Azure Developer Experience team build the Azure SDK\u2019s, App Service Tooling, Azure Redis Cache, Azure API Management, ASP.NET, Entity Framework, and the Web Tooling. In his spare time, he loves hiking mountains around the world. Scott grew up in Little Rock, AR, and went to college in Fayetteville before heading to the West Coast for a startup and then Microsoft.</p> <p>We hope you can join us and please get in touch at [masked] with any questions or suggestions on future virtual meetups.</p> ",
     "end_time": 1617134400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/276556672/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1617127200,
     "title": "Virtual - Scott Hunter - .Net 5 & .Net 6 (Aff - iO)"

@@ -3,7 +3,14 @@
     "description": "<p>SWmobile's May meetup features 3 great talks.</p> <p><b>Talk 1:\u00a0</b><b>Wearable Internet Chicken: exploring the Android Wear Data Layer API</b></p> <p>Despite Android Wear being a year-long established platform, it is still vastly untouched by traditional Android developers. One of the technical barriers to devs starting with Android Wear is how we actually get data from mobile to the wearable. Let's change that.</p> <p>We will take a whistle-stop tour of the\u00a0Wearable Data Layer API exploring how to get data from a server to our wrists, demonstrated by a simple Nandos concept watch app for informing customers of loyalty rewards after making a purchase.*</p> <p><a href=\"http://twitter.com/chrismckirgan\">@ChrisMcKirgan</a>\u00a0is developer at The Agency in Bath. He has a fanatical interest in all things dev, with a focus on PHP-based web applications.</p> <p>*Tasty chicken not included.</p> <p>&lt;break&gt;</p> <p><b>Talk 2: Ask SWmobile\u00a0</b></p> <p>This is a new discussion based session that'll give everyone the opportunity to ask and discuss anything from mobile with the entire group.\u00a0</p> <p>Given this meetup has a wearable theme we'll be discussing the new Apple watch and how it compares to Android wear and the other wearable options.\u00a0But really anything goes come along with questions, please do chip in if you have a opinion on any of the topics. \u00a0Maybe you missed the cross platform meetup a few months back and want to recap? or what do you think would be great in iOS 9 or Android M?\u00a0</p> <p><b>Talk 3: Crocodile app \u00a0</b></p> <p>The Crocodile app recently snapped up first Green Capital digital prize by encouraging kids to walk or bike to school. \u00a0Jon Waring from the The Green Crocodile Company has agreed to come tell us a bit about the app.</p> <p>Meetup venue is sponsored by Amazon. Please feel free to arrive from <b>6:15 pm </b>there's place to grab coffee and chat before the talks start at <b>7pm.</b></p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/5/3/d/4/600_435621460.jpeg\" /></p> ",
     "end_time": 1432067400,
     "link": "https://www.meetup.com/swmobile/events/220749834/",
-    "location": null,
+    "location": {
+        "address": "Temple Meads",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44792938232422,
+        "longitude": -2.583709955215454,
+        "name": " Engine Shed, Station Approach"
+    },
     "org": "swmobile",
     "start_time": 1432056600,
     "title": "May talk night"

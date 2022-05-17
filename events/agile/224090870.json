@@ -3,7 +3,14 @@
     "description": "<p>Many organisations still find prioritisation can be one of the most challenging things to do well. Even if your maturity has moved away from the HiPPO (Highest Paid Person\u2019s Opinion), you may struggle comparing ideas if they deliver different types of benefits, often still relying on gut than anything based on reasoning.</p> <p>In this session, we will explore the Cost of Delay model as a way of being able to compare numerically the benefits and urgency of ideas, even those that you think can not have a number added to it. You will be introduced to the concepts and it\u2019s practical application in the workplace before rolling your sleeves up and calculating a delay cost yourself.</p> <p><b>About Glenn:</b><br/>Glenn is a techy at heart, but these days doesn\u2019t get a chance to get his hands dirty in the code anymore. As a coach and trainer he helps organisation get better at product and service delivery. He loves seeing people \u2018get it\u2019 and then going on to build great products, be that IT or non-IT alike.</p> <p>With more than 16 years of experience, from the coal face of writing embedded software, to running a multi-disciplined team over two continents and having now supported many organisations, he has a wide range of skills and experiences. And in a past life he was a local politician, so can tell you lots of things about street lights and waste collection too!</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/3/a/c/6/600_440055046.jpeg\" /></p> ",
     "end_time": 1441746000,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/224090870/",
-    "location": null,
+    "location": {
+        "address": "BA1 5LR",
+        "city": "Bath",
+        "country": "gb",
+        "latitude": 51.383705139160156,
+        "longitude": -2.357667922973633,
+        "name": "IPL Offices"
+    },
     "org": "agile",
     "start_time": 1441735200,
     "title": "Why your current prioritisation is apple v pears, with Glenn Smith"

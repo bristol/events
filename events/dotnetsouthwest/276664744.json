@@ -3,7 +3,14 @@
     "description": "<p>iO Associates are very excited to announce our .Net Virtual Meetup on Tuesday 27th April at 7pm. We will be joined by Mads Torgersen, Lead Designer of C# at Microsoft, who will be delivering a session on C#10!</p> <p>The topic of this discussion will include:</p> <p>C# 9 has been out since November of 2020, and C# 10 is starting to come together. Let\u2019s have a look at what\u2019s in the works: What\u2019s next with records? Will we ever get good numeric abstraction in C#? We will have a 2 hour session where Mads will be keeping it free form and making sure there\u2019s lots of time for questions and conversation.</p> <p>About the speaker:</p> <p>Mads is the lead designer of C#, and a Program Manager at Microsoft. In the past he has also worked on TypeScript and even Java.</p> <p>Register here to receive your zoom link for the event: <a href=\"https://us02web.zoom.us/meeting/register/tZIof-2upzkqG9GClqSqDv76OCwljuIFCo7P\" class=\"linkified\">https://us02web.zoom.us/meeting/register/tZIof-2upzkqG9GClqSqDv76OCwljuIFCo7P</a></p> <p>iO Associates, tech and digital recruitment specialists are actively involved in the community and organise multiple Meetup groups across the UK. We\u2019re really keen to help keep our community positive and engaged hearing from the best speakers on the topics of your choice so encourage you to share this with your team and the wider community.</p> <p>We hope you can join us and please get in touch at [masked] with any questions or suggestions on future virtual meetups.</p> <p>In addition, if there\u2019s anything we can help you with in regards to sourcing candidates or finding a new role please do also get in touch.</p> <p>Cheers,</p> <p>Michael Collins - iO Associates</p> ",
     "end_time": 1619553600,
     "link": "https://www.meetup.com/dotnetsouthwest/events/276664744/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1619546400,
     "title": "Virtual - Mads Torgersen - C#10 (Aff- iO)"

@@ -3,7 +3,14 @@
     "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>We're doing something new! A Go workshop! This is aimed at developers looking at moving into the Go space. If that suits you, come join us.</p> <p>The task:<br/>To create a simple hangman game using only the core library.</p> <p>The format:<br/>We will guide you through breaking the problem down, and building the solution step by step.</p> <p>Bonus points for having a tested, dockerised, server by the end of the event.</p> <p>Rough timeframe:<br/>- 18:30 Arrive and socialise<br/>- 18:45 Short welcome presentation<br/>- 19:00 Code!</p> <p>\ud83c\udf7a As always, afterwards we will be heading to a pub for a little .</p> <p>\ud83d\udce3 We are looking for help with organising! If you or anyone you know would like to help, give us a shout! As you can see, our pun game especially is in dire need of a</p> <p>\ud83d\udce3Help us grow! JetBrains offers free licences to meet-ups with attendance greater than 30. If we can reach this, we will apply and be handing it out as a prize at events.</p> <p>\ud83d\udccd - Brightpearl<br/>\ud83c\udf55 - TBD</p> ",
     "end_time": 1576096200,
     "link": "https://www.meetup.com/golang-bristol/events/266134554/",
-    "location": null,
+    "location": {
+        "address": "25 Marsh Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45980453491211,
+        "longitude": -2.5842409133911133,
+        "name": "Brightpearl"
+    },
     "org": "golang",
     "start_time": 1576089000,
     "title": "Go Workshop"

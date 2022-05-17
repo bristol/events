@@ -3,7 +3,14 @@
     "description": "<p>Learn from Dave Brown, a founding angel investor in PINTEREST, and Lisa Copland on how to spot innovation to scale, guide the utility in ideas to scale and invest with confidence.</p> <p>The discussion will provide an intimate look at the lessons from Pinterest\u2019s success, how companies can stay relevant by focusing on utility and compete with startup disruption and suggestions for spotting the next big idea in your organization.</p> <p>SPEAKERS:</p> <p>Dave Brown is an individual angel investor who is always looking for new investment opportunities.</p> <p>He serves as the Chairman at NatureBridge and as an Advisor at Wheelhouse Partners.</p> <p>He was the Managing Partner of Oak Hill Venture Partners, and a Member of Headwater Partners I, an intellectual property investments fund.</p> <p>Dave is an Advisor of Therapydia and a Board Member of Cargo Chief.</p> <p>**</p> <p>Lisa Copland, Head of Product and Design at Equal Experts helps organizations create meaningful, scalable differentiation at speed.</p> <p>She works with executive leadership to address the growing opportunities and challenges that organizations are facing today and develop ways to enable innovation in order to compete, differentiate, and sustain a thriving business.</p> <p>Her pioneer spirit has guided her work with some of the biggest global companies including NBC, Neiman Marcus, HBC, Nordstrom, TJX, IHG, Marriott, StateStreet, Yum! Brands, Canon and IHG.</p> <p>**<br/>This talk will be recorded and the link to the recording placed in the Comments shortly after the event.</p> ",
     "end_time": 1619632800,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/277484144/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1619629200,
     "title": "Lessons in Innovation: Start with Utility"

@@ -3,7 +3,14 @@
     "description": "<p>June's meetup is going to be a little different - we're going to be doing lighting talks! If you're unfamiliar with the concept, this means each talk will be only 10 minutes long. It should be a really fun evening, with lots of speakers and a wide range of topics - something for everyone! Here's our list of speakers:</p> <p>\u2022 <b>Paul Hudson</b>:\u00a0UIStackView For Fun and Profit</p> <p>\u2022 <b>Karl Nosworthy</b>: 10 Top Software Engineering Concepts and Processes</p> <p>\u2022 <b>James Frost</b>: Cocoapods vs Carthage: iOS Dependency Management</p> <p>\u2022 <b>James-Lee</b>: I &lt;3 Swift</p> <p>\u2022 <b>Sam Davies</b>:\u00a0Functional Reactive Programming (FRP FTW!)</p> <p>\u2022 <b>Chris Phin</b>: Personality and Playfulness in App Design</p> ",
     "end_time": 1435696200,
     "link": "https://www.meetup.com/swmobile/events/221972543/",
-    "location": null,
+    "location": {
+        "address": "2 College Square",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45281219482422,
+        "longitude": -2.6004979610443115,
+        "name": "cxpartners"
+    },
     "org": "swmobile",
     "start_time": 1435685400,
     "title": "Lightning Talk Night"

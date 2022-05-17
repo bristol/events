@@ -3,7 +3,14 @@
     "description": "<p>Synopsis</p> <p>Recent advances in artificial intelligence (AI) have been exploited in a number of frameworks which potentially can to be applied to a diverse range of applications. However, it can perhaps be a little challenging to understand some AI techniques and then apply readily available frameworks to a specific application. This talk begins with an overview of one area of AI related to optimisation, and a selection of frameworks incorporating evolutionary algorithms. Next, some high-level descriptions and practical examples are provided to highlight possible applications of the frameworks. Finally, if time allows, the talk will be opened to a broader discussion on the possible benefits and limitations of available evolutionary computation frameworks. Biographies</p> <p>Aurora Ram\u00edrez is a researcher in the Department of Computer Science and Numerical Analysis at the University of C\u00f3rdoba, Spain. Her research is focused on innovative search and optimisation techniques to support software engineers during software development, especially architectural analysis and the design of complex software systems. As part of her PhD, Aurora is currently undertaking a three month collaborative visit at the University of the West of England (UWE). Chris Simons lectures at UWE in areas such as AI and software development. Chris is interested in how software can learn from people, and vice versa, for mutual learning.</p> ",
     "end_time": 1505336400,
     "link": "https://www.meetup.com/ACCU-Bristol/events/242529923/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1505325600,
     "title": "Evolutionary Computing Frameworks for Optimisation"

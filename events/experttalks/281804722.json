@@ -3,7 +3,14 @@
     "description": "<p>Find out how we took John Lewis from a proprietary online search solution to fully functional cloud-based microservices in time for the crucial Black Friday shopping period.</p> <p>Searching and browsing for products are the most important customer journeys for an online retailer. If a customer can\u2019t find a product they want to buy, then you can\u2019t sell it to them.</p> <p>How do you replatform this capability at a major high street retailer, with minimal disruption to customer experience and commercial performance, while improving availability and latency, and reducing costs?</p> <p>In this talk you will learn:<br/>- How we used You Build It, You Run It to move away from a traditional support model so that we could achieve multiple deployments per day instead of per week.<br/>- How we made decisions around product ownership and technical design so we could deliver early and quickly.<br/>- How we employed ways of working which encouraged team ownership and improved productivity.</p> <p>SPEAKERS:</p> <p>Sue Clutton<br/>Digital Delivery Lead, John Lewis &amp; Partners</p> <p>Stephen Tjasink<br/>Principal Consultant, Equal Experts</p> <p>**<br/>This talk will be recorded and the link to the recording added to the Comments shortly after the event.<br/>**</p> ",
     "end_time": 1638385200,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/281804722/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1638381600,
     "title": "Replatforming Online Search for John Lewis"

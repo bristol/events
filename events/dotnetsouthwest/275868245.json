@@ -3,7 +3,14 @@
     "description": "<p>About Talk:<br/>Working with an existing system and its architecture can be a challenge, especially when it comes to adopting newer technologies. What may originally have been an appropriate architecture, may not now easily accommodate these newer technologies</p> <p>Do we tackle the problem by refactoring our system, or do we need an overhaul?</p> <p>More often than not, business critical features don't allow for a rewrite nor a rebuild, so we are faced with shoehorning new features into the existing project using the older framework or architecture.</p> <p>This is where serverless technologies, such as Azure Functions, can come to the rescue.</p> <p>By using Azure Functions you can create solutions using modern .NET/C# features without necessarily touching older parts of our existing software.</p> <p>In this session I will show you how to build a service using Azure Functions. We\u2019ll cover the scenario of converting speech to text using the AssemblyAI API.</p> <p>We will use a variety of function triggers such as HTTP and Queue, combining them together into a self contained service that can co-exist with our existing project.</p> <p>We'll also cover security, developing functions locally, architecture and much more.</p> <p>About Speaker:<br/>Layla is Senior Developer Evangelist specialising in the .NET stack. She is a Microsoft MVP, a director on the board of the .NET Foundation, and co-organiser of MK .NET user group. Layla loves sharing knowledge whilst having fun. No question is stupid and beginners are always welcome.</p> <p>Twitter: @LaylaCodesIt</p> ",
     "end_time": 1622059200,
     "link": "https://www.meetup.com/dotnetsouthwest/events/275868245/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1622052000,
     "title": "Virtual - Azure Functions: a guide to getting started with Layla Porter"

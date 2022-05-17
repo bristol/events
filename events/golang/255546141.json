@@ -3,7 +3,14 @@
     "description": "<p>We've changed the date this month to prevent clashes with SWTest and .NET so hopefully we can welcome lots more people (experienced and new)! This is a safe space to get chatting, eat pizza and learn from each other :)</p> <p>Arrive from 6.15pm for drinks and pizza</p> <p>1. 6.30pm<br/>First Talk: \"Beyond GRPC - The google.api.http package\" by Ben King</p> <p>Break for more drinks &amp; more pizza</p> <p>2. 7.00pm<br/>Second Talk: \"Exploring http server in the standard library\" by Olly Butterfield</p> <p>Break for more drinks &amp; more pizza</p> <p>3. 7.30pm<br/>Third Talk: \"Garbage Collection in Go: The Tricolour Algorithm\" by Charles Clarke</p> <p>Finish off drinks &amp; pizza &amp; hit the pub next door (Knights Templar!)</p> <p>Looking forward to seeing you. If you're keen to speak at this event or next (short or long) please just send me an email on [masked]</p> ",
     "end_time": 1540494000,
     "link": "https://www.meetup.com/golang-bristol/events/255546141/",
-    "location": null,
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
     "org": "golang",
     "start_time": 1540487700,
     "title": "Go Go Golang"

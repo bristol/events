@@ -3,7 +3,14 @@
     "description": "<p>We are very pleased to have Huw Lloyd who has kindly volunteered to give a talk on Cell objects in Object Oriented Programming.</p> <p>Post talk, we'll be de-camping to the Brewdog for some beers.</p> <p>Also, thanks to JetBrains, who have agreed to sponsor the group for the next six months, we have a JetBrains year long licence for any one of their products to raffle off. \u00a0</p> <p>Talk synopsis:\u00a0<i>O</i><i>ne of the difficult areas with respect to programming is discerning the line between the units of system function semantics (codification of business logic and concepts) and\u00a0</i><i>the elements of the program (pointers, threads, loops, templates, resource handling etc).\u00a0 Cell-like objects demonstrate a way to explicitly encode unitary concepts.\u00a0 Done well, these formulations can express (insightfully) the orientation of the programmer towards the problem domain, reinvesting the term 'object-orientation' with an interest in modelling problems that reside in world outside the computer, which has dramatic consequences for software effectiveness.</i></p> <p>Speaker Bio: \u00a0\"<i>I'm interested in how we know, how we develop and learn, how we express knowledge, and how to facilitate environments that support this to build great software products.</i><i>Presently, I am developing a tablet application for children's handwriting practice (C++, Qt), writing of papers in relation to Cultural-Historical Activity Theory and programming, and providing client services (contracts, designing and presenting course material).</i><i>\"</i></p> ",
     "end_time": 1487196000,
     "link": "https://www.meetup.com/ACCU-Bristol/events/237424214/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1487185200,
     "title": "Cell objects in Object Oriented Programming"

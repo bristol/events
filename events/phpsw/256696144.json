@@ -3,7 +3,14 @@
     "description": "<p>Is that sleigh bells we hear? Looking out the window it seems to be the PHPSW social sleigh being pulled along by some elephpants!</p> <p>In a PHPSW tradition, we're wrapping up the year of 14(!) meetups with a social rather than a normal evening of talks.</p> <p>Superdry are kindly helping us host this evening, helping to provide the venue, food &amp; drinks. Thanks to them!</p> <p>We have no talks this month, instead, take this opportunity to catch up with people you have met over the year, or meet someone new!</p> <p>We'll be providing a few games &amp; activities for the evening, plus there will be a prize draw where we have some elephpants, an echo mini, a JetBrains/PhpStorm license and a selection of other prizes available to win.</p> <p>The social will also be featuring Lego Robot Wars - your chance to build, program and fight lego robots.</p> <p>This year, we'll be hosting the social at DeskLodge and then moving on to the Volunteer Tavern afterwards.</p> <p>--<br/>You might wonder why Superdry are sponsoring our Christmas meetup. You will probably know them from their high street and online clothes shops, you might think of Superdry as somewhere to buy a hoodie or a pair of jeans. But what you might not know is that they are a big tech employer based within commutable distance of Bristol. At their global headquarters in Cheltenham they employ a sizeable in-house dev team who design and manage all of their ecommerce websites, such as this one www.superdry.com. They are investing a lot of money in digital tech and are expanding their team, and because their websites are built using PHP, they are interested in recruiting people like you. A few of their guys will be at the meetup if you fancy a chat about what it\u2019s like to work as a developer for this big global brand \u2013 there will be no hard sell, but if you\u2019re curious, they\u2019ll be keen to talk to you.</p> <p>--</p> <p>As always, a big thanks to our meetup sponsors Ents24 (<a href=\"http://www.ents24.com/\" class=\"linkified\">http://www.ents24.com/</a>), Brightpearl (<a href=\"http://www.brightpearl.com/\" class=\"linkified\">http://www.brightpearl.com/</a>), Space 48 (<a href=\"https://www.space48.com/\" class=\"linkified\">https://www.space48.com/</a>), Deep Blue Sky (<a href=\"http://deepbluesky.com/\" class=\"linkified\">http://deepbluesky.com/</a>) &amp; Helastel (<a href=\"https://www.helastel.com/\" class=\"linkified\">https://www.helastel.com/</a>) without whom we wouldn't be able to put on our meetups.</p> ",
     "end_time": 1544648400,
     "link": "https://www.meetup.com/php-sw/events/256696144/",
-    "location": null,
+    "location": {
+        "address": "Bristol",
+        "city": "BS2 0BY",
+        "country": "gb",
+        "latitude": 51.453651428222656,
+        "longitude": -2.5834341049194336,
+        "name": "Desk Lodge, 5th Floor, 1 Temple Way"
+    },
     "org": "phpsw",
     "start_time": 1544640300,
     "title": "End of Year Social 2018"

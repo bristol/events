@@ -3,7 +3,14 @@
     "description": "<p>Our next meetup will be in March. It's another virtual meetup. Join us on zoom at 7 pm. You'll get the link when you RSVP.</p> <p>We're delighted to have a fantastic talk this month from Mike Rogers.</p> <p>** Mike Rogers: Docker for Developer Happiness **</p> <p>Docker allowed me to extract lots of my apps complexity by reducing the amount of dependencies I had to install. I want to share information about how to get up &amp; going, with enough working knowledge to have fun :D</p> <p>** Lightning Talk **</p> <p>TBA</p> <p>* * *</p> <p>Slack</p> <p>If you have any questions or suggestions please join us on Slack. Go to <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> ",
     "end_time": 1615928400,
     "link": "https://www.meetup.com/south-west-ruby/events/276817538/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "south-west-ruby",
     "start_time": 1615921200,
     "title": "South West Ruby #32 (ONLINE)"

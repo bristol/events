@@ -3,7 +3,14 @@
     "description": "<p>iO Associates are excited to announce that our next .Net Virtual Meetup will be on Tuesday 1st March at 7pm! We will be joined by Gerald Versluis, Senior Software Engineer at Microsoft, who will be delivering a session on: \u2018Introduction to App Development with .NET MAUI\u2019.</p> <p>.NET MAUI provides an extremely flexible and powerful way to create apps for Android, iOS, macOS, and Windows, from very simple to extremely robust and complex. Is this one size fits all? Where should you start? In this session, Gerald will run through what .NET MAUI is, how it fits in the .NET ecosystem, differences with Xamarin and how to get started yourself.</p> <p>**About our speaker:**</p> <p>Gerald Versluis is a Software Engineer at Microsoft from the Netherlands. After years of experience working with Azure, ASP.NET, DevOps, Xamarin and other .NET technologies, he has been involved in a number of different projects and has been building several real-world apps and solutions.</p> <p>Not only does he like to code, but he is also passionate about spreading his knowledge \u2013 as well as gaining some in the bargain. Gerald involves himself in speaking, providing training sessions and writing blogs ([<a href=\"https://blog.versl](https://blog.versl/)u.is\" class=\"linkified\">https://blog.versl](https://blog.versl/)u.is</a>) or articles, answering questions on Stack Overflow and contributing to open-source projects in his spare time.</p> <p>**Twitter:** @jfversluis I Website: [<a href=\"https://gerald.verslu.is](https://gerald.verslu.is/\" class=\"linkified\">https://gerald.verslu.is](https://gerald.verslu.is/</a>)</p> <p>iO Associates tech and digital recruitment specialists, have always been a very active member of multiple Meetup groups across the UK. We\u2019re really keen to help keep our community positive and engaged hearing from the best speakers on the topics of your choice. So, we encourage you to share this with your team and the wider community.</p> <p>We hope you can join us and please get in touch at meetups@[ioassociates.co.uk](<a href=\"http://ioassociates.co.uk/\" class=\"linkified\">http://ioassociates.co.uk/</a>) with any questions or suggestions on future virtual meetups.</p> <p>In addition, if there\u2019s anything we can help you with in regards to sourcing candidates or finding a new role, please do also get in touch.</p> <p>Thanks,</p> <p>Michael Collins - iO Associates</p> ",
     "end_time": 1646166600,
     "link": "https://www.meetup.com/dotnetsouthwest/events/284153111/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1646161200,
     "title": "iO .Net Virtual Meetup - Introduction to App Development with .NET MAUI (Aff)"

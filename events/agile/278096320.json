@@ -3,7 +3,14 @@
     "description": "<p>Fairy tales are useful and true, because they help us make sense of the world around us.</p> <p>Through this workshop, Agile Coach, Visual Facilitator and Storyteller, Charles-Louis de Maere will explore with us the power of storytelling.</p> <p>Throughout this interactive workshop session, we will gather in groups,<br/>to understand and listen to one another, as well as creating shared meaning and understanding.</p> <p>This can only happen when we let go of our certainty and Charles-Louis believes that this is what the world currently needs the most.</p> <p>About the speaker:</p> <p>Charles-Louis loves bringing people together and seeing what happens when they \u201ctune in\u201d together. He started his journey towards agility (or sense-making) around 2009, and worked in different contexts and companies which provided him with perspectives to make sense of the work we do. He learned Scrum by doing, as a Scrum Master together with his team. They started from the guide and discovered the beauty of Inspect and Adapt.</p> <p>As a visual facilitator, Charles-Louis loves making the hidden things visible, using pictorial language to uncover our understanding of things. Stories are another option for bringing sensitive topics to the surface, and he has recently started to explore this topic through his self-development practice.</p> <p>Approximate timings:</p> <p>6 - 7:30 - The Power of Stories Workshop</p> <p>7:40 - 8:15 - The \"After Party\" - Opportunity for those who want to chat about the session and other random thoughts with each other.</p> ",
     "end_time": 1623178800,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/278096320/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "agile",
     "start_time": 1623171600,
     "title": "The Power of Stories - Charles-Louis de Maere"

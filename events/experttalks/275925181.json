@@ -3,7 +3,14 @@
     "description": "<p>At the end of last year I released a video on my Software Engineering YouTube channel called \u201cBad Software Engineering Killed the Cyberpunk 2077 Release.\u201d</p> <p>It was ridiculously successful, so far over 445k views.</p> <p>In this talk, I reflect on the failures in Software Engineering exemplified in the CyberPunk 2077 release, and on the comments section of my YouTube video which were also fascinating. The most common negative comments were best paraphrased by, \u201cthis guy blames the developers, but it was the evil management.\u201d</p> <p>I think that this demonstrates a deep disconnect in our organisations and in what \u201cengineering\u201d for software means. In this talk, we will also explore how we should think about engineering in software terms, and why it matters</p> <p>SPEAKER: DAVE FARLEY</p> <p>Dave is the founder and director of Continuous Delivery Ltd. He is a regular conference speaker, YouTuber and widely read blogger on technology and software development.</p> <p>Dave is a thought leader in the field of software development and has a long track record in doing innovative work, creating high-performance teams, shaping organisations for success and creating outstanding software.</p> <p>Dave is the author of the award-winning book \u2018Continuous Delivery\u2019 which describes, what many regard as, the state-of-the-art in software development process.</p> <p>Dave is also one of the authors of the \u2018Reactive Manifesto\u2019 which describes a modern approach to high-performance, efficient, system design. He was the Head of Development for LMAX Ltd. a company that is widely respected for the quality of its software and innovative approach to design. He was also part of the team that created the LMAX Disruptor, which won the Duke Award for open source software.</p> <p>**</p> <p>The recording of the talk will be added to the comments shortly after it takes place</p> ",
     "end_time": 1612983600,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/275925181/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1612980000,
     "title": "Dave Farley: Lessons From The Cyberpunk 2077 Release"

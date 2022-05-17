@@ -3,7 +3,14 @@
     "description": "<p>IMPORTANT NOTE: Registration for this event is via an external ticketing system here: <a href=\"https://ti.to/bristol-data-scientists/16-july-bds\" class=\"linkified\">https://ti.to/bristol-data-scientists/16-july-bds</a></p> <p>You do not need to register on meetup, only the above link. This helps us track numbers better.</p> <p>If you would like to speak please drop us a message on meetup!</p> ",
     "end_time": 1563307200,
     "link": "https://www.meetup.com/Bristol-Data-Scientists/events/260694136/",
-    "location": null,
+    "location": {
+        "address": "1 Canon's Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451393127441406,
+        "longitude": -2.5982589721679688,
+        "name": "Watershed"
+    },
     "org": "Bristol-Data-Scientists",
     "start_time": 1563296400,
     "title": "Bristol Data Scientists Meeting - July 2019"

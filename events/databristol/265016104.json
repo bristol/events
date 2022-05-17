@@ -3,7 +3,14 @@
     "description": "<p>Details - Alex Yates will be doing demos of database deployments; create a new public repository in GitHub, script out a database using SSDT, and set up an automated Azure DevOps Services Release Pipeline to deploy our source code to Azure.</p> <p>Phil Austin will be talking - details tbc.</p> <p>----------</p> <p>AGENDA</p> <p>----------<br/>18.00 \u2013 18:30 Meet &amp; Greet<br/>----------</p> <p>18:30 - 19:20<br/>TALK #1 - Alex Yates; Simple database deployments with GitHub, Azure DevOps Services and SSDT</p> <p>For many of us, database deployments are time consuming, painful and risky.<br/>The automated deployment of applications, and even servers, is now ubiquitous<br/>- but most of us have not applied the same principles to our databases.</p> <p>In this demo heavy session, we'll script out our database source code locally<br/>using SSDT and commit it to GitHub. Then we'll build it automatically upon<br/>commit, and deploy it to Azure at the click of a button with Azure DevOps<br/>Services.</p> <p>We'll also discuss some of the common blockers and how they can be resolved.<br/>For example, we'll discuss shared development databases, branching plans and<br/>masking production data for development.</p> <p>You'll leave this session with a better understanding of how to deliver<br/>working software more regularly and more reliably, enabling you to respond<br/>better to business demands.</p> <p><a href=\"http://workingwithdevs.com/speaking/\" class=\"linkified\">http://workingwithdevs.com/speaking/</a></p> <p>----------<br/>19.20 \u2013 19:40 Break &amp; Pizza<br/>----------</p> <p>19:40 - 20:30<br/>TALK #2 \u2013 Phil Austin; details tbc.</p> <p>----------<br/>20:30 - Pub<br/>----------</p> <p>EVENT SPONSORS<br/>----------<br/>We would like to thank our generous sponsors for supporting us:</p> <p>Just Eat (<a href=\"https://www.just-eat.co.uk/\" class=\"linkified\">https://www.just-eat.co.uk/</a>)</p> <p>WHEN AND WHERE<br/>----------<br/>Provisionally, the venue is: Just Eat, Broad Quay House, Broad Quay, Bristol BS1 4DJ. If for any reason, you cannot make it, please un-RSVP in good time.</p> <p>LEVELS<br/>----------<br/>Level 1: Introductory and overview material<br/>Level 2: Intermediate material (background knowledge useful)<br/>Level 3: Advanced (assumes prior subject matter knowledge)<br/>Level 4: Expert (deep level of technical knowledge)</p> ",
     "end_time": 1594843200,
     "link": "https://www.meetup.com/DataBristol/events/265016104/",
-    "location": null,
+    "location": {
+        "address": "40 Berkeley Square",
+        "city": "Bristol",
+        "country": "GB",
+        "latitude": 51.45481491088867,
+        "longitude": -2.605412006378174,
+        "name": "Bud Systems, Origin Workspace"
+    },
     "org": "databristol",
     "start_time": 1594832400,
     "title": "DB Deployments"

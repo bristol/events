@@ -3,7 +3,14 @@
     "description": "<p>Anyone who's heading to SQL Relay (or even if you're not!) and would like to have a post-relay wind-down in a nearby pub it would be great to see you!</p> <p>We'll be there shortly after the closing session ends, so feel free to hang round in the hotel foyer and wait for us, or see you in the pub!</p> <p>Prince Street Social is very close, come out of the hotel conference entrance and cross the road :)</p> <p>We'll post updates here if we've moved on due to it being too busy etc.</p> ",
     "end_time": 1539367200,
     "link": "https://www.meetup.com/DataBristol/events/255425797/",
-    "location": null,
+    "location": {
+        "address": "34-37 Prince St Bristol BS1 4PS",
+        "city": "Bristol",
+        "country": "GB",
+        "latitude": 51.4504508972168,
+        "longitude": -2.596342086791992,
+        "name": "Prince street social "
+    },
     "org": "databristol",
     "start_time": 1539360000,
     "title": "Post-Relay pub trip"

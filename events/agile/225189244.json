@@ -3,7 +3,14 @@
     "description": "<p>\"Please allow me to introduce you to my co-presenter, <b>Louis Cypher</b>, Agile Coach, MBA, PhD, Kanban Trainer, SAFe consultant, Six Sigma Super Black Belt, Scrum Study Certified Trainer, Certified ScrumMaster, PRINCE2 Practitioner, OFG Certified Architect, PMP.\u00a0</p> <p>He is an Agile Consultant and Thought Leader of wealth and taste. He has been around a long, long time and you\u2019ve probably met him in some form or another.\u00a0</p> <p>A couple of days before All Hallows Eve, He will take you on a journey of his personal experiences of Agile and will show you the nature of his game.\u00a0</p> <p>He will reveal a range of fantastic opportunities and ideas to take back to your teams and take your career to new heights.</p> <p>And all it will cost is your Agile Soul\u2026\"</p> <p><i>Please note that this is a Thursday evening instead of the usual Tuesday.</i></p> ",
     "end_time": 1446156000,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/225189244/",
-    "location": null,
+    "location": {
+        "address": "Temple Circus",
+        "city": "Bristol BS1 6HG",
+        "country": "gb",
+        "latitude": 51.4507942199707,
+        "longitude": -2.585261106491089,
+        "name": "IOP Publishing"
+    },
     "org": "agile",
     "start_time": 1446145200,
     "title": "Guest Speaker : Nigel Baker - 'Sympathy for the Agile Coach'"

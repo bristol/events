@@ -3,7 +3,14 @@
     "description": "<p>This Talk, the fourth in our Client Spotlight series, is with Mike Potter, CTO at Thames Water.</p> <p>**</p> <p>From CtO to CTO - what does that mean???</p> <p>Intrigued?</p> <p>This will be a challenging presentation from a highly experienced strategist who is currently leading an extensive programme of change at Thames Water.</p> <p>Come and hear what he has to say - and, if you want, have your own say.</p> <p>****<br/>SPEAKER:<br/>Mike Potter, CTO, Thames Water</p> <p>Mike is a Board level executive with a track record in Chief Digital Officer and Transformation leadership roles.<br/>He has a proven ability to drive growth, innovation and performance turnaround across complex public-sector organisations and international retail, energy and manufacturing businesses.<br/>He develops and executes digital strategies and builds technology-enabled models that enable organisations to respond to rapidly shifting markets, commercial opportunities and regulatory challenges.<br/>He combines commercial acumen and digital expertise with stakeholder engagement skills to improve productivity, open up revenue streams and optimise user experience.</p> <p>**<br/>A link to the recording of this Talk will be placed in the Comments shortly after it takes place</p> ",
     "end_time": 1604516400,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/274032092/",
-    "location": null,
+    "location": {
+        "address": null,
+        "city": null,
+        "country": "",
+        "latitude": null,
+        "longitude": null,
+        "name": "Online event"
+    },
     "org": "experttalks",
     "start_time": 1604512800,
     "title": "From CtO to CTO: How to capitalise on your role as a leader of your organisation"

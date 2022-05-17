@@ -3,7 +3,14 @@
     "description": "<p>Mario Viviani - Technology Evangelist,\u00a0Amazon Appstore</p> <p>Lightning Talks:</p> <p>\u2022 Andrew Wyld - Machine Learning</p> <p>\u2022 Jan Warner - Dark Arts of WKWebView</p> <p>\u2022 Paul Freeman -\u00a0Project\u00a0Tango</p> <p>\u2022 Mike Roberts - Mobile Engagement</p> <p><i>The usual format:\u00a0</i></p> <p><i>\u2022\u00a018:00-18:15 - organisers/volunteers\u00a0arrive</i></p> <p><i>\u2022\u00a018:30 doors open / pizza arrive</i></p> <p><i>\u2022\u00a019:00 Intro by SWmobile organiser (venue admin i.e toilets, fire exits)</i></p> <p><i>\u2022\u00a019:05 talk one</i></p> <p><i>\u2022\u00a019:[masked]min comfort break</i></p> <p><i>\u2022\u00a019:50 Lightning talks!</i></p> <p><i>\u2022\u00a020:30 finish up and head to the pub\u00a0</i></p> <p><i>\u2022\u00a020:45 Volunteers leave after helping tidy up \u00a0</i></p> ",
     "end_time": 1461097800,
     "link": "https://www.meetup.com/swmobile/events/229836215/",
-    "location": null,
+    "location": {
+        "address": "1 Temple Way (5th Floor)",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454830169677734,
+        "longitude": -2.5828421115875244,
+        "name": "Neardesk"
+    },
     "org": "swmobile",
     "start_time": 1461087000,
     "title": "SWmobile: April talk night"

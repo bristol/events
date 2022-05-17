@@ -3,7 +3,14 @@
     "description": "<p>Welcome all to the March SWMobile Meetup. This month we'll be hosting a great set of lightning \u26a1\ufe0f talks. These are shorter talks (of around 10 minutes) that cover quite a broad set of topics within the world of mobile and apps, so there will be something for everyone. There will also be easter eggs. \ud83e\udd5a</p> <p>- Doors will open at 6:30pm</p> <p>- Food and drink will be available.</p> <p>- Talks will start at 7pm.</p> <p>The talks will be:</p> <p>Lizzie Darville - Legacy systems in your head and why they matter<br/>Ben Ackland - Ionic + Ripple + 2 Days = XRPiggy App<br/>Mikel Pascual - Path Morphing the simple way</p> <p>\u2014 Small break \u2014</p> <p>Richard Barrell - Unicode for \ud83d\udc7c and \ud83d\ude08<br/>David Branton - Firebase performance an overview<br/>Jack Newcombe - Building a Jenkins Plugin</p> <p>- We'll move on to a pub at around 9pm to continue the discussions. \ud83c\udf77</p> <p>We now have all the speakers lined up for this meetup. But if you\u2019re interested in speaking at a future event why not get in touch via: <a href=\"http://cfp.swmobile.org\" class=\"linkified\">http://cfp.swmobile.org</a> and there will be plenty more opportunities to speak. We are always looking for new, useful, interesting or funny perspectives on what we all do in the world of mobile.</p> <p>If you are interested in coming to this event but haven't been before and aren't sure if you'll know anyone, we can arrange for you to have a buddy. Someone who's been before and can meet you before the event starts and introduce you to others, if you'd like that please get in touch.</p> ",
     "end_time": 1522180800,
     "link": "https://www.meetup.com/swmobile/events/248659791/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
     "org": "swmobile",
     "start_time": 1522173600,
     "title": "March Lightning Talks Eggstravaganza"

@@ -3,7 +3,14 @@
     "description": "<p>Many applications in variety of areas from finance to epidemiology use Monte Carlo simulations of stochastic models. This talk will revise the basics of Monte Carlo models, and consider when they are appropriate. In particular, it will demonstrate standard and geometric Brownian motion, showing various approaches to diffusing one's way out of a paper bag. Programming one's way out of a paper bag gives a concrete, if frivolous, application to otherwise potentially abstract concepts.</p> <p>This talk will (hopefully) show animations in C++ and avoid too much detailed mathematics. It will build up from a very simple model, considering possible extensions to more complicated approaches on the way. People with a deep background in Monte Carlo simulations, e.g. in low discrepancy numbers, may be bored. The aim is to give a simple introduction to the topic. A brief mention of std::rand and std::random may be made.</p> <p><i>About our Speaker:</i></p> <p>Frances Buontempo has a BA in Maths + Philosophy, an MSc in Pure Maths and a PhD technically in Chemical Engineering, but mainly programming and learning about AI and data mining. She has been a programmer for over 15 years professionally, and learnt to program by reading the manual for her Dad's BBC model B machine. She is currently ACCU's Overload editor, is married to ACCU's CVu editor, has recently taken up weighing technical books and decided they are usually too heavy. She has previously programmed her way out of a paper bag.\u00a0</p> ",
     "end_time": 1434657600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/222576409/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1434650400,
     "title": "How to diffuse your way out of a paper bag with Frances Buontempo"

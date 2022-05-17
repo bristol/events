@@ -3,7 +3,14 @@
     "description": "<p>Streams of data are everywhere - from the latest stock price to the movements of a mouse. There is a reason why Reactive Extensions (Rx) has been translated from its origins in .NET to almost every major programming language; its design affords an elegant approach to tackling the complex problems that can arise when handling streams of data. In this talk, I'll show you why its such a powerful platform and get you started on your reactive journey!</p> <p><b>About\u00a0James World</b></p> <p>James World is an independent contractor with 25 years of professional software development experience. He worked at Microsoft as a software consultant for a decade, ran the Microsoft UK Performance &amp; Scalability Labs and has worked in the City of London on a range of trading systems. Over the last few years, he has worked as a consultant improving software development at companies by leading the adoption of agile and software-development best-practices. He has also founded two successful tech start-ups. Always a coder, he makes sure never stray too far away from his latest programming project. Find him on twitter at <a href=\"https://twitter.com/jamesw0rld\">@jamesw0rld</a> and on LinkedIn at <a href=\"https://t.co/6uJsvCzBjJ\"><a href=\"http://linkd.in/james-world\" class=\"linkified\">http://linkd.in/james-world</a>\u00a0</a>. He current holds the highest score on Stack Overflow for the Reactive Extensions tag, which gives him a good excuse to talk about it.</p> <p>A special thanks to our sponsors:</p> <p><a href=\"https://tech.just-eat.com/\">Just Eat</a> - Venue and food<br/><a href=\"https://www.jetbrains.com\">JetBrains</a> - Prize Licences<br/><a href=\"http://www.ioassociates.co.uk\">iO Associates</a> - Prize giveaway<br/><a href=\"https://www.postsharp.net/\">PostSharp</a> - Giveaway Licenses</p> ",
     "end_time": 1511294400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/244891748/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1511289000,
     "title": "Introduction to Reactive Extensions in .NET with James World"

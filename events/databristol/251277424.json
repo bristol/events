@@ -3,7 +3,14 @@
     "description": "<p>*** Please note that this is at a different Ovo office to the one we've held talks in previously (we'll be in Ovo Energy, 2nd Floor, 10 temple back, Bristol. BS1 6FL) ***</p> <p>This month we have two of our Bristol members (James Yarrow and Niall Langley) doing talks... see below for a summary.</p> <p>We hope you can join us for a couple of great talks and networking with free pizza and beer. These meetups attract a friendly, relaxed crowd. Look out for organisers with an orange lanyard if you need any info (or just for a chat!).</p> <p>If you're a twitterer you can find us at <a href=\"https://twitter.com/SQLBristol\" class=\"linkified\">https://twitter.com/SQLBristol</a> and please do message us or comment below if you have any questions in advance.</p> <p>James Yarrow - Applied Python in SQL Server 2017:</p> <p>We are be looking at how we can use the feature to meet some common problems.</p> <p>How we can extend stored procedures to talk to API's.<br/>How we can create models for our customers.<br/>How we can post data out to web hooks.</p> <p>Python opens up a great selection of options and advantages.</p> <p>Niall Langley - NOLOCK \u2013 The good, the bad &amp; the ugly:</p> <p>In this session we will look at the NOLOCK query hint, how and where it is commonly used, and use some demos to understand what problems this can cause. We will then look at the alternatives available, including a look at the various transaction isolation levels that we can use to help solve concurrency issues on our own servers.</p> ",
     "end_time": 1529436600,
     "link": "https://www.meetup.com/DataBristol/events/251277424/",
-    "location": null,
+    "location": {
+        "address": "10 temple back",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45317077636719,
+        "longitude": -2.5861148834228516,
+        "name": "Ovo Energy, 2nd Floor"
+    },
     "org": "databristol",
     "start_time": 1529427600,
     "title": "Python and NOLOCK in SQL Server"
