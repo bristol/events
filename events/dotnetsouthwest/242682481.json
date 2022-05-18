@@ -3,14 +3,7 @@
     "description": "<p><b>SPA Identity &amp; Access Control with OpenID Connect &amp; IdentityServer 4</b></p> <p>As software developers, we work in one of the most rapidly changing industries available, and in recent years this has been doubly true when we talk about security. Nowadays we have to accommodate a variety of client applications, hosted on any device, anywhere in the world and this means we must take a closer look at how we handle authentication and authorization when dealing with our protected resources.</p> <p>In this talk, we\u2019ll take a look at how Single Page Applications, running on a user\u2019s browser, can use OpenID Connect for authentication and OAuth to gain access to data from an API. This will include the limitations of working with the unique security profile of a client side web application, and the measures we must take to secure our data. Once we have covered the basic theory behind identity and access control, OAuth, and OpenID Connect, we will implement IdentityServer 4 as our OpenID Connect Provider and use it to authenticate users for an Angular 4 SPA and authorize access to a ASP.NET Core API.</p> <p><b>About Scott Brady</b></p> <p>Scott Brady is the Identity &amp; Access Control Lead\u00a0at Rock Solid Knowledge, a Pluralsight Author, and\u00a0Speaker. He specializes in IdentityServer and all things Identity, OAuth, and OpenID Connect. He's also a big fan of Azure.</p> <p>Scott work mainly with C# and ASP.NET Core, creating identity solutions for both external customers and for commercial IdentityServer products. When not working with these technologies he dabbles with languages such as Kotlin, Python, and Typescript.</p> <p>You can find more information about Scott in his website at <a href=\"https://www.scottbrady91.com\">scottbrady91.com</a>.</p> ",
     "end_time": 1506457800,
     "link": "https://www.meetup.com/dotnetsouthwest/events/242682481/",
-    "location": {
-        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "JUSTEAT Technology"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1506447000,
     "title": "SPA Identity & Access Control with OpenID Connect & IdentityServer 4"

@@ -3,14 +3,7 @@
     "description": "<p>In April join us at Desklodge where the ever popular lightning talks night returns!</p> <p>This month's talks are:</p> <p>- Static Site Generators, PHP, and The Cuban Revolution<br/>Drew Mclellan</p> <p>- How to not be a cool developer<br/>Jergu\u0161 Lejko</p> <p>- Speedy Seeding for Load Testing<br/>Martin Joiner</p> <p>- Using a framework or not<br/>Peter Fisher</p> <p>- Bad Tech Tests<br/>Lucia Valance</p> <p>- Not using the Git Command Line<br/>Nigel Dunn</p> <p>- Devkit. By the People, For the People<br/>V\u00edtor Brand\u00e3o</p> <p>- Development Dinosaurs<br/>Andy Gale</p> <p>--</p> <p>As always, a big thanks to our meetup sponsors Ents24 (<a href=\"http://www.ents24.com/\" class=\"linkified\">http://www.ents24.com/</a>), Brightpearl (<a href=\"http://www.brightpearl.com/\" class=\"linkified\">http://www.brightpearl.com/</a>), Space 48 (<a href=\"https://www.space48.com/\" class=\"linkified\">https://www.space48.com/</a>), Helastel (<a href=\"https://www.helastel.com/\" class=\"linkified\">https://www.helastel.com/</a>) &amp; Deep Blue Sky (<a href=\"http://deepbluesky.com/\" class=\"linkified\">http://deepbluesky.com/</a>) without whom we wouldn't be able to put on our meetups.</p> <p>Afterwards we'll head to the pub, probably the Volunteer Tavern (<a href=\"http://volunteertavern.co.uk/real-ales\" class=\"linkified\">http://volunteertavern.co.uk/real-ales</a>)!</p> ",
     "end_time": 1523476800,
     "link": "https://www.meetup.com/php-sw/events/249042620/",
-    "location": {
-        "address": "Bristol",
-        "city": "BS2 0BY",
-        "country": "gb",
-        "latitude": 51.453651428222656,
-        "longitude": -2.5834341049194336,
-        "name": "Desk Lodge, 5th Floor, 1 Temple Way"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1523468700,
     "title": "Lightning Talks"

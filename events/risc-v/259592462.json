@@ -3,14 +3,7 @@
     "description": "<p>Following our successful first Bristol RISC-V Meetup last October, we are pleased to invite you to join us at our second one, which will be jointly hosted by UltraSoC and Imperas Software!</p> <p>The evening will start at 6pm with a networking session, including refreshments. We will have a number of engaging talks, and there will also be live technical demonstrations.</p> <p>There will be some interesting speakers, including:</p> <p>Professor David May - University of Bristol<br/>Dr Carl Shaw \u2013 Cerberus Laboratories, Co-Founder<br/>Dave McEwan \u2013 EPSRC Centre for Doctoral Training in Communications, PhD student<br/>Mark Hill \u2013 Huawei, Chief CPU Architect<br/>Simon Davidmann \u2013 Imperas Software, Founder and CEO<br/>Gajinder Panesar \u2013 UltraSoC, CTO<br/>Ben Marshall \u2013 University of Bristol, Research Associate</p> <p>This Meetup will take place in the events room on the 4th floor of DeskLodge at Temple Way, a short walk from Bristol Temple Meads station.</p> <p>Places are limited, so please book soon! We look forward to seeing you there.</p> <p>Please visit <a href=\"https://riscv.org/\" class=\"linkified\">https://riscv.org/</a> for more information about RISC-V, and to read how, as a member of the RISC-V Foundation, UltraSoC is deeply involved in developing and defining the debug architecture for RISC-V standards, visit <a href=\"https://www.ultrasoc.com/technology-2/risc-v/\" class=\"linkified\">https://www.ultrasoc.com/technology-2/risc-v/</a>. Imperas helps RISC-V developers with virtual platforms and tools for early software development, RISC-V compliance testing and test development. Visit <a href=\"http://www.imperas.com/imperas-riscv-solutions\" class=\"linkified\">http://www.imperas.com/imperas-riscv-solutions</a></p> <p>You may like to check out our blog post from our first Bristol RISC-V Meetup: <a href=\"https://www.ultrasoc.com/the-rising-temperature-of-risc-v-in-bristol/\" class=\"linkified\">https://www.ultrasoc.com/the-rising-temperature-of-risc-v-in-bristol/</a>.</p> <p>Also, if you are interested in speaking at a forthcoming RISC-V Meetup, please do get in touch by sending an email to [masked]. This community is to provide an open platform for all in which to share experiences, to build understanding and open doors to opportunities based on the RISC-V architecture.</p> ",
     "end_time": 1556652600,
     "link": "https://www.meetup.com/Bristol-RISC-V-Meetup-Group/events/259592462/",
-    "location": {
-        "address": "1 Temple Way",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45463562011719,
-        "longitude": -2.5829999446868896,
-        "name": "DeskLodge Old Market"
-    },
+    "location": null,
     "org": "risc-v",
     "start_time": 1556643600,
     "title": "Join us for the second Bristol RISC-V Meetup!"

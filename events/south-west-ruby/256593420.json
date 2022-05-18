@@ -3,14 +3,7 @@
     "description": "<p>Join us at Cookpad HQ in Bristol, this month for more great talks. Expect another Ruby packed evening with great conversations, beers and bites to eat.</p> <p>Schedule</p> <p>18:30 - 19:00 - Arrive, grab a drink, some delicious locally supplied food and have a chat with fellow attendees.</p> <p>19:00-20:00 Talks</p> <p>Chris Seaton - \"Ruby Metaprogramming Doesn\u2019t Have To Be Slow\" @ChrisGSeaton</p> <p>David Stosik - \"Monkey Patching Wisely\" @davidstosik</p> <p>20:00-20:30 - Socialise and network.</p> <p>Slack</p> <p>If you like to join us on Slack please join <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> ",
     "end_time": 1545165000,
     "link": "https://www.meetup.com/south-west-ruby/events/256593420/",
-    "location": {
-        "address": "3 Broad Plain, BS2 0JP",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45417404174805,
-        "longitude": -2.582395076751709,
-        "name": "Cookpad"
-    },
+    "location": null,
     "org": "south-west-ruby",
     "start_time": 1545157800,
     "title": "South West Ruby #12 : Ruby Christmas"

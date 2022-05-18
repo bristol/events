@@ -3,14 +3,7 @@
     "description": "<p>Stuart Nelson - Accessibility 101</p> <p>The talk is an overview of what web accessibility is, how it can be measured and some simple tips about improving the accessibility of your website.</p> <p>---</p> <p>Sam Ollason - My experience building mobile apps with React Native and Swift</p> <p>React is a powerful JavaScript library for creating rich user interfaces. It was originally developed for the web for websites like Facebook and Instagram.</p> <p>React Native is a way of using the same React technology to create mobile apps that automatically work on different platforms.</p> <p>I share my experiences and the lessons l learnt from creating apps with React Native and talk about how it compares to developing native iOS apps and working with React for the web.</p> <p>---</p> <p>Kris Foster - Lightening talk - GraalVM - Java's Polyglot future, or, new ways to run JS</p> <p>A quick intro into GraalVM, the new polygot run time from Oracle that can run JS / Node , Python, Ruby and how you can use it to build Polyglot programs</p> ",
     "end_time": 1582752600,
     "link": "https://www.meetup.com/BristolJS/events/268681291/",
-    "location": {
-        "address": "The Brew House",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.455081939697266,
-        "longitude": -2.584197998046875,
-        "name": "Zone Digital"
-    },
+    "location": null,
     "org": "bristoljs",
     "start_time": 1582741800,
     "title": "Feb 2020 - Accessibility 101 & Building mobile apps with React Native and Swift"

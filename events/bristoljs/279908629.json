@@ -3,14 +3,7 @@
     "description": "<p>\ud83d\udea8 Please do not join the waitlist \ud83d\udea8</p> <p>RSVP HERE \ud83d\udc49 <a href=\"https://techtalks.io/events/bristol-js-returns-with-max-stoiber-sarah-dayan\" class=\"linkified\">https://techtalks.io/events/bristol-js-returns-with-max-stoiber-sarah-dayan</a> \ud83d\udc48</p> <p>---</p> <p>Hey Bristol JS... sorry we've been away for so long.</p> <p>We've missed you all so much in our extended break but we're really excited to be back and have quite the event to kick things back off.</p> <p>This August we have the amazing virtual event with Max Stoiber and Sarah Dayan giving talks.</p> <p>If all goes well we're hoping to kick off in-person events from September. Please let us know in the comments what talks you'd like to see us cover and if you're interested in giving a talk.</p> <p>Talk #1 - Max Stoiber - GraphCDN - How to edge cache GraphQL APIs</p> <p>For years, not being able to cache GraphQL was considered one of its main downsides compared to RESTful APIs. Not anymore. GraphCDN makes it possible to cache almost any GraphQL API at the edge, and not only that but our cache is even smarter than any RESTful cache could ever be. Let's dive deep into the inner workings of GraphCDN to figure out how exactly we make this happen.</p> <p>Talk #2 - Sarah Dayan - Learning from the Mistakes of a v1</p> <p>In early 2018, I published Dinero.js, the Moment.js for money. After two years of existence, 29 releases, 3.6k stars on GitHub, and peaks at over 6k downloads per day on npm, it's time to release a v2 to fix the design issues of the v1. But how do you craft an impactful new major version?</p> <p>A v2 usually marks a turning point. If you think of your favorite projects, they all probably started becoming interesting around their second iteration: Vue.js, Magento, Symfony, Angular, etc. A v1 is often experimental. It's an excited new kid on the block, coming with big ambitions but numerous flaws. It has no experience in the real world, but it thinks it knows everything and wants to do it all. That's the case of Dinero.js, and it's time for it to grow up.</p> <p>In this talk, I'll go over the most significant issues of the v1, why they happened, and how I intend to fix them. I'll explain how I approached this v2, what kind of feedback I used to design it, and how going with a design-driven approach</p> <p>---</p> <p>\ud83d\udea8 Please do not join the waitlist \ud83d\udea8</p> <p>RSVP HERE \ud83d\udc49 <a href=\"https://techtalks.io/events/bristol-js-returns-with-max-stoiber-sarah-dayan\" class=\"linkified\">https://techtalks.io/events/bristol-js-returns-with-max-stoiber-sarah-dayan</a> \ud83d\udc48</p> ",
     "end_time": 1629916200,
     "link": "https://www.meetup.com/BristolJS/events/279908629/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "bristoljs",
     "start_time": 1629909000,
     "title": " Bristol JS returns with Max Stoiber & Sarah Dayan "

@@ -3,14 +3,7 @@
     "description": "<p>About the Talk:<br/>What are the patterns and practices of serverless development, and, how do we deploy serverless apps on the Azure platform? Those are the questions we'll answer during this session on building and deploying Azure Function apps with Azure Pipelines and GitHub Actions. This session will be jam packed with demos. Regardless of whether your focus is on development or operations, there will be something in this session for you.</p> <p>About the Speaker:<br/>Mike Pfeiffer is a twenty-year tech industry veteran who\u2019s worked for some of the largest technology companies in the world including Microsoft and Amazon Web Services (AWS). He\u2019s the founder and Chief Technologist at CloudSkills.io, a cloud consulting and training firm. Mike is a published author, international conference speaker, Microsoft Azure MVP, and host of the CloudSkills.fm podcast.</p> ",
     "end_time": 1600891200,
     "link": "https://www.meetup.com/dotnetsouthwest/events/272470332/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1600884000,
     "title": "Virtual - Building and Deploying Serverless Apps on Azure with Mike Pfeiffer"

@@ -3,14 +3,7 @@
     "description": "<p>\ud83c\udfa4Nailing down distributed workflows with microservices:<br/>Workflows are present in every business. These bring up different challenges such as integration with different systems, long-lived transactions, failure recovery and more.<br/>In this session we\u2019ll learn how to address these issues with a distributed, event-driven architecture based on microservices that I\u2019ve been using successfully in the last three years across different projects. We also learn how to implement this architecture with MassTransit and Automatonymous and run it on containers with Kubernetes.</p> <p>The session broken down into three parts. In the first part of the session we\u2019ll brush up some DDD patterns and microservices patterns such as sagas, orchestration and different communication patterns.<br/>On the second part we\u2019ll put those patterns in practice by building up the sample architecture for an imaginary business, which requires integration with external systems with different communication protocols and built with different technologies (Python, Node, \u2026).<br/>On the final part we\u2019ll see how to implement the architecture.</p> ",
     "end_time": 1576096200,
     "link": "https://www.meetup.com/dotnetsouthwest/events/266922798/",
-    "location": {
-        "address": "Broad Quay",
-        "city": "Bristol City",
-        "country": "gb",
-        "latitude": 51.4517936706543,
-        "longitude": -2.596950054168701,
-        "name": "Just Eat"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1576089000,
     "title": "Nailing down distributed workflows with microservices by Ben Arroyo"

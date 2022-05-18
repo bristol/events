@@ -3,14 +3,7 @@
     "description": "<p>All welcome to join us for a social after a day of great FREE talks at Data Relay conference in Bristol.</p> <p>To go to that, you'll need to register(*) at: <a href=\"https://datarelay.co.uk/events/\" class=\"linkified\">https://datarelay.co.uk/events/</a> (if you'd like to volunteer as a Bristol helper, email [masked] - we're liaising with the organisers).</p> <p>We'll be around during the day too (there are good networking opportunities around the talks) so come and say hi, and we'll be in the Prince Street social, just opposite the Bristol Hotel, from around 5pm.</p> <p>We should be easy to spot, wearing Data Relay T-Shirts and/or 'Subject Data' lanyards.</p> <p>Hope to see you there :)</p> <p>* As with the events we organise, please only sign up above if you're definitely planning to attend. No-shows are a frustrating issue for organisers, speakers, sponsors, catering provision and perhaps most importantly preventing others coming when events have become full. If you sign-up and can no longer make it please cancel your place.</p> ",
     "end_time": 1570820400,
     "link": "https://www.meetup.com/DataBristol/events/264985276/",
-    "location": {
-        "address": "37-41 Prince Street",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.4504508972168,
-        "longitude": -2.596342086791992,
-        "name": "The Prince Street Social"
-    },
+    "location": null,
     "org": "databristol",
     "start_time": 1570809600,
     "title": "Data Bristol: Post Data Relay Social"

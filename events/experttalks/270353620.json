@@ -3,14 +3,7 @@
     "description": "<p>The demands of the modern workplace are changing. Trends like flexible hours, remote working, or \u201cbleisure\u201d travel are being introduced to give employees more work-life balance.</p> <p>Moreover, organisations that are capable of working remotely in an effective manner are more resilient to external shocks, like the recent COVID-19 outbreak showed us. In order to remain effective while separated, teams need to leverage coordination tools like Pull Requests.</p> <p>This talk will show you the difference between a good and a bad Pull Request, and the work that needs to happen before and after to make sure it is successful.</p> <p>With these tips, your Pull Requests will become a rich communication channel, and you will be able to use distance to your advantage.</p> <p>SPEAKER: Abraham Marin-Perez, Software Developer, Equal Experts<br/>Contributing author to \"97 Things every Java Programmer should know\".</p> ",
     "end_time": 1588788000,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/270353620/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "experttalks",
     "start_time": 1588784400,
     "title": "More effective pull requests for remote workers"

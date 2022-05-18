@@ -3,14 +3,7 @@
     "description": "<p>Every version of the .NET Framework has brought improvements to asynchronous and concurrent programming. While .NET 4.0 brought the async/await model which is useful for improving UI responses and server applications, it can sometimes still be tricky to marshal multiple threads within longer processing pipelines.</p> <p>The Dataflow Library consists of a Nuget package built on top of the Task Parallel Library (TPL). It harnesses the actor-based programming model to provide a set of dataflow blocks data structures that buffer and process data, which you can connect together to form custom pipelines with messages passed between the blocks.</p> <p>By using the Dataflow Library you can concentrate on the messages and actions being performed, while the blocks marshal the messages, provide concurrent message processing and buffering as well as supporting cancellation and exception handling.</p> ",
     "end_time": 1414096200,
     "link": "https://www.meetup.com/dotnetsouthwest/events/203786452/",
-    "location": {
-        "address": "Frenchay Campus, Coldharbour Lane, BS16 1QY",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.501434326171875,
-        "longitude": -2.5443789958953857,
-        "name": "UWE Bristol"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1414085400,
     "title": "Liam Westley: An Actor's Life for Me \u2013 An intro to the TPL Dataflow Library"

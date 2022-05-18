@@ -3,14 +3,7 @@
     "description": "<p>Event Lead by OWASP Suffolk<br/>Agenda:</p> <p>* Welcome and OWASP updates<br/>* Talk: Are we Secure? - with Jeff Jeff Williams, CTO at Contrast Security<br/>* Q&amp;A</p> <p>Talk: Are we Secure?<br/>Abstract: We all trust software with the most important aspects of our life\u2026 but it\u2019s a blind trust with virtually no justification. Actually, by almost any measure, application security has been failing for 20 years. Software is still riddled with vulnerabilities and gets attacked thousands of times a month \u2013 mostly undetected. Yet instead of trying different approaches, we mostly keep pushing the same futile and expensive practices harder.<br/>In this talk, we\u2019ll discuss why the underlying asymmetric information problem in the software market makes it impossible to make progress. And we\u2019ll talk about how we can escape this trap, change the software market, and make software trustworthy for everyone.</p> <p>About the speaker:<br/>Jeff Williams - CTO of Contrast Security and OWASP Co-Founder<br/>Jeff Williams is the co-founder and major contributor to OWASP, where he served as the Chair of the OWASP Board for 8 years and created the OWASP Top 10, OWASP Enterprise Security API (ESAPI), OWASP Application Security Verification Standard(ASVS), XSS Prevention Cheat Sheet, WebGoat and many other widely adopted free and open projects. Jeff is the co-founder and the CTO of Contrast Security. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown.</p> <p>Event details to be published closer to event</p> ",
     "end_time": 1651003200,
     "link": "https://www.meetup.com/OWASP-Bristol/events/285365511/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "OWASP-Bristol",
     "start_time": 1650996000,
     "title": "Are we Secure?"

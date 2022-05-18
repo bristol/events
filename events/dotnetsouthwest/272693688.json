@@ -3,14 +3,7 @@
     "description": "<p>iO Associates are delighted to reveal the next of our .Net Virtual Meetups will be on Thursday 3rd September at 7pm. We will be joined by Jon Skeet, Staff Software Engineer at Google, who will be presenting a talk on C#8.</p> <p>C# 8 was released in 2019 and has a huge set of features, most notably nullable reference types, but also pattern matching enhancements, switch expressions, index and range literals, greater async integration and more. The talk will be split into two halves, the first half will be discussing nullable reference types in depth. The second half will be based on looking at the remaining features.</p> <p>There will be many opportunities to ask questions and open the floor for anything you would like to add or discuss at the end.</p> <p>Agenda<br/>7:00 pm: Introduction by iO Associates and speakers<br/>7:05 pm: Jon Skeet \u2013 C#8<br/>8:00 pm: Q&amp;A \u2013 questions from the floor<br/>8:15 pm: Concluding comments and end</p> <p>Find out more and get signed up here: <a href=\"https://us02web.zoom.us/meeting/register/tZckduihpz0uGdSej60zZwr5YcTELTxtrDN2\" class=\"linkified\">https://us02web.zoom.us/meeting/register/tZckduihpz0uGdSej60zZwr5YcTELTxtrDN2</a></p> <p>iO Associates, tech and digital recruitment specialists, have always been actively involved with multiple Meetup groups across the UK. Keeping our community positive and engaged is very important to us and therefore we get the best speakers on the topics of your choice, so feel free to share this with your team and the wider community.</p> <p>We hope you can join us and please get in touch at [masked] with any questions or suggestions on future virtual meetups.</p> ",
     "end_time": 1599161400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/272693688/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1599156000,
     "title": "(Affiliated) iO Virtual .Net Meetup - Jon Skeet - C#8"

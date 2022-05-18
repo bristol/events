@@ -3,14 +3,7 @@
     "description": "<p>This lightning talks session gives members of our group the chance to spend 10-15 minutes sharing an idea, experience or approach with a friendly and supportive audience.</p> <p><i><b>The call for speakers is now open</b></i> - so if you would like to take part then please get in touch with one of the leadership team.</p> <p>This was well received the last time we ran this so you are advised to sign up\u00a0ahead of the headliners being announced!</p> ",
     "end_time": 1376427600,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/95054952/",
-    "location": {
-        "address": "Temple Circus",
-        "city": "Bristol BS1 6HG",
-        "country": "gb",
-        "latitude": 51.4507942199707,
-        "longitude": -2.585261106491089,
-        "name": "IOP Publishing"
-    },
+    "location": null,
     "org": "agile",
     "start_time": 1376416800,
     "title": "Lightning Talks"

@@ -3,14 +3,7 @@
     "description": "<p>The talk is all about doing security architecture and threat modelling work as part of development planning.</p> <p>The presentation starts by introducing OWASP Cornucopia and the simplified OWASP \"Top 5\" for developers and then moves into looking at how one can practically include a form of threat modelling (using Cornucopia) into one's agile development practices in an effective manner.</p> <p>There is a brief discussion on gamification, covering the usual FAQs on that and then it moves onto implementation at scale and some of the experiences we've had there.</p> <p>After the talk there will be an interactive virtual Fishbowl for you to ask questions and discuss with Grant and the panelists</p> <p>SPEAKER:<br/>Grant Ongers.<br/>Security Consultant at Equal Experts</p> <p>Grant's experience spans Dev - building platforms for regulated industries for more than 10 years. 20+ years in Ops, everything from managing operations in NOCs to mainframe and DBs. He also has over 30 years pushing the limits of (Info)Sec - mostly white-hat.</p> <p>Grant\u2019s community involvement is global: Staff at BSides (London, Las Vegas, and Cape Town), Goon at DEF CON (USA) for ten years and DC2721 co-founder, staff at BlackHat (USA and EU), and OWASP Global Board member.</p> <p>**<br/>The link to the recording of this Talk will be posted in the Comments shortly after the Talk takes place.</p> ",
     "end_time": 1600884000,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/272867614/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "experttalks",
     "start_time": 1600880400,
     "title": "Gamification of threat modelling using OWASP Cornucopia with Grant Ongers"

@@ -3,14 +3,7 @@
     "description": "<p>Just some NGINX's right? How hard can it be?</p> <p>You've written your application. Maybe this consists of some micro-services, maybe even some \"serverless\" functions. What you need<br/>now is a way to route external traffic to your app. Just stick an NGINX in front, right? Enter the API gateway service...</p> <p>We'll talk about the architecture of Oracle APIGW service - which is currently being built by teams in California and Bristol and is a global-scale multi-tenant service. We'll pull back the curtain on the implementation choices we made, discuss some of the trade-offs and describe how we ensure secure and efficient use of our hardware.</p> <p>Kristen Jacobs is a principal software engineer in Oracle\u2019s cloud infrastructure group in Bristol. He spent the first 15 years of his career working in<br/>microprocessor development, but for the past 5 (ish) years has switched from the very small to the very large and is now working on cloud infrastructure.</p> <p>More specifically, right now focused on the design and implementation of the OCI managed API gateway service.</p> ",
     "end_time": 1586950200,
     "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/269696402/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "Cloud-Native-DevOps",
     "start_time": 1586948400,
     "title": "Building a Global API Gateway Service"

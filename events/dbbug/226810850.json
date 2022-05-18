@@ -3,14 +3,7 @@
     "description": "<p>Its been a while since DBBUG last met up.\u00a0</p> <p>So to beat the Christmas rush, lets get together for a social meetup at the end of November.\u00a0</p> <p>It would be good to see some of the old members of DBBUG - along with new faces.</p> <p>To talk about Python development, Django, DevOps and the like.</p> <p>To help advertise it to the wider local Python community we have added a meetup site to the traditional organisation tool of the DBBUG Google Group that has been going for the last 7 years at\u00a0<a href=\"https://groups.google.com/forum/#!topic/dbug/\"><a href=\"https://groups.google.com/forum/#!topic/dbug/\" class=\"linkified\">https://groups.google.com/forum/#!topic/dbug/</a></a></p> <p>For a more detailed introduction to Python and the DBBUG group see the following presentation</p> <p><a href=\"http://bit.ly/1PvU4KS\"><a href=\"http://bit.ly/1PvU4KS\" class=\"linkified\">http://bit.ly/1PvU4KS</a></a></p> ",
     "end_time": 1448920800,
     "link": "https://www.meetup.com/python-dbbug/events/226810850/",
-    "location": {
-        "address": "King St",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.4643440246582,
-        "longitude": -2.560338020324707,
-        "name": "Llandoger Trow"
-    },
+    "location": null,
     "org": "dbbug",
     "start_time": 1448910000,
     "title": "Python DBBUG social"

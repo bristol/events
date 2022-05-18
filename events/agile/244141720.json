@@ -3,14 +3,7 @@
     "description": "<p>Apologies for the short notice of this month's meeting. We tried hard to line up a speaker this month, but things did not quite work out. We do have a couple of great speakers in the pipeline for the next few months, and will aim to be better at sharing what's happening in future.</p> <p>But we feel that the Agile Bath &amp; Bristol community believes in transparency and learning, so in that spirit, this month we're holding a Fail Amnesty. Share your mistakes so other people don't make them.</p> <p>What we\u2019ll do: Introductions / Share stories / Q&amp;A, discussion / Wrap up. Whether it relates to teams, tech, projects or organisations, please come along to share a story of failure and the valuable lessons you learned. Send a message to the event organiser before the event if you have a story to share. Or just come along, this is an informal session so there should be opportunity to share on the night.</p> ",
     "end_time": 1508270400,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/244141720/",
-    "location": {
-        "address": "90 Victoria Street",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45136260986328,
-        "longitude": -2.586549997329712,
-        "name": "BJSS"
-    },
+    "location": null,
     "org": "agile",
     "start_time": 1508263200,
     "title": "Fail Amnesty"

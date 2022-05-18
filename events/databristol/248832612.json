@@ -3,14 +3,7 @@
     "description": "<p>An introduction to SQL Server for data scientists - Gavin Payne</p> <p>A little bit of knowledge about how SQL Server works can go a long way towards making large data engineering queries run faster. Whether you use SQL Server as a data source or as a R or Python query processing platform, knowing how it processes queries, manages memory and reads from disk is key to making it work harder and faster.</p> <p>This session introduces and demonstrates how SQL Server:</p> <p>- operates internally<br/>- performs select queries<br/>- uses indexes to make queries run faster<br/>- executes machine learning code to make operational predictions</p> <p>It then introduces some query tuning techniques to help heavyweight analytics queries run faster.</p> <p>Speaker Bio:<br/>Gavin is both a technology focused management consultant and solution architect who enjoys helping businesses implement new capabilities and solve existing problems. He does this by using his understanding of strategy and transformation to advise leadership teams on what they should do and his knowledge of Microsoft\u2019s data, analytics, and productivity technologies.</p> <p>Pizza and drinks will be provided by our hosts Just Eat!</p> <p>P.S. We're always keen to hear from people who may be interested in doing a talk. If you or someone you know would like to present to our friendly audiences, we welcome those looking to gain experience of speaking as well as seasoned pro's. We can discuss/support co-presenting for speakers who prefer to share the limelight, and are happy to run through ideas and draft presentations. Please get in touch at: [masked]</p> ",
     "end_time": 1523991600,
     "link": "https://www.meetup.com/DataBristol/events/248832612/",
-    "location": {
-        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "JUST EAT"
-    },
+    "location": null,
     "org": "databristol",
     "start_time": 1523984400,
     "title": "Intro to SQL Server for data scientists"

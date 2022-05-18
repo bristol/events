@@ -3,14 +3,7 @@
     "description": "<p>For our next meetup, we\u2019ve joined forces with a number of other Ruby user groups across Europe. We\u2019ll meet (virtually) on June 9th at 4 pm for an action-packed mini-conference - view the schedule here. <a href=\"https://www.emeaonrails.com/#schedule\" class=\"linkified\">https://www.emeaonrails.com/#schedule</a></p> <p>RSVP as soon as you can, and you\u2019ll get the link to access the event nearer the time.</p> <p>Look forward to seeing you soon!</p> ",
     "end_time": 1623262200,
     "link": "https://www.meetup.com/south-west-ruby/events/278469908/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "south-west-ruby",
     "start_time": 1623250800,
     "title": "South West Ruby #34 (ONLINE)"

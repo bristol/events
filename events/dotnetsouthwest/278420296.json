@@ -3,14 +3,7 @@
     "description": "<p>iO Associate's are delighted to announce our next Virtual Meetup will be on Tuesday 15th June! We will be joined by David Fowler, Principal Software Architect at Microsoft and Creator of SignalR, who will be delivering a session on 'Implementation Details Matter'.</p> <p>I'm sure you've heard the phrase \"It's an implementation detail\". Details matter when it's time to scale and milliseconds add up quickly. Understanding the relevant details of the .NET subsystems can make the difference between scaling and failing.</p> <p>About the speaker:</p> <p>David Fowler has been at Microsoft for 13 years working on developer frameworks and tools in the .NET space. He's one of the creators of several popular OSS frameworks and tools such as NuGet, SignalR, and ASP.NET Core. He's an avid open source advocate and developer currently focused on helping teams at Microsoft adopt .NET 5/6 and beyond.</p> <p>iO Associates, tech and digital recruitment specialists, have always been a very active member of multiple Meetup groups across the UK. We\u2019re really keen to help keep our community positive and engaged by hearing from the best speakers on the topics of your choice so encourage you to share this with your team and the wider community.</p> <p>We hope you can join us and please get in touch at [masked] with any questions or suggestions on future virtual meetups.</p> <p>In addition, if there\u2019s anything we can help you with regards to sourcing candidates or finding a new role please do also get in touch.</p> <p>Cheers,</p> <p>Michael Collins - iO Associates</p> ",
     "end_time": 1623785400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/278420296/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1623780000,
     "title": "iO .Net Virtual Meetup - with Guest Speaker David Fowler (Aff)"

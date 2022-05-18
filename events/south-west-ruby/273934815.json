@@ -3,14 +3,7 @@
     "description": "<p>Our next meetup will be in October. It's another virtual meetup. Join us on zoom at 7 pm. You'll get the link when you RSVP.</p> <p>We're delighted to have a fantastic talk this month from Ksenija (Sonia) Vasjko from Cookpad.</p> <p>** Introduction to Stimulus JS framework **</p> <p>This talk is a walk through a modest JavaScript framework called Stimulus JS that compliments your existing HTML. By the end, you\u2019ll have an understanding of the basics of how Stimulus works and why it can be useful for you.</p> <p>* * *</p> <p>** (Approximate) Schedule **</p> <p>7.00pm - Welcome</p> <p>7.05pm - Sonia, Introduction to Stimulus JS framework</p> <p>* * *</p> <p>Slack</p> <p>If you have any questions or suggestions please join us on Slack. Go to <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> <p>***</p> <p>There\u2019s time for another talk, so please reach out if you\u2019d like to contribute. Look forward to seeing you soon!</p> ",
     "end_time": 1603222200,
     "link": "https://www.meetup.com/south-west-ruby/events/273934815/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "south-west-ruby",
     "start_time": 1603216800,
     "title": "South West Ruby #30 (ONLINE)"

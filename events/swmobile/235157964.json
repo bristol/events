@@ -3,14 +3,7 @@
     "description": "<p>Though we were originally talking BaaS we've decided to hold off until later to make sure we get some really excellent coverage.\u00a0</p> <p>Instead we've got a more general talk night with the following awesome people:</p> <p><b>Rich Turton</b> - I'm an idiot. Maybe you're an idiot. This is a good thing.</p> <p><b>Scott Alexander-Bown</b> - Remote working FTW</p> <p><b>Tizz Chapman</b>\u00a0- It's not me, it's you</p> <p><b><i>Where?</i></b></p> <p>Desklodge 4th floor, 1 Temple Way, BS2 0BY</p> <p><i><b>When?</b></i></p> <p><b>Please also note that we've changed that date AGAIN -\u00a0</b><b>Wednesday the 30th of November.</b>\u00a0</p> <p>Doors open at 6:30pm, first speaker will start at 7pm.\u00a0</p> <p>At around 9pm we'll move on to a local pub for more conversations.\u00a0</p> <p>The front door will close from 7pm, if you're arriving after this please contact one of the organisers and we'll send someone to let you in the back door!</p> ",
     "end_time": 1480543200,
     "link": "https://www.meetup.com/swmobile/events/235157964/",
-    "location": {
-        "address": "4th Floor, 1 Temple Way, Bristol",
-        "city": "BS2 0BY",
-        "country": "gb",
-        "latitude": 51.454734802246094,
-        "longitude": -2.582711935043335,
-        "name": "DeskLodge 4th Floor, Oaktree"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1480532400,
     "title": "November Talk Night"

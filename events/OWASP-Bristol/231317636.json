@@ -3,14 +3,7 @@
     "description": "<p>Learn how to take control of devices,\u00a0change wireless settings or obtain a copy of all video on devices with unpatched issues such as cross-site scripting, cross-site request forgery and authentication bypass.</p> <p><b>Agenda</b>:</p> <p>\u2022\u00a07:00 pm - Social</p> <p>\u2022\u00a07:30 pm -\u00a0Embedded Systems or - the Unwitting Accomplice</p> <p>\u2022\u00a0After - we go to \u00a0<a href=\"http://www.smallbar.co.uk/locations-1/\">Small Bar</a>\u00a0on King street.\u00a0</p> <p><b>Presentation</b>:\u00a0Embedded Systems or - the Unwitting Accomplice</p> <p>A brief look at a few IP cameras, wireless extenders and routers - a significant number have unpatched issues such as cross-site scripting, cross-site request forgery and authentication bypass, meaning we can take control of devices, change wireless settings and obtain a copy of all video on certain devices, all by having the unsuspecting user visit a web page we control.\u00a0</p> <p><b>Bio</b>:\u00a0J<b>amie Riden</b> is currently a full time penetration tester holding 5 CCTs, though he has been a programmer and a sysadmin in the past - both for big and small systems. He has an Erdos number of 4 and likes building and breaking things.\u00a0</p> ",
     "end_time": 1479420000,
     "link": "https://www.meetup.com/OWASP-Bristol/events/231317636/",
-    "location": {
-        "address": "Broad Quay House, Broad Quay, Bristol BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45161437988281,
-        "longitude": -2.5968339443206787,
-        "name": "Just-eat.com"
-    },
+    "location": null,
     "org": "OWASP-Bristol",
     "start_time": 1479409200,
     "title": "Exploits in embedded systems"

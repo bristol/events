@@ -3,14 +3,7 @@
     "description": "<p>Often the pub and beers is the best part of meetups, let's skip talks this night and go straight to pub to talk mobile, tech and more...</p> <p>If the weather is great we'll move venue to the Apple.</p> <p>\u00a0</p> ",
     "end_time": 1371675600,
     "link": "https://www.meetup.com/swmobile/events/123430332/",
-    "location": {
-        "address": "59-63 Baldwin Street, BS1 1QZ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45371627807617,
-        "longitude": -2.5930380821228027,
-        "name": "The Old Fish Market"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1371664800,
     "title": "Summer Social"

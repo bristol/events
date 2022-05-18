@@ -3,14 +3,7 @@
     "description": "<p>Tuesday, 21st February, 6:30pm</p> <p>February's meetup will be another of our lightning talks sessions \u2013 10 minute talks on a range of topics!</p> <p>\u2022\u00a0James Frost: Mobile at Automattic</p> <p>\u2022\u00a0Scott Alexander-Bown: Android Things (A Brief Intro)\u00a0</p> <p>\u2022 Vincente Santacoma: Challenging the MacBook orthodoxy: Does mobile development require mobility?</p> <p>\u2022 Dan Leivers: Unit Testing</p> <p>\u2022 Liam Richardson: Why Apps Are Bad and the Web is Good</p> <p>\u2022 Sam Davies: Rendering Images and PDFs in iOS 10 with UIGraphicsRenderer\u00a0</p> <p>The wonderful cxpartners will be hosting us again, and you can expect the usual refreshments, talks, and a trip to a nearby pub afterwards.</p> <p>If you're interested in giving a lightning talk, please get in touch with us! You can contact us through Meetup.com, Slack, or by replying to this email.</p> <p>If you're not used to giving talks, lightning talks can be a great way to get started: they're short, we're a friendly group, and you can talk about anything that you're passionate about that's related to mobile development.</p> <p>Thanks!\u00a0</p> <p>The SWMobile Team</p> ",
     "end_time": 1487712600,
     "link": "https://www.meetup.com/swmobile/events/236853395/",
-    "location": {
-        "address": "2 College Square",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45281219482422,
-        "longitude": -2.6004979610443115,
-        "name": "cxpartners"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1487701800,
     "title": "February Meetup: Lightning Talks \u26a1\ufe0f"

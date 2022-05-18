@@ -3,14 +3,7 @@
     "description": "<p>In this session Gareth will introduce and describe some tools and techniques that he and his teams have developed over the years to help with product strategy, positioning, pricing &amp; prioritisation that fit within Agile.\u00a0He\u2019ll also show how they work in real-life projects, including YellowDog.</p> <p><b>YellowDog</b></p> <p>YellowDog\u2019s vision is to build the world\u2019s fastest supercomputer without physically owning any computers.</p> <p>YellowDog crowdsources computer power, allowing 3D artists and animators to complete highly complex processing without leaving the carbon footprint resultant from datacentre-based competitors. In exchange for that crowdsourced power, YellowDog gives computer owners money, or enables them to donate to charity, for doing nothing.</p> <p>Based in Bristol, YellowDog is one of the South West\u2019s hottest startups and has gone from incorporation in January 2015 to having some of the world\u2019s leading architecture and animation companies as customers within 18 months.</p> <p><b>About Gareth Williams:</b></p> <p>Following an MEng in Information Systems Engineering from the University of Durham, Gareth cut his canines working in software and telecoms at companies including Orange, Experian QAS, FREEDOM4 and Arieso, where he was part of the Management Team that completed the successful sale of the company to JDSU in March 2013 for $85m.</p> <p>A Certified Scrum Professional, Gareth has been implementing and \u2018doing Agile\u2019 for more years than he cares to remember.</p> <p><b><i>The venue and refreshments for this session have kindly been provided by Yolk Recruitment.</i></b></p> ",
     "end_time": 1466542800,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/231543017/",
-    "location": {
-        "address": "BS1 6QH",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.448997497558594,
-        "longitude": -2.583498001098633,
-        "name": "Bristol Engine Shed @ Temple Meads"
-    },
+    "location": null,
     "org": "agile",
     "start_time": 1466532000,
     "title": "Product Management Tools for Agile with Gareth Williams"

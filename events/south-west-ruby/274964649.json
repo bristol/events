@@ -3,14 +3,7 @@
     "description": "<p>Join our final meetup of the year. We have two talks, a possible third TBC, and probably some excitement to share about our collective Christmas present: the release of Ruby 3.</p> <p>It will be another virtual meetup on Zoom from 7 pm. You'll get the link when you RSVP.</p> <p>** Adam Butler: Introduction to Stimulus Reflex &amp; CableReady **</p> <p>This talk will go through the basics of what Stimulus Reflex is, how it works and how you can build rich, low Javascript applications with it.</p> <p>I'll also cover when you should use it and importantly when it's best not to. Lastly, I'll talk about the underlying tool that makes it work, CableReady, and how you can use it to make lightweight reactive applications.</p> <p>** Ollie Haydon-Mulligan: Hands-off Error Handling - When Not to Come to The Rescue **</p> <p>The best intentions can sink significant time and effort into managing errors - rescuing them, bubbling them up to the right layer, aggregating them, translating them - all so we can give specific, meaningful feedback to users.</p> <p>But with a couple of easy-to-implement tricks, we can often bypass a lot of that complexity while giving users the feedback they really need.</p> <p>More importantly, because it's that time of year, this talk will include some (not always successful) attempts to send a letter to Father Christmas.</p> <p>* * *</p> <p>Slack</p> <p>If you have any questions or suggestions please join us on Slack. Go to <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> ",
     "end_time": 1608066000,
     "link": "https://www.meetup.com/south-west-ruby/events/274964649/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "south-west-ruby",
     "start_time": 1608058800,
     "title": "South West Ruby #31 (ONLINE)"

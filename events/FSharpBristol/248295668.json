@@ -3,14 +3,7 @@
     "description": "<p>Welcome to our first F# |&amp;gt; Bristol meetup of 2018! We have a great talk lined up for the local legend that is Chester, along with a mystery lightning talk at the end.</p> <p>Beers &amp; Pizza will be provided.</p> <p>Schedule:</p> <p>18:00 - 18:30 - Networking over beer &amp; pizza<br/>18:30 - 19:30 - First talk<br/>19:30 - 20:00 - Second talk</p> <p>-- Hunting Typosquatters with F# - Chester Burbidge (Scott Logic) --</p> <p>npm is the world's largest software repository and is used to distribute JavaScript code to millions of developers.</p> <p>The repository has experienced its fair share of security scares, one of the most recent was a significant typosquatting attack in August 2017. Although the attempt was not considered to have been very effective, it went unnoticed for two weeks and served as a catalyst for security companies to look for similar attacks.</p> <p>This talk describes my efforts in this space using ideas from the attack to look for other active ones. Attendees should expect to learn about my investigative efforts and the awesome features of F# which made it easy and fun.</p> <p>-- Mucking about in MonoGame Lightning Talk - Luke Merrett (Just Eat) --</p> <p>MonoGame is a popular open source framework for building cross platform games, used extensively by some of the best indie games from the PS4 to the Switch.</p> <p>In this lightning talk we'll build a game from scratch using F# whilst walking through the basic concepts &amp; terminology of MonoGame.</p> ",
     "end_time": 1521057600,
     "link": "https://www.meetup.com/FSharpBristol/events/248295668/",
-    "location": {
-        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "JUST EAT"
-    },
+    "location": null,
     "org": "FSharpBristol",
     "start_time": 1521050400,
     "title": "Hunting Typosquatters with F# - Chester Burbidge"

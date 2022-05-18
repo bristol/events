@@ -3,14 +3,7 @@
     "description": "<p>This month we offer another chance to catch up on a session originally presented at this year's ACCU Conference, welcoming Gail Ollis who has been researching a perennial question:</p> <p><b>What Programmers Want</b></p> <p>If you have ever asked yourself <i>\"Why did they do THAT!?\"</i> when wrestling with a fellow programmer's work, this presentation and workshop is for you.</p> <p>I am working on research to try to answer this question, or at least ask better versions of it, but in order to address it I first need to be clear about what <i>\"THAT!\"</i> is. I have interviewed software developers with a total of more than 400 years of industry experience between them to find out. In my presentation I will share common themes that have emerged: what experienced developers say about the decisions made by their peers and how these can make the job harder or easier. Participants also told me that they enjoyed the method I used to help them to reflect on their programming experience, so I will give you the chance to try it out for yourself.</p> <p>Acknowledgement: My research would not be possible without the generous help of my participants. My heartfelt thanks to ACCU for allowing me to recruit at the 2013 conference, and to everyone who volunteered to take part.</p> <p><b>Biography</b></p> <p>I have been writing software for many years, working on applications ranging from radars and air traffic control to video effects and Java-powered cash registers. After twenty years as a professional programmer my long-term interest in the human element in programming practice finally led to a career break for a psychology degree. Now I am a postgraduate researcher at Bournemouth University, where I also teach programming to first year undergraduates. My research combines my computing experience and my psychology skills as I pursue my interest in the small-scale decisions programmers make on a daily basis and the effect these choices have on their peers.</p> ",
     "end_time": 1403121600,
     "link": "https://www.meetup.com/ACCU-Bristol/events/177090652/",
-    "location": {
-        "address": "2 Lower Castle Street",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.61016082763672,
-        "longitude": -2.52667498588562,
-        "name": "Bristol Marriott Hotel City Centre"
-    },
+    "location": null,
     "org": "accu",
     "start_time": 1403114400,
     "title": "What Programmers Want, presented by Gail Ollis"

@@ -3,14 +3,7 @@
     "description": "<p>After a fantastic opening event on Jan 16th, we're continuing the pace with Great Western Rails #2 at the Cookpad HQ in Bristol. If you're working with Ruby and/or Rails for work, home or play, Great Western Rails is the perfect place to meet other like-minded, talented folks, discus related topics and of course sample some delicious food and drinks. Confirmed Speakers for Feb 20th are:</p> <p>Adam Butler (@labfoo) Great documentation is hard to build, maintain and continually improve on. Developers have exceptionally high expectations when it comes to documentation and will often judge a product on how articulately it communicates how to use the product as much as the actual offerings of the platform or tool itself.</p> <p>You may have the best product on the market, maybe even the most competitively priced, but if nobody understands how to actually use it then its failure is almost certainly inevitable. Poor documentation often stems from lack of deep insight, the kind of insight where one understands the quirks and edge cases that if not addressed can lead to confusion and a lost customer. It\u2019s important to put documentation into the hands of the people who understand the product the best, to enable people and to allow those who have faced challenges to put it right for the next person.</p> <p>This talk is about the open-source platform and tools that I built when developing Nexmo Developer and how it has enabled us to build a powerful and flexible platform for writing rich documentation collaboratively with ease. I\u2019ll cover our goals and how we met them, the challenges we faced during development and our tooling including our custom Markdown pipeline, Open API Specification generated API Reference Pages and the various components we use throughout our documentation.</p> <p>Speaker #2 - Open Mic. Got something to say, ask, request? Let us know and ask the group</p> <p>Schedule:<br/>6:30 doors open - food and drink<br/>7:00 talks<br/>8:30 more drinks and networking</p> ",
     "end_time": 1519158600,
     "link": "https://www.meetup.com/south-west-ruby/events/246122899/",
-    "location": {
-        "address": "3 Broad Plain, BS2 0JP",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45417404174805,
-        "longitude": -2.582395076751709,
-        "name": "Cookpad"
-    },
+    "location": null,
     "org": "south-west-ruby",
     "start_time": 1519151400,
     "title": "Great Western Rails #2"

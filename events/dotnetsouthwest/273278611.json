@@ -3,14 +3,7 @@
     "description": "<p>About the Talk:<br/>With the release of .NET Core 3.x and the promise of a unified .NET 5 based on it, more developers have now got to grips with the basics of using the default Microsoft Dependency Injection container that comes with .NET Core. However, the story does not end there...</p> <p>* Avoiding unintended multiple registrations<br/>* Conflicts between service lifetimes<br/>* Understanding the Root and Scoped service providers<br/>* Registering and resolving open generics, classes with multiple interfaces; and interfaces with multiple class implementation<br/>* Automated service registration packages<br/>* Integrating with other DI containers<br/>* Key named registrations are not supported ... but I need it!<br/>* Getting better startup performance from your registered services<br/>* Thread safety and avoiding memory leaks<br/>* How applying some of the classic Gang of Four Design Patterns to your DI registration can take the Microsoft DI container beyond its out-of-the-box functionality.</p> <p>The talk assumes that you have already had an initial dose of DI knowledge and are now ready for a top-up to avoid some nasty bugs.</p> <p>About Speaker:<br/>Steve Collins is an independent .NET architect/developer based in the UK. He has been developing with Microsoft technologies since the early 90\u2019s, these days focussing on .NET. He is active on Twitter @stevetalkscode and blogs at <a href=\"https://stevetalkscode.co.uk\" class=\"linkified\">https://stevetalkscode.co.uk</a>.</p> <p>He has given talks at several .NET user groups (including the first virtual meetup for .NET South West in April) and DeveloperDeveloperDeveloper! conferences around the UK and has appeared on a couple of podcasts, talking about .NET configuration</p> <p><a href=\"https://dotnetcore.show/episode-49-configuration-in-net-core-with-steve-collins/\" class=\"linkified\">https://dotnetcore.show/episode-49-configuration-in-net-core-with-steve-collins/</a><br/><a href=\"https://www.dnistream.live/show/12-file-configuration-blues\" class=\"linkified\">https://www.dnistream.live/show/12-file-configuration-blues</a></p> ",
     "end_time": 1603396800,
     "link": "https://www.meetup.com/dotnetsouthwest/events/273278611/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1603389600,
     "title": "Virtual - .NET Core Dependency Injection \u2013 The Booster Jab with Steve Collins"

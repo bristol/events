@@ -3,14 +3,7 @@
     "description": "<p>SWR turns 7! Well, meetup #7 at least. Come and join us at Cookpad's office in Bristol for another Ruby packed evening with beers and bites to eat.</p> <p>Schedule</p> <p>19:00 - Arrive, grab a drink, some delicious locally supplied food and have a chat with fellow attendees.</p> <p>19:30 - Talk(s):</p> <p>- Stefan Magnuson \u201cRefactoring Complex Rails Controllers\u201d</p> <p>Stefan is a Ruby developer at Mystery Applicant in Bath. Formerly a generalist and a Machine Learning researcher, he switched full time to Ruby in 2014 and hasn\u2019t looked back. Outside of work his interests lately include psychology, personal finance and the Wim Hof Method.</p> <p>- Lightning Talks (open mic)</p> <p>20:30-21:30 - Socialise and network.</p> ",
     "end_time": 1531855800,
     "link": "https://www.meetup.com/south-west-ruby/events/252161894/",
-    "location": {
-        "address": "3 Broad Plain, BS2 0JP",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45417404174805,
-        "longitude": -2.582395076751709,
-        "name": "Cookpad"
-    },
+    "location": null,
     "org": "south-west-ruby",
     "start_time": 1531848600,
     "title": "South West Ruby #7"

@@ -3,14 +3,7 @@
     "description": "<p>It's that time of the year again. Come along to the pub and discuss all things mobile with a festive cheer.</p> <p>As always, the first drink will be free, and maybe more!</p> ",
     "end_time": 1418164200,
     "link": "https://www.meetup.com/swmobile/events/207313232/",
-    "location": {
-        "address": "Temple Square, Temple Quay, Bristol, Bristol, BS1 6DG",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45225143432617,
-        "longitude": -2.5837719440460205,
-        "name": "Knights Templar"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1418153400,
     "title": "Xmas Drinks"

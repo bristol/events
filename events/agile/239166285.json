@@ -3,14 +3,7 @@
     "description": "<p>This lightning talks session gives members of our group the chance to spend up to 10 minutes sharing their agile ideas &amp; experiences with a friendly and supportive audience.</p> <p>This is a great way to get to hear talks about a variety of agile-related topics, and an even better opportunity to share your experience with the community by presenting a short talk.</p> <p>Our talks for the evening are as follows:-</p> <p>\u2022\u00a0<b>Scott Fulton</b> - \"Developers aren't machines\"</p> <p>\u2022\u00a0<b>Dan Laasna Reuter</b> - \"My experience of Agile\"\u00a0</p> <p>\u2022\u00a0<b>Gary Shepherd</b> - \"Testing Communities of Practice - in practice\"</p> <p>\u2022\u00a0<b>Craig Livings</b> - \"How to help anybody do anything\"</p> <p>\u2022\u00a0<b>Alan Furlong</b> - \u201cBeating Burnout \u2013 How to Recognise The 17 Symptoms of Burnout.\u201d\u00a0</p> <p>\u2022\u00a0<b>Darwin Peltan</b> - \"Why Google Design Sprints Rock\"</p> <p>Our hosts for the evening, Amdocs, have plenty of parking on site and will be providing refreshments and nibbles.</p> ",
     "end_time": 1495573200,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/239166285/",
-    "location": {
-        "address": "The Square,Lower Bristol Street, Bath",
-        "city": "BA2 3BH",
-        "country": "gb",
-        "latitude": 51.37849807739258,
-        "longitude": -2.367358922958374,
-        "name": "Amdocs Office"
-    },
+    "location": null,
     "org": "agile",
     "start_time": 1495562400,
     "title": "Lightning Talks"

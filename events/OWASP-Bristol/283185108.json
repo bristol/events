@@ -3,14 +3,7 @@
     "description": "<p>Event in Collaboration with OWASP Suffolk .</p> <p>Getting started in Ethical Hacking can seem daunting. There is so much information out there, so many websites, tools, YouTube videos, courses, etc etc. Where do you start? Do you have to do a course or be certified? Do I need to set up my own testing lab, and if so, what operating system and tools do I use? Is there a way to learn for free? So many questions. It can feel so overwhelming at times, enough to put you off.</p> <p>The aim of this event is to offer an open discussion where we can all share tips, tricks, resources and suggestions around how to go about getting started in Ethical Hacking. Everything from how to make learning fun, recommended resources such as websites, podcasts, gamification sites (CTFs), tools, bug bounty platforms and tips and tricks on how to learn and remain focused.</p> <p>Agenda:<br/>* Welcome back &amp; overview of what we have in store for 2022<br/>* OWASP updates<br/>* Open discussion on how to get started in Ethical Hacking</p> ",
     "end_time": 1642539600,
     "link": "https://www.meetup.com/OWASP-Bristol/events/283185108/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "OWASP-Bristol",
     "start_time": 1642532400,
     "title": "Discussion: Getting started in Ethical Hacking"

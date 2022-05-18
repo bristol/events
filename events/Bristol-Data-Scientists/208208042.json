@@ -3,14 +3,7 @@
     "description": "<p>Hello everyone, lets have our first Meetup at the Watershed. We can meet to chat about our data science related interests and possible topics for future meetings. All the Best</p> ",
     "end_time": 1412110800,
     "link": "https://www.meetup.com/Bristol-Data-Scientists/events/208208042/",
-    "location": {
-        "address": "1 Canon\u2019s Road, Harbourside",
-        "city": "Bristol, BS1 5TZ",
-        "country": "gb",
-        "latitude": 51.45212173461914,
-        "longitude": -2.5981600284576416,
-        "name": "In the bar/cafe, Watershed"
-    },
+    "location": null,
     "org": "Bristol-Data-Scientists",
     "start_time": 1412100000,
     "title": "First Bristol Data Scientist Meeting"

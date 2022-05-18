@@ -3,14 +3,7 @@
     "description": "<p>About the Talk:<br/>Creating large, monolithic SPAs is all the rage, not all solutions need a single page application. I found that improving parts of my web projects with islands of functionality was better in many cases, but the complexity of Angular and my hatred of .jsx made me yearn for a modern framework that is simple and straightforward. That\u2019s where VueJS came in and saved the day. In this talk I\u2019ll build a simple page using VueJS and then talk about using it is larger projects without having to use bundling and transpilers if you don\u2019t want to.</p> <p>About the Speaker:<br/>Shawn Wildermuth has been tinkering with computers and software since he got a Vic-20 back in the early \u201880s. As a Microsoft MVP since 2003, he\u2019s also involved with Microsoft as an ASP.NET Insider and ClientDev Insider. You may have taken one of his more than twenty courses on Pluralsight. He\u2019s authored eight books and innumerable articles on software development. You can also see him at one of the local and international conferences he\u2019s spoken at including TechEd, Oredev, SDC, NDC, VSLive, DevIntersection, MIX, Devteach, DevConnections and Dev Reach. He is one of the Wilder Minds. You can reach him at his blog at wildermuth.com. He\u2019s also making his first, feature-length, documentary about software developers today called \u201cHello World: The Film\u201d. You can see more about it at helloworldfilm.com.</p> ",
     "end_time": 1593032400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/271379757/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1593025200,
     "title": "Virtual Meetup - What is Vue.js with Shawn Wildermuth"

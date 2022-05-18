@@ -3,14 +3,7 @@
     "description": "<p>About the Talk:<br/>In this talk I take you through everything you need to build a robot arm with a Raspberry Pi, .NET 5 a Blazor App and SignalR.</p> <p>We begin by talking about .NET 5 and seeing how easy it is to install .NET 5.</p> <p>Then we look through the various circuits and spin up a console application to explore how we can control the GPIO on the Pi.</p> <p>We then see how the Servos are wired up and get the code in place to start moving our Raspberry pi based Robot Arm.</p> <p>Finally we look at a simple Blazor and SignalR app to control our robot remotely!</p> <p>This talk appeals to all knowledge levels and anyone interested in getting into STEM, Electronics and Robotics.</p> <p>About the Speaker:<br/>Freelance Programmer for PJG Creations, Microsoft Azure MVP, Pluralsight Author... IoT Expert, proud dad, gadget addict and Meetup organiser.<br/>Pete Gallagher is a Freelance IT Consultant, Microsoft Certified Trainer and Azure MVP, Pluralsight Author and owner of PJG Creations Ltd.</p> <p>He has been creating software for decades and is happy programming in just about any language.</p> <p>Pete has been involved in a wide span of tech in his many years of industry experience, including IoT Projects for; Royal Mail Stamp Vending before there was such a thing as modern IoT, Building Monitoring Systems, Internet Connected Self Service Kiosks and much more.</p> <p>He has presented all over the UK on a variety of IoT Topics, including Azure IoT Hubs, Amazon Alexa, Particle Photon, Arduino etc etc.</p> <p>Pete also organises\u200b Notts IoT, co-organises Dot Net Notts, Notts Dev Workshop and sits on the Board of LATi, a Loughborough based Advanced Technology networking group.</p> <p>He is also an active STEM Ambassador and is passionate about making STEM subjects accessible to all ages.</p> <p>Pete particularly likes gadgets of all kinds!</p> <p>@pete_codes<br/>linkedin.com/in/pjgcreations<br/>petecodes.co.uk (blog)</p> ",
     "end_time": 1627502400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/278428053/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1627495200,
     "title": "Virtual - Building a Raspberry Pi Robot Arm with .NET 5 , Blazor and SignalR"

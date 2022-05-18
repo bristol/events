@@ -3,14 +3,7 @@
     "description": "<p>17 Dependency management hacks to improve flow efficiency</p> <p>Dependency management is perhaps one of the final frontiers to be conquered for Agile teams. Developing a deep understanding of Kanban provides you with a rich toolset to reduce the impact dependencies have on your flow.</p> <p>There are generally two strategies for dealing with dependencies:<br/>\u2022 Break the dependency<br/>\u2022 Reduce the impact of the dependency on your flow</p> <p>In this talk, we explore 17 practical dependency management techniques that help you to either break the dependency or reduce the impact on your flow.</p> <p>To allow more general chatting time the evening will be split into two sections, you can join for the whole or just part, just RSVP as usual.<br/>Part 1 ( 6:15 - 7:30 ) Ian\u2019s Talk<br/>Part 2 ( 7.40 - 8:10 ) Open Spaces - For networking, socialising, lightning talks etc</p> <p>The talk will take the usual format, with time for discussion after. Around 7.40pm we\u2019ll make a number of rooms available for the open space, and you\u2019ll be able to go where you please. Rooms may host pre-selected content, if for example someone would like to host a lightning talk, or lean coffee. As always we\u2019ll be guided by the community and improvise on the night.</p> <p>About the speaker<br/>Ian is a consultant, coach, trainer and speaker on all topics related to Kanban and Agile software development. With over 30 years of hands-on experience, he has a solid track record of helping clients nurture high-performance teams. He makes software development less painful - for the people that build it, and those who use it. Ian has trained and coached hundreds of software development teams in Kanban and Agile techniques. He is an Accredited Kanban Trainer (AKT), Kanban Coaching Professional (KCP) and Accredited Kanban Consultant (AKC).<br/>You can learn more about his services here: <a href=\"https://www.solutioneers.co.uk/certified-kanban-training/\" class=\"linkified\">https://www.solutioneers.co.uk/certified-kanban-training/</a></p> ",
     "end_time": 1613507400,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/276029323/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "agile",
     "start_time": 1613498400,
     "title": "17 Dependency management hacks to improve flow efficiency, with Ian Carroll"

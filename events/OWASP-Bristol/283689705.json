@@ -3,14 +3,7 @@
     "description": "<p>Agenda:</p> <p>* OWASP Updates<br/>* Talk: Rise of captain hindsight: Finding Log4Shell with CodeQL with Alvaro Munoz<br/>* Open discussion</p> <p>Title: Rise of captain hindsight: Finding Log4Shell with CodeQL</p> <p>Abstract: In this talk, Alvaro Mu\u00f1oz of the GitHub Security Lab will use Log4Shell to demonstrate CodeQL, a free and powerful static analysis tool, in action. He will review Log4Shell\u2019s root cause, how it manifests in code and how it could have been discovered using CodeQL.</p> <p>In CI/CP pipelines, CodeQL is configured to operate in a developer-first mode to reduce false positives to a minimum and return the most accurate results. However for security researchers, CodeQL can also be configured to operate in a less conservative mode which results in more false positives but also less false negatives.</p> <p>In this process, Alvaro will review root cause, how it manifests in code, and how it could have been discovered using CodeQL.</p> <p>Bio: Alvaro Mu\u00f1oz works as Principal Security Researcher with GitHub Security Lab team. Previously he worked as an Application Security Consultant helping top enterprises to deploy their application security programs. He is passionate about Web Application security where he has focused most of his research. Mu\u00f1oz has presented at many Security conferences including BlackHat, DEFCON, RSA, OWASP AppSec EU and US, JavaOne, etc, and holds several infosec certifications, including OSCP, GWAPT, and CISSP.</p> <p>The talk will be streamed on YouTube at:<br/><a href=\"https://youtu.be/GKU1nAAGNKs\" class=\"embedded\">https://youtu.be/GKU1nAAGNKs</a></p> <p>Alternatively you can dial in Zoom</p> <p>* Zoom Meeting:\u00a0[<a href=\"https://us06web.zoom.us/j/81805515766?pwd=bFVWWXhsY0w2RHZPc00xdkxiaHBDZz09](https://us06web.zoom.us/j/81805515766?pwd=bFVWWXhsY0w2RHZPc00xdkxiaHBDZz09\" class=\"linkified\">https://us06web.zoom.us/j/81805515766?pwd=bFVWWXhsY0w2RHZPc00xdkxiaHBDZz09](https://us06web.zoom.us/j/81805515766?pwd=bFVWWXhsY0w2RHZPc00xdkxiaHBDZz09</a>)\u00a0<br/>* Meeting ID:[masked]<br/>* Passcode:[masked]</p> ",
     "end_time": 1645732800,
     "link": "https://www.meetup.com/OWASP-Bristol/events/283689705/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "OWASP-Bristol",
     "start_time": 1645725600,
     "title": "Finding log4shell with CodeQL"

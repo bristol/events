@@ -3,14 +3,7 @@
     "description": "<p>In November we present 'The Final Pipeline' (sung to the tune of the final countdown...)</p> <p>Thanks to BaseKit for kindly hosting us this month.</p> <p>Our talks this month:</p> <p><b>- The Final Word About Final?<br/></b><a href=\"https://twitter.com/stuherbert\">Stuart Herbert</a>,\u00a0Software industry veteran. Developer. Leader. Teacher. QA.\u00a0Building quality at\u00a0<a href=\"https://twitter.com/ganbarodigital\">Ganbaro Digital</a>.\u00a0</p> <p><b>-\u00a0PhPipelines in the wild<br/></b><a href=\"https://twitter.com/MPOram\">&lt;/a&gt;&lt;a href=\"https://twitter.com/lferro9000\"&gt;Luis Ferro</a>, Archer... Developer... Jenkins Geek..<a href=\"https://maydenacademy.co.uk/\">&lt;/a&gt;&lt;a href=\"http://www.instantiate.co.uk/\"&gt;</a></p> <p>Jenkins is the golden standard in the software industry for Continuous Integration and Delivery</p> <p>In this talk, we will review the base installation and setup of Jenkins 2 (very quickly)</p> <p>After that, we will learn what pipelines are, and how do they work their \"magic\"</p> <p>We will review how to setup a full basic PHP project, on it, what are the gotchas and pitfalls</p> <p>--\u00a0</p> <p><a href=\"http://www.basekit.com/\">BaseKit</a> have kindly offered to host the evening at their office, and as always we'll sort out some ales, lagers, soft drinks and snacks. Don't forget to check them out - and if you're looking, they are hiring.</p> <p>As always, a big thanks to our meetup sponsors <a href=\"http://www.ents24.com/\">Ents24</a>, <a href=\"http://www.brightpearl.com/\">Brightpearl</a>, <a href=\"https://www.meanbee.com/\">Meanbee</a>,\u00a0<a href=\"http://deepbluesky.com/\">Deep Blue Sky</a>\u00a0&amp;\u00a0<a href=\"https://equiniticybersecurity.com/careers/\">Equiniti</a> without whom we wouldn't be able to put on our meetups.\u00a0</p> <p>Afterwards we'll head to the pub, probably the\u00a0<a href=\"http://volunteertavern.co.uk/real-ales\">Volunteer Tavern</a>!</p> ",
     "end_time": 1510177500,
     "link": "https://www.meetup.com/php-sw/events/244528361/",
-    "location": {
-        "address": "5th Floor, One Castlepark, Tower Hill",
-        "city": "Bristol, BS2 0JA",
-        "country": "gb",
-        "latitude": 51.4552116394043,
-        "longitude": -2.5848910808563232,
-        "name": "BaseKit"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1510166700,
     "title": "The Final Pipeline"

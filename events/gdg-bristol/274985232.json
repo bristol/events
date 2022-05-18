@@ -3,14 +3,7 @@
     "description": "<p>This event is being hosted by GDG London. To RSVP, please visit their event page at: <a href=\"https://gdg.community.dev/events/details/google-gdg-london-presents-chrome-dev-summit-extended-uk-ireland/#/\" class=\"linkified\">https://gdg.community.dev/events/details/google-gdg-london-presents-chrome-dev-summit-extended-uk-ireland/#/</a></p> <p>2020 has been a very unique year. We need to stay connected, informed and to support each other more than ever before.</p> <p>The Web plays a special role here, and through Chrome Dev Summit Extended, we want to take a moment to allow web developers to come together, share their stories and acknowledge the latest in the platform and tools.</p> <p>The event will include talks on helpful features and tooling around Web Vitals, privacy, modern UX and more.</p> <p>This event is being hosted by GDG London. To RSVP, please visit their event page at: <a href=\"https://gdg.community.dev/events/details/google-gdg-london-presents-chrome-dev-summit-extended-uk-ireland/#/\" class=\"linkified\">https://gdg.community.dev/events/details/google-gdg-london-presents-chrome-dev-summit-extended-uk-ireland/#/</a></p> ",
     "end_time": 1608152400,
     "link": "https://www.meetup.com/GDG-Bristol/events/274985232/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "gdg-bristol",
     "start_time": 1608141600,
     "title": "Chrome Dev Summit Extended UK & Ireland"

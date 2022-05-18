@@ -3,14 +3,7 @@
     "description": "<p>Open Rights Group will have a stall at this year's freenode.live conference. Come along and say hi, or even help out if you like.</p> <p>The conference will have a range of luminaries from the Free and Open Source Software community.</p> <p>For more information see <a href=\"https://freenode.live/\"><a href=\"https://freenode.live/\" class=\"linkified\">https://freenode.live/</a></a>. Please note: you'll need to register for a free ticket at that link (replying to this meetup doesn't count!)</p> ",
     "end_time": 1509289200,
     "link": "https://www.meetup.com/ORG-Bristol/events/244221375/",
-    "location": {
-        "address": "Anchor Road Harbourside",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45087814331055,
-        "longitude": -2.599174976348877,
-        "name": "@Bristol / We the Curious"
-    },
+    "location": null,
     "org": "org",
     "start_time": 1509177600,
     "title": "See ORG at Freenode Live"

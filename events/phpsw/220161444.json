@@ -3,14 +3,7 @@
     "description": "<p>This month is all about monitoring, analysing and optimising the performance of your PHP apps! We'll talk about finding bottlenecks in your stack, tuning your Nginx and general performance hotspots in PHP applications.</p> <p>- <b>What is my code doing in the wild?</b><br/>\u00a0\u00a0\u00a0<a href=\"https://twitter.com/daveavent\">Dave Avent</a>, Site Reliability Engineer at <a href=\"https://www.seatme.yelp.com\">SeatMe (Yelp)</a></p> <p>How can I make my PHP application run faster in Production? Using System Administration techniques and modern DevOps tools you can find out where and why your code is not responding as it does in development.</p> <p>- <b>Faster Xdebug coverage analysis</b><br/>\u00a0\u00a0 \u00a0<a href=\"http://www.meetup.com/php-sw/members/14077610/\">Warren Seymour</a>, Software Developer at <a href=\"http://radify.io/\">Radify</a></p> <p>Code coverage analysis can be an incredibly useful metric for determining the overall quality of your test suite. However, as your codebase grows larger and more complex, so does the time taken to perform coverage analysis. I'll be sharing the tools and techniques we use at Radify to reduce our code coverage time by a factor of ten.</p> <p>- <b>Untitled</b><br/>\u00a0\u00a0\u00a0<a href=\"https://twitter.com/hzeitlhofer\">Harald Zeitlhofer</a>, Technology Strategist at <a href=\"http://www.dynatrace.com\">Dynatrace</a></p> <p>- <b>Making a PHP app slow</b><br/>\u00a0\u00a0 \u00a0<a href=\"http://www.meetup.com/php-sw/members/31030432/\">Ade Slade</a>, PHP Developer at <a href=\"http://www.basekit.com/\">BaseKit</a></p> <p>--</p> <p><a href=\"http://www.brightpearl.com\">Brightpearl</a> have kindly offered to host the evening, providing food, beers and their office as the venue. Don't forget to check them out- and <a href=\"http://www.brightpearl.com/company/careers\">if you're looking, they are hiring</a></p> <p>Afterwards, we'll head to the pub, probably the <a href=\"http://volunteertavern.co.uk/real-ales\">Volunteer Tavern</a>!</p> <p>--</p> <p><a href=\"http://phpsw.org.uk/events/220161444-running-php-fast\">View on the PHPSW website</a></p> ",
     "end_time": 1423692000,
     "link": "https://www.meetup.com/php-sw/events/220161444/",
-    "location": {
-        "address": "New Bond House, Bond Street, Bristol BS2 9AG",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.460060119628906,
-        "longitude": -2.584520101547241,
-        "name": "Brightpearl"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1423681200,
     "title": "Running PHP fast"

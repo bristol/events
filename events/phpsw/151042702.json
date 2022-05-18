@@ -3,14 +3,7 @@
     "description": "<p>Last meetup of the year, okay, so we only had 1 other, but it's going to be a good one!</p> <p>BaseKit have kindly offered to sponsor the event and provide their office as the venue, as well as beer and pizza! Don't forget to check them out- and if you're looking, they are hiring.</p> <p>Doors open at\u00a06.30pm. Talks will start after 7pm.</p> <p><b>Talks</b></p> <p>- How we migrated a\u00a0ZF1 REST API to Silex - Ade<br/>-\u00a0PHP-FIG PSR WTF - Steve<br/>- You? (get in touch)</p> <p><b>Next year</b></p> <p>We're hoping to get more than 2 talk nights together next year, as always we're keen to get new speakers onboard and welcome sponsorship in the form of beer, pizza and venue's - if you're hiring PHP developers, or just want to engage, it's a great opportunity to get involved with the community.</p> <p>If you're interested in hearing about or speaking on any topics in particular, do get in touch or start a thread on the discussion board, Ade &amp; I have some rough ideas surrounding topic nights we'd like to run - but we're always looking for speakers to get in the loop and what you want to hear about.</p> ",
     "end_time": 1386795600,
     "link": "https://www.meetup.com/php-sw/events/151042702/",
-    "location": {
-        "address": "4th Floor, The Pithay, BS1 2ND ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45576858520508,
-        "longitude": -2.592099905014038,
-        "name": "BaseKit Office (Bristol)"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1386786600,
     "title": "Migrating a ZF1 REST API to Silex + PHP-FIG & PSR"

@@ -3,14 +3,7 @@
     "description": "<p>Hello all! and welcome to 2019. We are planning to ease into the new year with a social/networking meetup.</p> <p>Meet from 19:00 we have an area booked at the back of Volley (high tables) to guarantee some seats and place to chat. We'll cover the first round or so but be sure to eat beforehand or order from the menu (at your cost)</p> <p>Also, I'm sure plenty of people are part taking in Dry January so please still come along. Maybe try a couple non-alcoholic drinks on our tab!</p> <p>We're gearing up for another great year of talks and meetups if you have ideas for topics or speakers please let us know.</p> <p>Also if you have a talk that you'd like to present at a future meetup then please do get in touch via <a href=\"http://cfp.swmobile.org\" class=\"linkified\">http://cfp.swmobile.org</a></p> ",
     "end_time": 1548795600,
     "link": "https://www.meetup.com/swmobile/events/257305418/",
-    "location": {
-        "address": "17-18 King Street",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451751708984375,
-        "longitude": -2.5945849418640137,
-        "name": "The Famous Royal Navy Volunteer"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1548788400,
     "title": "SWmobile: January Social"

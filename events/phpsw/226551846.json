@@ -3,14 +3,7 @@
     "description": "<p>In November we're hosting a night about Git and Open Source!</p> <p>- <b>Comic book continuity and Git rebase</b><br/>\u00a0\u00a0<a href=\"http://www.meetup.com/php-sw/members/91773092\">Gavin Davies</a>, Software Developer at <a href=\"http://radify.io\">Radify</a> and author of <a href=\"https://leanpub.com/dealwithit\">Deal With It: Attitude for Coders</a></p> <p>When helping companies improve their development practises, git rebase is one common sticking point - it can be hard to understand, and a lot of people are initially pretty scared of it. In this talk, I\u2019m not going to give any code examples - there are thousands of talks that do that. Instead, I will illustrate the concept of git rebase using the world of comic book continuity.</p> <p>- <b>Open Source Communities as Fandoms</b><br/>\u00a0\u00a0<a href=\"https://twitter.com/jesslynnrose\">Jessica Rose</a>, Technologist and enthusiasm enthusiast</p> <p>How is Docker like Doctor Who? They\u2019re both projects supported by an incredibly motivated community. This talk will look at the ways in which open source communities parallel fandoms as they form, grow, break off into factions and interact with their fans and critics. As we learn more about our own communities by looking at our equally-obsessed geeky peers we\u2019ll hopefully discover ways that we can help make our open source communities more equitable, accessible and\u2026well\u2026open!</p> <p>--</p> <p><a href=\"http://www.mixrad.io/\">MixRadio</a>\u00a0have kindly offered to host the evening at their office, and provide drinks and pizza. Don't forget to check them out- and if you're looking,\u00a0<a href=\"http://dev.mixrad.io/jobs\">they are hiring</a>.</p> <p>Afterwards we'll head to <a href=\"http://www.smallbarbristol.com\">Small Bar</a>!</p> <p>--</p> <p><a href=\"https://phpsw.uk/events/226551846-git-and-open-source\">View on the PHPSW website</a></p> ",
     "end_time": 1447277400,
     "link": "https://www.meetup.com/php-sw/events/226551846/",
-    "location": {
-        "address": "Prudential Buildings, 11-19 Wine St., Bristol, BS1 2PH, Bristol",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45545196533203,
-        "longitude": -2.592360019683838,
-        "name": "MixRadio"
-    },
+    "location": null,
     "org": "phpsw",
     "start_time": 1447266600,
     "title": "Git & Open Source"

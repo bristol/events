@@ -3,14 +3,7 @@
     "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>We're keeping our talks online for now. A zoom link will be added closer to the date.</p> <p>Speakers:</p> <p>\ud83d\udde3 Lee Briggs - An Introduction to Pulumi</p> <p>Lee is a software developer at Pulumi, he is often seen in the pulumi community slack helping anyone and everyone.</p> <p>Pulumi is a way to define your infrastructure as code, currently supported officially in 5 languages.</p> <p>\u23f0 Schedule:</p> <p>- 18:00-18:05 intro/welcome<br/>- 18:05-18:50 first speaker<br/>- 18:50-19:00 farewell/next event info</p> <p>\ud83d\udce3 We are looking for help with organising! If you or anyone you know would like to help, give us a shout! As you can see, our pun game especially is in dire need of a</p> <p>\ud83d\udce3Help us grow! JetBrains offers free licences to meet-ups with attendance greater than 30. If we can reach this, we will apply and be handing it out as a prize at events.</p> <p>\ud83d\udccd - Online</p> ",
     "end_time": 1638990000,
     "link": "https://www.meetup.com/golang-bristol/events/281596222/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "golang",
     "start_time": 1638986400,
     "title": "Go(ne online) - Infrastructure as Code (Pulumi)"

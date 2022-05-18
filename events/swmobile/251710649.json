@@ -3,14 +3,7 @@
     "description": "<p>It\u2019s time for our annual \u201cWhat\u2019s New in Mobile\u201d talks night! Google I/O and WWDC have been and gone, so for our June event we\u2019ll get together and talk about all the exciting announcements!</p> <p>* Jack Newcombe: What's New in iOS<br/>* Scott Alexander-Bown: What's New from Google I/O<br/>* David Branton: Digital Wellbeing - Notes from Google I/O</p> <p>This time, we\u2019ll be trying a new venue \u2013 the folks at Zone Digital will kindly be hosting us. Meetup.com was having some difficulty showing the correct location, but it\u2019s just off the Old Market roundabout in Bristol, not far from Desklodge. BS2 0EQ.</p> <p>- Doors will open at 6:30pm<br/>- Food and drink will be available.<br/>- Talks will start at 7pm.</p> <p>After the event, we'll move on to a pub to continue the discussions. \ud83c\udf77</p> ",
     "end_time": 1530043200,
     "link": "https://www.meetup.com/swmobile/events/251710649/",
-    "location": {
-        "address": "The Brew House",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45504379272461,
-        "longitude": -2.5841689109802246,
-        "name": "Zone Digital"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1530036000,
     "title": "What\u2019s New in Mobile"

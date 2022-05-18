@@ -3,14 +3,7 @@
     "description": "<p>The Dirty Truth about Scaling - With Dave West, CEO and Product Owner at Scrum.org</p> <p>Why does it take 40 software engineers to build a rocket that goes into space and returns to the earth, but over 500 to build an Insurance claims system? Is the fundamental premise for enterprise agility wrong? Should we not be looking to add things to agile to make it scale, but in fact take things away from traditional organizations to make them more agile? In this talk Dave West, CEO and Product Owner for Scrum.org discusses the reality of agile at scale and the choices that organizations are making to both be more agile but do it with larger and larger numbers of people. He compares approaches and highlights the imaginary and real issues in scaling an agile model for delivering value. Ultimately, he describes a simple framework for not doing enterprise agile but thinking about the choices you make in scaling your agile approach.</p> <p>Dave West is the CEO and Product Owner at Scrum.org. He is a frequent keynote at major industry conferences and is a widely published author of articles and research reports, along with his acclaimed book: Head First Object-Oriented Analysis and Design, that helped define new software modeling and application development processes. He led the development of the Rational Unified Process (RUP) for IBM/Rational. After IBM/Rational, West returned to consulting and managed Ivar Jacobson Consulting for North America. Then as VP, research director Forrester research where he ran the software development and delivery practice. Prior to joining Scrum.org he was Chief Product Officer at Tasktop where he was responsible for product management, engineering and architecture.<br/><a href=\"https://www.linkedin.com/in/davidjustinwest\" class=\"linkified\">https://www.linkedin.com/in/davidjustinwest</a><br/><a href=\"https://twitter.com/DavidJWest\" class=\"linkified\">https://twitter.com/DavidJWest</a></p> <p>To sign up for this event please use EventBrite, this was stipulated by our hosts, RBS. Special thanks the Andy Hiles for suggesting and arranging the meetup.</p> <p><a href=\"https://www.eventbrite.com/e/agile-bath-and-bristol-at-rbs-with-dave-west-from-scrumorg-tickets-45197180985\" class=\"linkified\">https://www.eventbrite.com/e/agile-bath-and-bristol-at-rbs-with-dave-west-from-scrumorg-tickets-45197180985</a> using code brscrumgrp</p> ",
     "end_time": 1529433000,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/250093184/",
-    "location": {
-        "address": "Trinity Quay",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45848846435547,
-        "longitude": -2.5766000747680664,
-        "name": "RBS Building"
-    },
+    "location": null,
     "org": "agile",
     "start_time": 1529425800,
     "title": "The Dirty Truth about Scaling"

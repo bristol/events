@@ -3,14 +3,7 @@
     "description": "<p><b>Feature Talk:\u00a0Containerised ASP.NET Core apps on Kubernetes</b></p> <p>Kubernetes is an open-source container management platform that has been available to the Linux world for a while. With ASP.NET Core, it's now available to .NET developers too! In this talk, we'll take a look what Kubernetes is and how it can help you with deployment and running of containerised ASP.NET Core apps.</p> <p><b>About\u00a0Mete Atamel:</b></p> <p>Mete Atamel is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, Mete likes to compare the two ecosystems.</p> <p>Prior to Google, Mete worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms</p> ",
     "end_time": 1493152200,
     "link": "https://www.meetup.com/dotnetsouthwest/events/237135383/",
-    "location": {
-        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.451744079589844,
-        "longitude": -2.5968730449676514,
-        "name": "JUSTEAT Technology"
-    },
+    "location": null,
     "org": "dotnetsouthwest",
     "start_time": 1493141400,
     "title": "Containerised ASP.NET Core apps on Kubernetes"

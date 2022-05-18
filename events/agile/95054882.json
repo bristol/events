@@ -3,14 +3,7 @@
     "description": "<p><img src=\"http://photos3.meetupstatic.com/photos/event/8/4/e/6/event_214054022.jpeg\" />\u00a0</p> <p>We\u2019re Brightside Group plc. We are one of the fastest growing insurance broking and financial services businesses in the UK, and were the first UK Company to offer an exclusively online full-lifecycle insurance through our eBike product. \u00a0</p> <p>We specialise in delivering market-leading online insurance solutions to individuals and businesses and work with some of the biggest names in the game.</p> <p>We moved to Scrum around 2 years ago.\u00a0 Initially, it was painful.\u00a0 We fought through <b>tragile</b>, we battled against <b>scrummerfall</b> and we emerged on the other side as a group of people who kind of do scrum fairly well.\u00a0 Sort of.</p> <p>Having won the fight against <b>indifference</b>, <b>terrorists</b> and <b>fear of change</b>, we\u2019d like to share our quest with you, and talk about the ways we met those challenges</p> <p>We recognise that we\u2019re not as good as we can be, so we constantly reflect on our ways of working and change them.\u00a0 We\u2019d love to share what we\u2019re looking at doing next to continue on our quest to not just <i>do Agile</i>, but to <i><b>be agile</b></i>.</p> ",
     "end_time": 1368565200,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/95054882/",
-    "location": {
-        "address": "Woodlands Lane, Bradley Stoke Bristol BS32 4JF",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.545597076416016,
-        "longitude": -2.5615479946136475,
-        "name": "Hilton Bristol hotel"
-    },
+    "location": null,
     "org": "agile",
     "start_time": 1368554400,
     "title": "Scrum in Real Life \u2013 the experiences of Scrum at Brightside Group"

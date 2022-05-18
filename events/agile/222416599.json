@@ -3,14 +3,7 @@
     "description": "<p><b>Paul Scully</b>: A professional developer for 20 years (and a programmer for over 30), who has worked in the healthcare division of a successful engineering firm based in Gloucestershire, developing software used in neurosurgery. \u00a0</p> <p>His career has spanned C, C++, some VB and now C#, through make-it-up-as-you-go-along game development, big up-front design waterfall, to his current position in a small agile team.\u200b</p> <p><b>About Paul\u2019s Talks - Delivering on TDD</b></p> <p>At the start of 2012 I began using TDD. \u00a0When, two years later, I was given the chance to stop, I took it with relief. \u00a0</p> <p>These days, I am 100% TDD. \u00a0</p> <p>\u00b7\u00a0 How did I get to such a bad place with TDD that I was glad to stop? \u00a0</p> <p>\u00b7\u00a0 Why did I then regret that decision? \u00a0</p> <p>\u00b7\u00a0 What did I change to make TDD work? \u00a0</p> <p>All this, and more, in my talk! \u00a0</p> <p>Speaking as \"the guy who types in the tests\", I offer a perspective on the day-to-day practice of TDD and try to bridge the gap between the promise of TDD\u00a0and the reality of creating and maintaining,\u00a0for a large and complex application,\u00a0an automated test suite that remains useful in the face of ever\u00a0changing requirements and implementations.</p> ",
     "end_time": 1432069200,
     "link": "https://www.meetup.com/Agile-Bath-Bristol/events/222416599/",
-    "location": {
-        "address": "10 Temple Back",
-        "city": "Bristol",
-        "country": "gb",
-        "latitude": 51.45281219482422,
-        "longitude": -2.5860190391540527,
-        "name": "Momentum Financial Technology office"
-    },
+    "location": null,
     "org": "agile",
     "start_time": 1432058400,
     "title": "Guest Speaker: Paul Scully - Delivering on TDD"

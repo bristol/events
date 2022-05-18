@@ -3,14 +3,7 @@
     "description": "<p>Joint event lead by OWASP Suffolk Chapter<br/>AGENDA:<br/>* Introduction<br/>* IoT Security by Ilya Kudryavtsev<br/>* Networking<br/>* Open discussion<br/>* Virtual Beer</p> <p>More details at:<br/><a href=\"https://www.meetup.com/OWASP-Suffolk-Chapter/events/278489387/\" class=\"linkified\">https://www.meetup.com/OWASP-Suffolk-Chapter/events/278489387/</a></p> <p>Zoom Details<br/>Time: Jun 22,[masked]:00 PM London<br/>Zoom: <a href=\"https://zoom.us/j/94134780537?pwd=SC9GVmRnMUZhTzRUV2pPZVNuY2E2QT09\" class=\"linkified\">https://zoom.us/j/94134780537?pwd=SC9GVmRnMUZhTzRUV2pPZVNuY2E2QT09</a><br/>Meeting ID:[masked]<br/>Passcode:[masked]</p> ",
     "end_time": 1624392000,
     "link": "https://www.meetup.com/OWASP-Bristol/events/278836269/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "OWASP-Bristol",
     "start_time": 1624384800,
     "title": "IoT Security - Importance, threats, best practice"

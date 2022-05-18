@@ -3,14 +3,7 @@
     "description": "<p>Starts 9am:<br/>Serverless computing promises to free DevOps-enabled teams from having to manage their infrastructure.</p> <p>But Serverless applications consist of more than just lambda functions, and provisioning these applications can be complex, error-prone, and difficult to debug.</p> <p>On top of this, enforcing security and compliance after the fact will bring delivery to a near halt.</p> <p>Using Terraform, good-old-fashioned composition, and AWS Serverless services, Mark will look at how we can address these issues, freeing up your dev teams to deliver business value.</p> <p>SPEAKER:<br/>Mark Tranter, Principal Consultant - Equal Experts (APAC)</p> <p>Mark is a software engineer with over 15 years of experience and has been with Equal Experts for 3.5 years. He has worked in Australia and the UK with a range of enterprise and start-up companies. Mark's great loves are Event-Driven Architectures, Cloud Automation, Funk music, the Newcastle Knights, and his 2 daughters.</p> <p>****<br/>This talk will be recorded and a link to the recording added in the Comments shortly after the event.<br/>****</p> ",
     "end_time": 1629968400,
     "link": "https://www.meetup.com/ExpertTalks-Bristol/events/280006435/",
-    "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
-    },
+    "location": null,
     "org": "experttalks",
     "start_time": 1629964800,
     "title": "Free your dev teams with Terraform and AWS Serverless"

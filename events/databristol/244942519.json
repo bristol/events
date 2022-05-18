@@ -3,14 +3,7 @@
     "description": "<p>Hello and welcome to our first session of 2018!</p> <p>We are pleased to welcome David Morrison from Coeo (<a href=\"https://www.coeo.com/\" class=\"linkified\">https://www.coeo.com/</a>) to OVO Energy.<br/>Dave Morrison is a Principal Consultant for Coeo. Having worked in the IT industry for around 15 years his main area of expertise is SQL Server, namely TSQL, query optimisation, indexing, performance tuning and internals etc.</p> <p>Coeo is a Microsoft Gold Partner for Data Platform, Data Analytics and Cloud Platform. We work collaboratively to improve project outcomes and develop deeper knowledge and appreciation of Microsoft technologies, improving our customers\u2019 experience.</p> <p>David will be doing a talk on Microsoft's PowerApps.</p> <p>PowerApps is an exciting and easy to pick up application development platform offered by Microsoft.</p> <p>In this session we'll take an overview look at PowerApps from both the development and deployment sides.</p> <p>We'll go through the process of building and publishing an app and show the rapid value that PowerApps can offer.</p> <p>Using plenty of demos and examples attendees will leave with a good rounded understanding of the PowerApps offering and how it could be used in their organisations.</p> <p>Agenda</p> <p>18:00 - Pizza, Beer and Social<br/>18:45 - Main Speaker - David Morrison<br/>20:00 - Wrap up by the team<br/>20:15 - Optional gathering at the Knights Templar for a beverage</p> <p>Speaker Feedback Form: <a href=\"https://goo.gl/forms/KRp3Q9zsLGSsvPJV2\" class=\"linkified\">https://goo.gl/forms/KRp3Q9zsLGSsvPJV2</a></p> ",
     "end_time": 1516741200,
     "link": "https://www.meetup.com/DataBristol/events/244942519/",
-    "location": {
-        "address": "1 Rivergate",
-        "city": "Bristol BS1 6ED ",
-        "country": "gb",
-        "latitude": 51.451011657714844,
-        "longitude": -2.583268880844116,
-        "name": "Ovo Energy"
-    },
+    "location": null,
     "org": "databristol",
     "start_time": 1516730400,
     "title": "SQL-Bristol Evening Session January 2018"

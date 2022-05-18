@@ -3,14 +3,7 @@
     "description": "<p>Welcome all to the July's SWMobile Meetup which has a focus on Xamarin and React Native. We have three great talks lined up for you followed by a Q&amp;A discussion about cross platform.</p> <p>Talk 1: Xamarin Forms update \u2013 An overview of the latest Xamarin Forms including the future with Shell and Drawing<br/>Bio: Ben Buttigieg, Senior Software Engineer on the Mobile Customer Advisory Team at Microsoft, previously at Xamarin and Nokia.</p> <p>Talk 2: React Native: the state of the union - Recently, both Airbnb and Udacity have publicly expressed their intention to remove React Native from their mobile app codebases. Does this mean the beginning of the end for React Native? We\u2019ll dissect the reasons why these companies are moving away from one of the most popular cross-platform frameworks, and discuss the impact this could have on React Native over the coming months.<br/>Bio: Tom is a freelance web and mobile app developer with 12 years experience in the industry. He has built apps for a wide range of local agencies and startups and is currently enjoying working with React and React Native.</p> <p>Talk 3: React Native isn\u2019t just about the code - There has been much discussion recently about React Native from a development perspective, but I\u2019d like to offer a different take. What are the pro\u2019s and con\u2019s from a managers perspective of React Native development? In this short talk I\u2019ll talk about people, project and client management perspectives of a React native project.<br/>Bio: Tom Melamed is the co-founder and Client Services Director of Calvium a thriving Mobile Development Agency. Throughout his career he\u2019s spanned everything from app development to server architecture to sales and account management. He can often be found wearing a beard.</p> <p>- Doors will open at 18:30pm<br/>- Food and drink will be available.<br/>- Talks will start at 19:00 with interlude ~19:45<br/>- We aim to be finished by 21:00</p> <p>After the event, we'll move on to a near by pub to continue the discussions. \ud83c\udf77</p> <p>If you do have a talk that you'd like to present at a future meetup then please do get in touch via <a href=\"http://cfp.swmobile.org\" class=\"linkified\">http://cfp.swmobile.org</a></p> ",
     "end_time": 1532462400,
     "link": "https://www.meetup.com/swmobile/events/252635312/",
-    "location": {
-        "address": "4th Floor, 1 Temple Way, Bristol",
-        "city": "BS2 0BY",
-        "country": "gb",
-        "latitude": 51.454734802246094,
-        "longitude": -2.582711935043335,
-        "name": "DeskLodge 4th Floor, Oaktree"
-    },
+    "location": null,
     "org": "swmobile",
     "start_time": 1532453400,
     "title": "Xamarin and React Native "
