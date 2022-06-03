@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p>In a break with tradition, we're not going to have a Christmas social this December, but instead, Jon Chesterfield is going to give a talk on \"The Implementation\"</p> <p><b>Synopsis</b></p> <p>Between the code and the user lies the implementation. Languages, compilers, virtual machines, drivers, instruction sets. This can be viewed as a black box, full of magic and wonder, or as software. The speaker prefers the latter.</p> <p>This will be an introduction to how people implement said black box, from text file to the silicon. The examples will be drawn from the C and lisp families, with reference to LLVM and an unreleased interpreter.</p> <p>I started working on toolchains to understand why they didn't do what I expected. I'm still working in the field because I want a better language (for an unusual definition of better). I would like to share what I have learned along the way.</p> <p><b>Bio</b></p> <p>Jon Chesterfield is a toolchain engineer based in Bristol. He crossed over from mechanical engineering with aspirations of writing better numerical models for physics simulations. That's now a distant memory as days are spent writing tools for other developers and evenings writing tools for himself.</p> ",
     "end_time": 1512597600,
-    "link": "https://www.meetup.com/ACCU-Bristol/events/245277270/",
+    "link": "https://www.meetup.com/accu-bristol/events/245277270/",
     "location": null,
     "org": "accu",
     "start_time": 1512586800,

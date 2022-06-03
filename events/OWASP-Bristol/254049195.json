@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p>The next OWASP event is a Capture-The-Flag (CTF) evening, kindly hosted by Immersive Labs. The sessions will be using Immersive Labs platform.<br/>and there will be 20 - 30 Blue and Red Team CTFs to choose from. These challenges cover a wide range of skills and levels from beginner labs to ninja labs.<br/>There will be a brief intro to the platform showing how to use the platform to guide people in the right direction.<br/>The session will also have a Physical representation of a PowerStation with ModBus controller that you can attempt to hack in to as well as a range of star wars themed challenges.</p> <p>Agenda:<br/>\u2022 6:00 pm - Social<br/>\u2022 6:30 pm - OWASP update<br/>\u2022 6:35 pm - Intro to platform and CTF start<br/>\u2022 9:30 pm - Closing down the evening</p> ",
     "end_time": 1538080200,
-    "link": "https://www.meetup.com/OWASP-Bristol/events/254049195/",
+    "link": "https://www.meetup.com/owasp-bristol/events/254049195/",
     "location": null,
     "org": "OWASP-Bristol",
     "start_time": 1538067600,

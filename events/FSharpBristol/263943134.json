@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p>F# is a great language, but it hasn't been great for developing UIs. On the desktop and mobile we had to use XAML with mutable view models. On the web we usually end up using a different technology altogether - like React or Angular.</p> <p>But now Elmish changes this. Taking it's lead from the Elm architecture, it makes it possible to build pure functional user interfaces entirely in F#.</p> <p>This talk will be an introduction to Elmish and the model-view-update pattern. We'll take a look at examples of its use in the SAFE stack (for Web apps) and Fabulous (for mobile apps).</p> <p>-- About the Speaker<br/>Olly Maunder is a Bristol-based developer and co-organizer of the local F# and .NET meetup groups. He has been using .NET for... a long time. He has an interest in functional programming, and has recently returned from a 9 month secondment in Barcelona where he was developing a web back-end in F#.</p> ",
     "end_time": 1568230200,
-    "link": "https://www.meetup.com/FSharpBristol/events/263943134/",
+    "link": "https://www.meetup.com/fsharpbristol/events/263943134/",
     "location": null,
     "org": "FSharpBristol",
     "start_time": 1568223000,

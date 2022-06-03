@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p>When Steve arrived at Mettle he was greeted by manually provisioned clusters with nodes that were multiple years old and people were scared to change them. This talk will show you the journey Mettle is on to go from this setup to how they now see clusters as being totally ephemeral. Steve will talk about the lessons learned along the way, the tools being leveraged, and what\u2019s left to do to complete this journey.</p> <p>--</p> <p>Steve Wade currently leads the Platform Team at Mettle in London. Prior to his current role, Steve was Principal Kubernetes Consultant at Apprenda providing Kubernetes training and implementation services. Steve has served in technology leadership roles across multiple verticals including real estate, gaming, and the UK parliament.</p> <p>Steve has a BSc in Computer Science from Portsmouth University and is passionate about cloud-native software development and distributed computing. You can find him as @swade1987 on Twitter and GitHub.</p> ",
     "end_time": 1597150800,
-    "link": "https://www.meetup.com/Bristol-Cloud-Native-DevOps/events/272040275/",
+    "link": "https://www.meetup.com/bristol-cloud-native-devops/events/272040275/",
     "location": null,
     "org": "Cloud-Native-DevOps",
     "start_time": 1597147200,

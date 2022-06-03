@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p><i>With the ACCU Conference approaching in April (see <a href=\"http://accu.org/index.php/conferences\">accu.org/index.php/conferences</a> for full details), we welcome Steve Love who will be presenting a short version of his conference session. Come along for a preview of the conference!</i></p> <p>The C++ language is on the cusp of a new version, and it provides a variety of opportunities for programmers to write neater, terser, easier, and yes, simpler code. It still comes with the (more than) 15 year-old standard library, however, which no longer looks like the fantastic example of abstraction and good-practice it once might have.</p> <p>This talk is about why I think it's time for us to move on from what's commonly referred to as the \"STL\", and embrace some of the things our neighbours have been doing.</p> <p><b>About our speaker:</b></p> <p>Steve Love is a programmer with a strong sense that it shouldn't be this difficult. He's currently the features editor of C Vu and can be reached at\u00a0[masked].</p> ",
     "end_time": 1392238800,
-    "link": "https://www.meetup.com/ACCU-Bristol/events/164093442/",
+    "link": "https://www.meetup.com/accu-bristol/events/164093442/",
     "location": null,
     "org": "accu",
     "start_time": 1392231600,

@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p>For our October meeting, we have Richard Storer giving a talk entitled<br/>\"How do you develop secure code?\" so please do join us. We are a friendly group who enjoys geeking out about programming, and don't let the C/C++ part of our group name fool you.</p> <p>We are primarily about professionialisation in software, so we are open to anyone regardless of the coding language you use :-)</p> <p>After the talk, we will retired to the Brewdog, where the conversation will continue.</p> <p>== Talk Details ==</p> <p>The most common causes of security vulnerabilities in software continue to be buffer overflow and command injection and yet it is well understood how to avoid these flaws.</p> <p>There are two main reasons why software continues to be full of security flaws:</p> <p>1. We don't develop software with security in mind<br/>2. Security flaws can be hard to find in code that's already out there (see 1)</p> <p>Software doesn't have to be secure to work \u2013 to meet its functional requirements, so some extra effort is needed to develop secure code. Does it need a new development paradigm or can we adapt established software development techniques to create secure code?</p> <p>I believe that we can carry on developing in our favourite way, building in security as we go. I'll try and illustrate this with some examples and ask you how you might adapt your own software design technique to create secure code.</p> ",
     "end_time": 1539806400,
-    "link": "https://www.meetup.com/ACCU-Bristol/events/254679458/",
+    "link": "https://www.meetup.com/accu-bristol/events/254679458/",
     "location": null,
     "org": "accu",
     "start_time": 1539799200,

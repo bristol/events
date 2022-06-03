@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p>GDG Bristol is excited to bring you 2 new awesome talks from our community members!</p> <p>Automating Toil by Lying to Your Boss\u2019s Slack Bot<br/>James Laverack, Jetstack</p> <p>At Jetstack we practice asynchronous stand-ups, posting what we\u2019re doing in a Slack channel every morning for a custom Slack bot to parse and report on. I was attending a conference for a week, so I knew what I\u2019d be doing the whole week in advance. However, our slack bot doesn\u2019t let you pre-post reports. So, in true over-engineering style, I built my own Slack bot to automate posting of my pre-written stand-ups every day. It runs entirely on Google Cloud, and costs pennies to run.</p> <p>It's Always (Hybrid Cloud) DNS<br/>Stu Watts, ForgeRock</p> <p>In a large hybrid cloud organisation, DNS is just as important as your networking. With a cross-vendor demo, this talk will delve into some of the features of Cloud DNS that you can use to stay sane, and get things... resolved.</p> <p>Agenda:</p> <p>19:00 - Meet/Greet/Eat Pizza<br/>19:30 - It's Always (Hybrid Cloud) DNS<br/>20:00 - Automating Toil by Lying to Your Boss\u2019s Slack Bot<br/>20:30 - Redistribute extraneous pizzas</p> <p>As per usual sustenance for human ingestion will be supplied!</p> ",
     "end_time": 1582232400,
-    "link": "https://www.meetup.com/GDG-Bristol/events/268062618/",
+    "link": "https://www.meetup.com/gdg-bristol/events/268062618/",
     "location": null,
     "org": "gdg-bristol",
     "start_time": 1582225200,

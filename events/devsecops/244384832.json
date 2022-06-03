@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p><b>When</b>: Wed 29 November |\u00a0<b>Location</b> Ovo Amphitheatre:\u00a0 | <b>Time</b>: 6 - 9pm</p> <p>What is DevSecOps?? Like DevOps, but the DevSecOps approach looks to incorporate security principles.</p> <p>This is our inaugural Meetup and we'll likely have folk coming from Bristol, Reading and even London for the evening.\u00a0\u00a0</p> <p>Two speakers will be joining - more details soon</p> <p><b>Topics:</b></p> <p><b>Container security</b>: Probing how containers solve/ create security challenges (and ways to reduce the container attack surface)</p> <p><b>Optimised\u00a0 CI/CD security testing</b> (rather than the monolithic security testing which doesn't scale in a CI/CD environment)</p> <p>NOTES</p> <p>\u2022\u00a0Venue: Ovo amphitheatre</p> <p>\u2022\u00a0Drinks &amp; Food will be provided</p> ",
     "end_time": 1511989200,
-    "link": "https://www.meetup.com/DevSecOps-force-4-change/events/244384832/",
+    "link": "https://www.meetup.com/devsecops-force-4-change/events/244384832/",
     "location": null,
     "org": "devsecops",
     "start_time": 1511978400,

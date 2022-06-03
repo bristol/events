@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p>Constraint solvers are tech for declaring what a solution looks like instead of carefully describing how to find one. Widely applicable, conceptually trivial, terribly marketed by computer science.</p> <p>You'll leave this talk with ideas for what you could do with a constraint solver and knowing how to write one. This is language agnostic and likely to be applicable at work.</p> ",
     "end_time": 1563393600,
-    "link": "https://www.meetup.com/ACCU-Bristol/events/263090110/",
+    "link": "https://www.meetup.com/accu-bristol/events/263090110/",
     "location": null,
     "org": "accu",
     "start_time": 1563386400,

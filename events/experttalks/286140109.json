@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p>**How can platform engineers effectively test Infrastructure as Code (IaC) at scale?**<br/>In this talk you\u2019ll discover which IaC testing techniques work, and which don\u2019t, based on our experience at a large government department.</p> <p>Platform teams often provide capabilities to a large number of other teams. Dealing with infrastructure which is so critical to so many can lead to a fear of change. We'll address this by looking at some techniques we used at a large government department to:</p> <p>1. **Make changes with confidence**<br/>2. **Improve engineer experience**<br/>3. **Formalise our contract with our customers**</p> <p>Building and managing infrastructure always requires a healthy dose of pragmatism; we will showcase the pitfalls and trade-offs engineers need to make each day. This will help you have confidence in expanding and improving the services you offer, and avoid getting stuck with overly complex, slow, or brittle testing.</p> <p>SPEAKER:<br/>**Nick Williams**<br/>Lead Consultant, Equal Experts.</p> <p>\\*\\*<br/>This talk will be recorded and a link to the video will be added in the Comments shortly after the event.<br/>\\*\\*</p> ",
     "end_time": 1654678800,
-    "link": "https://www.meetup.com/ExpertTalks-Bristol/events/286140109/",
+    "link": "https://www.meetup.com/experttalks-bristol/events/286140109/",
     "location": null,
     "org": "experttalks",
     "start_time": 1654675200,

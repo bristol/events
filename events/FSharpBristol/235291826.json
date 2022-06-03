@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p>5 of the most dangerous words you'll hear a developer say are \"How hard could it be?\". This talk tells the tale of what happens when you act on the question of \"I'm going to write the next Google beater. How hard could it be?\" This is the tale of how one person in a few hours is able to write something resembling a search engine thanks to the platform features of Azure and the productivity of F#. We'll see how we're able to use Azure search from F# to easily power our search internals, we'll use MBrace to rapidly find the most popular web pages on the internet and Azure functions to tie everything together to build up APIs and create on demand infrastructure. Add in a healthy mix of queues provided by Azure Service Bus and if you squint hard enough, you might just end up seeing something resembling a search engine. But seriously writing the next Google, just how hard could it be?</p> ",
     "end_time": 1478727000,
-    "link": "https://www.meetup.com/FSharpBristol/events/235291826/",
+    "link": "https://www.meetup.com/fsharpbristol/events/235291826/",
     "location": null,
     "org": "FSharpBristol",
     "start_time": 1478716200,

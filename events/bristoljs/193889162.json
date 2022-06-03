@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p>In this talk, I'll be showing how I made a particle system in HTML5 canvas, which uses letters instead of images. <a href=\"http://whostolemyhat.github.io/text-particle/\">Demo here</a></p> <p>By the end you'll have an overview of using animations with the canvas element, and why making silly things is a great idea!</p> ",
     "end_time": 1414620000,
-    "link": "https://www.meetup.com/BristolJS/events/193889162/",
+    "link": "https://www.meetup.com/bristoljs/events/193889162/",
     "location": null,
     "org": "bristoljs",
     "start_time": 1414609200,

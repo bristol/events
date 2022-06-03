@@ -2,7 +2,7 @@
     "cancelled": false,
     "description": "<p>Vito Huang - Vue.js</p> <p>Coding is about solving problems, sometimes simple ideas took a lot effort to implement, because we using the wrong paradigm or ineffective tool for the job. This is a talk about how Vue.js can make you more productive as a front-ender by making common task trivial and difficult task simpler.</p> <p><a href=\"https://vuejs.org/v2/examples/\" class=\"linkified\">https://vuejs.org/v2/examples/</a> ( <a href=\"https://vuejs.org/v2/examples/\" class=\"linkified\">https://vuejs.org/v2/examples/</a> )</p> <p>Might go into Weex If there are enough time, Weex allow you to write native apps in Vue.js, unlike React Native's \"Learn once, write everywhere\", it has different philosophy - \"Write once run everywhere\"</p> <p><a href=\"https://weex.apache.org/\" class=\"linkified\">https://weex.apache.org/</a> ( <a href=\"https://weex.apache.org/\" class=\"linkified\">https://weex.apache.org/</a> )</p> <p>Adam Reynolds - Thinking In React</p> <p>An examination of best practices in designing performant React applications as well as highlighting some of the more complex issues that can bite you in the Ass. Will also cover various libraries out there that help you get the job done. Given the fast moving nature of the moshpit that is Modern JavaScript, my best practices might be out of date by the time I present.</p> ",
     "end_time": 1498077000,
-    "link": "https://www.meetup.com/BristolJS/events/240203620/",
+    "link": "https://www.meetup.com/bristoljs/events/240203620/",
     "location": null,
     "org": "bristoljs",
     "start_time": 1498066200,
