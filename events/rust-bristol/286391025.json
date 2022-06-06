@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>\ud83e\udd80 Rust Bristol is back with new talks.</p> <p>Program of that evening (order may change):</p> <p>1. Welcome note &amp; introduction to \" \ud83e\udd80 Rust Bristol\"<br/>2. How to do graphics in Rust - *Joshua Barretto*<br/>3. Serverless programming with WebAssembly in Rust - *Faycal Arbai*</p> <p>Venue:<br/>Framework<br/>35 King Street<br/>Bristol, BS1 4DZ</p> ",
+    "end_time": 1655406000,
+    "link": "https://www.meetup.com/rust-bristol/events/286391025/",
+    "location": null,
+    "org": "rust-bristol",
+    "start_time": 1655398800,
+    "title": "Talks - Serverless WASM & Graphics in Rust"
+}
