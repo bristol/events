@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>In what promises to be an exciting and engagjng seasion; OWASP Dorset Chapter Leader - Mike Warner, will guide us through several Kerberos vulnerabilities demonstrating exploits against various phases of the Kerberos process.</p> ",
+    "end_time": 1656529200,
+    "link": "https://www.meetup.com/owasp-bristol/events/286649804/",
+    "location": null,
+    "org": "OWASP-Bristol",
+    "start_time": 1656525600,
+    "title": "Pwning Kerberos [Attack Demo]"
+}
