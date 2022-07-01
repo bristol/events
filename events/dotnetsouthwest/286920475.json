@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>During this talk we will have the fantastic Shaun Lawrence - Microsoft MVP working with Xamarin and MAUI talking about his experience building a game in MAUI.</p> <p>Find out what happened when 2 of his passions were combined together; his job and his passion, video games.</p> <p>Last year he underwent a journey to build a mobile game with Xamarin-Forms. It was successful but he didn't feel it pushed the boundaries far enough and wanted a bigger challenge! Now, with .NET MAUI out, it is the perfect opportunity to take it further. Making use of the .NET MAUI cross-platform framework he will take you through the journey to building a fully fledged game with the framework and then talk around the resulting engine that is being built and can enable you to build your great idea!</p> <p>We will look over:-</p> <p>* Common concepts in what is a typical game<br/>* How those have been built through the use of .NET MAUI Graphics<br/>* How we can find the best mix of .NET MAUI and our new Orbit game-engine</p> ",
+    "end_time": 1657654200,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/286920475/",
+    "location": null,
+    "org": "dotnetsouthwest",
+    "start_time": 1657647000,
+    "title": "Building a game engine with .NET MAUI"
+}
