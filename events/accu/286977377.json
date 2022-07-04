@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>To get things started, I propose to hold a re-run of my 2022 ACCU Presentation called: [How to Use C++20 Coroutines for Networking](<a href=\"https://youtu.be/ZNttI_WswMU\" class=\"embedded\">https://youtu.be/ZNttI_WswMU</a>) (the abstract is also available on the YouTube page).</p> <p>Please note that the event will be held at the [Blu Wireless Bristol Office](<a href=\"https://www.bluwireless.com/contact-us/\" class=\"linkified\">https://www.bluwireless.com/contact-us/</a>) and not at the Marriott (though the Blu Wireless Office is literally next to the hotel). The address is as follows:</p> <p>Blu Wireless<br/>4th Floor<br/>One Castlepark<br/>Tower Hill<br/>Bristol<br/>BS2 0JA</p> <p>The talk will be followed by a trip to the Cornubia where the discussion can continue.</p> <p>Hope to see you there !</p> <p>Jim</p> ",
+    "end_time": 1657828800,
+    "link": "https://www.meetup.com/accu-bristol/events/286977377/",
+    "location": null,
+    "org": "accu",
+    "start_time": 1657821600,
+    "title": "How to Use C++20 Coroutines for Networking"
+}
