@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>**The Demo:**<br/>Following on from his talk earlier this year and as requested Jeff will provide a demo of RASP.</p> <p>**About the speaker:**<br/>Jeff Williams - CTO of Contrast Security and OWASP Co-Founder<br/>Jeff Williams is the co-founder and major contributor to OWASP, where he served as the Chair of the OWASP Board for 8 years and created the OWASP Top 10, OWASP Enterprise Security API (ESAPI), OWASP Application Security Verification Standard(ASVS), XSS Prevention Cheat Sheet, WebGoat and many other widely adopted free and open projects. Jeff is the co-founder and the CTO of Contrast Security. Jeff has a BA from Virginia, an MA from George Mason, and a JD from Georgetown.</p> <p>**Agenda:**</p> <p>* Welcome and OWASP updates<br/>* RASP Demo</p> ",
+    "end_time": 1663182000,
+    "link": "https://www.meetup.com/owasp-bristol/events/288112070/",
+    "location": null,
+    "org": "OWASP-Bristol",
+    "start_time": 1663178400,
+    "title": "RASP demo - Jeff Williams"
+}
