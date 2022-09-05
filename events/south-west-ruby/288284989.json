@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>Join us at **Cookpad** in Bristol this month for an in-person South West Ruby meetup featuring:</p> <p>\ud83c\udf7a food and drink (sponsored by Cookpad)<br/>\ud83d\udcac talks by **Sonia Ksenija Vasjko (Cookpad)** and **Stan Lo (Shopify)**</p> <p>**Schedule**</p> <p>18:00 - Arrive, grab a drink and some food, have a chat</p> <p>19:00 - **\"Ruby on Rails Tricks\" - Sonia Ksenija Vasjko**</p> <p>\"I\u2019m going to talk about different Rails features that are relatively new and can improve performance or code readability. Most of this information comes from the This Week In Rails mailing list: [<a href=\"https://world.hey.com/this.week.in.rails](https://world.hey.com/this.week.in.rails\" class=\"linkified\">https://world.hey.com/this.week.in.rails](https://world.hey.com/this.week.in.rails</a>)\"</p> <p>Sonia is a Web Developer at Cookpad</p> <p>19:30 - **\"ruby/debug - The best investment for your productivity\" - Stan Lo**</p> <p>\"In this talk, I will demonstrate 3 powerful debugging techniques using Ruby's new debugger \\`ruby/debug\\`:<br/>\\- Step\\-debugging<br/>\\- Frame navigation<br/>\\- Breakpoint commands</p> <p>By using them together, we can reduce unnecessary context switching and make our debugging sessions more efficient.\"</p> <p>Stan is a senior developer at Shopify and is a major contributor of the Ruby debugger. He and his teammates at the Ruby Developer Experience Team are dedicated to helping Ruby developers feel happy and productive.</p> <p>20:15 - More mingling</p> <p>**Slack**</p> <p>If you like to join us on Slack please join <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> ",
+    "end_time": 1663876800,
+    "link": "https://www.meetup.com/south-west-ruby/events/288284989/",
+    "location": null,
+    "org": "south-west-ruby",
+    "start_time": 1663866000,
+    "title": "South West Ruby #40 In Person"
+}
