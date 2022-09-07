@@ -1,6 +1,6 @@
 {
     "cancelled": false,
-    "description": "<p>**Adam Butler - Stimulus.js**<br/>Talk description coming soon</p> <p>**Tom Cartwright - changes in Electron**<br/>Talk description coming soon</p> <p>\\-\\-\\-<br/>A huge thank you to our venue sponsor SR2 for hosting us and providing refreshments.</p> ",
+    "description": "<p>**Adam Butler - Stimulus.js**<br/>Talk description coming soon</p> <p>**Tom Cartwright - changes in Electron**<br/>Electron is framework for making desktop applications using web technologies. Lots of changes have been made to framework over the last few years with aim of improve their security model and these have had significant impact on how developers can and should build applications using Electron. What are these changes? What implications do they have? What are the alternatives to using Electron? All these questions will be answered.</p> <p>\\-\\-\\-<br/>A huge thank you to our venue sponsor SR2 for hosting us and providing refreshments.</p> ",
     "end_time": 1664391600,
     "link": "https://www.meetup.com/bristoljs/events/288183211/",
     "location": null,
