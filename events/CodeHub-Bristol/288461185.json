@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>Workshop Wednesdays are starting for the Autumn season, kindly organised by our good friends at [Womens Tech Hub](<a href=\"https://www.wthub.org/\" class=\"linkified\">https://www.wthub.org/</a>).</p> <p>This first session after the summer will be a drop in for networking, discussion and support, allowing beginners as well as professionals to mix easily. You are welcome to come along to join in the discussion, with no obligation to stay for the full evening.</p> <p>We expect the following groups to gather:</p> <p>* **CS50**: for those interested in getting a grounding a Computer Science, CS50 (Harvard) provides an excellent remote course. We will provide a space for those taking the course to share their experiences with others. (Note: this is not a taught course - the emphasis is on self-study and sharing.)<br/>* **Build your own website**: for those interested in learning how to build their own website at future sessions, this will be an opportunity to install node and npm.<br/>* **Future workshops:** we'd like to talk to all attendees about what they would like to learn at future sessions.</p> <p>Other groups may also be arranged by Women's Tech Hub who will send out a separate invitation.</p> ",
+    "end_time": 1663790400,
+    "link": "https://www.meetup.com/codehub-bristol/events/288461185/",
+    "location": null,
+    "org": "CodeHub-Bristol",
+    "start_time": 1663781400,
+    "title": "CodeHub @WorkshopWednesdays"
+}
