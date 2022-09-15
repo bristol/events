@@ -1,10 +1,10 @@
 {
     "cancelled": false,
-    "description": "<p>tbc</p> ",
-    "end_time": 1666292400,
+    "description": "<p>tbc</p> <p>We are looking to publish on @YouTube the recordings of our meetups. If you would like to be notified when we a new video is published, please feel free to subscribe on our channel at:<br/><a href=\"https://www.youtube.com/channel/UC1lUjD1zM1gD2JkSa1rxMYQ\" class=\"embedded\">https://www.youtube.com/channel/UC1lUjD1zM1gD2JkSa1rxMYQ</a></p> ",
+    "end_time": 1669320000,
     "link": "https://www.meetup.com/owasp-bristol/events/288310192/",
     "location": null,
     "org": "OWASP-Bristol",
-    "start_time": 1666285200,
-    "title": "TBC - eBPF"
+    "start_time": 1669312800,
+    "title": "TBC "
 }
