@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>**Talk**: API security in a DevSecOps setting. Covering Security tools and application security operations.</p> <p>**Speaker**: Paul McCabe has worked in Cyber security for 25 years working for Barclays, IBM and the Financial Regulator in Security Consultancy, Security Engineering and Cryptography Operations. He currently manages an application security team co-ordinating assessments for Regulatory Compliance.</p> <p>**Agenda**:<br/>OWASP updates<br/>Guest speaker<br/>Q&amp;A</p> ",
+    "end_time": 1666121400,
+    "link": "https://www.meetup.com/owasp-bristol/events/288558656/",
+    "location": null,
+    "org": "OWASP-Bristol",
+    "start_time": 1666116000,
+    "title": "API Security in a DevSecOps World"
+}
