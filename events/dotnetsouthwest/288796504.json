@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>November sees a return of our online meetup events, which we will still have from time to time when tehre's a particularly good guest speaker who can't make it over, and this one is a great one - hope to see you there!</p> <p>**Description**: Who doesn't like options? When we build .NET applications, we have a ton of options to how we build, what dependencies we leverage, and finally where we put those applications. We need to think about what app component model we use, like MVC, Blazor or Web API, and depending on that choice, it may dictate what platform we look to host our apps on.</p> <p>Whether you are building apps hosted on IIS or Kestrel (if you are fancy), leveraging containers, building serverless event-driven applications, to microservices, there are just tons of options out there. AWS provides services that provide options for all these modalities. Whether you are or are not familiar with AWS, this session will provide insight into how AWS is a great option for hosting all types of .NET Apps.</p> <p>**About the Author**: Isaac Levin is a .NET Developer Advocate at Amazon Web Services as well as a speaker and a Microsoft MVP living in Woodinville, WA. His emphasis in the developer space is primarily centered around .NET, .NET Core, and front-end technologies like Node.js and Angular and he has worked in various industries such as financial services, marketing, education, real estate, and most recently beverage.</p> <p>As this will be an online event, we will publish the zoom link in meetup closer to the time of the event.</p> ",
+    "end_time": 1665518400,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/288796504/",
+    "location": null,
+    "org": "dotnetsouthwest",
+    "start_time": 1665511200,
+    "title": "[\ud83c\udf10 Online] .NET on AWS - Choose Your Own Adventure"
+}
