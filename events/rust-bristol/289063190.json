@@ -1,10 +1,10 @@
 {
     "cancelled": false,
-    "description": "<p>*Rust Bristol \ud83e\udd80* joins forces with *Rust &amp; C++ Cardiff* for this first **hybrid event which** will be live streamed from our location in Bristol!</p> <p>Program of that evening (order may change):</p> <p>1. Welcome note &amp; introduction to this event<br/>2. Programming Veloren, an open source online game - *Joshua Barretto*<br/>3. How I landed a Rust job - *Felix Gate*</p> <p>**Live stream link: TBC.**<br/>(online attendees will also be able to ask questions or comment)</p> <p>**Physical Venue**:<br/>Framework<br/>35 King Street<br/>Bristol, BS1 4DZ</p> <p>Side note: this is the opportunity to create a Discord channel for the Rust Bristol community. Here's a link to join: <a href=\"https://discord.gg/rXwjM5BQdY\" class=\"linkified\">https://discord.gg/rXwjM5BQdY</a></p> ",
+    "description": "<p>*Rust Bristol \ud83e\udd80* joins forces with *Rust &amp; C++ Cardiff* for this first **hybrid event** which will be live streamed from our location in Bristol!</p> <p>Program of that evening (order may change):</p> <p>1. Welcome note &amp; introduction to this event<br/>2. Programming Veloren, an open source online game - *Joshua Barretto*<br/>3. How I landed a Rust job - *Felix Gate*</p> <p>**Live stream link: TBC.**<br/>(online attendees will also be able to ask questions or comment)</p> <p>**Physical Venue**:<br/>Framework<br/>35 King Street<br/>Bristol, BS1 4DZ</p> <p>Side note: this is the opportunity to create a Discord channel for the Rust Bristol community. Here's a link to join: <a href=\"https://discord.gg/rXwjM5BQdY\" class=\"linkified\">https://discord.gg/rXwjM5BQdY</a></p> ",
     "end_time": 1666810800,
     "link": "https://www.meetup.com/rust-bristol/events/289063190/",
     "location": null,
     "org": "rust-bristol",
     "start_time": 1666803600,
-    "title": "Birstol & Cardiff joined talks [Hybrid!] - Veloren (game) & Rust for a living"
+    "title": "Bristol & Cardiff joined talks [Hybrid!] - Veloren (game) & Rust for a living"
 }
