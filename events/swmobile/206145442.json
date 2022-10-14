@@ -3,7 +3,14 @@
     "description": "<p>We thought we\u2019d kick off 2015 by revisiting a topic that has been successful in the past and see if it still proves helpful. \u00a0\u00a0</p> <p>As we all kick off the new year with good intentions, great new plans and renewed energy I thought it would be fitting to have another discussion about\u00a0\u2018going freelance\u2019.</p> <p>If you\u2019ve considered freelancing in the past, fancy a spot of contracting or generally want to decide the best way for you to venture out with your own small business I hope there will be some nuggets of wisdom for you here.</p> <p>We have two talks lined up for the evening and hopefully some lively discussion will follow both at the meet-up and at the pub afterwards.</p> <p><b>Karl Nosworthy - \u00a0\u2018Is it just me?! The Tao of one-man-band app development'</b></p> <p>I came to the previous meet-up on this topic and it was that which inspired me to finally take my work life into my own hands and become a freelancer. Almost 18 months on, it's been quite a journey but I\u2019m so pleased that I did it and I\u2019m looking forward to sharing the information I\u2019ve picked up along the way. I\u2019ll be talking about my experience, mistakes, some do\u2019s, don\u2019ts and general thoughts about all things freelance.</p> <p><b>Dave Jones - 'Tales (and tips) from the contracting coalface'</b></p> <p>Group regular and successful Android contractor Dave Jones will share his experiences of running his own business from the contractor and limited\u00a0company director perspective.</p> <p><b><br/></b></p> <p><b>James Barlow -\u00a0\"Every Freelancer is a Project Manager, but some of them don't know it yet\"\u00a0</b></p> <p>James Barlow from Cloudshout LLP talks about growing your practice as a freelancer and doing more - quantity and quality - by collaborating with your peers, and hiring other freelancers.</p> ",
     "end_time": 1421872200,
     "link": "https://www.meetup.com/swmobile/events/206145442/",
-    "location": null,
+    "location": {
+        "address": "University of Bristol, Merchant Venturers Building, Woodland Road Bristol BS8 1UB, Bristol",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45585632324219,
+        "longitude": -2.6030869483947754,
+        "name": "Room 1.06"
+    },
     "org": "swmobile",
     "start_time": 1421866800,
     "title": "Lets talk freelancing"

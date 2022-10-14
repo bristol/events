@@ -3,7 +3,14 @@
     "description": "<p>Gearing up for a career boost in the New Year? Or perhaps it's time to pass on some of your hard-earned wisdom and gain a new perspective in the process. Mentoring is a simple but powerful way to support underrepresented groups in HealthTech, pay it forward, and generally develop your career.</p> <p>** As well as joining on Meetup, please get your ticket via Eventbrite <a href=\"https://bit.ly/2CqR956\" class=\"linkified\">https://bit.ly/2CqR956</a>. If you only see a small number of attendees on Meetup it's because it's not our main platform **</p> <p>Join One HealthTech in Bristol for an interactive evening as we find out how mentoring makes a difference to both individuals and organisations. We'll also launch our own mentor matching activity.</p> <p>Discover how you can be your own cheerleader and how to approach a mentor. Learn the dos and don\u2019ts around forming a mentoring relationship. We\u2019ll also quiz a bunch of people who\u2019ve been a mentor or mentee. And if that's not enough, you can also take part in a speed-mentoring session!</p> <p>Many thanks to our refreshment sponsor West of England AHSN and venue sponsor Runway East Bristol.</p> <p>AGENDA</p> <p>6.30pm -- Registration</p> <p>6.45pm \u2013 Welcome: OHT Hub lead &amp; sponsors</p> <p>7.00pm -- Mentoring for dynamic &amp; diverse organisations - Andrea Burroughs, Health and Well Being Sector Lead - Scale Up Programme at the SETsquared Partnership.</p> <p>7.10pm -- Mentoring 101 for mentors and mentees - Jaya Mistry, Career Mentoring Co-ordinator at UWE Bristol</p> <p>7.25pm -- Panel Q&amp;A: Hannah Sweet, Project Manager at Rocketmakers; John Clarkson, Director, Binx Health, Dr Stephanie Campbell, Co-founder Vision Game Labs</p> <p>7.40pm -- Food, drinks &amp; networking</p> <p>8.10pm -- Speed mentoring</p> <p>9.00pm -- Wrap up &amp; community shout out</p> <p>9.10pm -- Drinks &amp; networking</p> <p>One HealthTech brings together doers, thinkers and trailblazers to change the face of future healthcare. We also support talent and the amazing things that women and people from diverse backgrounds are achieving in health innovation.</p> ",
     "end_time": 1548279000,
     "link": "https://www.meetup.com/bristolohthub/events/257810093/",
-    "location": null,
+    "location": {
+        "address": "1 Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East Bristol Bridge"
+    },
     "org": "BristolOHThub",
     "start_time": 1548268200,
     "title": "Speed Mentoring for HealthTech"

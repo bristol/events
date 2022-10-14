@@ -3,7 +3,14 @@
     "description": "<p>We all want to be successful in our programming careers, and I'm sure we've all seen the meme of the difference between an experienced programmer and a new programmer (it works first time...)</p> <p>I would argue that we should be suspicious of early success.</p> <p>My plan for this talk, is using examples from other fields to demonstrate why early success is a bad thing. I also intend to redefine what failure actually means, and why we shouldn't fear it.</p> <p>Speaker Bio:<br/>Emyr is a software engineer who has developed in such diverse languages as C++, Golang, Python, Java, C#, BASIC, Bash, and even a smattering of ReactJS. He is passionate about writing good code and self improvement, as well as playing his guitar. He has served as an ACCU C++ Standards officer, was an attendee of the BSi C++ Committee in the UK, as well as the guy who interviewed various folks for the CVu ACCU Magazine, and once upon a time, ran ACCU Bristol. He will likely get a Star Wars or Monty Python reference in to his talks if left unattended for too long.</p> ",
     "end_time": 1571860800,
     "link": "https://www.meetup.com/accu-bristol/events/265432177/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.456336975097656,
+        "longitude": -2.5850319862365723,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1571853600,
     "title": "Early success is a terrible teacher - Emyr Williams"

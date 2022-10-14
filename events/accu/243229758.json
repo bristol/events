@@ -3,7 +3,14 @@
     "description": "<p>For our meeting this month, I'm delighted to say that Christopher Harpum will giving us an insight into compile time programming in C++ 17.\u00a0 So please do come along, it will be an instructive evening with some practical demonstrations, an opportunity for questions, and of course some beers afterwards.</p> <p>Synopsis:</p> <p>As C++ has evolved, the \u2018arcane\u2019 template metaprogramming has been tamed and simplified for the masses. Thanks to Modern C++ and a wide selection of new libraries developed for it, everyday programmers can finally take advantage of the wide world of compile-time programming.</p> <p>To demonstrate what fun new tools C++17 brings to the table, we\u2019ll see how to pragmatically compose a switch/case, a faster and simpler tuple, compile-time string manipulation, the simplest heterogeneous container ever, and much more!</p> <p>If time permits, we\u2019ll see what the future may look like for a C++ programmer, with ongoing proposals and language development \u2013 including metaclasses, static reflection and concepts.</p> <p>Biography:</p> <p>Chris is a recently graduated software engineer for a company called SEA.</p> <p>A glutton for punishment,\u00a0he jumped into C++ early in his programming endeavor. Lunch breaks, after school and holidays, became opportunities to reinvent the wheel and learn more about the language.</p> <p>With so many nooks and crannies, finding new and interesting ways to use (and abuse) C++ has become a hobby that he\u00a0loves to share (whether those unfortunate enough to inquire like it or not).</p> ",
     "end_time": 1510783200,
     "link": "https://www.meetup.com/accu-bristol/events/243229758/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1510772400,
     "title": "Compile-Time Programming in C++17 and beyond"

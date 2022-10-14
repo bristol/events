@@ -3,7 +3,14 @@
     "description": "<p>IMPORTANT NOTE: Registration for this event is via an external ticketing system here: <a href=\"https://ti.to/bristol-data-scientists/Feb-2019\" class=\"linkified\">https://ti.to/bristol-data-scientists/Feb-2019</a></p> <p>You do not need to register on meetup, only the above link. This helps us track numbers better.</p> <p>We are after speakers. If you would like to speak please drop us a message on meetup!</p> ",
     "end_time": 1550005200,
     "link": "https://www.meetup.com/bristol-data-scientists/events/256974651/",
-    "location": null,
+    "location": {
+        "address": "Pembroke House, 15 Pembroke Rd",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45813751220703,
+        "longitude": -2.614358901977539,
+        "name": "RedRock Consulting"
+    },
     "org": "Bristol-Data-Scientists",
     "start_time": 1549994400,
     "title": "Bristol Data Scientists Meeting - February 2019"

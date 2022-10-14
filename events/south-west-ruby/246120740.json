@@ -3,7 +3,14 @@
     "description": "<p>\u2022 What we'll do<br/>If you're working with Ruby and/or Rails for work, home or play, Great Western Rails is the perfect place to meet other like-minded folk. We'll have some interesting talks, networking, and snacks/drinks to go around</p> <p>Jan 16th Schedule:</p> <p>6:30PM - Doors Open, Food &amp; Drinks<br/>7:00PM - Lightning Talks<br/>8:30PM - Close / Pub</p> <p>1. \"Alexa, ask Cookpad... Fun with an Amazon Echo, Ruby and Recipes\" by @tapster<br/>2. \"Bringing Ruby Home. Integrating Ruby with HomeKit\" by @karlentwistle</p> <p>\u2022 What to bring</p> <p>\u2022 Important to know</p> ",
     "end_time": 1516134600,
     "link": "https://www.meetup.com/south-west-ruby/events/246120740/",
-    "location": null,
+    "location": {
+        "address": "3 Broad Plain, BS2 0JP",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45417404174805,
+        "longitude": -2.582395076751709,
+        "name": "Cookpad"
+    },
     "org": "south-west-ruby",
     "start_time": 1516127400,
     "title": "Great Western Rails #1 - Siri vs Alexa Ruby Showdown"

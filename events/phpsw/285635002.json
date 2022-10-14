@@ -3,7 +3,14 @@
     "description": "<p>PHPSW returns, this time we'll be talking about clean code.</p> <p>We're back at Runway East for another in person meetup. This months talks are...</p> <p>\\- Clean\\, Concise Collaborative Code<br/>Christopher Miller</p> <p>We look at why every time code is written we should ask ourselves 7 questions about our code that help us to put our thinking into the head of someone else reading our code in the future - or even ourselves! By asking these questions of ourselves, we can make sure we have Clean, Concise Collaborative Code - or code that someone else can work with.</p> <p>\\- And a talk from you?<br/>We've space for another full length talk or lightning talk.</p> <p>--</p> <p>SR2 \u2013 Socially Responsible Recruitment (<a href=\"https://www.sr2rec.co.uk/\" class=\"linkified\">https://www.sr2rec.co.uk/</a>) in Bristol are kindly helping us host this evening. Thanks to them!</p> <p>--<br/>Your first time coming to PHPSW? Welcome!</p> <p>Here's how the evening tends to run:</p> <p>* Feel free to turn up from 6:30pm.<br/>* We'll have a selection of soft drinks &amp; alcoholic drinks available from about 6:45pm, all free of charge thanks to our sponsors. It's a great chance to speak to people (we're a friendly bunch!) and do a bit of networking. Just speak to an organiser if you'd like an introduction to people, or just dive in and say \"hello!\".<br/>* At 7pm, we'll do a quick welcome talk and some community announcements<br/>* At \\~7:10pm we'll have our first talk<br/>* After our first talk, there's a small break whilst we switch over speakers<br/>* At \\~ 7:50pm we'll have our second talk<br/>* We finish at \\~9pm. We always go for a drink somewhere afterwards to discuss the talks and anything else that takes your fancy.</p> <p>--<br/>As always, a big thanks to our meetup sponsors Ents24 (<a href=\"http://www.ents24.com/\" class=\"linkified\">http://www.ents24.com/</a>), Brightpearl (<a href=\"http://www.brightpearl.com/\" class=\"linkified\">http://www.brightpearl.com/</a>) &amp; OneSub (<a href=\"https://onesub.io/\" class=\"linkified\">https://onesub.io/</a>) without whom we wouldn't be able to put on our meetups.</p> ",
     "end_time": 1652299200,
     "link": "https://www.meetup.com/php-sw/events/285635002/",
-    "location": null,
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
     "org": "phpsw",
     "start_time": 1652291100,
     "title": "Clean code"

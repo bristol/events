@@ -3,7 +3,14 @@
     "description": "<p>Lets join our friends across the bridge in Cardiff for the all day SQL Relay event this year.\u00a0 Multiple tracks, great speakers and free training!\u00a0</p> <p><i>\"October 4th 2016, SQL Relay is back in Cardiff for the fifth time. SQL Relay is a conference focused on the Microsoft Data Platform. SQL Relay Cardiff is set during working hours, in the city centre, and free to make it easier for everyone who wants to attend to join us. We're even sorting transport for the folks who might want to attend but are stuck due to the Severn Tunnel closure. A nice, friendly conference we hope to see you and your colleagues there!\"</i></p> <p>For the Agenda and Sessions please see:</p> <p><a href=\"https://app.attendee.events/SQLRelay2016Cardiff/E/Agenda\"><a href=\"https://app.attendee.events/SQLRelay2016Cardiff/E/Agenda\" class=\"linkified\">https://app.attendee.events/SQLRelay2016Cardiff/E/Agenda</a></a><br/><a href=\"https://app.attendee.events/SQLRelay2016Cardiff/E/Agenda/Sessions\"><a href=\"https://app.attendee.events/SQLRelay2016Cardiff/E/Agenda/Sessions\" class=\"linkified\">https://app.attendee.events/SQLRelay2016Cardiff/E/Agenda/Sessions</a></a></p> <p>More info &amp; register for this free conference at:</p> <p><a href=\"https://bit.ly/SQLRelay2016Cardiff\"><a href=\"https://bit.ly/SQLRelay2016Cardiff\" class=\"linkified\">https://bit.ly/SQLRelay2016Cardiff</a></a></p> <p><b>Update</b>: <b>Return coach tickets are available</b> from Bristol Parkway to the event are now available at \u00a314.50 + \u00a34.50 anytime return ticket from Bristol Temple Meads (if you have already registered grab a coach ticket only): -</p> <p><a href=\"https://app.attendee.events/SQLRelay2016Cardiff/E/Registration\"><a href=\"https://app.attendee.events/SQLRelay2016Cardiff/E/Registration\" class=\"linkified\">https://app.attendee.events/SQLRelay2016Cardiff/E/Registration</a></a></p> <p><b>The coach leaves Bristol Parkway at 7.30am, so early and prompt meet at Temple Meads - 7am to catch 7.10am train on platform 5 - or meet us at Bristol Parkway :-)</b></p> ",
     "end_time": 1475575200,
     "link": "https://www.meetup.com/databristol/events/233912435/",
-    "location": null,
+    "location": {
+        "address": "Mary Ann Street, CF10 2EQ",
+        "city": "Cardiff",
+        "country": "gb",
+        "latitude": 51.47893142700195,
+        "longitude": -3.1717710494995117,
+        "name": "Motorpoint Arena Cardiff"
+    },
     "org": "databristol",
     "start_time": 1475564400,
     "title": "SQL Relay 2016: Cardiff"

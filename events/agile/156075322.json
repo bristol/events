@@ -3,7 +3,14 @@
     "description": "<p>What (really) is Kanban, and how does it work at scale? \u00a0In this talk, we look at Kanban via its values system. \u00a0We summarise what it can achieve organisationally through sustainability, service orientation and survivability \"agendas\".</p> <p>Mike (<a href=\"https://twitter.com/asplake\">@asplake</a>) is UK Director of\u00a0<a href=\"http://djaa.com/\">David J Anderson &amp; Associates</a>\u00a0and the Director of Training Programs at\u00a0<a href=\"http://www.leankanban.com/\">LeanKanban Inc</a>. He blogs at\u00a0<a href=\"http://positiveincline.com/\">positiveincline.com</a>\u00a0and is currently writing a book,\u00a0<a href=\"http://www.positiveincline.com/index.php/kanban-from-the-inside/\">Kanban from the Inside</a>. Mike's background is in software development, a former programmer, global development manager and IT Director in the investment banking and energy risk management industries. Now he provides training, consultancy, coaching and interim management around Kanban as well as maintaining the training curriculum on behalf of the Kanban training community globally.</p> ",
     "end_time": 1392156000,
     "link": "https://www.meetup.com/agile-bath-bristol/events/156075322/",
-    "location": null,
+    "location": {
+        "address": "Prudential Buildings, 11-19 Wine St., Bristol",
+        "city": "BS1 2PH",
+        "country": "gb",
+        "latitude": 51.4552116394043,
+        "longitude": -2.5922799110412598,
+        "name": "Nokia Bristol"
+    },
     "org": "agile",
     "start_time": 1392145200,
     "title": "Kanban through its values: agendas for scale"

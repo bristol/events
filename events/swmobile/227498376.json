@@ -3,7 +3,14 @@
     "description": "<p><i>The\u00a0evening's\u00a0talks, loosely around testing. \u00a0</i></p> <p><i>Chris Williams - Test Automation in Practice with Xamarin TestCloud at MixRadio\u00a0<br/></i></p> <p>Adam Butler - Bullet-proof Push</p> <p>Josh Baldwin - Open Device Lab(ODL) Bristol - \u00a0Who? What? Why? Where?</p> <p>The usual format:\u00a0</p> <p>\u2022\u00a018:00-18:15 - organisers/volunteers\u00a0arrive</p> <p>\u2022\u00a018:30 doors open / pizza arrive</p> <p>\u2022\u00a019:00 Intro by SWmobile organiser (venue admin i.e toilets, fire exits)</p> <p>\u2022\u00a019:05 talk one</p> <p>\u2022\u00a019:[masked]min comfort break</p> <p>\u2022\u00a019:50 Talk two</p> <p>\u2022 20:10 Talk three\u00a0</p> <p>\u2022\u00a020:30 finish up and head to the pub\u00a0</p> <p>\u2022\u00a020:45 Volunteers leave after helping tidy up \u00a0</p> ",
     "end_time": 1455656400,
     "link": "https://www.meetup.com/swmobile/events/227498376/",
-    "location": null,
+    "location": {
+        "address": "Prudential Buildings, 11-19 Wine St, Bristol, BS1 2PH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45545196533203,
+        "longitude": -2.592360019683838,
+        "name": "Mix Radio"
+    },
     "org": "swmobile",
     "start_time": 1455647400,
     "title": "SWmobile: Feb talk night"

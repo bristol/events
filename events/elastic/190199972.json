@@ -3,7 +3,14 @@
     "description": "<p>For our first meetup, just to set the scene, let's informally introduce ourselves and our interest in ElasticSearch.</p> <p>I'm happy to kick off by explaining a little about how we're using ElasticSearch at The Filter to help power our realtime content personalisation platform. No PowerPoint, I promise and probably not more than 10 minutes.</p> <p>If others would like to do the same that'd be great.</p> <p>Later there will be an opportunity to network and dig a little deeper on a one-to-one basis over a drink.</p> ",
     "end_time": 1405369800,
     "link": "https://www.meetup.com/south-west-elastic-fantastics/events/190199972/",
-    "location": null,
+    "location": {
+        "address": "1,The Square, Temple Quay, Bristol, BS1 6DG",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45072937011719,
+        "longitude": -2.5820810794830322,
+        "name": "The Knights Templar"
+    },
     "org": "elastic",
     "start_time": 1405360800,
     "title": "Kick-off: Share how you're using (or thinking of using) ElasticSearch"

@@ -3,7 +3,14 @@
     "description": "<p>We\u2019re very excited to announce SWmobile's first ever pub quiz!\u00a0</p> <p>Questions will revolve around mobile \ud83d\udcf1 but won't be limited to development knowledge \ud83d\udcbb, teams will be allocated on arrival and some snacks \ud83c\udf57\ud83c\udf3d will be provided.</p> <p>There will even be prizes for the winning teams! \ud83e\udd47\ud83c\udfc6</p> <p>There is an entry fee \ud83c\udf9f of \u00a35 to help fund the prize pot \ud83c\udf81</p> <p>For those who aren't interested in the quiz or who don't want to spend the money to enter, we will be having drinks \ud83c\udf77 in the bar area at around 9pm. Please feel free to meet us there and as ever the first round will be provided by SWmobile.\u00a0</p> <p>Spaces for the quiz are strictly limited due to venue size. Please RSVP early to avoid disappointment and if you can no longer make it please contact us!</p> ",
     "end_time": 1508878800,
     "link": "https://www.meetup.com/swmobile/events/242947439/",
-    "location": null,
+    "location": {
+        "address": "King St (opposite the Llandogger and just down from the Old Vic)",
+        "city": "BS1 4RR",
+        "country": "gb",
+        "latitude": 51.4521484375,
+        "longitude": -2.5929670333862305,
+        "name": "King Street Brew House"
+    },
     "org": "swmobile",
     "start_time": 1508868000,
     "title": "SWmobile Pub Quiz!"

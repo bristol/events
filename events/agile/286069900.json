@@ -3,7 +3,14 @@
     "description": "<p>Join us for a bit of intrepid fun with a game Andy has just made up called 'Kaotic Kanban'. You'll probably be the first group to experience this so there'll be a bit of trial and error and a forgiving approach to the session.</p> <p>Expect high levels of audience participation, collaboration and the odd joke or two.</p> <p>Please note: This will be an in-person event in central Bristol with no remote facilities</p> <p>About the speaker:<br/>Realising he's been doing Product Development with Agile teams for nearly 20 years, Andy has been there, done that and worn the t-shirt several times over. Still learning new things and working with teams of awesome people, Andy is the author of Applying Scrum With Kanban, a book that is definitely not pointless!</p> <p>ADP are kindly hosting us, I'll let them introduce themselves:<br/>\"Hi we are ADP a global company with Development, product managers, UX and DevOps teams here in Bristol. It goes without saying that we love agile and so are always looking to reflect and improve the way we work. We can't wait to host Agile Bath and Bristol events and look forward to seeing you there.\"<br/>Learn more at <a href=\"https://uk.adp.com/\" class=\"linkified\">https://uk.adp.com/</a></p> ",
     "end_time": 1655233200,
     "link": "https://www.meetup.com/agile-bath-bristol/events/286069900/",
-    "location": null,
+    "location": {
+        "address": "Temple Back",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45333480834961,
+        "longitude": -2.5865590572357178,
+        "name": "ADP"
+    },
     "org": "agile",
     "start_time": 1655227800,
     "title": "Kaotic Kanban  with Andy Hiles"

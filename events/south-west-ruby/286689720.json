@@ -3,7 +3,14 @@
     "description": "<p>Join us at **Newtown Park Brewing Co** in Bristol this month for an in-person South West Ruby meetup featuring<br/>\ud83c\udf7a great beer (sponsored by Cookpad)<br/>\ud83d\udcac talks by **Gavin Morrice** and **Michael McKelvaney**<br/>\u2600\ufe0f sunshine (maybe)</p> <p>Schedule</p> <p>18:00 - Arrive, grab a drink, have a chat<br/>19:00 - **\"Even Fuller Stack Ruby\" by Michael McKelvaney** \\- another chance to delve into the fun and varied ways Michael has used ruby\\, from photo booths to brew kits<br/>19:30 - **\"Domain Driven Development in Rails\" by [Gavin Morrice](<a href=\"https://twitter.com/morricegavin\" class=\"linkified\">https://twitter.com/morricegavin</a>)** \\- a pragmatic introduction to applying [DDD principles](<a href=\"https://martinfowler.com/bliki/DomainDrivenDesign.html\" class=\"linkified\">https://martinfowler.com/bliki/DomainDrivenDesign.html</a>) to new and existing Rails projects<br/>20:15 - More mingling</p> <p>Slack</p> <p>If you like to join us on Slack please join <a href=\"https://bathruby-for-slackers.herokuapp.com\" class=\"linkified\">https://bathruby-for-slackers.herokuapp.com</a> and find us in the #south-west-ruby channel</p> ",
     "end_time": 1657137600,
     "link": "https://www.meetup.com/south-west-ruby/events/286689720/",
-    "location": null,
+    "location": {
+        "address": "Saint Philips Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.456443786621094,
+        "longitude": -2.5711450576782227,
+        "name": "Newtown Park Brewing Co"
+    },
     "org": "south-west-ruby",
     "start_time": 1657126800,
     "title": "South West Ruby #38 In Person"

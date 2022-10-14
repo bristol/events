@@ -3,7 +3,14 @@
     "description": "<p>Agenda:<br/>\u2022 6:00 pm - Social<br/>\u2022 6:30 pm - OWASP update<br/>\u2022 6:35 pm - Presentation 1: Damage Limitation, Craig Francis<br/>\u2022 7:30 pm - Presentation 2: Deep dive into Kerberos authentication, Sadi Zane @BSI group.</p> <p>Presentation 1: Damage Limitation</p> <p>Description: Assuming your website contains a security vulnerability somewhere; maybe it\u2019s XSS, SQL injection, the ability for the attacker to upload malicious content to your images folder, etc. It\u2019s easy to make a mistake, so let\u2019s look at additional layers of defence.</p> <p>Bio: I've built quite a few websites over the last 20-something years; where I focus on Security, Accessibility, and Performance.</p> <p>Presentation 2: Deep dive into kerberos authentication, delegations, combining windows NTLM relay to compromise/execute code on joined domain servers</p> <p>Abstract: Deep dive into Kerberos authentication, delegations, combining windows NTLM relay, capture encrypted machine account credentials relay to domain controller and remote code execution on domain joined servers. The attack demonstrate stealth post exploitation techniques, issue and reuse the machine accounts TGT tickets and impersonate a higher privilege user e.g. administrator Abusing the S4U2SELF and S4U2Proxy Kerberos delegation concept.</p> <p>Bio: Sadi Zane - Senior Security Consultant @BSI group. OSCP/Infrastructure Check Team Leader - Red Teamer, Penetration Tester. I am passionate about ethical hacking, conduct red team engagements, insider threat simulations attacks helping clients securing their systems from advanced threat actors.</p> ",
     "end_time": 1582839000,
     "link": "https://www.meetup.com/owasp-bristol/events/268319030/",
-    "location": null,
+    "location": {
+        "address": "Floor 4, Broad Quay House, Broad Quay Bristol  BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45170974731445,
+        "longitude": -2.596795082092285,
+        "name": "Forgerock"
+    },
     "org": "OWASP-Bristol",
     "start_time": 1582826400,
     "title": "Damage Limitation & Kerberos authentication"

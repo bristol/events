@@ -3,7 +3,14 @@
     "description": "<p>This month we'll be presenting an evening of lightning talks. If you have been to the ACCU Conference you'll be familiar with the format: a series of short talks from various speakers. The full line-up is:</p> <p>\u2022 Dominic Robinson - <i>A test driven specification with TLA+</i></p> <p>\u2022 Jon Chesterfield - <i>Waitless</i></p> <p>\u2022 Dan Towner - <i>H0w error cocrektion gEts yoWr mesXage acro$s </i></p> <p>\u2022 Rob Desbois - <i>Using range objects for cleaner, safer code</i></p> <p>\u2022 Thomas Guest - <i>Two timing algorithms</i></p> <p>\u2022 Chris Simons - <i>Keeping Fit: Improving Refactoring</i></p> <p>\u2022 Emyr Williams - <i>Unit Tests &amp; Threads, a 10 minute preview</i></p> <p>\u2022 Ben Hanson<i> - Why is regex considered the pinnacle of text processing?</i></p> <p>Each talk will be ten minutes or less. Come along and enjoy a varied, fascinating evening!</p> ",
     "end_time": 1432238400,
     "link": "https://www.meetup.com/accu-bristol/events/222053759/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1432231200,
     "title": "Lightning Talks"

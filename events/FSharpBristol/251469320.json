@@ -3,7 +3,14 @@
     "description": "<p>For our next F# |&gt; Bristol session Corwin will be running a beginner workshop introducing us to machine learning concepts.</p> <p>If you're interested in learning a bit of data science, playing with Azure Notebooks or having a crack at F# then this one's for you.</p> <p>Pizza and drinks will be provided.</p> <p>Titanic Machine Learning in Azure Notebooks Workshop<br/>-----------------------------------------------------------------------------<br/>by Corwin Pierce-Butler</p> <p>Bring a laptop! You won't need anything installed (except perhaps a web browser). This hands on workshop is an hour long introduction to FSharp, Notebooks and Random Forests as we walk through the titanic dataset to predict who will live and who will suffer a horrible submarine death. Will you sink or will you swim at this -hopefully quite straight forward- challenge?</p> ",
     "end_time": 1530039600,
     "link": "https://www.meetup.com/fsharpbristol/events/251469320/",
-    "location": null,
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
     "org": "FSharpBristol",
     "start_time": 1530032400,
     "title": "Titanic Machine Learning in Azure Notebooks Workshop"

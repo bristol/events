@@ -3,7 +3,14 @@
     "description": "<p>UPSTAIRS IN THE THE SPORTSMAN<br/>Offers available on drinks and pizza!!</p> <p>The Government is planning to gut basic privacy laws that prevent discrimination. From workers &amp; children to NHS patients &amp; migrants. GDPR protects us all.</p> <p>We will be discussing the implications of the government's plans and highlighting the current consultation on the scrapping of GDPR. See Less</p> ",
     "end_time": 1636405200,
     "link": "https://www.meetup.com/org-bristol/events/281568737/",
-    "location": null,
+    "location": {
+        "address": "Nevil Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.479190826416016,
+        "longitude": -2.5869460105895996,
+        "name": "The Sportsman"
+    },
     "org": "org",
     "start_time": 1636398000,
     "title": "Stop Data Discrimination (GDPR consultation event)"

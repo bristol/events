@@ -3,7 +3,14 @@
     "description": "<p>Talks on security and deployment!</p> <p>-\u00a0<b>You\u2019ll Never Believe How Easy Deployments Can Really Be\u2026</b><br/>\u00a0 \u00a0<a href=\"http://www.meetup.com/php-sw/members/99787762\">James Titcumb</a>, founder of PHP Hampshire, Zend Certified Engineer and Development Manager at <a href=\"http://www.protected.co.uk\">Protected.co.uk</a></p> <p>The deadline is looming: one week until we release the new version. Some features aren\u2019t going to make the cut, but the boss really wants to make sure these critical bugs are fixed. You can\u2019t wait for the release cycle to be over so you can relax.</p> <p>But what if I told you it didn\u2019t have to be that way? What if I could show you how to create a world where there is no release cycle? A world where weekend deployments are a rarity, not the norm?! In this talk we will cover the steps we took to achieve the coding utopia of releasing a feature as soon as it\u2019s ready - many times per day. You\u2019ll find out that by implementing a continuous deployment flow, you can empower your developers to take ownership and become more productive.</p> <p>-\u00a0<b>Security in the face of adversity</b>\u00a0<br/>\u00a0 \u00a0<a href=\"https://twitter.com/lowlysysadm1n\">Dave Tibbs</a>, Systems Administrator\u00a0at\u00a0<a href=\"http://www.brightpearl.com\">Brightpearl</a>\u00a0US, briefly in the UK!</p> <p>--</p> <p><a href=\"http://www.brightpearl.com\">Brightpearl</a>\u00a0have kindly offered to host the evening, providing food, beers and their office as the venue. Don't forget to check them out- and\u00a0<a href=\"http://www.brightpearl.com/company/careers\">if you're looking, they are hiring</a>.</p> <p>Afterwards, we'll head to the pub, probably the\u00a0<a href=\"http://volunteertavern.co.uk/real-ales\">Volunteer Tavern</a>!</p> <p>Also, do check out our\u00a0<a href=\"http://phpsw.org.uk\">website</a>, as well as\u00a0<a href=\"http://phpsw.org.uk/sponsors\">our sponsors</a>;\u00a0<a href=\"http://www.ents24.com\">Ents24</a>,\u00a0<a href=\"http://tech.just-eat.com\">Just Eat</a>\u00a0and\u00a0<a href=\"http://www.redrockconsulting.co.uk\">Redrock</a>\u00a0without whom our events would not be possible.</p> ",
     "end_time": 1415829600,
     "link": "https://www.meetup.com/php-sw/events/215366502/",
-    "location": null,
+    "location": {
+        "address": "New Bond House, Bond Street, Bristol BS2 9AG",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.460060119628906,
+        "longitude": -2.584520101547241,
+        "name": "Brightpearl"
+    },
     "org": "phpsw",
     "start_time": 1415818800,
     "title": "Security & deployment"

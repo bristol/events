@@ -3,7 +3,14 @@
     "description": "<p>This is session designed to help anyone looking for feedback on their presentation skills in front of a friendly audience. All topics welcome, and we will be limiting them to 15-20 mintues each, depending on the number of submissions we have.</p> ",
     "end_time": 1404849600,
     "link": "https://www.meetup.com/agile-bath-bristol/events/156076402/",
-    "location": null,
+    "location": {
+        "address": "Prudential Buildings, 11-19 Wine St., Bristol",
+        "city": "BS1 2PH",
+        "country": "gb",
+        "latitude": 51.4552116394043,
+        "longitude": -2.5922799110412598,
+        "name": "Nokia Bristol"
+    },
     "org": "agile",
     "start_time": 1404842400,
     "title": "Presentation Practice"

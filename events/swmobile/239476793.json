@@ -3,7 +3,14 @@
     "description": "<p>Welcome to Junes SWmobile meetup \u00a0\"What's new in mobile\" hosted at Just Eat.\u00a0As usual please only RSVP if you are certain you can make it and update accordingly. Thanks</p> <p>Thanks to Just Eat for providing the venue and catering for the evening and to our group sponsors for providing funds to cover the 1st round at the pub afterwards.</p> <p><b>Talk 1:\u00a0</b><b>Firebase: 2017 update and the habits of highly successful developers</b></p> <p>We'll be kicking off with a talk from Laurence Moroney who's a\u00a0Firebase Developer Advocate at Google taking us through what's new in Firebase for 2017.</p> <p><b>Talk 2: What's new in iOS</b></p> <p>SWmobile's very own James (@frosty) Frost will be giving us an update on what's new, interesting, fun and impactful for all things iOS and WWDC.</p> <p><b><br/></b></p> <p><b>Talk 3:\u00a0</b><b>Update from Google IO 2017</b></p> <p>Dave.T, Dave.J and Scott were lucky enough to attend Google IO this year and will be sharing their key takeaways, \u00a0behind the scenes info and which talks out of the 100 or so recorded that are worth a watch.</p> <p><b>Timetable:\u00a0</b></p> <p>\u2022\u00a018:00-18:15 - organisers/volunteers arrive</p> <p>\u2022\u00a018:30 doors open / pizza arrive</p> <p>\u2022\u00a019:00 Intro by SWmobile organiser (thank sponsors, venue admin i.e toilets, fire exits)</p> <p>\u2022\u00a019:05 Talk one</p> <p>\u2022 19:[masked]min comfort break</p> <p>\u2022\u00a019:50 Talk two</p> <p>\u2022 20:10\u00a05min comfort break</p> <p>\u2022 20:15 Talk three</p> <p>\u2022\u00a020:35 finish up and head to the pub</p> <p>\u2022\u00a020:45 Volunteers leave after helping tidy up</p> ",
     "end_time": 1497902400,
     "link": "https://www.meetup.com/swmobile/events/239476793/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
     "org": "swmobile",
     "start_time": 1497893400,
     "title": "Whats New in Mobile"

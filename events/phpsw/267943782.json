@@ -3,7 +3,14 @@
     "description": "<p>In February join us at DeskLodge for talks about Autowiring and how to create neural networks in PHP.</p> <p>This month's talks are:</p> <p>- Autowiring<br/>Mike Oram</p> <p>When learning modern PHP frameworks, the term autowiring crops up quite a bit. In this talk we will explore what autowiring is and how it is used. We will look at the mechanics of a framework such as DI, Factories and DIC before looking at how autowiring fits in and how it really works.</p> <p>- Introduction to neural networks with php<br/>Michael Bush</p> <p>Join me in a step by step walkthrough as I scratch the surface and build a neural network in php. This talk is for people who are unfamiliar with neural networks and want to learn more, developers who have developed a neural network in the past might find this talk very basic.</p> <p>Afterwards we'll head to the pub, probably the Volunteer Tavern (<a href=\"http://volunteertavern.co.uk/real-ales\" class=\"linkified\">http://volunteertavern.co.uk/real-ales</a>)!</p> <p>--<br/>Your first time coming to PHPSW? Welcome!</p> <p>Here's how the evening tends to run:<br/>* Feel free to turn up from 6:30pm.<br/>* We'll have pizza and a selection of soft drinks &amp; alcoholic drinks available from about 6:45pm, all free of charge thanks to our sponsors. It's a great chance to speak to people (we're a friendly bunch!) and do a bit of networking. Just speak to an organiser if you'd like an introduction to people, or just dive in and say \"hello!\".<br/>* At 7pm, we'll do a quick welcome talk and some community announcements<br/>* At ~7:10pm we'll have our first talk<br/>* After our first talk, there's a small break whilst we switch over speakers<br/>* At ~8:10pm We have our second talk<br/>* We finish at ~9pm. We always go for a drink somewhere afterwards to discuss the talks and anything else that takes your fancy.</p> <p>--<br/>As always, a big thanks to our regular meetup sponsors Ents24 (<a href=\"http://www.ents24.com/\" class=\"linkified\">http://www.ents24.com/</a>), Brightpearl (<a href=\"http://www.brightpearl.com/\" class=\"linkified\">http://www.brightpearl.com/</a>), Space 48 (<a href=\"https://www.space48.com/\" class=\"linkified\">https://www.space48.com/</a>) &amp; OneSub (<a href=\"https://onesub.io/\" class=\"linkified\">https://onesub.io/</a>) without whom we wouldn't be able to put on our meetups.</p> ",
     "end_time": 1581540300,
     "link": "https://www.meetup.com/php-sw/events/267943782/",
-    "location": null,
+    "location": {
+        "address": "Bristol",
+        "city": "BS2 0BY",
+        "country": "gb",
+        "latitude": 51.453651428222656,
+        "longitude": -2.5834341049194336,
+        "name": "Desk Lodge, 5th Floor, 1 Temple Way"
+    },
     "org": "phpsw",
     "start_time": 1581533100,
     "title": "Autowiring and Neural Networks"

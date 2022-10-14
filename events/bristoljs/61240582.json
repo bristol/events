@@ -3,7 +3,14 @@
     "description": "<p>An introduction to meteorjs -\u00a0 meteor.com</p> ",
     "end_time": 1337203800,
     "link": "https://www.meetup.com/bristoljs/events/61240582/",
-    "location": null,
+    "location": {
+        "address": "The Blue Room, RALEIGH ROAD, BRISTOL BS3 1TF",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.442359924316406,
+        "longitude": -2.6134870052337646,
+        "name": "The Tobacco Factory"
+    },
     "org": "bristoljs",
     "start_time": 1337193000,
     "title": "An introduction to meteorjs - meteor.com"

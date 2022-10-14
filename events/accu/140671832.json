@@ -3,7 +3,14 @@
     "description": "<p>Join us in November for a set of Lightning Talks on a wide range of topics:</p> <p>\u00a0 \u00a0 \u2022\u00a0Tom Guest - Let's Talk About Sets\u00a0<br/>\u00a0 \u00a0 \u2022\u00a0Dan Towner - The Inner Secrets of On-Chip Networks\u00a0<br/>\u00a0 \u00a0 \u2022\u00a0Nigel Lester - Retrospective Time Line Exercise<br/>\u00a0 \u00a0 \u2022\u00a0Jim Hague - Getting Started with IPv6<br/>\u00a0 \u00a0 \u2022\u00a0Thom Leggett - Probabilistic Forecasting for Software Engineering</p> <p>Each speaker will be talking for ten minutes, with five minutes for questions. It promises to be a varied and entertaining evening - please come along and join us. All are welcome!</p> ",
     "end_time": 1384984800,
     "link": "https://www.meetup.com/accu-bristol/events/140671832/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1384974000,
     "title": "Meeting #11: Lightning Talks"

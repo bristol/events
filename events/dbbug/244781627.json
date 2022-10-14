@@ -3,7 +3,14 @@
     "description": "<p>Which? has volunteered to host a talks session at its 4th floor office at One Castle Park (supplying the obligatory beer and pizza)</p> <p>The schedule of talks:</p> <p><a href=\"https://docs.google.com/presentation/d/16IhDidkB0S78VKNgNLcETJ74c5HMVDKht53M_BPV3LE/edit?usp=sharing\">Using Django as a stop gap network automation solution</a> - Ed Crewe</p> <p><a href=\"https://docs.google.com/presentation/d/1Htt4rFh9IUsBC8G4StOj-iZsX7q7iRdQxS7mfxB46IU/edit?usp=sharing\">AIML: What is AI?</a> - Chloe Parkes</p> <p>Integrating ReactJS with Django \u00a0- \u00a0Murat Sert</p> <p>Creating and publishing your first python library - Dale Potter</p> ",
     "end_time": 1511992800,
     "link": "https://www.meetup.com/python-dbbug/events/244781627/",
-    "location": null,
+    "location": {
+        "address": "One Castle Park",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.455318450927734,
+        "longitude": -2.5843780040740967,
+        "name": "Which?"
+    },
     "org": "dbbug",
     "start_time": 1511982000,
     "title": "Talks session at Which? Office - One Castle Park"

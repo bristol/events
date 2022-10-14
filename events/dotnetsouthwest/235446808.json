@@ -3,7 +3,14 @@
     "description": "<p><b>Feature Talk:\u00a0You keep using the word agile, I do not think it means what you think it means by\u00a0Nathan Gloyn.</b></p> <p>More and more you hear of people that have being working in an agile team writing blog posts like</p> <p>\"<i>Scrum should die in a fire</i>\", or people on twitter complaining about \"<i>yet another agile meeting that\u00a0</i><i>goes on for hours</i>\".</p> <p>The first thing that comes to mind when I read these posts/tweets is that the person wasn't working\u00a0in an agile manner in the first place.</p> <p>In this presentation I'm going to look at what people frequently think agile is, explain why it\u2019s not\u00a0agile, and then move on to discuss what agile is covering principles and practices.</p> <p>I can't promise I'll provide enough information to allow you to fix agile where you work but hopefully\u00a0you'll have a better idea of what agile looks like which in turn could help you improve your agile\u00a0implementation.</p> <p><b>About Nathan Gloyn</b>:</p> <p>Independent software consultant and agile coach, Nathan is passionate about development and a firm believer in agile principles. In his day job he is contractor helping clients to build and deliver working software.</p> <p>Nathan has successfully boot strapped agile teams in various companies and has given presentations on technology and agile at a number of events.</p> <p><b>Lightning Talk:\u00a0An intro to .NET Standard by Start Lang</b></p> <p>There are exciting changes happening to the .NET platform; .NET Core, a new project system, and .NET Standard. We will take a brief look at what .NET Standard, what it is, how it works, why you might care, and what's to come</p> <p><b>About Stuart Lang:</b></p> <p>Stuart has worked as a .NET developer for 6 years in the Southwest of England. He is currently working as a Senior Software Engineer at Just Eat. Stuart is passionate about good software practices, sharing knowledge within teams and developer communities, F# and all things .NET, web technologies, Modern JavaScript &amp; Typescript.</p> ",
     "end_time": 1480455000,
     "link": "https://www.meetup.com/dotnetsouthwest/events/235446808/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1480444200,
     "title": "You keep using the word agile, I do not think it means what you think it means"

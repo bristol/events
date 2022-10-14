@@ -3,7 +3,14 @@
     "description": "<p>\ud83c\udfa4 Pulumi: Cloud Infrastructure with C# and F#<br/>Modern cloud platforms offer amazing capabilities for application developers. However, cloud services are hard to manage without employing Infrastructure as Code tools for automation.</p> <p>Traditional tools like CloudFormation, ARM templates, and Terraform use text-based formats, which tend to be tedious, repetitive, and cumbersome to reuse.</p> <p>What if instead of configuration files, you could use your favourite programming languages like C# and F#? In this talk, Mikhail will introduce you to Pulumi, which uses actual code to manage infrastructure! See how you can bring your developer tools like code completion, types, components, and abstractions to cloud infrastructure definition.</p> <p>\ud83d\udc69\u200d\ud83d\udcbb About Mikhail:<br/>Mikhail Shilkov is a software developer at Pulumi, enabling developers and operators to work better together. Mikhail is a Microsoft Azure MVP, a Russian expat living in the Netherlands. He is passionate about the serverless mindset, leveraging the full variety of managed cloud services, and handling cloud infrastructure as code.</p> <p>\u231a Come along from 18:30 - we'll aim to start the talk at 19:00</p> ",
     "end_time": 1581539400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/268110936/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay",
+        "city": "Bristol City",
+        "country": "gb",
+        "latitude": 51.4517936706543,
+        "longitude": -2.596950054168701,
+        "name": "Just Eat"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1581532200,
     "title": "Pulumi: Cloud Infrastructure with C# and F# by Mikhail Shilkov"

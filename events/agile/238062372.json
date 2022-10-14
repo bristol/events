@@ -3,7 +3,14 @@
     "description": "<p>Game Of Sprints</p> <p>If software development is a co-operative game, as Alistair Cockburn observed, then what kind of game is Scrum? Lots of people are playing it \u2014 or say they are \u2014 but there seems to be some disagreement about what the point of the game is, how to play it and even, in many cases, what the rules are. This talk looks at Scrum and other agile approaches through the lens of nomic games, hypothesis-driven development and fun.</p> <p>Kevlin is an independent consultant, speaker, writer and trainer. His development interests are in patterns, programming, practice and process.</p> <p>He has been a columnist for various magazines and websites. He is co-author of \u2018A Pattern Language for Distributed Computing\u2019 and \u2018On Patterns and Pattern Languages\u2019, 2 volumes in the \u2018Pattern-Oriented Software Architecture\u2019 series, and editor of \u201897 Things Every Programmer Should Know\u2019.</p> <p>You'll find him as <a href=\"https://twitter.com/KevlinHenney\">@KevlinHenney</a>\u00a0and in his <a href=\"https://about.me/kevlin\">own space</a>.</p> ",
     "end_time": 1490133600,
     "link": "https://www.meetup.com/agile-bath-bristol/events/238062372/",
-    "location": null,
+    "location": {
+        "address": "10 Templeback, Bristol, ",
+        "city": "BS1 6FL",
+        "country": "gb",
+        "latitude": 51.45328140258789,
+        "longitude": -2.586289882659912,
+        "name": "ADP"
+    },
     "org": "agile",
     "start_time": 1490122800,
     "title": "Game of Sprints - Kevlin Henney"

@@ -3,7 +3,14 @@
     "description": "<p>The tough decision has been made to postpone tonight's meetup to reduce the risk of spreading COVID-19 across different networks.<br/>We are sorry for any inconvenience the short notice causes.</p> ",
     "end_time": 1583874000,
     "link": "https://www.meetup.com/experttalks-bristol/events/268677175/",
-    "location": null,
+    "location": {
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44868850708008,
+        "longitude": -2.5871479511260986,
+        "name": "DeskLodge House"
+    },
     "org": "experttalks",
     "start_time": 1583863200,
     "title": "Postponed: Joint meeting with the Agile Bath and Bristol Meetup"

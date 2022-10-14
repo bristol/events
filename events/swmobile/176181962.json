@@ -3,7 +3,14 @@
     "description": "<p>For our next meetup we'll be discussing all things client-side.</p> <p>Many of our past meetups have been supplier-focused. That is, we've looked at how we can make better apps or deliver a better service to our clients/employers.</p> <p>This time we'll be flipping things around and looking at how to get the best from people when you're the client/employer.</p> <p>We're proud to announce that this event will be sponsored by Elance who'll be providing a bar tab at the Colston Yard for after the event.</p> <p><img src=\"http://photos1.meetupstatic.com/photos/event/1/5/3/8/600_360365432.jpeg\" /></p> <p><b>Agenda:</b></p> <p>19:00 Arrive</p> <p>19:10 Welcome and introduction</p> <p>19:15 James\u00a0Barlow from Elance - The continuum of engagement: \u00a0how to hire the right person for the right job and, how to work out what the right job is in the first place</p> <p>19:45 Abby Frear - Secrets from an Ex-Recruiter</p> <p>20:00-20:15 Wrap-up and head to the Colston Yard for networking and drinks</p> ",
     "end_time": 1400619600,
     "link": "https://www.meetup.com/swmobile/events/176181962/",
-    "location": null,
+    "location": {
+        "address": "25 Hobb's Ln",
+        "city": "Bristol BS1",
+        "country": "gb",
+        "latitude": 51.45347213745117,
+        "longitude": -2.5996859073638916,
+        "name": "Cloudant"
+    },
     "org": "swmobile",
     "start_time": 1400608800,
     "title": "Client-side Operation"

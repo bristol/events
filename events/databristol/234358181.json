@@ -3,7 +3,14 @@
     "description": "<p>We have managed to line up a couple of great speakers for our first evening session that is being held at the Just Eat offices in central Bristol - with <b>free pizza</b> being provided.</p> <p>This includes a short break/networking opportunity between the talks to get to know your peers.\u00a0 The details of the two talks are as follows: -</p> <p><b>Stephanie Locke</b></p> <p><b>Getting started with R Service in SQL Server 2016</b> <i>(Advanced Analytics/Internet of Things)</i></p> <p><b>Richard Douglas</b></p> <p><b>Natural Born Killers - Performance Issues to Avoid </b><i>(Database Administrator/Database Developer)</i></p> <p><i>* the SQL-Bristol tracks/topics areas are shown in brackets</i></p> <p>The event starts at 6pm and finishes at 9pm, you need to have registered on Meetup.com so that we can provide the venue security with details of who is attending.\u00a0 This event is free and open to all!</p> ",
     "end_time": 1478120400,
     "link": "https://www.meetup.com/databristol/events/234358181/",
-    "location": null,
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
     "org": "databristol",
     "start_time": 1478109600,
     "title": "SQL-Bristol Evening Session (November 2016)"

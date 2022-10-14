@@ -3,7 +3,14 @@
     "description": "<p>On Friday 24th of April the University of Bristol are playing host to the Wild Wild Bristol West hustings. Bristol West is one of the most contested seats in Bristol, and it's sure to be an exciting Q&amp;A with the prospective Bristol West MPs.</p> <p>MPs attending include:<br/>o <a href=\"https://meetyournextmp.com/human/615-claire-hiscott\">Claire Hiscott</a> (Cons)<br/>o <a href=\"https://meetyournextmp.com/human/1613-darren-hall\">Darren Hall</a> (Green)<br/>o <a href=\"https://meetyournextmp.com/human/91-stephen-williams\">Stephen Williams</a> (Lib Dem)<br/>o <a href=\"https://meetyournextmp.com/human/721-thangam-debbonaire\">Thangam Debbonaire</a> (Labour)</p> <p>You can find out more about the Bristol West prospective MPs here:<br/><a href=\"https://meetyournextmp.com/event/646-wild-wild-bristol-west-your-future\"><a href=\"https://meetyournextmp.com/event/646-wild-wild-bristol-west-your-future\" class=\"linkified\">https://meetyournextmp.com/event/646-wild-wild-bristol-west-your-future</a></a></p> <p>The event is free but, to allocate spaces fairly, an EventBrite ticketing system has been setup - grab yours quickly!<br/><a href=\"https://www.eventbrite.co.uk/e/the-wild-wild-bristol-west-your-future-hustings-tickets-16501759206\"><a href=\"https://www.eventbrite.co.uk/e/the-wild-wild-bristol-west-your-future-hustings-tickets-16501759206\" class=\"linkified\">https://www.eventbrite.co.uk/e/the-wild-wild-bristol-west-your-future-hustings-tickets-16501759206</a></a></p> <p>This event is supported by ORG Bristol as part of the Greater Bristol Alliance who've organised it. The Greater Bristol Alliance is a coalition of local campaign groups. For more info on the Greater Bristol Alliance see:\u00a0<a href=\"https://greaterbristolalliance.wordpress.com/2015/03/25/public-meeting-9th-april-how-is-austerity-the-answer-and-is-ttip-the-last-straw/\"><a href=\"https://greaterbristolalliance.wordpress.com\" class=\"linkified\">https://greaterbristolalliance.wordpress.com</a></a></p> <p>I'll be attending - look out for me in my ORG t-shirt. We can all meet up afterwards for a debrief either in the stalls room or a suitable watering hole.</p> <p>Cheers,<br/>Ed, ORG Bristol co-organiser</p> <p><a href=\"https://www.eventbrite.co.uk/e/the-wild-wild-bristol-west-your-future-hustings-tickets-16501759206\"><br/></a></p> ",
     "end_time": 1429909200,
     "link": "https://www.meetup.com/org-bristol/events/221894333/",
-    "location": null,
+    "location": {
+        "address": "University of Bristol Park Street Bristol BS8 1RJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45649719238281,
+        "longitude": -2.6044230461120605,
+        "name": "Wills memorial building"
+    },
     "org": "org",
     "start_time": 1429898400,
     "title": "The Wild Wild Bristol West Hustings - Quiz your future MP on digital rights"

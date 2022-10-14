@@ -3,7 +3,14 @@
     "description": "<p>Schedule:</p> <p>18:00 - 18:30 - Networking over beer &amp; pizza<br/>18:30 - 19:45 - Exploring the Testing Landscape in F#</p> <p>-- Exploring the Testing Landscape in F# - Ian Russell --</p> <p>The existence of features such immutability by default, the elimination of nulls and a rich type system make many of the the tests we write in C# redundant as they are prevented by the language itself. This allows us to concentrate on testing things of real business value. In this session you will learn about the rich variety of testing tools and strategies we have in F# and when to use them.</p> <p>About Ian:<br/>Experienced developer with over 20 years on the Microsoft stack from VB6, through .Net from 1.1 and laterly in F#. Active in the .Net community for over 10 years from attending alt.net conferences and NxtGenUG, through speaking at user groups and conferences around the UK to running CraftyCoders and Warwickshire.Net user groups. I have been presenting sessions for 10 years and on functional programming for over 5 years to whoever will allow the time to listen and learn. I still consider myself to be an alt.net developer.</p> ",
     "end_time": 1523386800,
     "link": "https://www.meetup.com/fsharpbristol/events/248600670/",
-    "location": null,
+    "location": {
+        "address": "2nd Floor  Broad Quay House, Prince Street, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUST EAT"
+    },
     "org": "FSharpBristol",
     "start_time": 1523379600,
     "title": "Exploring the Testing Landscape in F# - Ian Russell"

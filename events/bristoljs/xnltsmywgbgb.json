@@ -3,7 +3,14 @@
     "description": "<p>A hack night for people interested in using/discussing functional JavaScript.</p> <p>Functional programmers of all levels are welcome - as long as you can write JavaScript there'll be plenty to talk about.</p> <p><b>Please note:</b> space is very limited, so please only RSVP \"yes\" if you are sure you can come. RSVPs will be stopped one day before the event.</p> <p><a href=\"https://communitycodeofconduct.com\">Code of Conduct</a></p> ",
     "end_time": 1491336000,
     "link": "https://www.meetup.com/bristoljs/events/xnltsmywgbgb/",
-    "location": null,
+    "location": {
+        "address": "54-56 Park St, BS1 5JN",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454769134521484,
+        "longitude": -2.6026558876037598,
+        "name": "Deckchair"
+    },
     "org": "bristoljs",
     "start_time": 1491325200,
     "title": "Sub Group: Hackamorphism"

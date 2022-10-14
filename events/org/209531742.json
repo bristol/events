@@ -3,7 +3,14 @@
     "description": "<p>Dear Netizens,</p> <p>Join us for a screening of the film \"The Internet\u2019s Own Boy: The Story of Aaron Swartz\" at The People's Republic of Stokes Croft new cinema space on Wednesday the 29th October.</p> <p>There will be no entry fee, but donations are very welcome to allow the PRSC to continue hosting such events.</p> <p>The film covers the life of Aaron Swartz, a gifted computer scientist and prolific digital rights activist who tragically committed suicide at the young age of 26. It is understood that Aaron took his own life due to the stress of facing a cumulative maximum penalty of $1 million in fines plus 35 years in prison for downloading large volumes of data from MIT's JSTOR service.</p> <p>Cheers,<br/>Ed</p> <p>Trailer:<br/><a href=\"https://www.youtube.com/watch?v=RvsxnOg0bJY\"><a href=\"https://www.youtube.com/watch?v=RvsxnOg0bJY\" class=\"embedded\">https://www.youtube.com/watch?v=RvsxnOg0bJY</a></a></p> <p>More info:</p> <p><a href=\"https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy:_The_Story_of_Aaron_Swartz\"><a href=\"https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy:_The_Story_of_Aaron_Swartz\" class=\"linkified\">https://en.wikipedia.org/wiki/The_Internet%27s_Own_Boy:_The_Story_of_Aaron_Swartz</a><br/><a href=\"https://en.wikipedia.org/wiki/Aaron_Swartz\" class=\"linkified\">https://en.wikipedia.org/wiki/Aaron_Swartz</a><br/></a></p> ",
     "end_time": 1414616400,
     "link": "https://www.meetup.com/org-bristol/events/209531742/",
-    "location": null,
+    "location": {
+        "address": "35 Jamaica Street, Stokes Croft. BS2 8JP",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.46265411376953,
+        "longitude": -2.5906970500946045,
+        "name": "The People's Republic of Stokes Croft"
+    },
     "org": "org",
     "start_time": 1414609200,
     "title": "Film night: \"The Internet\u2019s Own Boy: The Story of Aaron Swartz\""

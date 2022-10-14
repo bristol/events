@@ -3,7 +3,14 @@
     "description": "<p>It's been suggested by more than one of you beer guzzlers ( and I wonder why -\u00a0<a href=\"http://www.mid-day.com/relationships/2012/jun/250612-Beer-guzzlers-likelier-to-have-sex-on-first-date.htm\" class=\"linkified\">http://www.mid-day.com/relationships/2012/jun/250612-Beer-guzzlers-likelier-to-have-sex-on-first-date.htm</a> ) that the next meetup should be a social.</p> <p>\u00a0</p> <p>So a swift return to The Tobacco Factory, which incidentally is the closest bar to both Rick and I.</p> <p>\u00a0</p> <p>I've put down Wed 12th @ 8pm - hope it's ok.</p> <p>\u00a0</p> <p>Southville JavaScript and T25 Owners club.</p> ",
     "end_time": 1347487200,
     "link": "https://www.meetup.com/bristoljs/events/79887522/",
-    "location": null,
+    "location": {
+        "address": "The Bar, Raleigh Road, BRISTOL",
+        "city": "BS3 1TF",
+        "country": "gb",
+        "latitude": 51.44279098510742,
+        "longitude": -2.612407922744751,
+        "name": "The Tobacco Factory"
+    },
     "org": "bristoljs",
     "start_time": 1347476400,
     "title": "Pub / Social"

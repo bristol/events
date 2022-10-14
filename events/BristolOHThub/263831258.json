@@ -3,7 +3,14 @@
     "description": "<p>PLEASE also sign up here :O) <a href=\"http://bit.ly/OHTBristol-IdeaJam19\" class=\"linkified\">http://bit.ly/OHTBristol-IdeaJam19</a><br/>This is our main event portal, so if you don't see many people signed up on meetup it's because they're elsewhere!<br/>-----<br/>One HealthTech Bristol\u2019s friendly and accessible events feature inspiring speakers who share the best of health tech/digital health innovation in the Bristol area. Since early 2018 we\u2019ve dived deep into Robotics, AR/VR and Neuromodulation; learned from health tech start-ups; offered support through speed mentoring and wellness workshops; and got social with local groups with similar aims.</p> <p>It feels like a good time to hear from our community members and anyone thinking about joining us. So join our Idea Jam and lend your mind to the question of:<br/>How can we build an even more inclusive and vibrant health tech community for Bristol?<br/>* How is the community working for you?<br/>* Where are the gaps/opportunities for topics/communities/sectors etc.<br/>* How can we shake things up with some new ideas?</p> <p>To make your community relevant and inclusive we need a heap of different ideas from people with a range of work and cultural backgrounds. And in true OHT style we want to have fun while we\u2019re thinking \u2026 so we'll be putting on free food &amp; drink, and leaving plenty of time to chat and get to know each other better.</p> <p>------</p> <p>ACCESSIBILITY</p> <p>We\u2019ve been awarded a Fairer Tech grant from doteveryone to make our events more accessible (woop woop!). If for any reason there are barriers to engaging in the community we invite anyone to apply for up to \u00a330 (but ask for more if you need, worth a try) per person per event to cover personal costs to improve this. The money can cover just about anything, including but not limited to child/other care, taxis if you\u2019re not able-bodied, trains if you live out in the countryside, a live captioner, recording of the event or loss of earnings if you have a side job along your studies. If you feel it\u2019s a barrier, we agree too. <a href=\"https://www.onehealthtech.com/accessibiltity-fund\" class=\"linkified\">https://www.onehealthtech.com/accessibiltity-fund</a></p> ",
     "end_time": 1565901000,
     "link": "https://www.meetup.com/bristolohthub/events/263831258/",
-    "location": null,
+    "location": {
+        "address": "168 Whiteladies Road",
+        "city": "Avon",
+        "country": "gb",
+        "latitude": 51.47010040283203,
+        "longitude": -2.6151111125946045,
+        "name": "The Kings Arms"
+    },
     "org": "BristolOHThub",
     "start_time": 1565892000,
     "title": "Idea Jam: Building an even more inclusive and vibrant health tech community"

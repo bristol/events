@@ -3,7 +3,14 @@
     "description": "<p>This month we welcome Eleanor (@unoxymoronic) from the nearby Cardiff Go Meetup with a talk she gave earlier this year at Gophercon UK about Go's role in publishing data at the Office for National Statistics!</p> <p>Thanks to NatWest for kindly hosting us this month.</p> <p>* Please bring a form of ID with you, e.g. a driving license or passport! *</p> <p>Here is the plan with (infeasibly precise) timings.</p> <p>18:15 - Arrive at the RBS Group Building reception for food &amp; chat (BS2 OPT)</p> <p>18:30 - Welcome/Start</p> <p>18:35 - \"go-ns - Go's role in publishing data at the Office for National Statistics\" - Eleanor Deal</p> <p>ONS needed to take obtuse datasets and publish them in a searchable way - so citizens can start to make sense of statistics the affect them. Using Go we've rebuilt how data gets prepared, a pipeline for custom queries and extended our go-ns library - learning more about the practical sides of Go.</p> <p>19:20 - Break</p> <p>19:40 - Lightning talk TBC (we're looking for speakers, please get in touch!)</p> <p>20:00 Head home or continue your conversations at the pub right next door (probably the Knights Templar <a href=\"https://goo.gl/maps/ixN9r7zzRiH2\" class=\"linkified\">https://goo.gl/maps/ixN9r7zzRiH2</a>).</p> ",
     "end_time": 1537902000,
     "link": "https://www.meetup.com/golang-bristol/events/254442867/",
-    "location": null,
+    "location": {
+        "address": "5th floor, RBS building",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45296859741211,
+        "longitude": -2.5835189819335938,
+        "name": "NatWest"
+    },
     "org": "golang",
     "start_time": 1537895700,
     "title": "Go for statistics"

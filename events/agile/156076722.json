@@ -3,7 +3,14 @@
     "description": "<p>We always talk about how important collaboration is, but very few people actually take time to practice it and unleash it's full potential. Improvisational Theatre (or Improv, as it's more affectionately known) requires the actors on stage to collaborate effectively to build a scene, with no pre-written script.\u00a0</p> <p><b>Who is Paul Goddard?</b></p> <p><img src=\"http://photos2.meetupstatic.com/photos/event/5/2/a/a/600_380061162.jpeg\" /></p> <p>As well as being an active Scrum trainer and coach, Paul has studied and practiced improv, and tailored a variety of simple games he plays with agile teams to help illustrate the power of collaboration and its creative benefits. During this session, Paul will share some of those games with us, and will be asking for you to collaborate with him and your fellow practitoners!! These light-hearted games are guaranteed to produce a few silly laughs along the way, so be prepared to jump in and have some fun, and you maybe genuinely surprised at how collaborative and creative you can be with such simple exercises!!</p> ",
     "end_time": 1415739600,
     "link": "https://www.meetup.com/agile-bath-bristol/events/156076722/",
-    "location": null,
+    "location": {
+        "address": "Redcliffe Way",
+        "city": "Bristol, BS1 6NJ",
+        "country": "gb",
+        "latitude": 51.448238372802734,
+        "longitude": -2.5877480506896973,
+        "name": "Doubletree by Hilton"
+    },
     "org": "agile",
     "start_time": 1415732400,
     "title": "Improv with Paul Goddard"

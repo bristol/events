@@ -3,7 +3,14 @@
     "description": "<p>Constraint solvers are tech for declaring what a solution looks like instead of carefully describing how to find one. Widely applicable, conceptually trivial, terribly marketed by computer science.</p> <p>You'll leave this talk with ideas for what you could do with a constraint solver and knowing how to write one. This is language agnostic and likely to be applicable at work.</p> ",
     "end_time": 1563393600,
     "link": "https://www.meetup.com/accu-bristol/events/263090110/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45635223388672,
+        "longitude": -2.5849170684814453,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1563386400,
     "title": "Constraint Solvers - Jon Chesterfield"

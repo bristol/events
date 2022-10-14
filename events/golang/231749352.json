@@ -3,7 +3,14 @@
     "description": "<p>Welcome everybody</p> <p>Let's get together over a drink and get the ball rolling. We are interested in your views about golang and our meetup group. You find us inside or outside the Knights Templar pub depending on the weather; look for the table with a silly penguin in the middle...\u00a0</p> <p>(Note to myself - must check penguin is no football mascot)</p> <p>See you soon</p> <p>Andre</p> ",
     "end_time": 1466022600,
     "link": "https://www.meetup.com/golang-bristol/events/231749352/",
-    "location": null,
+    "location": {
+        "address": "1,The Square, Temple Quay, Bristol, BS1 6DG",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45072937011719,
+        "longitude": -2.5820810794830322,
+        "name": "The Knights Templar"
+    },
     "org": "golang",
     "start_time": 1466011800,
     "title": "Meet and Greet"

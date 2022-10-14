@@ -3,7 +3,14 @@
     "description": "<p>Lightning talks followed by a few beers at the nearest watering hole.</p> <p>Everybody welcome! The group is very open and friendly. Come and chat tech with like minded people, listen to some interesting talks and enjoy some friendly drinks.</p> <p>The event will be held at Potato's offices in central Bristol. They can only accommodate 40 people, so please sign up soon to avoid disappointment.</p> <p>For those interested in giving a 5 minute lightning talk, please add your name and subject matter to the Google sheet here:</p> <p><a href=\"https://docs.google.com/spreadsheets/d/1foOcN44FiPnsKGZNS1hK5s4QIuw14ehHEP1Apc33dPY/edit?usp=sharing\" class=\"linkified\">https://docs.google.com/spreadsheets/d/1foOcN44FiPnsKGZNS1hK5s4QIuw14ehHEP1Apc33dPY/edit?usp=sharing</a></p> <p>I look forward to seeing you all there!</p> ",
     "end_time": 1542324600,
     "link": "https://www.meetup.com/python-dbbug/events/254987916/",
-    "location": null,
+    "location": {
+        "address": "1st Floor St Thomas Court, Thomas Lane Bristol BS1 6JG",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45197677612305,
+        "longitude": -2.589586019515991,
+        "name": "Potato"
+    },
     "org": "dbbug",
     "start_time": 1542306600,
     "title": "Lightning Talks & Social"

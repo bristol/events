@@ -3,7 +3,14 @@
     "description": "<p><b>Schedule:\u00a0</b><br/>6:30-7:00 - Networking &amp; Refreshments\u00a0<br/>7:00-7:15 - Lighting Talk\u00a0<br/>7:15-8:15* - Featured Talk</p> <p><b>Lighting Talk: </b>What's F# all about,\u00a0and how you can get involved by Stuart Lang</p> <p><b>About Stuart:</b><br/>Stuart has worked as a .NET developer for 6 years in the Southwest of England. He is currently working as a Senior Software Engineer at Just Eat. Stuart is passionate about good software practices, sharing knowledge within teams and developer communities, F# and all things .NET, web technologies, Modern JavaScript &amp; Typescript.</p> <p><b>Featured Talk:</b> Getting started with Aurelia by\u00a0Sean Hunter</p> <p>We hear about a new JavaScript framework being created every other day. With the sheer volume of new tools to learn it can be difficult to decide what is worthwhile spending time on, what is a short lived fad, and how the new tools fit into our existing toolset.</p> <p>Over the past year we\u2019ve seen a trend toward creating single page web applications as a collection of modular components. AngularJS was the first framework to really formalise this concept, with ReactJS taking the concept further to really make it a first class citizen. Aurelia provides a convenient set of conventions and tools, making it straight forward to build web applications in this way, while also providing a standard set of plugins for things like routing and validation that save us a lot of time when creating large scale applications.</p> <p>In this session, we\u2019ll take a deep dive into what Aurelia is, where it fits into the SPA framework landscape, and why it might be a useful tool to add to your web development tool-belt.</p> <p>The session will cover the following topics:</p> <p>\u2022 \u00a0Getting started<br/>\u2022 Views and View Models<br/>\u2022 Configuration and Routing<br/>\u2022 Templates and Binding<br/>\u2022 Connecting to a backend data store or web service</p> <p><b>About Sean:<br/></b>I\u2019m a software developer with a passion for learning and sharing what I know with the community. I\u2019ve recently moved to the sunny Worcester after 6 years of web development in Melbourne Australia\u00a0and am working as a software developer with PCA Predict on the Microsoft stack, specialising in all things JavaScript.</p> <p><b>Meeting Sponsors: Just Eat</b></p> <p><b>Don't forget to follow us on Twitter at\u00a0<a href=\"https://twitter.com/dotnetsouthwest\">@dotnetsouthwest</a>\u00a0for news and updates.<br/></b></p> ",
     "end_time": 1466107200,
     "link": "https://www.meetup.com/dotnetsouthwest/events/230763266/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1466098200,
     "title": "Getting started with Aurelia by Sean Hunter"

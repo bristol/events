@@ -3,7 +3,14 @@
     "description": "<p>This will be the last meeting before the main ACCU Conference, and I'm delighted to let you know that Christopher Harpum is giving a talk on Abstractions. So please do sign up, it promises to be an informative talk. After which we shall depart to a pub somewhere, could be Brewdog, could be somewhere else.</p> <p>Synopsis</p> <p>Over time, languages have grown and new programming paradigms have been developed. Accordingly, new abstractions are created to express a programmer\u2019s intent through syntax. However, what is the price we pay for this ease of use?</p> <p>Let's look at some of the fundamental building blocks that span the wide world of programming languages - Using C++ as example, we\u2019ll explore the evolution, missteps, points of contention, and what the future may hold.</p> <p>Bio:<br/>A glutton for punishment, Chris jumped into C++ early in his programming endeavour. Lunch breaks, after school and holidays each became opportunities to reinvent the wheel and learn more about the language.</p> <p>With so many nooks and crannies, finding new and interesting ways to use (and abuse) C++ has become a hobby that he loves to share (whether those unfortunate enough to inquire like it or not).</p> ",
     "end_time": 1522267200,
     "link": "https://www.meetup.com/accu-bristol/events/248666542/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1522260000,
     "title": "Abstractions, an Abstract with Christopher Harpum"

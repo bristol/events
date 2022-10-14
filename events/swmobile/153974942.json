@@ -3,7 +3,14 @@
     "description": "<p>We'll kick off the year with a focus on how to make money form mobile apps. The Engine shed has kindly agreed to let us use the space there so a great chance to check out Bristol's newest tech workspace.\u00a0</p> <p>Speakers:\u00a0</p> <p>\u2022 Welcome and intro - Scott Alexander-Bown</p> <p>\u2022 Nick Sturge\u00a0- Welcome to the EngineShed</p> <p>\u2022\u00a0Rick Chapman - Intro to app monitisation</p> <p>\u2022\u00a0Paul Freeman - sharing some of his personal experiences as an app developer.\u00a0</p> <p>\u2022 Kieran Gutteridge - sharing insights from building mobile apps with\u00a0intohand.com</p> <p>\u2022\u00a0Panel discussion - Chaired by Tim Wicksteed \u00a0</p> <p>As always keen on hear from experiences of what worked? what didn't? we have slots for a speaker and panel slots.\u00a0</p> <p>Special thanks to the EngineShed as venue\u00a0sponsor\u00a0and StartApp our\u00a0Event\u00a0Sponsor who will provider beer and maybe even some nibbles after the talks at the Knights Templar (2 min walk from engine shed).</p> <p>Event Sponsor:\u00a0StartApp</p> <p><a href=\"http://www.startapp.com/\">StartApp</a>\u00a0is a mobile advertising platform. Founded in late 2010, StartApp deals with the two main parts of the mobile industry today: the monetization challenge that application developers face when trying to generate substantial revenue from their free applications, and application distribution \u2013 earning a substantial number of downloads worldwide.</p> <p>We currently partner with 60,000 applications, generating 1 billion SDK downloads. This partnership allows us to offer advertisers over 6 billion monthly ad impressions worldwide.</p> <p>StartApp\u2019s headquarters are in New York, with offices in Israel, China and India.</p> <p>Venue Sponsor:\u00a0EngineShed</p> <p><a href=\"http://www.engine-shed.co.uk/about/\">EngineShed</a>\u00a0A gateway to enterprise for Bristol &amp; Bath</p> ",
     "end_time": 1392237000,
     "link": "https://www.meetup.com/swmobile/events/153974942/",
-    "location": null,
+    "location": {
+        "address": "Temple Meads",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44792938232422,
+        "longitude": -2.583709955215454,
+        "name": " Engine Shed, Station Approach"
+    },
     "org": "swmobile",
     "start_time": 1392231600,
     "title": "How in the heck do I make money from apps?"

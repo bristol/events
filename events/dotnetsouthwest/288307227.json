@@ -3,7 +3,14 @@
     "description": "<p>October brings our Lightning-talks day, where we will have multiple speakers talking for 15 mins at a time about a wide range of awesome topics. This month we're hosted by the fab folk at Huboo Fulfilment in central Bristol, we'd love if you came along for a chat, and to see some talks, have some food and meet the rest of our awesome community.</p> <p>**Ed Pitt -** Tech debt is good' and other heretical opinions.<br/>**Matt Hunt** \\- Azure Vision with Functions for Fun\\.<br/>**Thomas Morris** \\- Umbraco \\- the Friendly\\, Open\\-Source \\.NET CMS<br/>**Carl Sargunar -** Things I learned playing around with Docker and breaking things<br/>**Stuart Lang** \\- An introduction to Playwright \\- reliable end\\-to\\-end testing for modern web apps\\.</p> ",
     "end_time": 1664913600,
     "link": "https://www.meetup.com/dotnetsouthwest/events/288307227/",
-    "location": null,
+    "location": {
+        "address": "41 Corn Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454383850097656,
+        "longitude": -2.594731092453003,
+        "name": "Huboo Fulfilment"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1664904600,
     "title": "Lightning talks night [\ud83c\udfeb In-person]"

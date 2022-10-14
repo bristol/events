@@ -3,7 +3,14 @@
     "description": "<p>We're holding a workshop for interested/concerned citizens who would be willing to lobby their local MP on the Snoopers' Charter. This bill will be going to parliament soon so it's vital to educate our MPs about it.</p> <p>We'll provide talking points and relevant material and we'll practice what to say and how. You can meet other people at this meeting so that you can lobby as part of a group - which is less daunting if it's your first time.</p> <p>(Note: this is to prepare for meeting your MP, who won't actually be at this meeting - that comes later)</p> <p>Agenda</p> <p>\u2022 Why are we lobbying MPs</p> <p>\u2022\u00a0Background</p> <p>\u2022\u00a0What are the main<br/>concerns?</p> <p>\u2022\u00a0What are the positions of<br/>the political parties?</p> <p>\u2022\u00a0Talking to your MP</p> <p>\u2022\u00a0What your MP might say</p> <p>\u2022\u00a0What MPs have said</p> <p>\u2022\u00a0What else can I do?</p> ",
     "end_time": 1444582800,
     "link": "https://www.meetup.com/org-bristol/events/225465626/",
-    "location": null,
+    "location": {
+        "address": " 77 Stokes Croft BS1 3RD",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.46319580078125,
+        "longitude": -2.590100049972534,
+        "name": "Bristol Games Hub"
+    },
     "org": "org",
     "start_time": 1444572000,
     "title": "Let's stop the Snoopers' Charter"

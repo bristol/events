@@ -3,7 +3,14 @@
     "description": "<p>We are delighted to announce that the next Bristol Data Scientists Meetup will take place on the 3rd September.\u00a0</p> <p>The meeting will be an informal event aimed at the promotion of and shared learning around Data Science and will consist of a few short presentations followed by networking time over a drink.</p> <p>Agenda:</p> <p>6.00pm Arrival and drinks</p> <p>6.30pm \u00a0Welcome and Introduction byMatt Aldridge, Mango Solutions</p> <p>6.45pm Presentations</p> <p>\u2022\u00a0Life Under the Lens: Doing Data Science on Real Social Networks - Will Hardman, Elucidata</p> <p>\u2022\u00a0DataKind UK: How Charities are harnessing the Power of Data - Emma Prest, DataKind UK</p> <p>\u2022\u00a0Data mining using Apache Storm - Andrew Carr, Claritize</p> <p>Following the presentations we cordially invite everyone to stay for a chat and a drink.</p> ",
     "end_time": 1441310400,
     "link": "https://www.meetup.com/bristol-data-scientists/events/223989430/",
-    "location": null,
+    "location": {
+        "address": "1 Canon's Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.449302673339844,
+        "longitude": -2.6010661125183105,
+        "name": "The Watershed"
+    },
     "org": "Bristol-Data-Scientists",
     "start_time": 1441299600,
     "title": "Bristol Data Science Meetup"

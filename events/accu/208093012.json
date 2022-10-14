@@ -3,7 +3,14 @@
     "description": "<p>In this talk Jon will review snippets of test code. The snippets all come from coding dojos performed on cyber-dojo (cyber-dojo.org). You will see examples of the Good, the Bad, and the Ugly.</p> <p><i>According to Jon:</i></p> <p>\u201cI have run hundreds of test-driven coding dojos using my cyber-dojo app. I see the same test anti-patterns time after time after time. Do some of your tests exhibit the same same anti-patterns?</p> <p>Come to this talk to see what the most common anti-patterns are. I think you will be surprised. See what they should be, and why.\"</p> <p><b>About our speaker:</b></p> <p>I\u2019m 2E years old (hex). I\u2019ve loved software since I was 10 (dec). I\u2019m a self employed software consultant-trainer-etc specializing in agility, test driven development, and complex-adaptive systems-thinking.</p> <p>I\u2019m the ex ECMA TG2 C# convenor. I\u2019m the current ACCU conference chairman. I\u2019ve had some C# books published. I\u2019m married to the beautiful Natalie, and proud father of Ellie, Penny and Patrick. I love freshwater river fishing. I live in Somerset, England.</p> ",
     "end_time": 1414094400,
     "link": "https://www.meetup.com/accu-bristol/events/208093012/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1414087200,
     "title": "\"Lessons From Test Code\" with Jon Jagger"

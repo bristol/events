@@ -3,7 +3,14 @@
     "description": "<p>We kick off our 2016 meetups with a returning guest speaker, James Harvey.</p> <p><b>Overview</b>: Scrum is becoming very popular; that\u2019s good. Consciously or not, most people adopt Scrum by blindly following a so-called Scrum expert; that\u2019s not so good.\u00a0</p> <p>As more organisations look to an Agile transition to become more efficient, I\u2019m keen to make sure that they realise that there is more to Agile than just Scrum.\u00a0</p> <p><b>About James:</b> A seasoned Agile veteran, James Harvey has been an Agile practitioner, coach and crusader for over a decade.\u00a0</p> <p>Recognised as an accredited training partner with the BCS, James is also certified Agile trainer focusing on the framework-agnostic BCS Agile syllabus.</p> ",
     "end_time": 1452722400,
     "link": "https://www.meetup.com/agile-bath-bristol/events/227839471/",
-    "location": null,
+    "location": {
+        "address": "10 Temple Back",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45281219482422,
+        "longitude": -2.5860190391540527,
+        "name": "Momentum Financial Technology office"
+    },
     "org": "agile",
     "start_time": 1452711600,
     "title": "Guest Speaker: James Harvey"

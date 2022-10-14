@@ -3,7 +3,14 @@
     "description": "<p>We're on the road this month, locating ourselves in the centre of Bath to chat about APIs: how to design, develop, document and consume them. Line-up:</p> <p><b>Pragmatic API Design: or, don't be a RESTafarian</b></p> <p>API design is as important as its implementation. Tom Spencer will discuss his experiences with designing JSON-based APIs and why flexibility and common sense is more important than sticking strictly to REST.\u00a0</p> <p><b>Why documentation matters</b></p> <p>An API is only as good as its documentation. Alex West discusses some of the tools out there for documenting your API so that developers will enjoy developing against your endpoints.</p> <p><b>Show and tell: our experiences when building a cross-platform API</b></p> <p>A brief discussion from Rick Chapman on his experiences building a cross-platform API for GameAnalytics.</p> <p>Afterwards we will trundle off to the pub to chat some more about APIs, SDKs and anything else.</p> <p>See you there!</p> ",
     "end_time": 1410809400,
     "link": "https://www.meetup.com/swmobile/events/194090702/",
-    "location": null,
+    "location": {
+        "address": "Carpenter House, Broad Quay",
+        "city": "Bath BA1 1UB",
+        "country": "gb",
+        "latitude": 51.37791061401367,
+        "longitude": -2.3608899116516113,
+        "name": "Bath Innovation Centre"
+    },
     "org": "swmobile",
     "start_time": 1410804000,
     "title": "All about APIs"

@@ -3,7 +3,14 @@
     "description": "<p>There's a ton of cool new tech that's becoming a big part of mobile ecosystem that extend beyond smartphones and tablets so let's get together and talk/demo some of it. Played with iBeacons? Coned you way in to the Glass explorers program, used the new Chromecast SDK? or got your hands on an Oculus rift? come and tell us about your experiences - even better if it's connected to a mobile app. It's a broad meetup for demos, side projects or full on commercial projects we like the mix.\u00a0\u00a0</p> <p>Talks:\u00a0</p> <p>\u2022\u00a0iBeacons - <a href=\"http://www.meetup.com/swmobile/members/84169212/\">James Frost</a>\u00a0(with <a href=\"http://www.meetup.com/swmobile/members/11884732/\">Tom Melamed</a>\u00a0sharing experences too)\u00a0</p> <p>\u2022 Chromecast an intro - Scott Alexander-Bown</p> <p>\u2022 Google Glass - <a href=\"http://www.meetup.com/swmobile/members/13536627/\">Allistar</a></p> <p>Got something you wanna share drop us a email.\u00a0</p> ",
     "end_time": 1403033400,
     "link": "https://www.meetup.com/swmobile/events/179741522/",
-    "location": null,
+    "location": {
+        "address": "Embassy House, Queens Ave, Clifton",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.457828521728516,
+        "longitude": -2.607814073562622,
+        "name": "Mubaloo (5th floor)"
+    },
     "org": "swmobile",
     "start_time": 1403028000,
     "title": "Oooo look something shiny (iBeacons, Chromecast, wearables etc)"

@@ -3,7 +3,14 @@
     "description": "<p>Agenda:</p> <p>6.00 pm \u00a0Arrival and drinks</p> <p>6.30 pm \u00a0Presentations (followed by networking and drinks)</p> <p>\u2022 <b>Extracting Insights from Social Media using R</b> - \u00a0 \u00a0 \u00a0 \u00a0Luciana Dalla Valle, Plymouth University</p> <p>\u2022 \u00a0<b>Competing on Kaggle - learning, fun and overfit if you dare</b> - Yifan Xie, Airbus</p> <p>\u2022 <b>Statistical eBooks and the StatJR Software System</b> - \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0Bill Browne, Bristol University</p> ",
     "end_time": 1468526400,
     "link": "https://www.meetup.com/bristol-data-scientists/events/231935299/",
-    "location": null,
+    "location": {
+        "address": "1 Canon's Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.449302673339844,
+        "longitude": -2.6010661125183105,
+        "name": "The Watershed"
+    },
     "org": "Bristol-Data-Scientists",
     "start_time": 1468515600,
     "title": "Bristol Data Scientists Meeting"

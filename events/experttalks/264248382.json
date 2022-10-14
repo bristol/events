@@ -3,7 +3,14 @@
     "description": "<p>SESSION ONE: Using Machine Learning for amazing e-commerce search</p> <p>Have you ever wondered just how websites are so good at showing you exactly the products you want to buy, almost as soon as you start to type?</p> <p>In this introductory technical talk, data scientist and EqualExperts associate consultant Thorben Louw shows how you can combine the power of a traditional search engine like ElasticSearch with simple Machine Learning techniques to blow your customers' minds and really impact sales.</p> <p>Get an overview of how search engines have traditionally worked, and why search is so naturally placed to benefit from advances in machine learning. See how ML can help a search engine deeply understand e-commerce product data, figure out what customers are searching for, and how a technique called Learning To Rank lets you use implicit user feedback to automatically tune search results and make the best results appear where you want them.</p> <p>SPEAKER: Thorben Louw, Machine Learning Engineer, Equal Experts</p> <p>SESSION TWO: Better Project through Discoveries and Inceptions</p> <p>As we all know, projects are not easy to get right. Many things can go wrong. And frequently they do. We may do the wrong thing, or we may do the right thing in the wrong way.</p> <p>The most frustrating thing is when that pain could have easily been<br/>avoided.</p> <p>The common root causes? Misaligned values and expectations,<br/>overlooked risks, missed dependencies and unsophisticated approaches to managing uncertainty and complexity. The complex interplay of people, processes and technologies will always bring change, uncertainty and unknowns. By acknowledging and addressing these factors early, we can massively reduce the various types of risks we're exposed to.</p> <p>This is why we run Inceptions. They systematically address the issues<br/>that threaten to derail deliveries, helping us to reduce risk, build trust and<br/>achieve alignment.</p> <p>This short session introduces the concept of Discoveries and Inceptions and outlines the general structure of Inception and how to go about planning and executing it.</p> <p>SPEAKER: Marcel Britsch, Product Management, Agile Business Analysis &amp; Digital Transformation, Equal Experts</p> <p>See you all soon!</p> <p>(We are hoping to schedule the Blockchain talk later on in the year).</p> ",
     "end_time": 1569958200,
     "link": "https://www.meetup.com/experttalks-bristol/events/264248382/",
-    "location": null,
+    "location": {
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44849395751953,
+        "longitude": -2.5871660709381104,
+        "name": "DeskLodge House"
+    },
     "org": "experttalks",
     "start_time": 1569951000,
     "title": "ExpertTalks Bristol"

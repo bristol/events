@@ -3,7 +3,14 @@
     "description": "<p>Many of us haven't been lucky enough to snag a ticket to Google I/O in San Francisco, luckily Somo have kindly offered to live stream the first two sessions for us instead!</p> <p>Come join us for all of the latest reveals and news from Google along with some food and drink.</p> <p>**Spaces are <b>limited</b> so please only RSVP if you're definitely going to attend.**</p> <p>The keynote itself starts at 5:30pm but you're welcome to arrive from 5:00pm onwards. <a href=\"https://events.google.com/io2015/schedule?filters=Live%20streamed#day1\">Full IO schedule</a>.\u00a0</p> ",
     "end_time": 1432839600,
     "link": "https://www.meetup.com/swmobile/events/222346048/",
-    "location": null,
+    "location": {
+        "address": "2nd Floor, One Redcliff Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.449459075927734,
+        "longitude": -2.589982032775879,
+        "name": "Somo Global"
+    },
     "org": "swmobile",
     "start_time": 1432828800,
     "title": "Google I/O Live Stream"

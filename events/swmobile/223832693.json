@@ -3,7 +3,14 @@
     "description": "<p>Come join us for 3 excellent talks and a chance to chat and mix with fellow mobile peoples from the local area and beyond. Oh and the pizza and beer!\u00a0</p> <p>Talks:</p> <p>\u2022 \u00a0Eifion Jones - Lean Video: How to make an app promo on a budget</p> <p>\u2022 \u00a0Tom \u00a0Melamed - Passwords suck! - there must be a better way?</p> <p>\u2022\u00a0QA session - ask your questions <a href=\"http://www.sli.do/xbvxifzg\">here</a></p> <p>Format as usual...\u00a0</p> <p>1830 pizza arrive. People should try to arrive around then</p> <p>1900 the <b>front doors to the office are closed/locked</b>. No one can now enter the lobby or the alarms go off.</p> <p>~2100 talks wrap up, room is tidy and put back like it was. Everyone leaves via the carpark.</p> ",
     "end_time": 1443555000,
     "link": "https://www.meetup.com/swmobile/events/223832693/",
-    "location": null,
+    "location": {
+        "address": "Prudential Buildings, 11-19 Wine St, Bristol, BS1 2PH",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45545196533203,
+        "longitude": -2.592360019683838,
+        "name": "Mix Radio"
+    },
     "org": "swmobile",
     "start_time": 1443547800,
     "title": "SWmobile: September meetup"

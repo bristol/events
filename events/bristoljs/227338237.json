@@ -3,7 +3,14 @@
     "description": "<p>The last meetup of the year is our Christmas social.\u00a0</p> <p>Come along to Kong's bar for a chat and a drink or two!</p> ",
     "end_time": 1450301400,
     "link": "https://www.meetup.com/bristoljs/events/227338237/",
-    "location": null,
+    "location": {
+        "address": "13-15 King Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.46272659301758,
+        "longitude": -2.522196054458618,
+        "name": "Kongs of King Street"
+    },
     "org": "bristoljs",
     "start_time": 1450290600,
     "title": "Christmas Social"

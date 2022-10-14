@@ -3,7 +3,14 @@
     "description": "<p>Freelancing/contracting in the mobile industry is thriving, but often making the first steps on to the freelancing ladder can be daunting. I hoped with our great pool of freelancers and founders we could share some of the lessons learnt, quick tips and tools. Please email me suggestions for short talks and volunteers to share their experiences will be essential.</p> <p>Confirmed speakers :</p> <p>- Tim Wicksteed - fellow SWmobile member</p> <p>- Nicolas Alpi - From the Freelancers Breakfast meetup group</p> <p>- Richard Spence\u00a0- fellow SWmobile member</p> <p>Followed by a panel style discussion</p> <p>Ideas for topics of discussion:</p> <p>- Getting work<br/>- Building a portfolio website<br/>- Finances and tax<br/>- Best bits and the worst bits<br/>- Tips</p> <p><b>Post your questions here -\u00a0<a href=\"http://swmobile.ideascale.com\"><a href=\"http://swmobile.ideascale.com\" class=\"linkified\">http://swmobile.ideascale.com</a></a></b></p> <p>Room\u00a01.06 in the Merchant Venturers Building\u00a0located on Woodland Rd, Clifton BS8 1UB.We are No.25 on the precinct map, which you will find here: <a href=\"http://www.bris.ac.uk/maps/print/precinct-key.pdf\"><a href=\"http://www.bris.ac.uk/maps/print/precinct-key.pdf\" class=\"linkified\">http://www.bris.ac.uk/maps/print/precinct-key.pdf</a></a></p> <p>Apologies\u00a0for the change in date, I had childcare issue.</p> <p>Afterwards I've booked us use of the '<b>snug</b>' at the\u00a0Colston Yard pub from 8:30. Colston Yard, Colston St, Bristol. BS1 5BD</p> <p>\u00a0</p> ",
     "end_time": 1369857600,
     "link": "https://www.meetup.com/swmobile/events/105232652/",
-    "location": null,
+    "location": {
+        "address": "Merchant Venturers Building Woodland Road Bristol BS8 1UB",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.4561653137207,
+        "longitude": -2.60315203666687,
+        "name": "University of Bristol, Merchant Venturers Building"
+    },
     "org": "swmobile",
     "start_time": 1369850400,
     "title": "Talk night #6: Going Freelance"

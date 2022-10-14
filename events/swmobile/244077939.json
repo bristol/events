@@ -3,7 +3,14 @@
     "description": "<p>This is our annual look in to the world of cross platform solutions for mobile apps. They promise allot but can they save development time and provide a similar experience to native apps.</p> <p>We're going look at some of the new kids on the block as well as getting some commentary from the trenches of using cross platform in the real world. 4 concise talks on cross platform technologies and a QA panel discussion afterwards.</p> <p>\u2022 Flutter, the good, bad and ugly</p> <p>Dave Taylor - Android Lead at SOMO</p> <p>\u2022 Moving from native to cross platform with Xamarin</p> <p>Matthew Robbins - self taught, Junior Engineer at Audiogum, started with iOS/ objC.</p> <p>\u2022 Quick intro to Doppl, Android centric code sharing based on J2objc</p> <p>Scott Alexander-Bown, SWmobile founder, Android freelancer and remote working enthusiast. @scottyab (<a href=\"https://twitter.com/scottyab\" class=\"linkified\">https://twitter.com/scottyab</a>)</p> <p>\u2022 Panel discussion<br/>The speaker plus other volunteers.</p> <p>The usual timings, doors open at 18:30 around the time of the food, intro at 19:00 and aim to finish ~20:30 and be in pub/bar afterwards for 21:00.</p> ",
     "end_time": 1511904600,
     "link": "https://www.meetup.com/swmobile/events/244077939/",
-    "location": null,
+    "location": {
+        "address": "5th Floor, Trinity Quay Phase 1, Avon St, Bristol, BS2 0PT",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.450294494628906,
+        "longitude": -2.576740026473999,
+        "name": "Entrepreneurial Spark"
+    },
     "org": "swmobile",
     "start_time": 1511893800,
     "title": "Cross platforms - new kids on the block"

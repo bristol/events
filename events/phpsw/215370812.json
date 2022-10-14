@@ -3,7 +3,14 @@
     "description": "<p>We're trying something different to round off 2014, in December, we'll be hosting a tech-themed pub quiz to celebrate how we've redefined PHPSW this year!</p> <p>The questions will be techy, but not too serious, geeky, or necessarily, even PHP-orientated. There'll be a bar tab courtesy of GitHub, bar snacks, mince pies and yule logs, and a bunch of great prizes, including but not limited to <b>tickets to <a href=\"http://phpconference.co.uk\">PHP UK</a> and\u00a0</b><b><a href=\"http://jqueryuk.com/2015\">jQuery UK</a> conferences</b>, as well as a whole bunch of <a href=\"https://twitter.com/phpsw/status/532522277783732224\">books</a>, <a href=\"http://www.zend.com/en/services/certification\">cert vouchers</a>, <a href=\"https://twitter.com/leeboynton/status/443896779063717888\">elePHPants</a>, <a href=\"https://www.jetbrains.com/phpstorm\">licenses</a>, <a href=\"https://twitter.com/phpsw/status/532523188249714688\">t-shirts</a>, vouchers, <a href=\"https://twitter.com/phpsw/status/531878976298688513\">$325 of Digital Ocean hosting</a> and GitHub, Mandrill, PHP &amp; PHPSW swag.</p> <p>We're thinking teams of 4, if you don't have enough we'll pair you up, and we'll be hosting at the lovely Smoke &amp; Mirrors bar on Denmark Street (towards The Hatchet).</p> <p>--</p> <p>As always, a big thanks to our meetup sponsors\u00a0<a href=\"http://www.ents24.com/\">Ents24</a>,\u00a0<a href=\"http://tech.just-eat.com/\">Just Eat</a>\u00a0and\u00a0<a href=\"http://www.redrockconsulting.co.uk/\">Redrock</a>\u00a0without whom we wouldn't be able to put on events the likes of which we have this year. As well as a special shout out to GitHub for the bar tab, and the companies who kindly offered prizes for the quiz:</p> <p>- <a href=\"https://atechmedia.com\">aTech Media</a><br/>- <a href=\"http://copper.io\">Copper.io</a><br/>- <a href=\"https://www.digitalocean.com\">Digital Ocean</a><br/>- <a href=\"https://www.jetbrains.com\">JetBrains</a><br/>-\u00a0<a href=\"https://www.getclouder.com\">GetClouder</a><br/>- <a href=\"https://github.com\">GitHub</a><br/>- <a href=\"http://mailchimp.com\">Mailchimp</a><br/>- <a href=\"http://www.oreilly.com\">O'Reilly</a><br/>- <a href=\"http://phpconference.co.uk\">PHP UK</a><br/>- <a href=\"http://puppetlabs.com\">Puppet Labs</a><br/>- <a href=\"http://www.whiteoctober.co.uk\">White October</a><br/>- <a href=\"http://www.zend.com\">Zend</a></p> <p>--</p> <p><a href=\"http://phpsw.org.uk/events/215370812-phpub-quiz\">View on the PHPSW website</a></p> ",
     "end_time": 1418248800,
     "link": "https://www.meetup.com/php-sw/events/215370812/",
-    "location": null,
+    "location": {
+        "address": "8 Denmark street, Bristol, BS1 5DQ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45281219482422,
+        "longitude": -2.5987040996551514,
+        "name": "Smoke & mirrors"
+    },
     "org": "phpsw",
     "start_time": 1418238000,
     "title": "PHPub quiz"

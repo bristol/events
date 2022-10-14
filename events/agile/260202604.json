@@ -3,7 +3,14 @@
     "description": "<p>We are delighted to join forces once again this month with the ACCU Conference (conference.accu.org), which is taking place at the Bristol Marriott Hotel City Centre, 9-13 April.</p> <p>Our speaker is Giovanni Asproni. Giovanni works as a Principal Consultant for Zuhlke Engineering in London. He has been helping software companies and teams become more successful for many years by providing consulting, training and advice, as well as coding, to projects of all sizes. He is both a frequent conference speaker, and organiser. He is a past Chair of the London XPDay and the ACCU conferences, the Industry &amp; Practice co-chair for XP2016, and the Conference Chair for SPA 2018 and SPA 2019. He is a member of the ACM and the IEEE Computer Society, and contributed to the book 97 Things Every Programmer Should Know, published by O'Reilly.</p> <p>---</p> <p>Scaling up software projects is one of the trends of the moment\u2014many companies, big and small, try to do that to increase the speed of delivery of their projects.</p> <p>However, scaling up can be quite difficult (even going only from one to two teams), especially if it is done focusing on the wrong aspects \u2013 most companies give too much weight to formal structures and processes (e.g., mandating the use of SAFe, LESS or other frameworks), and not enough weight to other aspects that would give a bigger bang for the buck: e.g. removing friction, improving communication channels, setting clear goals, delegating responsibility and accountability, etc.</p> <p>In this session I\u2019ll share my experience in successfully helping companies to do the right thing in projects ranging from two to about eighty teams, and I\u2019ll offer some tools that you will be able to use right away in your projects.</p> <p>The session, among other things, includes:</p> <p>\u2022 A description of what needs to be done right before scaling up</p> <p>\u2022 Strategies on how to decide when to add new people to a team and new teams to a project</p> <p>\u2022 Things to consider when deciding the structure of the teams (eg feature vs component teams), and its relationship with the shape of the system</p> <p>\u2022 How to use simple rules to allow teams to collaborate productively</p> <p>\u2022 An explanation on why each project has a upper bound in its ability to scale, and what to do about it</p> ",
     "end_time": 1554840000,
     "link": "https://www.meetup.com/agile-bath-bristol/events/260202604/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street, Old Market, ",
+        "city": "Bristol BS1 3AD",
+        "country": "gb",
+        "latitude": 51.45596694946289,
+        "longitude": -2.5847840309143066,
+        "name": "Bristol Marriott Hotel City Centre "
+    },
     "org": "agile",
     "start_time": 1554832800,
     "title": "One Team, Two Teams, Many Teams: Scaling Up Done Right with Giovanni Asproni"

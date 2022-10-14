@@ -3,7 +3,14 @@
     "description": "<p>-- Joint meetup with CodeHub Bristol<br/><a href=\"https://www.meetup.com/CodeHub-Bristol/events/253458609/\" class=\"linkified\">https://www.meetup.com/CodeHub-Bristol/events/253458609/</a></p> <p>** All skill levels welcome! **</p> <p>For the complete event description please see the Codehub event page above.</p> <p>You can sign up on either page (just don't get caught in an infinite loop of clicking through to the other meetup page ;) )</p> ",
     "end_time": 1535571000,
     "link": "https://www.meetup.com/python-dbbug/events/253547484/",
-    "location": null,
+    "location": {
+        "address": "17-18 King Street",
+        "city": "Bristol BS1 4EF",
+        "country": "gb",
+        "latitude": 51.451663970947266,
+        "longitude": -2.594628095626831,
+        "name": "Famous Royal Navy Volunteer"
+    },
     "org": "dbbug",
     "start_time": 1535562000,
     "title": "Python Code Dojo"

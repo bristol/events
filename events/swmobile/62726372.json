@@ -3,7 +3,14 @@
     "description": "<p>Hi all, I thought it would be good as our first meetup to get together over a few drinks and chat about what we want this meetup to be. Topics could include frequency and style of meetups, topics to discuss and potential venues (knowing there are people spread across Bristol and Bath).</p> <p>Hope you can make it!</p> ",
     "end_time": 1337718600,
     "link": "https://www.meetup.com/swmobile/events/62726372/",
-    "location": null,
+    "location": {
+        "address": "1 Canon's Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.449302673339844,
+        "longitude": -2.6010661125183105,
+        "name": "The Watershed"
+    },
     "org": "swmobile",
     "start_time": 1337707800,
     "title": "Chat about what we want to be when we grow up."

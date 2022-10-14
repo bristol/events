@@ -3,7 +3,14 @@
     "description": "<p>TALK 1 - Accelerated Delivery - How we used Serverless technologies to accelerate delivery of an MVP and production-ready service.</p> <p>Come and find out about how our approach based on leveraging AWS serverless technologies allowed us to Accelerate Delivery with low investment and high production-readiness, allowing money and time to be spent on building the nice shiny piece of software and delivering customer value at amazing speed.</p> <p>TALK 2 - Working Remote - How we learned to work remote and like it.</p> <p>Things get a lot harder when people are not co-located and it\u2019s hard to make technology work for us (rather than against us) all of the time. In this talk we will share our learnings and experiences of enabling teams and people to get the best out of working remote. We will share the principles behind our thinking and helpful tips to smooth remote working processes and working practices.</p> ",
     "end_time": 1573590600,
     "link": "https://www.meetup.com/experttalks-bristol/events/265309381/",
-    "location": null,
+    "location": {
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44849395751953,
+        "longitude": -2.5871660709381104,
+        "name": "DeskLodge House"
+    },
     "org": "experttalks",
     "start_time": 1573581600,
     "title": "ExpertTalks Bristol"

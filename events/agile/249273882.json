@@ -3,7 +3,14 @@
     "description": "<p>This month's meeting is hosted by the ACCU Conference (<a href=\"http://www.cvent.com/m-events/Info/Summary?e=1ab2de4f-e3b8-4454-9960-1fc517bd8b76\" class=\"linkified\">http://www.cvent.com/m-events/Info/Summary?e=1ab2de4f-e3b8-4454-9960-1fc517bd8b76</a>), the premier conference for developers, taking place in Bristol across four days and focusing on technical topics, professionalism in programming and the human side of development.</p> <p>Make your user stories RIVETing with Seb Rose</p> <p>When you invest in the stock market you\u2019ll often be warned to \u201cremember that the value of investments can go down as well as up\u201d. For over a decade User Stories have been the rock steady investment of agile adoption \u2013 and they\u2019ve come a long way since XP called them \u201ca placeholder for a conversation\u201d. It\u2019s time to re-evaluate what user stories are trying to achieve, what they\u2019re good for, and why so many of them suck.</p> <p>In this session we\u2019ll explore what a good user story should look like and discover why so many of them fail to live up to our expectations. We\u2019ll look under the covers of the INVEST acronym, created by Mike Cohn to help people write better user stories and look at why, in many cases, it doesn\u2019t seem to have helped.</p> <p>It\u2019s time to stop investing in the boring, formulaic user stories that litter your boards, choke your JIRA and stifle your meetings. Today we\u2019re going to see how to make user stories RIVETing again.</p> <p>About our speaker:</p> <p>Seb has been involved in the full development lifecycle with experience that ranges from Architecture to Support, from BASIC to Ruby. He\u2019s a partner in Cucumber Limited, who help teams adopt and refine their agile practices, with a particular focus on collaboration and automated testing.</p> <p>Regular speaker at conferences and occasional contributor to software journals. Co-author of \u201cBDD Books 1: Discovery\u201d (LeanPub), lead author of \u201cThe Cucumber for Java Book\u201d (Pragmatic Programmers), and contributing author to \u201c97 Things Every Programmer Should Know\u201d (O\u2019Reilly).</p> <p>He blogs at cucumber.io and tweets as @sebrose.</p> ",
     "end_time": 1523386800,
     "link": "https://www.meetup.com/agile-bath-bristol/events/249273882/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street, Old Market, ",
+        "city": "Bristol BS1 3AD",
+        "country": "gb",
+        "latitude": 51.45596694946289,
+        "longitude": -2.5847840309143066,
+        "name": "Bristol Marriott Hotel City Centre "
+    },
     "org": "agile",
     "start_time": 1523383200,
     "title": "Make your user stories RIVETing with Seb Rose"

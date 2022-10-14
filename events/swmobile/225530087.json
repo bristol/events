@@ -3,7 +3,14 @@
     "description": "<p>The SWmobile talk nights conclude for 2015 with three top-notch talks, once again hosted by the kind folks at Just EAT.</p> <p>Talk #1:<b>\u00a0I'm a little IoT pot:\u00a0</b>Ben Howes, CEO and founder of zoetrope.io</p> <p>Ben talks about the defining features of IoT and how to distinguish it from the gimmicks. Followed by a section on IoT for mobile developers.</p> <p>Talk #2: <b>SWmobile review:\u00a0</b>Scott Alexander-Bown, founder of SWmobile meetup group</p> <p>Scott runs through some of the highlights of the year and outlines plans for next year's goodies at SWmobile.</p> <p>Talk #3: <b>Creating and Publishing Your Own Awesome Open Source Android Libraries:\u00a0</b>Danielle Emma Vass, freelance mobile developer</p> <p>Would you like to start contributing towards open source projects but don\u2019t know where to start? Or have your own project idea but don\u2019t even know where to begin? This talk aims to get you started with Awesome Material, an open source library which helps developers incorporate Material Design, Bootstrap, and Font Awesome into their apps.</p> <p>Afterwards we'll be heading to the pub, where as usual the first drink will be on us, thanks to our sponsors.</p> <p>Here is the schedule for the night:</p> <p>6:15pm: Doors open</p> <p>6:30pm: Pizza arrives (thanks to Just EAT)</p> <p>7pm: Talk #1: I'm a little IoT pot</p> <p>7:30pm: Break and refreshments</p> <p>7:45pm: Talk #2: SWmobile review</p> <p>8pm: Talk #3:\u00a0Creating and Publishing Your Own Awesome Open Source Android Libraries</p> <p>8:30pm: Close and head to the pub</p> <p>Looking forward to seeing you there!</p> ",
     "end_time": 1447794000,
     "link": "https://www.meetup.com/swmobile/events/225530087/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay House, Broad Quay, Bristol, BS1 4DJ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451744079589844,
+        "longitude": -2.5968730449676514,
+        "name": "JUSTEAT Technology"
+    },
     "org": "swmobile",
     "start_time": 1447784100,
     "title": "Talks Night"

@@ -3,7 +3,14 @@
     "description": "<p>Summer is here, and we're checking out one of the newest craft beer venues in Bristol - hopefully sat outside.</p> <p>This is just a social night so no talks, but we'll stick a bit of money behind the bar. Come along and talk about mobile tech with good beer!!</p> ",
     "end_time": 1406669400,
     "link": "https://www.meetup.com/swmobile/events/189744342/",
-    "location": null,
+    "location": {
+        "address": " 31/32 King Street, The Beermuda Triangle, BS1 4DZ ",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45195007324219,
+        "longitude": -2.59489107131958,
+        "name": "Small Bar"
+    },
     "org": "swmobile",
     "start_time": 1406658600,
     "title": "Summer social"

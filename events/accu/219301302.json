@@ -3,7 +3,14 @@
     "description": "<p>How much should you rely on your IDE to govern your coding style? How many asserts should a test case have or not have? How much work should a constructor (not) do? How do you name your classes and other identifiers? How closed or open should your classes be? How do you lay out your code? These questions and others have standard answers based on received and repeated mantras, practices that are communicated in good faith to be passed on as habits. But how much reason supports these assertions? It turns out that the advice often fails, even for the novices they are intended to guide, or simply doesn't make sense.\u00a0</p> <p>This talk has little respect for ritual and tradition and takes no prisoners: What actually makes sense and what doesn't when it comes to matters of practice? What guidelines offer the greatest effect and the greatest learning?</p> <p><b>About our speaker:</b></p> <p>Kevlin is an independent consultant, speaker, writer and trainer. His development interests are in patterns, programming, practice and process. He has been a columnist for various magazines and web sites and is co-author of <i>A Pattern Language for Distributed Computing</i>\u00a0and\u00a0<i>On Patterns and Pattern Languages</i>, two volumes in the\u00a0<i>Pattern-Oriented Software Architecture</i> series. He is also editor of\u00a0<i>97 Things Every Programmer Should Know</i>. He lives in Bristol and online.</p> ",
     "end_time": 1424293200,
     "link": "https://www.meetup.com/accu-bristol/events/219301302/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1424286000,
     "title": "Kevlin Henney: Making Steaks from Sacred Cows"

@@ -3,7 +3,14 @@
     "description": "<p><b>An\u00a0<a href=\"http://accu.org/index.php/conferences/accu_conference_2016\">ACCU 2016</a>\u00a0Conference preview</b></p> <p><i>How I Went from C++ Programmer to Running My Own Software Product Company (and you can too)</i></p> <p>Many software developers dream of escaping bosses, cubicles and TPS reports to start their own software product business. But they are put off the distorted 'Google or bust' image of starting your a software business portrayed by the media. I will discuss what it is really like to make a living selling your own software product online. I will be covering topics including:</p> <p>\u2022\u00a0how much money do you need to start your own business?</p> <p>\u2022\u00a0do you need a co-founder?</p> <p>\u2022\u00a0do you need employees?</p> <p>\u2022\u00a0how much red tape is involved in running a company?</p> <p>\u2022\u00a0how do you know if there is a market for your product?</p> <p>\u2022\u00a0choosing a platform: desktop, web or mobile?</p> <p>\u2022\u00a0how do you promote your product?</p> <p>\u2022\u00a0how painful is it to do support for non-technical people?</p> <p>\u2022\u00a0can you make more money than working for other people?</p> <p>\u2022\u00a0how do you take a holiday?</p> <p>I hope to keep it interactive and am happy to answer questions on anything to do with starting your own software business.</p> <p><b>About Our Speaker\u00a0</b></p> <p>Andy Brice is a UK-based software developer with nearly 30 years of professional software development experience. In 2005 he had had enough of working for other people and decided to start his own 1-man software product business. He is still making a living from his first product (PerfectTablePlan) 10 years later.</p> <p>Andy blogs at\u00a0<a href=\"http://www.successfulsoftware.net/\"><a href=\"http://www.successfulsoftware.net\" class=\"linkified\">http://www.successfulsoftware.net</a></a>\u00a0and tweets as\u00a0@successfulsw</p> <p><b>All\u00a0Welcome\u00a0</b></p> <p>This event is free and open to all.\u00a0<a href=\"http://accu.org/\">ACCU\u00a0</a>Members and non-members are all welcome so please spread the message far and wide.</p> <p>The talk will start at 7pm, please arrive a little early to mingle and to allow a prompt start. And if you can, please join us at the nearby Cornubia pub after the talk to continue the discussion.\u00a0</p> ",
     "end_time": 1458162000,
     "link": "https://www.meetup.com/accu-bristol/events/228943439/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1458153900,
     "title": "Andy Brice: How I Went from C++ Programmer to Running My Own s/w Product Company"

@@ -3,7 +3,14 @@
     "description": "<p>After a rather long break, the South West Elastic Meetup is back!</p> <p>We have a new sponsor and a new location - Cookpad in central Bristol.</p> <p>We also have two great speakers confirmed:</p> <p>* Emanuil Tolev @ Elastic - \"Performance, Security and Data Management - what's new in Elastic land with 7.x\"</p> <p>Development of Elasticsearch and the related suite of tools continues at its typical fast pace. Let's see what's new with the major upgrade to version 7! There's quite a lot: even more work's gone into elegant, quick search. There are new free data management features fresh out of beta (Index Lifecycle Management and SQL adapter). Last but not least, we'll talk about a pretty big security announcement: we've released some previously commercial security code as free features in our default distribution. TLS encryption and Role-based Access Control are pretty fundamental and go a long way towards securing clusters so we'll go over what they are and how to make use of them.</p> <p>Emanuil is a Community Engineer with Elastic. He used to be a freelance web developer and ran a small open science web dev consultancy with partners for several years. Interested in mentorship, inclusion, small businesses, archery and always curious about how the world works in detail.</p> <p>* Matt Williams @ Cookpad - Matt works on the world's largest recipe search engine and will be sharing a small flavour of some of the approaches they have been taking to blend more traditional search approaches based on ElasticSearch with a new vector-scoring approach from the Machine Learning world - no mean feat when your audience stretches to more than 40 million users each month, each trying to find the perfect recipe from a corpus of over 5 million.</p> <p>Courtesy of our sponsorship from Elastic themselves, we'll have plenty of pizza and doughnuts from the amazing Pinkmans Bakery (<a href=\"https://pinkmans.co.uk/\" class=\"linkified\">https://pinkmans.co.uk/</a>).</p> <p>Finally, if you'd like to speak at this meetup (we may still have space for a 5-10 minute lightning talk) or any future event, please do get in touch.</p> ",
     "end_time": 1570651200,
     "link": "https://www.meetup.com/south-west-elastic-fantastics/events/263778609/",
-    "location": null,
+    "location": {
+        "address": "1 Broad Plain",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45415115356445,
+        "longitude": -2.5822789669036865,
+        "name": "Cookpad"
+    },
     "org": "elastic",
     "start_time": 1570642200,
     "title": "October Meetup (we're back!) - \"Elastic 7.x\" and \"Vector Scoring\""

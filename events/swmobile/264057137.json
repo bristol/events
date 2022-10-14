@@ -3,7 +3,14 @@
     "description": "<p>Welcome to September's SWmobile event - as you can see we failed at naming this one! We'll be having a mix of talks to cover a broad range of topics including accessibility, GraphQL and progressive web apps.</p> <p>Talks:<br/>- Accessibility - Rob Whitaker<br/>- Graphql in React Native with AWS AppSync - James Best<br/>- The Web API - Mike Oram</p> <p>Timings<br/>18:30 Doors, Food &amp; Drink<br/>19:00 Intro and Talks 1&amp;2<br/>19:45 Break<br/>20:00 Talk 3<br/>20:45 Tidy up &amp; Head to a local pub to continue the conversation</p> <p>If you're a first time member and/or don't know anyone and don't want to turn up on your own, drop us an email on [masked] or send a Slack message to one of the organisers if you're on Slack (or you can find me on twitter @sofaracing ).</p> <p>As always we welcome new speakers. Please message the lead organiser (Daniel Leivers) or any of the other organisers if you have a talk idea, or fill out the form at <a href=\"http://cfp.swmobile.org\" class=\"linkified\">http://cfp.swmobile.org</a></p> ",
     "end_time": 1569443400,
     "link": "https://www.meetup.com/swmobile/events/264057137/",
-    "location": null,
+    "location": {
+        "address": "40 Queen Square",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44968795776367,
+        "longitude": -2.5954511165618896,
+        "name": "Candide"
+    },
     "org": "swmobile",
     "start_time": 1569432600,
     "title": "September talk night"

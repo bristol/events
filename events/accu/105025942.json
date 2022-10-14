@@ -3,7 +3,14 @@
     "description": "<p>In March we welcome <b>Charles Tolman</b> as he previews his <a href=\"http://accu.org/index.php/conferences\">accu2013</a> conference presentation,\u00a0<b>An Exploration of the Phenomenology of Software Development</b>; a sharing of the more\u00a0subtle aspects of software development from a practitioner's\u00a0standpoint.</p> <p>The field has seen an unprecedented transition of a significant part\u00a0of humanity from physical work to an internally oriented environment\u00a0dealing with non-physical constructs.</p> <p>Yet just how aware are we of this fact? How do we see the development\u00a0of the skills in dealing with this inner world\u2019s dynamic? How can we\u00a0communicate about it in any way that makes sense?</p> <p>Gathering insights from the likes of Wolfgang Goethe, Henri Bortoft,\u00a0Richard Glass and also the recent work of Christopher Alexander, the\u00a0speaker welcomes those who have the courage to literally take their\u00a0hearts into their hands and dive into this inner world from a\u00a0practitioner\u2019s viewpoint.</p> <p><b>About our speaker:</b><br/><a href=\"http://photos2.meetupstatic.com/photos/event/b/1/5/a/event_205785402.jpegHaving\" class=\"linkified\">http://photos2.meetupstatic.com/photos/event/b/1/5/a/event_205785402.jpegHaving</a> started in electronics back in the mid 70s Charles moved on\u00a0from soldering chips onto computer boards to programming them through\u00a0microcode, assembler, Pascal, Eiffel and thence to C++. He is now one\u00a0of the [ir]responsible architects for a too large media editing system\u00a0and having seen many silver bullets come and go, is interested in programmer development as much as improving technical competence.</p> <p>\u00a0</p> ",
     "end_time": 1364416200,
     "link": "https://www.meetup.com/accu-bristol/events/105025942/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1364410800,
     "title": "Meeting #5: An Exploration of the Phenomenology of Software Development"

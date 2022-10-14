@@ -3,7 +3,14 @@
     "description": "<p>Hope you can join us for our July meetup, where Mary Fealty is talking about 'The Chronicles of PowerBI'</p> <p>Mary Fealty:<br/>Mary is an old gamer who replaced her enjoyment of gaming with working with data. That\u2019s how satisfying data is to her. She has been a massive fan of Power BI from its infancy to now. She now makes her living from Power BI, as founder of Broadtree Solutions, Power BI consultants, based in Belfast, covering the UK &amp; Ireland. She can also be spotted on Game of Thrones, as a Wildling.</p> <p>The Chronicles of Power BI<br/>In this session Mary Fealty (@Br0adtree) will take you through her personal review of Power BI by looking back at the many updates there have been since its launch. She will do a walkthrough of many of the updates or enhancement to Power BI, though she may occasionally dwell on some more than others, as for folks familiar with Power BI she aims to generate some of the following responses</p> <p>\u2022 Know that</p> <p>\u2022 Forgot that</p> <p>\u2022 When did that happen</p> <p>If you're a twitterer you can find us at <a href=\"https://twitter.com/SQLBristol\" class=\"linkified\">https://twitter.com/SQLBristol</a> and please do message us or comment below if you have any questions in advance.</p> <p>Look out for organisers with an orange lanyard if you need any info (or just for a chat!).</p> <p>We'll be heading to The Sidings pub after (BS1 6PL, opposite the end of Temple Meads driveway next to Holiday Inn Express) to continue the conversation/networking :)</p> ",
     "end_time": 1531854000,
     "link": "https://www.meetup.com/databristol/events/251411775/",
-    "location": null,
+    "location": {
+        "address": "1 Rivergate",
+        "city": "Bristol BS1 6ED ",
+        "country": "gb",
+        "latitude": 51.451011657714844,
+        "longitude": -2.583268880844116,
+        "name": "Ovo Energy"
+    },
     "org": "databristol",
     "start_time": 1531846800,
     "title": "The Chronicles of Power BI"

@@ -3,7 +3,14 @@
     "description": "<p>Agenda:</p> <p>6.00 pm \u00a0Arrival and drinks</p> <p>6.30 pm \u00a0Presentations (followed by networking and drinks)</p> <p>\u2022 Speaker #1: Spatial Network Analysis - <b>Crispin Cooper</b>, Cardiff University</p> <p>\u2022 Speaker #2: Data analysis in the charitable sector - <b>Chloe Parker</b>, Core Insights</p> <p>\u2022 Speaker #3:\u00a0Machine Learning and IBM Data Science Experience - <b>Christopher Snow</b>, IBM:<i> In this session, Chris will talk machine learning and IBM DSX. Chris provides a high level intro to Collaborative Filtering using Apache Spark's ALS (alternating least squares) machine learning algorithm. He then walks through an example collaborative filtering web app for movie recommendations. The sample app is built using various Bluemix services incl Spark as a Service, Cloudant, Compose Redis and IBM's Data Science Experience (DSX). Chris briefly covers each of these services and the properties they bring to the application architecture.</i></p> <p><i><b>If you're on Twitter you can use the official hashtag: #BristolDS</b></i></p> ",
     "end_time": 1499803200,
     "link": "https://www.meetup.com/bristol-data-scientists/events/239157908/",
-    "location": null,
+    "location": {
+        "address": "1 Canon's Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.449302673339844,
+        "longitude": -2.6010661125183105,
+        "name": "The Watershed"
+    },
     "org": "Bristol-Data-Scientists",
     "start_time": 1499792400,
     "title": "Bristol Data Scientists Meeting"

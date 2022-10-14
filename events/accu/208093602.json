@@ -3,7 +3,14 @@
     "description": "<p>Have you ever been asked to estimate the duration of a task that you don't fully understand?\u00a0 Did you fight the urge to retort \"How long is a piece of string?\".</p> <p>Business decisions seek predictability but organisations and systems are often too complex for an accurate understanding of effort and duration required to complete a given task.\u00a0 In Agile environments, we understand that we often learn by discovery - we cannot know how long something that we are discovering will take.\u00a0 In Lean environments, Estimating is waste since it doesn't directly contribute value to the product.\u00a0 Couldn't we Forecast instead?</p> <p>When we have enough data, we could use techniques such as Probablistic Planning, but what about before we have a large set of data?\u00a0 What if broad-brush story sizing could be considered good enough?\u00a0 What if we could forecast upcoming story durations based on previous performance?\u00a0 What if we could answer almost every conceivable delivery forecast question to a known degree of certainty?\u00a0\u00a0</p> <p>This session aims to equip you with a very simple technique to answer all of these questions using a small amount of data, a lightweight alternative to Estimating which could be substituted in a number of cases.</p> <p>About our Speaker</p> <p>Sean has over 20 years experience in Software Engineering in a variety of roles which have given him sound footing in Development, Leadership and Coaching camps.<br/>He is interested in making development more enjoyable and productive, in learning continuously, and in sharing knowledge.</p> <p>He is an active member of various Agile MeetUp groups in London and around the M4, and is a founder member of Swindon Agile Practitioners.</p> <p>Sean works on a freelance, interim and contract basis to help businesses and organisations to understand the principles of Agility, and how they can apply these for their benefit.</p> ",
     "end_time": 1416517200,
     "link": "https://www.meetup.com/accu-bristol/events/208093602/",
-    "location": null,
+    "location": {
+        "address": "2 Lower Castle Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.61016082763672,
+        "longitude": -2.52667498588562,
+        "name": "Bristol Marriott Hotel City Centre"
+    },
     "org": "accu",
     "start_time": 1416510000,
     "title": "How Long Is A Piece of String? with Sean Moir"

@@ -3,7 +3,14 @@
     "description": "<p>AGENDA</p> <p>18.00 \u2013 18:30 Meet &amp; Greet</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>18:30 - 19:20 TALK #1 **Grace O\u2019Halloran: Connecting to your data securely with Synapse and Data Factory Integration Runtimes**</p> <p>Description: Moving data from A to B has been made easy through the use of integration tools such as Azure Data Factory and Azure Synapse Pipelines, but when you\u2019re working inside a highly secured environment, the reference architecture quickly goes out the window. How do you enable secure data movement into your data platform? How do you easily move data around in private networks? Azure provides many options beyond the default Azure-hosted Integration Runtime but which one is right and how do we set them up?</p> <p>In this talk I will explore how the different types of Data Factory and Synapse Integration Runtimes can be used to access and transfer data in a secure network topology. I will discuss some common secure architectures and explain how Integration Runtimes can fit into these designs to facilitate simple yet secure data integration.</p> <p>Bio: I am an Azure data engineering consultant with a passion for infrastructure, networking, and security. I have 5 years\u2019 experience working with data, 4 of which have focussed on the Microsoft Data Platform. I'm a Microsoft Certified Developer, and I also co-founded DevUp, a social mobility initiative for removing barriers to technology.</p> <p><a href=\"https://www.linkedin.com/in/grace-o-halloran/\" class=\"linkified\">https://www.linkedin.com/in/grace-o-halloran/</a></p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>19.20 \u2013 19:40 Break &amp; Pizza</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>19:40 - 20:30 Talk 2# **Simon Whiteley: Databricks Unity Catalog**</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>20:30 - Chat and pub</p> <p>**EVENT SPONSORS**</p> <p>We would like to thank our generous sponsors for supporting us:<br/>Immersive Labs (<a href=\"https://www.immersivelabs.com/\" class=\"linkified\">https://www.immersivelabs.com/</a>), Huboo (<a href=\"https://www.huboo.com/\" class=\"linkified\">https://www.huboo.com/</a>)</p> <p>**WHEN AND WHERE**</p> <p>The venue is: Immersive Labs, 6th Floor, The Programme, All Saints' St, Bristol BS1 2LZ</p> ",
     "end_time": 1666206000,
     "link": "https://www.meetup.com/databristol/events/287146643/",
-    "location": null,
+    "location": {
+        "address": "All Saints' Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45587921142578,
+        "longitude": -2.5927278995513916,
+        "name": "Immersive Labs"
+    },
     "org": "databristol",
     "start_time": 1666198800,
     "title": "Databricks Unity Catalog & Connecting to your Data Securely in Azure"

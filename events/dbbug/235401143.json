@@ -3,7 +3,14 @@
     "description": "<p>A lightning talks session on a variety of topics of interest to Python developers.</p> <p>So far we have the following possible talks lined up</p> <p>\u2022\u00a0<a href=\"https://docs.google.com/presentation/d/1DBPlDxQU450wbHO1-8K8OyROg45a0sQkCCUwuor-kIY/edit?usp=sharing\">Mocking approaches for unit testing (cloud) automation</a>\u00a0- Ed Crewe\u00a0</p> <p>\u2022 <a href=\"http://www.slideshare.net/RonanLamy/magically-run-your-code-faster-with-pypy\">Magically run your code faster with PyPy</a> -\u00a0Ronan Lamy</p> <p>\u2022\u00a0PixieDust: an Open Source Library that simplifies and improves Jupyter Python Notebooks -\u00a0Margriet Groenendijk</p> <p>\u2022\u00a0 More Py with Python 3 and mypy - Wuh Orp</p> <p>Please\u00a0let me know when you arrive if \u00a0you have something you wish to give a talk on\u00a0today ... see discussion thread on this site at\u00a0</p> <p><a href=\"https://www.meetup.com/python-dbbug/messages/boards/thread/50275054\"><a href=\"https://www.meetup.com/python-dbbug/messages/boards/thread/50275054\" class=\"linkified\">https://www.meetup.com/python-dbbug/messages/boards/thread/50275054</a></a></p> <p>Note that the usual pizza and beer should be available for this talks session.</p> ",
     "end_time": 1480363200,
     "link": "https://www.meetup.com/python-dbbug/events/235401143/",
-    "location": null,
+    "location": {
+        "address": "Tower Wharf",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45378494262695,
+        "longitude": -2.5854039192199707,
+        "name": "Oracle Offices"
+    },
     "org": "dbbug",
     "start_time": 1480356000,
     "title": "Python lightning talks"

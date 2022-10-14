@@ -3,7 +3,14 @@
     "description": "<p>The event will be cohosted by SWmobile and the folks that run the <a href=\"http://bristolgameshub.com/\">Bristol Games Hub</a>\u00a0in Stokes Croft. The\u00a0Bristol Games Hub is a non-profit organisation that provides working space in Bristol where game developers and academics come together under one roof to create and study games.</p> <p>Here's the schedule for the event:</p> <p>6:45 - Doors open</p> <p>7:00 - Intros</p> <p>7:05 - Natalie Griffith, <a href=\"http://www.pressspace.net/\">Press Space</a>,\u00a0\"Demystifying PR\"</p> <p>7:20 - Tomas Rawlings, Auroch Digital, \"How to be an Indie Developer\"</p> <p>7:35 - Break, grab a beer, networking</p> <p>8:00 - 8:30 Demo Camp featuring:</p> <p>\u2022\u00a0Steve Pugh - Reversi Online</p> <p>\u2022\u00a0Nils\u00a0Helberg, Large Visible Machine - Battle for Hill 218</p> <p>\u2022\u00a0Ash Gwinnell, Force of Habit - Toast Time</p> <p>\u2022\u00a0Thomas Skuse, None Studios - Old Jolty</p> <p>\u2022\u00a0Chris Roberts, Survivalist Games - Shelter</p> <p>\u2022\u00a0Lukas, Opposable Games (more details TBA)</p> <p>\u2022\u00a0Tim Wicksteed (Me) - SpriteBatcher, Easy OpenGL for Android</p> <p>We're also happy to announce that <a href=\"http://www.100percentindie.com/\">100% Indie</a>\u00a0will be sponsoring the event and providing free beers for you all!\u00a0</p> <p><b>We'll be starting the event sharp at 7:00 so turn up from 6:45 to grab a seat and a free bottle of beer.</b></p> <p>It should be a great night so looking forward to seeing you there!</p> ",
     "end_time": 1381953600,
     "link": "https://www.meetup.com/swmobile/events/135708352/",
-    "location": null,
+    "location": {
+        "address": "Stokes Croft",
+        "city": "BS1 5TX",
+        "country": "gb",
+        "latitude": 51.46403503417969,
+        "longitude": -2.58992600440979,
+        "name": "Bristol Games hub"
+    },
     "org": "swmobile",
     "start_time": 1381946400,
     "title": "Talk 9: Games, Games, Games"

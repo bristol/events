@@ -3,7 +3,14 @@
     "description": "<p>Are you ready for another year of great ACCU events? We're kicking off 2020 with a visit to Left Handed Giant (<a href=\"https://lefthandedgiant.com\" class=\"linkified\">https://lefthandedgiant.com</a>). Join us for an evening of food, drinks, and intelligent* conversation.</p> <p>*Subject to units of alcohol consumed.</p> <p>P.S. - Please RSVP to this event if you wish to attend. This year's venue is a popular one, so seating cannot be guaranteed unless reserved in advance.</p> ",
     "end_time": 1580331600,
     "link": "https://www.meetup.com/accu-bristol/events/267893240/",
-    "location": null,
+    "location": {
+        "address": "Hawkins Lane",
+        "city": "Finzels",
+        "country": "gb",
+        "latitude": 51.45438003540039,
+        "longitude": -2.589401960372925,
+        "name": "Left Handed Giant Brewpub"
+    },
     "org": "accu",
     "start_time": 1580324400,
     "title": "New Year Social"
