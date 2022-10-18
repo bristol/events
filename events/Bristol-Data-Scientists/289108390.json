@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>IMPORTANT NOTE: Registration for this event is via an external ticketing system here: [<a href=\"https://ti.to/ascent/bristol-data-science](https://ti.to/ascent/bristol-data-science\" class=\"linkified\">https://ti.to/ascent/bristol-data-science](https://ti.to/ascent/bristol-data-science</a>)</p> <p>**If you want to speak, please drop us a message on Meetup! We are always looking for speakers from our fantastically awesome community.**</p> <p>You are invited to the Bristol Data Science meet-up.</p> <p>Starting at 6 pm - 9 pm. The agenda is as follows;</p> <p>Food at 6 pm.<br/>630 pm Douglas Ashton, HEMS. Overview of data science in energy and what we're doing in HEMS (home energy management<br/>7:00 pm George Wright, Vounder Analytics. Time vs. direction - creating 2D plots to prevent office chair dizziness.<br/>7:30 - TBC<br/>8:00 - TBC<br/>8:20 - 9 pm drinks and food.</p> ",
+    "end_time": 1668114000,
+    "link": "https://www.meetup.com/bristol-data-scientists/events/289108390/",
+    "location": {
+        "address": "Counterslip",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45335388183594,
+        "longitude": -2.588850975036621,
+        "name": "Clockwise Bristol"
+    },
+    "org": "Bristol-Data-Scientists",
+    "start_time": 1668103200,
+    "title": "Bristol Data Scientists Meeting "
+}
