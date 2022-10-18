@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Global AppSec San Francisco returns November 14-18. Designed for private and public sector infosec professionals, the two-day OWASP conferences equip developers, defenders, and advocates to build a more secure web. We offer educational 1-day, 2-day, and 3-day [training courses](<a href=\"https://sf.globalappsec.org/trainings/\" class=\"linkified\">https://sf.globalappsec.org/trainings/</a>) on November 14-16. Join us for leading application security technologies, speakers, prospects, and community in a unique event that will build on everything you already know to expect from an OWASP Global Conference. Full conference details, including training courses, can be found under the Program tab above or [here](<a href=\"https://sf.globalappsec.org/schedule/\" class=\"linkified\">https://sf.globalappsec.org/schedule/</a>). **[REGISTER](<a href=\"https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877\" class=\"linkified\">https://www.eventbrite.com/e/2022-owasp-global-appsec-us-tickets-368464044877</a>)**</p> ",
+    "end_time": 1668819600,
+    "link": "https://www.meetup.com/owasp-bristol/events/289188963/",
+    "location": {
+        "address": "5 Embarcadero Ctr",
+        "city": "San Francisco",
+        "country": "us",
+        "latitude": 37.79421615600586,
+        "longitude": -122.39566802978516,
+        "name": "Hyatt Regency San Francisco"
+    },
+    "org": "OWASP-Bristol",
+    "start_time": 1668441600,
+    "title": "2022 OWASP Global AppSec San Francisco"
+}
