@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>[In-person \ud83c\udfeb]</p> <p>Very excited to announce Jon Skeet will be in Bristol for the February .Net South West Meet Up on Tuesday 7th February at the Engine Shed.</p> <p>We will be kicking things off at 6:30pm with some pizza and beers/refreshments and aiming to start the talk at 7pm.</p> <p>**The speaker:**</p> <p>Jon Skeet is a Staff Developer Platform Engineer at Google, working on Google Cloud Platform client libraries for .NET, based in the London office. (That's the theory, anyway. Most of the time he works from his shed instead). He's best known for contributions to Stack Overflow as well as his book, C# in Depth. Additionally, he is the primary maintainer of the Noda Time date/time library for .NET.</p> <p>Outside of software, Jon is a committed Christian, and enjoys theatre (particularly musical theatre), playing board games, and spending time with his amazing family.</p> <p>**The talk:**</p> <p>Some code is mostly self-contained, working purely with computations. Full applications tend to have to integrate with other systems, however - and some applications do very little other than gluing together multiple systems. Sometimes that's been seen in a negative light within the development community, and unfairly so - these integrations provide huge amounts of value.</p> <p>Pre-pandemic, Jon spent a huge amount of time writing code to interact with his drum kit - and then other instruments, providing a rich configuration editing experience. Within the pandemic, he found opportunities to help his local church to reduce some of the friction introduced in remote worship services, and then explore post-pandemic possibilities.</p> <p>In this talk, Jon will explore some of the lessons he's learned interacting with a diverse array of hardware devices, as well his experiences of building user interfaces as someone who really doesn't have UI design skills, for relatively non-technical users. Hopefully some of the joy and fun of integration will rub off too, and you'll be encouraged to find opportunities to make a big difference with a small amount of integration.\u00a0</p> <p>**If you can't make the event anymore, please change your RSVP to no, and if you are attending RSVP as yes!**</p> <p>Any questions let us know.</p> ",
+    "end_time": 1675801800,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/289369660/",
+    "location": {
+        "address": "Station Approach",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44886779785156,
+        "longitude": -2.583554983139038,
+        "name": "Engine Shed"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1675794600,
+    "title": "Jon Skeet - Integration integration integration!"
+}
