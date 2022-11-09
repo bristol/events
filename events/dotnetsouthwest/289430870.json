@@ -3,7 +3,14 @@
     "description": "<p>**The talk**:<br/>Blazor sounded like a great idea to me, I've been working on client side apps since .net 1.0 and it's been painful. However, we now have mature, robust frameworks like Angular &amp; React, so Blazor is very much on the back foot.</p> <p>It doesn't have the mature ecosystem of other frameworks, so this makes it hard to find best practices, robust architectures and production ready solutions.</p> <p>They say the best way to learn is to teach someone else, so you will be my rubber ducks! This talk is exactly what I wish I had seen before I started out learning Blazor. I will take you on an accelerated journey of making mistakes, iterating, learning, and ultimately heading in the right direction.</p> <p>**The speaker**:<br/>Ross Scott started off as an aerospace engineer, got bored and moved into software development, working on engine health monitoring of the eurofighter. This gave a good grounding in safety and mission critical systems.</p> <p>In the past Ross has spoken on Android, Typescript, Azure, and various Javascript frameworks. Then life got a bit too busy for a while, but now he is back, learning a new framework and sharing the knowledge along the way. Don't expect an expert on Blazor, but do expect someone that has already made a lot of mistakes.</p> ",
     "end_time": 1673987400,
     "link": "https://www.meetup.com/dotnetsouthwest/events/289430870/",
-    "location": null,
+    "location": {
+        "address": "25 Marsh Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45246505737305,
+        "longitude": -2.596095085144043,
+        "name": "Clearbank Limited"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1673980200,
     "title": "Blazor beyond demo code - [\ud83c\udfeb In-person]"
