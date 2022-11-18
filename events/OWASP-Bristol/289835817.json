@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>OSINT - OpenSource INTelligence is the art of research and analysis of data that is freely available from publicly available sources. Combined with digital tools and techniques it's amazing what you can learn using nothing more than a computer and an internet connection.<br/>This talk will:</p> <p>1. Introduce you to the world of OSINT<br/>2. Provide an overview of some of the techniques and resources used in OSINT<br/>3. Discuss how OSINT is being used today</p> <p>Disclaimer: This talk is given for informative purposes only. Use of OSINT tools and techniques for illegal activities is not condoned by OWASP.</p> ",
+    "end_time": 1669147200,
+    "link": "https://www.meetup.com/owasp-bristol/events/289835817/",
+    "location": null,
+    "org": "OWASP-Bristol",
+    "start_time": 1669143600,
+    "title": "An introduction to OSINT"
+}

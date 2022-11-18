@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>OWASP Dorset Chapter is proud to present our annual CTF event, for 2022 we shall be hosting a tournament on TryHackMe: King of the Hill.</p> <p>Although the event is online, as this is a live participatory event it will not be recorded. We will have some prizes to hand out for winners of the tournament.</p> <p>\"King of the Hill (KoTH) is a competitive hacking game, where you play against 10 other hackers to compromise a machine and then patch its vulnerabilities to stop other players from also gaining access. The longer you maintain your access, the more points you get.\"</p> <p>In order to take part, you will need to have a TryHackMe account, no subscription required.</p> <p>For a full list of event pre-requisites, take a look at the OWASP Dorset website: [<a href=\"https://owasp.org/www-chapter-dorset/#div-kingofthehill](https://owasp.org/www-chapter-dorset/#div-kingofthehill\" class=\"linkified\">https://owasp.org/www-chapter-dorset/#div-kingofthehill](https://owasp.org/www-chapter-dorset/#div-kingofthehill</a>)<br/>We look forward to seeing you all there!</p> ",
+    "end_time": 1670529600,
+    "link": "https://www.meetup.com/owasp-bristol/events/289836657/",
+    "location": null,
+    "org": "OWASP-Bristol",
+    "start_time": 1670526000,
+    "title": "TryHackMe: King of the Hill tournament"
+}
