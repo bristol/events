@@ -1,10 +1,10 @@
 {
     "cancelled": false,
-    "description": "<p>tbc</p> <p>We are looking to publish on @YouTube the recordings of our meetups. If you would like to be notified when we a new video is published, please feel free to subscribe on our channel at:<br/><a href=\"https://www.youtube.com/channel/UC1lUjD1zM1gD2JkSa1rxMYQ\" class=\"embedded\">https://www.youtube.com/channel/UC1lUjD1zM1gD2JkSa1rxMYQ</a></p> ",
-    "end_time": 1669320000,
+    "description": "<p>tbc</p> <p>We publish the recordings of our meetups on @YouTube.<br/>If you would like to be notified when a new video is published, please subscribe to our channel at:<br/><a href=\"https://www.youtube.com/@OWASPBristol\" class=\"embedded\">https://www.youtube.com/@OWASPBristol</a></p> ",
+    "end_time": 1677009600,
     "link": "https://www.meetup.com/owasp-bristol/events/288310192/",
     "location": null,
     "org": "OWASP-Bristol",
-    "start_time": 1669312800,
+    "start_time": 1677002400,
     "title": "TBC "
 }
