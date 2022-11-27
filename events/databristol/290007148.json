@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Resuming the fine tradition of 'Phil's Data Beers' with a... SELECT few ;) (sorry, couldn't resist...), an informal social evening in the pub to celebrate a great year of data meetups!</p> <p>All welcome, please let us know if you're coming by RSVP'ing to this meetup as we'll try and book space in a pub.</p> <p>We're currently aiming for 'Hole in the Wall' (by Queens Square). Will confirm/update nearer the time but if they can't accomodate us it will be somewhere nearby (probably a pub on King Street instead).</p> <p>If you're planning to come and haven't joined us previously, I'll have a 'Data Bristol' meetup sign out on a table/please message me or post in the discussion for this meetup with any questions.</p> ",
+    "end_time": 1671143400,
+    "link": "https://www.meetup.com/databristol/events/290007148/",
+    "location": {
+        "address": "2 The Grove, Queen Square",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44948196411133,
+        "longitude": -2.5933539867401123,
+        "name": "Hole In The Wall Bristol"
+    },
+    "org": "databristol",
+    "start_time": 1671132600,
+    "title": "Christmas Data Beers"
+}
