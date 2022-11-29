@@ -1,9 +1,16 @@
 {
     "cancelled": false,
-    "description": "<p>We're planning a bit of a different event in December since everyone is going to be busy. More details will be announced soon - but we're hoping to have a relaxed social gathering.</p> <p>The current preference is to head to Kongs on King Street to have a few beers/wines/drinks of choice and a chance to hang out together, like a real community \ud83d\ude42</p> ",
+    "description": "<p>We're planning a bit of a different event in December since everyone is going to be busy. More details will be announced soon - but we're hoping to have a relaxed social gathering.</p> <p>Join us at the Kings St Brew house for a chilled out evening just chatting and socialising, and we can all plan together where the evening goes from there</p> ",
     "end_time": 1670364000,
     "link": "https://www.meetup.com/dotnetsouthwest/events/288797014/",
-    "location": null,
+    "location": {
+        "address": "13 Welsh Back",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45219421386719,
+        "longitude": -2.592787027359009,
+        "name": "King Street Brew House"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1670353200,
     "title": "December Social event - 6th Dec \ud83c\udf7a\ud83c\udf77\ud83e\udd73\ud83c\udf89"
