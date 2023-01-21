@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Workshop Wednesdays provide anyone with an interest in programming and web development an opportunity to advance their skills and knowledge in person. They are kindly organised by our good friends at [Womens Tech Hub](<a href=\"https://www.wthub.org/\" class=\"linkified\">https://www.wthub.org/</a>). All levels are welcome to come along and use the opportunity to study and have a chat with like-minded attendees.</p> <p>* **CS50**: for those interested in getting a grounding a Computer Science, CS50 (Harvard) provides an excellent remote course. We provide a space where learners can watch lectures (bring your own headphones!), read notes, attempt and discuss the lab sets or problems, and share experiences with others. (Note: this is *not* a taught course - the emphasis is on self-study and sharing.)<br/>* **WebDev**: an opportunity to work on your own project or course and learn more skills from others.<br/>* **Study Group**: a quiet place to study, code or work away from the more interactive groups.</p> <p>Other groups may also be arranged by Women's Tech Hub who will send out a separate invitation.</p> ",
+    "end_time": 1674678600,
+    "link": "https://www.meetup.com/codehub-bristol/events/290954410/",
+    "location": {
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44868850708008,
+        "longitude": -2.5871479511260986,
+        "name": "DeskLodge House"
+    },
+    "org": "CodeHub-Bristol",
+    "start_time": 1674671400,
+    "title": "CodeHub @WorkshopWednesdays"
+}
