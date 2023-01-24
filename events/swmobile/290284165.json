@@ -1,15 +1,15 @@
 {
     "cancelled": false,
-    "description": "<p>We're kicking off the first meetup of 2023 with a social in Bristol centre (venue TBC - suggestions welcome!). We'll talk about all things mobile, what you got for xmas and plans for the following year.</p> <p>While the majority of COVID issues seem to be behind us if you're feeling unwell please stay at home - there will be more events!</p> <p>We'll cover your 1st drink but you'll probably want some food either before or at the bar TBC</p> <p>If you have any questions or concerns please do get in touch with one of the organisers via meetup or ask in the SWmobile slack. Look forward to seeing you!</p> <p>P.s If you have ideas of talks or types of events you'd like to see and you cannot make this event please reply.</p> ",
+    "description": "<p>We're kicking off the first meetup of 2023 with a social at the Left Handed Giant Brewpub. We cannot reserve a table but I expect we'll be able to get somewhere given there are 2 levels - look for a couple of us with blue SWmobile t-shirts. I'll update the event to make a note of the table number/location.</p> <p>It's an informal meet and a great way of meeting fellow members and we'll cover your first drink. We'll talk about all things mobile, plans for the following year and things you'd like to see at SWmobile.</p> <p>While the majority of COVID issues seem to be behind us if you're feeling unwell please stay at home - there will be more events!</p> <p>We'll cover your 1st drink but you'll probably want some food either before or at the bar TBC</p> <p>If you have any questions or concerns please do get in touch with one of the organisers via meetup or ask in the SWmobile slack. Look forward to seeing you!</p> <p>P.s If you have ideas of talks or types of events you'd like to see and you cannot make this event please reply.</p> ",
     "end_time": 1675198800,
     "link": "https://www.meetup.com/swmobile/events/290284165/",
     "location": {
-        "address": null,
-        "city": "Bristol City",
+        "address": "Hawkins Lane",
+        "city": "Finzels",
         "country": "gb",
-        "latitude": 51.45380401611328,
-        "longitude": -2.591766119003296,
-        "name": "Bristol city centre"
+        "latitude": 51.45438003540039,
+        "longitude": -2.589401960372925,
+        "name": "Left Handed Giant Brewpub"
     },
     "org": "swmobile",
     "start_time": 1675191600,
