@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>We are kicking off 2023 in February with some brilliant speakers who will be taking the stage to chat about some exciting topics.</p> <p>On Wednesday 22nd February, we are hosting a double talk event with one speaker confirmed and another lined up and soon to be announced.</p> <p>The first speaker will be Sam Clift - Lead Engineer at Cookpad.<br/>Sam's talk is titled: How Cookpad Uses Sloth for SLOs<br/>Synopsis: \"Cookpad uses Sloth to create and manage our service SLOs. I'll talk about what SLOs are, how Cookpad used to write SLOs and how we now use Sloth to write them\".</p> <p>We are in talks with a number of other potential speakers so we are aiming to confirm this very shortly.</p> <p>We are excited to be back for our first 2023 event which, as always, will have complimentary drinks (beer and soft drinks) and food (pizza).</p> <p>Cookpad have been kind enough to host us in their event space.<br/>Location: 1 Broad Plain, Bristol, BS2 0JP</p> <p>The office is just off Old Market roundabout, a short walk from Temple Meads for those travelling in and close to a few centrally located car parks.</p> <p>I look forward to welcoming everyone back in February.</p> <p>Thanks,<br/>Steve</p> ",
+    "end_time": 1677096000,
+    "link": "https://www.meetup.com/bristol-cloud-native-devops/events/291206368/",
+    "location": {
+        "address": "1 Broad Plain",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454139709472656,
+        "longitude": -2.5822019577026367,
+        "name": "Cookpad"
+    },
+    "org": "Cloud-Native-DevOps",
+    "start_time": 1677090600,
+    "title": "2023 Cloud Native & DevOps Kick Off Event"
+}
