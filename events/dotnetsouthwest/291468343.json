@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>[In-person \ud83c\udfeb]</p> <p>We're delighted to host speaker Martin Thwaites, who will be talking about **Practical OpenTelemetry for .NET**. This will take place on the 8th March at the Just Eat office (2nd floor - Broad Quay House).</p> <p>We will be kicking things off at 6:30pm with some pizza and beers/refreshments and aiming to start the talk at 7pm.</p> <p>**The talk**<br/>OpenTelemetry is the biggest project to come out of The Cloud Native Compute Foundation since a little thing they did called \"Kubernetes\", and it's become the De Facto Standard for exporting telemetry data from your application. So how do you implement it? is it hard?</p> <p>In this talk, we'll go through Tracing, Metrics, and Logs from a .NET perspective. I'll show how easy and simple it is to implement, and give you the heads up on the gotchas you might face.</p> ",
+    "end_time": 1678305600,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/291468343/",
+    "location": {
+        "address": "Broad Quay",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45178985595703,
+        "longitude": -2.5969390869140625,
+        "name": "Just Eat"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1678300200,
+    "title": "Martin Thwaites - Practical OpenTelemetry for .NET"
+}
