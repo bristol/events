@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>AGENDA<br/>**18.00 \u2013 18:30 Meet &amp; Greet**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**18:30 - 19:30 Challenges Managing Data for the Funds Industry**</p> <p>**by Nigel Fulcher**, Development Manager at Broadridge.</p> <p>Broadridge FCS offers data, digital and regulatory solutions to leading asset managers and investment platforms. Nigel will speak about challenges with historic systems and how the team has built a new, extendable data platform using Azure.<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**19:30 - 20:00 Pizza and Networking**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**20:00 - Pub**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> ",
+    "end_time": 1677096000,
+    "link": "https://www.meetup.com/databristol/events/291620349/",
+    "location": {
+        "address": "Berkeley Place",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45613479614258,
+        "longitude": -2.6085519790649414,
+        "name": "Broadridge Fund Communication Solutions"
+    },
+    "org": "databristol",
+    "start_time": 1677088800,
+    "title": "Challenges Managing Data for the Funds Industry"
+}
