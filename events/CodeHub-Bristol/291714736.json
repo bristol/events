@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>For anyone interested in learning about SQL - the main language for relational databases - we are delighted to present 'An Intro to.....SQL', thanks to [James Rennison](<a href=\"https://www.linkedin.com/in/jamesrennison\" class=\"linkified\">https://www.linkedin.com/in/jamesrennison</a>) .</p> <p>Aimed at those with no, or a little, knowledge of SQL, James will explain:</p> <p>* what are relational databases<br/>* why do we use them<br/>* what are the key commands</p> <p>There will be examples and plenty of time to discuss the topics and ask questions.<br/>Kindly hosted at DeskLodge House as part of Workshop Wednesdays organised by our friends at [Womens Tech Hub](<a href=\"https://www.wthub.org/\" class=\"linkified\">https://www.wthub.org/</a>).</p> ",
+    "end_time": 1678307400,
+    "link": "https://www.meetup.com/codehub-bristol/events/291714736/",
+    "location": {
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44868850708008,
+        "longitude": -2.5871479511260986,
+        "name": "DeskLodge House"
+    },
+    "org": "CodeHub-Bristol",
+    "start_time": 1678300200,
+    "title": "CodeHub: Intro to SQL "
+}
