@@ -4,12 +4,12 @@
     "end_time": 1682364600,
     "link": "https://www.meetup.com/swmobile/events/291311520/",
     "location": {
-        "address": "Broad Quay",
+        "address": "2 Trinity Road, Avon Street",
         "city": "Bristol",
         "country": "gb",
-        "latitude": 51.45178985595703,
-        "longitude": -2.5969390869140625,
-        "name": "Just Eat"
+        "latitude": 51.452850341796875,
+        "longitude": -2.5830390453338623,
+        "name": "NatWest Accelerator"
     },
     "org": "swmobile",
     "start_time": 1682357400,
