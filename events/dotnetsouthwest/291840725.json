@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>[In-person \ud83c\udfeb]</p> <p>Continuing our run of in-person events, we're thrilled to welcome **James Eastham**, a Cloud Infrastructure Architect at Amazon Web Services.</p> <p>In his talk, we will explore the benefits of building serverless applications on AWS using .NET. We will discuss the advantages of serverless computing, including reduced costs, simplified deployment, and increased scalability. We will also cover how to use AWS Lambda, Amazon API Gateway, and other AWS services to build serverless applications.</p> <p>You will learn how to develop, test, and deploy serverless applications using .NET. By the end of this talk, you will have a solid understanding of how to build production ready, high performance serverless applications.</p> <p>We will be hosted in a new venue - excitingly its a new member of the community will be hosting us, and it's great to see the community expand. Details will follow shortly.</p> <p>As usual we'll have our giveaways, at the meetup, as well as refreshments provided by our hosts and sponsors.</p> ",
+    "end_time": 1681241400,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/291840725/",
+    "location": {
+        "address": "4 Portwall Lane",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.4494743347168,
+        "longitude": -2.588758945465088,
+        "name": "Jisc"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1681234200,
+    "title": "Build serverless applications on AWS with .NET"
+}
