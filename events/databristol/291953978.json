@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>AGENDA<br/>**18.00 \u2013 18:30 Meet &amp; Greet**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>**18:30 - 19:15 Adventures of an Analytics Engineer: Bringing Power BI to Databricks by Johnny Winter**</p> <p>Picture the scene... you've just joined a world-renowned data engineering practice with one of the THE cutting edge Data Lakehouse frameworks. And your imposter syndrome is running wild, as you're \"just the Power BI guy\". How can you bring your craft to the table whilst also drawing inspiration from the world class engineers you're surrounded by? This is the tale of Aggreg8. A Power BI framework designed to bring data ops and engineering principles to enterprise Power BI development, striving to be THE best way to implement Power BI on the Lakehouse.</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**19:15 - 19:45 Pizza and Networking**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>**19:45 - 20:30 Talking the \u201cPublic\u201d out of Public Clouds: Getting Started with Azure Private Endpoints by Grace O'Halloran**</p> <p>If you're working in the cloud, sooner or later you'll come across someone who cries out that the cloud is not secure, that your data is exposed to the internet as a whole. With the right structures in place, this is simply not true\u2026 but what are the right structures? How do you go about changing a public-facing resource into a private resource only accessible from your own networks, whilst still retaining all the benefits of the cloud? This is where private endpoints come in - they're a powerful tool you can use to secure your Azure data estate.<br/>\u00a0<br/>We\u2019ll begin by covering what a private endpoint is and why they make your platform more secure. We\u2019ll then go through the core elements required to facilitate private endpoint connectivity, including Private DNS Zones, A Records and Virtual Network Links. We\u2019ll also step through a demo of how to deploy and configure a private endpoint, and we\u2019ll wrap up by discussing some common mistakes to avoid when working with private endpoints.</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**20:30 - Pub**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> ",
+    "end_time": 1682020800,
+    "link": "https://www.meetup.com/databristol/events/291953978/",
+    "location": {
+        "address": "Berkeley Place",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45613479614258,
+        "longitude": -2.6085519790649414,
+        "name": "Broadridge Fund Communication Solutions"
+    },
+    "org": "databristol",
+    "start_time": 1682010000,
+    "title": "Power BI with Databricks, Azure Private Endpoints"
+}
