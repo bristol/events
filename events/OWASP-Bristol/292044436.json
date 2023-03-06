@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>A joint event, by OWASP Bristol and OWASP Suffolk.</p> <p>Injection vulnerabilities remain a common problem today. A single mistake could expose your whole database and customer data, or give an attacker the ability to remotely execute code on your server.</p> <p>We will look at some examples of coding mistakes that can lead to injection vulnerabilities, demonstrate how they can be found with vulnerability scanning tools, and discuss how they can be completely prevented from happening (more than simply hoping developers will use prepared queries or database abstractions correctly).</p> <p>Agenda:</p> <p>* OWASP updates<br/>* Injection Vulnerabilities talk</p> ",
+    "end_time": 1684872000,
+    "link": "https://www.meetup.com/owasp-bristol/events/292044436/",
+    "location": null,
+    "org": "OWASP-Bristol",
+    "start_time": 1684864800,
+    "title": "Injection Vulnerabilities, with OWASP Suffolk"
+}

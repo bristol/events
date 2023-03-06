@@ -1,10 +1,17 @@
 {
     "cancelled": false,
-    "description": "<p>tbc</p> ",
-    "end_time": 1686857400,
+    "description": "<p>In-person event, kindly **hosted by Immersive Labs**, 6th Floor, The Programme, All Saints' St, Bristol BS1 2LZ.<br/>Agenda:</p> <p>* OWASP Updates<br/>* Talk 1: Browser extension security, with Billy Sheppard from Immersive Labs<br/>* Break<br/>* Talk 2: Intro to Scripting for Web Application Testers with Alex Archondakis<br/>* Networking</p> <p>Venue:<br/>Photo shows the main entrance, which is visible when walking down the right hand side of the Tesco Express on Wine Street (Google Street View sometimes shows the back entrance, which is only accessible via keycard).<br/>Address: \u00a06th Floor, The Programme, All Saints' St, Bristol BS1 2LZ</p> <p>**Talk 1:** **A look into browser extension security**, the risks involved with allowing users to install browser extensions and browser security/attack vectors, presented by Billy Sheppard from Immersive Labs</p> <p>**Abstract**: As web technologies are becoming more and more popular, you need to be more careful about what you put in your browsers. While extensions can be very useful, they come with hidden dangers \u2013 users often prioritise functionality over safety. In this talk, you'll uncover the real risks of using extensions, explore common attacks, and learn about pitfalls. You'll also take a look at some real-life security incidents and what went wrong. You'll leave with a deeper understanding of the need for browser extension security and how to safeguard your browser.</p> <p>**Bio: Billy** Sheppard is a Bristol-based Senior Application Security Engineer working at Immersive Labs where he creates Secure Code content and challenges for their product.</p> <p>In his career thus far, he has earned several achievements including VDP submissions for Fortune 500 companies, Bug bounties, and created and released his own niche CTF/Hacking challenge specifically aimed at increasing security awareness for ServiceNow developers. He has also created a Web Security YouTube Channel to demonstrate security concepts and educate developers and reported multiple real security issues to VDPs/Bug Bounty Programs for large companies such as BBC, RedHat and Accenture. He is a keen learner and spends a lot of his personal time continuously learning and is passionate about education around secure code.</p> <p>Talk 2: **Intro to Scripting for Web Application Testers,** presented by Alex Archondakis</p> <p>Abstract, and bio for Alex to be confirmed.</p> ",
+    "end_time": 1686861000,
     "link": "https://www.meetup.com/owasp-bristol/events/290892060/",
-    "location": null,
+    "location": {
+        "address": "All Saints' Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.456138610839844,
+        "longitude": -2.5929958820343018,
+        "name": "Immersive Labs"
+    },
     "org": "OWASP-Bristol",
     "start_time": 1686850200,
-    "title": "TBC"
+    "title": "Browser Extension Security, and Scripting for Web Application Testers"
 }

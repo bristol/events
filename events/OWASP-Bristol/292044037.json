@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>For the past two years I've been using OWASP ZAP and PortSwigger's Burp Suite (Community Edition), switching between the two as I learned hacking techniques and took part in CTFs. Each has their own pros and cons, features I like, quirks, and even room for improvement.<br/>For this event we will be taking a slow walk through the interfaces and features of both tools side-by-side with both pointed at a vulnerable target.<br/>This will be an interactive session where you can ask questions throughout. This event is aimed at the beginner who wishes to know more about these two popular tools. This is an unbiased demonstration and both tools will be in an out-of-the-box state with no optional extras / add-ons / plugins installed.</p> <p>**Agenda:**</p> <p>* OWASP updates<br/>* Live interactive demonstration of ZAP and Burp Suite CE</p> <p>Disclaimer: As always our events are designed to educate. Any tools and techniques demonstrated are for informative purposes only. We do not endorse their use for malicious purposes.</p> <p>This talk will not be recorded.</p> ",
+    "end_time": 1682452800,
+    "link": "https://www.meetup.com/owasp-bristol/events/292044037/",
+    "location": null,
+    "org": "OWASP-Bristol",
+    "start_time": 1682445600,
+    "title": "OWASP Suffolk - ZAP and Burp the Walkthrough"
+}
