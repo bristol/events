@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>AGENDA<br/>**18.00 \u2013 18:30 Meet &amp; Greet**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>**18:30 - 19:15 Spark Execution Plans for Databricks** by **Falek Miah**</p> <p>Databricks is a powerful data analytics tool for data science and data engineering, but understanding how code is executed on cluster can be daunting.</p> <p>Using Spark execution plans allows you to understand the execution process and flow, this is great for optimizing queries and identifying bottlenecks.</p> <p>This session will introduce you to Spark execution plans, the execution flows and how to interrogate the different plans.</p> <p>By the end of this session, you will have everything you need to start optimizing your queries.</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**19:15 - 19:45 Pizza and Networking**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>**19:45 - 20:30 Ethical issues of generative AI** by **Miranda Mowbray**</p> <p>Nick Cave has said \"I have got the fire of hell in my eyes - and it's ChatGPT\".\u00a0<br/>([<a href=\"https://www.theredhandfiles.com/chat-gpt-what-do-you-think/](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/\" class=\"linkified\">https://www.theredhandfiles.com/chat-gpt-what-do-you-think/](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/</a>))<br/>I'll talk about some ethical issues of generative AI such as ChatGPT, Stable Diffusion and Copilot, including in particular algorithmic bias\u00a0and plausible inaccuracy. I'll give some suggestions towards avoiding a hellscape.</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**20:30 - Pub**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> ",
+    "end_time": 1687377600,
+    "link": "https://www.meetup.com/databristol/events/292111668/",
+    "location": {
+        "address": "Berkeley Place",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45613479614258,
+        "longitude": -2.6085519790649414,
+        "name": "Broadridge Fund Communication Solutions"
+    },
+    "org": "databristol",
+    "start_time": 1687366800,
+    "title": "Spark Execution Plans, Generative AI Ethics"
+}
