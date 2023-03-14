@@ -4,12 +4,12 @@
     "end_time": 1679520600,
     "link": "https://www.meetup.com/codehub-bristol/events/qblrctyfcfbmc/",
     "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448692321777344,
+        "longitude": -2.587148904800415,
+        "name": "DeskLodge House"
     },
     "org": "CodeHub-Bristol",
     "start_time": 1679509800,
