@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>We're back in April and we have a star in the PHP speaking world...</p> <p>James Titcumb will show us how to build a CI/CD pipeline to help us maintain and increase software quality over time.</p> <p>There are also spaces for lighting talks (anything up to 20mins. If you're keen to do one then drop us a line).</p> <p>\\-\\-\\-<br/>**Minimum Viable\u00a0PHPipeline**</p> <p>The honeymoon period is over, and your company or customer is demanding stability in your PHP applications.</p> <p>I'm going to talk about some essential strategies to set up Continuous Integration and Delivery pipelines to help maintain, and - over time - improve the quality of the software your team delivers.</p> <p>You'll learn about some of the tools necessary to set these pipelines up, basic design of CI pipelines, and some key strategies for automating deployments. I'll show you how having a solid CI/CD pipeline means that you can still deliver software fast, but with confidence that your deliverables are steadily getting better.</p> <p>\\-\\-\\-</p> <p>SR2 \u2013 Socially Responsible Recruitment (<a href=\"https://www.sr2rec.co.uk/\" class=\"linkified\">https://www.sr2rec.co.uk/</a>) are kindly helping us host this evening. Thanks to them!</p> <p>--<br/>Your first time coming to PHPSW? Welcome!</p> <p>Here's how the evening tends to run:</p> <p>* Feel free to turn up from 6:30pm.<br/>* We'll have a selection of soft drinks &amp; alcoholic drinks available from about 6:45pm, all free of charge thanks to our sponsors. It's a great chance to speak to people (we're a friendly bunch!) and do a bit of networking. Just speak to an organiser if you'd like an introduction to people, or just dive in and say \"hello!\".<br/>* At 7pm, we'll do a quick welcome talk and some community announcements<br/>* At \\~7:10pm we'll start our talks<br/>* We finish at \\~8:30pm. We always go for a drink somewhere afterwards to discuss the talks and anything else that takes your fancy.</p> ",
+    "end_time": 1681329600,
+    "link": "https://www.meetup.com/php-sw/events/292229506/",
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
+    "org": "phpsw",
+    "start_time": 1681321500,
+    "title": "Building quality code"
+}
