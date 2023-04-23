@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Our next meetup is May 10th. We have a talk all about Bref and Serverless from Ryan Lee.</p> <p>If you'd like to give a lightning talk, then please let us know and we'll get that booked in.</p> <p>\\-\\-\\-<br/>**A 'bref' talks about serverless php**</p> <p>A quick introduction to serverless, why you might want to use it and how it can be implemented using Bref PHP!<br/>\\-\\-\\-</p> <p>SR2 \u2013 Socially Responsible Recruitment (<a href=\"https://www.sr2rec.co.uk/\" class=\"linkified\">https://www.sr2rec.co.uk/</a>) are kindly helping us host this evening. Thanks to them!</p> <p>--<br/>Your first time coming to PHPSW? Welcome!</p> <p>Here's how the evening tends to run:</p> <p>* Feel free to turn up from 6:30pm.<br/>* We'll have a selection of soft drinks &amp; alcoholic drinks available from about 6:45pm, all free of charge thanks to our sponsors. It's a great chance to speak to people (we're a friendly bunch!) and do a bit of networking. Just speak to an organiser if you'd like an introduction to people, or just dive in and say \"hello!\".<br/>* At 7pm, we'll do a quick welcome talk and some community announcements<br/>* At \\~7:10pm we'll start our talks<br/>* We finish at \\~8:30pm. We always go for a drink somewhere afterwards to discuss the talks and anything else that takes your fancy.</p> ",
+    "end_time": 1683748800,
+    "link": "https://www.meetup.com/php-sw/events/293067898/",
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
+    "org": "phpsw",
+    "start_time": 1683740700,
+    "title": "Going serverless"
+}
