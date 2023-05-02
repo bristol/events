@@ -1,9 +1,16 @@
 {
     "cancelled": false,
-    "description": "<p>Way back in May 2012 Tom Spencer and I arranged our [first meetup](<a href=\"https://www.meetup.com/swmobile/events/62726372/\" class=\"linkified\">https://www.meetup.com/swmobile/events/62726372/</a>) at the Watershed to chat and gather interest to see if we could start a regular meetup about mobile development, design and ecosystem-based in the South West. A couple of months later in July, we hosted the first talk night and the rest is history!</p> <p>We missed the 10-year anniversary while the group was on hiatus after Covid so we're gonna go all in for this 10+1 anniversary.</p> <p>This is a placeholder for the event and we don't have specifics yet but I'm sure it'll be an awesome and informal night with members and speakers past and present.</p> <p>Save the date!</p> ",
+    "description": "<p>Way back in May 2012 Tom Spencer and I arranged our [first meetup](<a href=\"https://www.meetup.com/swmobile/events/62726372/\" class=\"linkified\">https://www.meetup.com/swmobile/events/62726372/</a>) at the Watershed to chat and gather interest to see if we could start a regular meetup about mobile development, design and ecosystem-based in the South West. A couple of months later in July, we hosted the first talk night and the rest is history!</p> <p>We missed the 10-year anniversary while the group was on hiatus after Covid so we're gonna go all in for this 10+1 anniversary event.</p> <p>This is an informal social event with a brief talk/speech to share some memories of SWmobile. There will be some food on hand but recommend eating beforehand. I've invited past organisers and speakers past and present.</p> <p>This event is more geared towards existing and regular SWmobile members but if you're new you are still very much welcome! any questions let me know in Slack or via meetup.</p> ",
     "end_time": 1684875600,
     "link": "https://www.meetup.com/swmobile/events/289688547/",
-    "location": null,
+    "location": {
+        "address": "17-18 King Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.451751708984375,
+        "longitude": -2.5945849418640137,
+        "name": "The Famous Royal Navy Volunteer"
+    },
     "org": "swmobile",
     "start_time": 1684864800,
     "title": "10+1 year anniversary of SW Mobile"
