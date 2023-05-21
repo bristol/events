@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>**Golang for beginners**</p> <p>Designed by Google, the Go programming language has become a popular choice for many tech companies such as Twitter, Uber and Netflix. In this interactive workshop you'll gain an understanding of the fundamentals you need to write your first Go program.</p> <p>No prior programming experience is required, the only thing you'll need is a laptop and a browser (and willingness to learn!)</p> <p>Brought to you by Norbert Metz: experienced Product Manager and software engineer.</p> ",
+    "end_time": 1685561400,
+    "link": "https://www.meetup.com/codehub-bristol/events/293675864/",
+    "location": {
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44868850708008,
+        "longitude": -2.5871479511260986,
+        "name": "DeskLodge House"
+    },
+    "org": "CodeHub-Bristol",
+    "start_time": 1685554200,
+    "title": "Golang for beginners @WorkshopWednesdays"
+}
