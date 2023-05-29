@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>On Wednesday 14th June, we are delighted to announce that George Peter Banyard, a revered member of the PHP Core team, will be sharing his unparalleled expertise on the PHP Type system at PHPSW.</p> <p>As well as the talk, we're going to trial a knowledge exchange session, this will be an informal session where you can share your knowledge with other members of PHPSW, more details to follow.</p> <p>\\-\\-\\-<br/>**PHP's Type System Dissected**<br/>George Peter Banyard (PHP Core Team member)</p> <p>PHP has added more and more types in the last couple of versions. But what is the meaning of a type, a type system, and a subtyping relation? In this talk, we will explain those words, and see what comprises the PHP type system, how it checks for types, how it uses and implements Liskov's Subtitution Principle (LSP) for it's subtyping relation, and how the strict_type declare affects PHP's type system.</p> <p>**Lightning talk**</p> <p>If you'd like to give a lighting talk (5-10mins), then let us know and we'll book you in.<br/>\\-\\-\\-</p> <p>SR2 \u2013 Socially Responsible Recruitment (<a href=\"https://www.sr2rec.co.uk/\" class=\"linkified\">https://www.sr2rec.co.uk/</a>) are kindly helping us host this evening. Thanks to them!</p> <p>--<br/>Your first time coming to PHPSW? Welcome!</p> <p>Here's how the evening tends to run:</p> <p>* Feel free to turn up from 6:30pm.<br/>* We'll have a selection of soft drinks &amp; alcoholic drinks available from about 6:45pm, all free of charge thanks to our sponsors. It's a great chance to speak to people (we're a friendly bunch!) and do a bit of networking. Just speak to an organiser if you'd like an introduction to people, or just dive in and say \"hello!\".<br/>* At 7pm, we'll do a quick welcome talk and some community announcements<br/>* At \\~7:10pm we'll start our talks<br/>* After the talk we'll have the knowledge exchange session<br/>* We finish at \\~8:30pm. We always go for a drink somewhere afterwards to discuss the talks and anything else that takes your fancy.</p> ",
+    "end_time": 1686772800,
+    "link": "https://www.meetup.com/php-sw/events/293842039/",
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
+    "org": "phpsw",
+    "start_time": 1686764700,
+    "title": "PHP Type system"
+}
