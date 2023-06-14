@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Join us at **Immersive Labs** in Bristol in July for an in-person South West Ruby meetup featuring:</p> <p>\ud83c\udf7a great food and drinks (sponsored by Immersive Labs)<br/>\ud83d\udcac talk by **Lewis Buckley (37signals) + 1 more TBC**</p> <p>**Schedule**</p> <p>18:00 - Arrive, grab a drink and some food, have a chat</p> <p>18:45 - **\"Hey, spam or ham?\" - Lewis Buckley**</p> <p>\"Running an email provider like HEY means dealing with the inevitable spam, both inbound and outbound. I'll show how we filter out spam in HEY and how this same system can be used by your Rails app.\"</p> <p>Lewis is a programmer at 37signals, in the Security, Infrastructure and Performance (SIP) team, working on Basecamp and HEY. He's a co-organizer of South West Ruby, and is now working remotely from south Devon.</p> <p>19:30 - **Talk TBC**</p> <p>20:00 - 21:00 - More mingling</p> <p>**Slack**</p> <p>If you'd like to join us on Slack please join Bristol &amp; Bath Ruby Slack (join link TBC) and find us in the #south-west-ruby channel</p> ",
+    "end_time": 1689796800,
+    "link": "https://www.meetup.com/south-west-ruby/events/294178141/",
+    "location": {
+        "address": "All Saints' Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 0,
+        "longitude": 0,
+        "name": "Immersive Labs"
+    },
+    "org": "south-west-ruby",
+    "start_time": 1689786000,
+    "title": "South West Ruby #43"
+}
