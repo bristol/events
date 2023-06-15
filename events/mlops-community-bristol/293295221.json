@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>\ud83d\udd0a Bristolian MLOps Community</p> <p>\ud83d\udcc5 Save the date</p> <p>Looking forward to our seventh Bristol Meetup!</p> <p>Talk 1: Building end-to-end MLOps pipelines [Aurimas Grici\u016bnas](<a href=\"https://www.linkedin.com/in/aurimas-griciunas/\" class=\"linkified\">https://www.linkedin.com/in/aurimas-griciunas/</a>)</p> <p>Talk 2: Making PyScript Magic: Creating interactive applications with Python in the browser [Valerio Maggio](<a href=\"https://www.linkedin.com/in/valeriomaggio/\" class=\"linkified\">https://www.linkedin.com/in/valeriomaggio/</a>)</p> <p>As usual \ud83c\udf7b and \ud83c\udf55 and a trip to the pub afterward.</p> <p>See you all soon!</p> ",
+    "end_time": 1684180800,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/293295221/",
+    "location": {
+        "address": "1 Broad Plain",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454139709472656,
+        "longitude": -2.5822019577026367,
+        "name": "Cookpad"
+    },
+    "org": "mlops-community-bristol",
+    "start_time": 1684170000,
+    "title": "MLOps Bristol - Meetup #7"
+}

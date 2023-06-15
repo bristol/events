@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Let's do it!</p> <p>This time we are bringing the MLOps.Community Bristol meetup to Ultraleap (<a href=\"https://www.ultraleap.com/\" class=\"linkified\">https://www.ultraleap.com/</a>).</p> <p>\ud83e\udd41 We will have two amazing talks \ud83e\udd41</p> <p>**\"Generics\" - MLOps Before it Was Cool - [Sam Jenkins](<a href=\"https://www.linkedin.com/in/sam-jenkins-7b421b173/\" class=\"linkified\">https://www.linkedin.com/in/sam-jenkins-7b421b173/</a>) from Ultraleap**</p> <p>Ultraleap has had a production ML Ops platform for over seven years, some might say \"before it was cool\". The system enables experimentation in deep learning computer vision models - and much more. It is the tooling and infrastructure that enables our world leading hand tracking. Our technology lets you use your hands to interact with the digital world in XR, interactive screens and enables our unique mid-air haptic solutions.</p> <p>This talk discusses the positives, negatives, and lessons learned from an ML Ops platform that has served a team of tens of engineers, deals with Petabyte scale data , 400,000 training runs over the best part of a decade, and compares against some modern solutions as we consider the evolution of our platform.</p> <p>**MLOPs on the Edge and cheating at Dobble - [Matt Squire](<a href=\"https://www.linkedin.com/in/matt-squire-a19896125/\" class=\"linkified\">https://www.linkedin.com/in/matt-squire-a19896125/</a>) from Fuzzy Labs**</p> <p>Deploying ML models to low-powered hardware brings a whole bunch of new challenges. In this talk I'll walk through how we trained a vision model to play a card game on an Nvidia Jetson Nano, and discuss the MLOPs tooling and approaches we used to make it happen.</p> <p>See you all very soon MLOpers</p> ",
+    "end_time": 1676577600,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/290195564/",
+    "location": {
+        "address": "Glass Wharf",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45209884643555,
+        "longitude": -2.580954074859619,
+        "name": "Ultraleap"
+    },
+    "org": "mlops-community-bristol",
+    "start_time": 1676570400,
+    "title": "MLOps Bristol - Meetup #4"
+}

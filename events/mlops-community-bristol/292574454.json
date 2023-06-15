@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>I know!</p> <p>We just had a meetup just a couple of weeks ago! \ud83c\udf89\ud83c\udf55\ud83c\udf7b</p> <p>Save the date because It is going to be \ud83e\udd2f .</p> <p>Talk 1 - [Neal Lathia](<a href=\"https://www.linkedin.com/in/nlathia/\" class=\"linkified\">https://www.linkedin.com/in/nlathia/</a>) , Staff Machine Learning Engineer at Monzo.</p> <p>Talk 2 - [Berndt Lindner](<a href=\"https://www.linkedin.com/in/berndt-lindner-00831652/\" class=\"linkified\">https://www.linkedin.com/in/berndt-lindner-00831652/</a>)\\, Lead data scientist \\| Director at Spataledge \\(UK\\)</p> <p>This event is brought to you by [neptune.ai](<a href=\"http://neptune.ai/\" class=\"linkified\">http://neptune.ai/</a>).</p> ",
+    "end_time": 1681412400,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/292574454/",
+    "location": {
+        "address": "1 Broad Plain",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454139709472656,
+        "longitude": -2.5822019577026367,
+        "name": "Cookpad"
+    },
+    "org": "mlops-community-bristol",
+    "start_time": 1681405200,
+    "title": "MLOps Bristol - Meetup #6"
+}

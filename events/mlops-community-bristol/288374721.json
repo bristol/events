@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>It is time again!</p> <p>We are very excited to announce our second MLOps Community Meetup in Bristol.</p> <p>The meetup will be hosted at Just Eat offices \ud83d\udc4f.</p> <p>**Just Eat offices are located at Broad Quay House, BS1 4DJ.** Head into reception (through the rotating doors/accessible entrance) to sign in. The meetup is on the 2nd floor. Lifts are available.</p> <p>There will be food, drink, and a couple of talks from some great speakers (Speakers confirmed and we will add their talks titles/abstracts soon).</p> <p>**Timetable:**<br/>**18:00:** Welcome drinks and food</p> <p>**18:30**: Talk 1 - **[Bernard Camus](<a href=\"https://www.linkedin.com/in/bernardcamus/\" class=\"linkified\">https://www.linkedin.com/in/bernardcamus/</a>)**</p> <p>**Dataiku: A review of lo-code MLOps**</p> <p>How I used Dataiku Lo-Code ML Ops to (unsuccessfully) predict the stock market, and some of the pitfalls I found along the way.</p> <p>**19:00**: Short Break</p> <p>**19:10**: Talk 2 - **[Jose Navarro](<a href=\"https://www.linkedin.com/in/jose-navarro-2a57b612/\" class=\"linkified\">https://www.linkedin.com/in/jose-navarro-2a57b612/</a>)** &amp; **[Prayana Galih](<a href=\"https://www.linkedin.com/in/prayana-galih-b7013b8/\" class=\"linkified\">https://www.linkedin.com/in/prayana-galih-b7013b8/</a>)**[ ](<a href=\"https://www.linkedin.com/in/prayana-galih-b7013b8/\" class=\"linkified\">https://www.linkedin.com/in/prayana-galih-b7013b8/</a>) from Cookpad:</p> <p>**Recipe to automate the deployment of your models into shared GPU Infrastructure**</p> <p>At the last Kubecon Europe conference, Jose and Prayana talked about how Nvidia Triton Inference Server had improved 3 pillars of their model deployment; cost-efficiency, performance, and user experience ([recording](<a href=\"https://www.youtube.com/watch?v=YMtLI1Ub85s\" class=\"embedded\">https://www.youtube.com/watch?v=YMtLI1Ub85s</a>)).</p> <p>In this talk, they will explain how they have recently improved user experience even further by integrating MLFlow Model Registry and Triton for a seamless and automated model deployment from the MLFlow UI.</p> <p>**19:40**: Social (Food/Drink)</p> <p>**20:30**(ish): Networking continues at a pub for those that wish.</p> <p>This event is brought to you by [neptune.ai](<a href=\"http://neptune.ai/\" class=\"linkified\">http://neptune.ai/</a>).</p> ",
+    "end_time": 1664307000,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/288374721/",
+    "location": {
+        "address": "Broad Quay",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.4517936706543,
+        "longitude": -2.596950054168701,
+        "name": "Just Eat"
+    },
+    "org": "mlops-community-bristol",
+    "start_time": 1664298000,
+    "title": "MLOps Bristol - Meetup #2"
+}

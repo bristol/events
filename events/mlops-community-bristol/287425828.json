@@ -1,0 +1,10 @@
+{
+    "cancelled": false,
+    "description": "<p>MLOps community meetup #112! On October 12, we will be talking to<br/>Suyash Joshi, Sr. Developer Advocate &amp; Creative Technologist of RingCentral, Inc. about Creative AI - Using ML to Create Art, Music, and Jokes.</p> <p>// Register at:<br/>[<a href=\"https://home.mlops.community/home/events](https://home.mlops.community/home/events\" class=\"linkified\">https://home.mlops.community/home/events](https://home.mlops.community/home/events</a>)</p> <p>// Abstract:<br/>Can AI be truly creative? Can model ML models augment human creativity? How do we leverage ML for creating works of Art, Music, and even Jokes?</p> <p>This presentation will answer these questions and more by carefully looking at various open source ML Models and understanding their strengths, drawbacks, and societal implications.</p> <p>It will also include live demos with code walkthroughs of creative projects using MusicVAE, GAN Art (StyleGan, pix2pix, GauGan), Naural StyleTransfer, SketchRNN, DALL-E mini, and transformer-based models for joke generation.</p> <p>// Bio:<br/>Suyash Joshi is a software engineer developer advocate based out of San Francisco. He brings extensive experience in web, mobile, and ML engineering and also enjoys making artful projects with code. He is also the organizer of Creative Technologist meetup community and often speaks at conferences, meetups, and writes articles about emerging technologies.</p> <p>// Final thoughts<br/>Please feel free to drop some questions you may have beforehand into our slack channel (<a href=\"https://go.mlops.community/slack\" class=\"linkified\">https://go.mlops.community/slack</a>)<br/>Watch some old meetups on our youtube channel:<br/><a href=\"https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ\" class=\"embedded\">https://www.youtube.com/channel/UCG6qpjVnBTTT8wLGBygANOQ</a></p> ",
+    "end_time": 1665594000,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/287425828/",
+    "location": null,
+    "org": "mlops-community-bristol",
+    "start_time": 1665590400,
+    "title": "Creative AI - Using ML to Create Art, Music, and Jokes"
+}

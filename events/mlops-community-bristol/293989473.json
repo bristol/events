@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>\ud83d\udd0a Bristolian MLOps Community</p> <p>\ud83d\udcc5 Save the date</p> <p>Looking forward to our next Bristol Meetup!</p> <p>This time we are hosting it in the amazing [Graphcore](<a href=\"https://www.graphcore.ai/\" class=\"linkified\">https://www.graphcore.ai/</a>) office!</p> <p>Graphcore will give us a talk on their latest offerings in MLOps. We will also have a second speaker that will be announced soon.</p> <p>As usual \ud83c\udf7b and \ud83c\udf55 and a trip to the pub afterward.</p> <p>See you all soon!</p> ",
+    "end_time": 1688670000,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/293989473/",
+    "location": {
+        "address": "Wine Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 0,
+        "longitude": 0,
+        "name": "Graphcore"
+    },
+    "org": "mlops-community-bristol",
+    "start_time": 1688662800,
+    "title": "MLOps Bristol - Meetup #8"
+}

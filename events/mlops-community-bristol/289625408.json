@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Save the date!</p> <p>For this meetup, we will be back at Cookpad's office where we have already 1 speaker confirmed.</p> <p>[Rafael d'Arce](<a href=\"https://www.linkedin.com/in/rafael-d-arce-921b5a197/\" class=\"linkified\">https://www.linkedin.com/in/rafael-d-arce-921b5a197/</a>) is a Machine Learning Engineer at Adarga and will speak about \"Version-controlled ML pipelines with Pachyderm\"</p> <p>Looking forward to seeing everyone!</p> ",
+    "end_time": 1670443200,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/289625408/",
+    "location": {
+        "address": "1 Broad Plain",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454139709472656,
+        "longitude": -2.5822019577026367,
+        "name": "Cookpad"
+    },
+    "org": "mlops-community-bristol",
+    "start_time": 1670436000,
+    "title": "MLOps Bristol - Meetup #3"
+}

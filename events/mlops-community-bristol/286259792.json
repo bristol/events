@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Come join us at Cookpad for the first meetup of the MLOps Bristol community!</p> <p>There will be food, drink, and a couple of talks from some great speakers.</p> <p>**Timetable:**<br/>**18:00:** Welcome drinks and food: Jose and Demetrios will be cooking \ud83e\udd41 \u2026 Vegetarian Paella \ud83e\udd58 for the early joiners! If you can\u2019t arrive around 6pm no worries, there will be other food options and, of course, cookies provided by [neptune.ai](<a href=\"http://neptune.ai/\" class=\"linkified\">http://neptune.ai/</a>) \ud83c\udf6a.</p> <p>**18:30**: Talk 1 - **Code Quality in Data Science** - **Laszlo Sragner**</p> <p>**19:00**: Short Break</p> <p>**19:10**: Talk 2 - **DevOps, Security and Observability in ML** - **Luke Marsden**</p> <p>**19:40**: Social (Food/Drink)</p> <p>**20:30**(ish): Networking continues at a pub for those that wish.</p> <p>**Talk Descriptions:**</p> <p>**Code Quality in Data Science - Laszlo Sragner**<br/>\"You hear a lot of advice on applying code craft paradigms to Machine Learning, but what exactly do you need to do? In this presentation, I will introduce a minimal set of techniques that will help you remove technical debt and make you more productive. I will talk about: Clean Architecture, Design Patterns, Code Smells, Refactoring, Code Readability<br/>and how these come together in a Data Science project.\"</p> <p>**DevOps, Security and Observability in ML** - **Luke Marsden**<br/>\"In this talk we'll look at how you can build:</p> <p>* MLOps processes<br/>* on top of tooling stacks<br/>* on top of infrastructure</p> <p>[Click here](<a href=\"https://app.simplenote.com/publish/D3pZXF\" class=\"linkified\">https://app.simplenote.com/publish/D3pZXF</a>) for a deeper dive into what we\u2019ll cover in these three points.</p> <p>Also, I'll give a sneak peek of something totally new we're working on.\"</p> <p>This event is brought to you by [neptune.ai](<a href=\"http://neptune.ai/\" class=\"linkified\">http://neptune.ai/</a>).</p> ",
+    "end_time": 1655407800,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/286259792/",
+    "location": {
+        "address": "1 Broad Plain",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454139709472656,
+        "longitude": -2.5822019577026367,
+        "name": "Cookpad"
+    },
+    "org": "mlops-community-bristol",
+    "start_time": 1655398800,
+    "title": "MLOps Bristol - Meetup #1"
+}

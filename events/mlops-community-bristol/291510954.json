@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>\ud83d\udd0a Bristolian MLOps Community</p> <p>\ud83d\udcc5 Save the date</p> <p>Looking forward to our fifth Bristol Meetup!</p> <p>Talk 1: Serverless architecture for MLOps from [Paul Hetherington](<a href=\"https://www.linkedin.com/in/paul-hetherington/\" class=\"linkified\">https://www.linkedin.com/in/paul-hetherington/</a>)</p> <p>*An overview of a multi model, multi environment, distributed computing architecture with heterogeneous GPUs.*</p> <p>Talk 2: Stay Fresh Cheese Bags: strategies for dealing with model drift in MLOps from [Thorben Louw](<a href=\"https://www.linkedin.com/in/thorbenlouw/\" class=\"linkified\">https://www.linkedin.com/in/thorbenlouw/</a>) and [Brian Mason](<a href=\"https://www.linkedin.com/in/brian-mason-3844534/\" class=\"linkified\">https://www.linkedin.com/in/brian-mason-3844534/</a>)</p> <p>As usual \ud83c\udf7b and \ud83c\udf55 and a trip to the pub afterward.</p> <p>See you all soon!</p> ",
+    "end_time": 1680120000,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/291510954/",
+    "location": {
+        "address": "1 Broad Plain",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.454139709472656,
+        "longitude": -2.5822019577026367,
+        "name": "Cookpad"
+    },
+    "org": "mlops-community-bristol",
+    "start_time": 1680109200,
+    "title": "MLOps Bristol - Meetup #5"
+}
