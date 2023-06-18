@@ -4,14 +4,14 @@
     "end_time": 1692820800,
     "link": "https://www.meetup.com/codehub-bristol/events/qblrctyfclbfc/",
     "location": {
-        "address": null,
-        "city": null,
-        "country": "",
-        "latitude": null,
-        "longitude": null,
-        "name": "Online event"
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448692321777344,
+        "longitude": -2.587148904800415,
+        "name": "DeskLodge House"
     },
     "org": "CodeHub-Bristol",
-    "start_time": 1692810000,
+    "start_time": 1692811800,
     "title": "Python Code Dojo"
 }
