@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>On Wednesday 12th July we have Naomi Gotts talking to us all about Test Driven Development, why it matters, and how to sell it to a non technical audience.</p> <p>As well as the talks, we'll continue with the knowledge sharing session. If you have a PHP problem that you're stuck on then let us know, and hopefully someone in the meetup will be able to help.</p> <p>\\-\\-\\-<br/>**What is TDD and why should I care?**<br/>(How to explain TDD to a non-technical audience)<br/>*[Naomi Gotts](<a href=\"https://twitter.com/naomigo\" class=\"linkified\">https://twitter.com/naomigo</a>)*</p> <p>To the non-technical world, TDD is just another acronym that developers drop into conversations every now and then. For those of us on the technical side of the fence, we know that being able to work test-first is a skill. A skill that takes practice and perseverance to hone and reap the benefits from. But why should our business stakeholders care about helping and supporting us on our TDD journeys?</p> <p>As developers we are often faced with the challenge of having to explain technical subjects to non-technical colleagues. This talk will delve into the business case for TDD, explaining why it is important and using an interactive example to demonstrate how it helps improve development flow. It will leave attendees with a specific example and a more generic overall approach to presenting technical topics to non-technical audiences.</p> <p>**Lightning talk**</p> <p>If you'd like to give a lighting talk (5-10mins), then let us know and we'll book you in.<br/>\\-\\-\\-</p> <p>SR2 \u2013 [Socially Responsible Recruitment](<a href=\"https://www.sr2rec.co.uk/\" class=\"linkified\">https://www.sr2rec.co.uk/</a>) are kindly helping us host this evening. Thanks to them!</p> <p>We'd like to introduce our latest sponsor, the [Roave team](<a href=\"https://roave.com/\" class=\"linkified\">https://roave.com/</a>). They are offering a speaker sponsorship fund. This covers travel and accommodation costs for our amazing speakers coming from outside the Southwest!</p> <p>--<br/>Your first time coming to PHPSW? Welcome!</p> <p>Here's how the evening tends to run:</p> <p>* Feel free to turn up from 6:30pm.<br/>* We'll have a selection of soft drinks &amp; alcoholic drinks available from about 6:45pm, all free of charge thanks to our sponsors. It's a great chance to speak to people (we're a friendly bunch!) and do a bit of networking. Just speak to an organiser if you'd like an introduction to people, or just dive in and say \"hello!\".<br/>* At 7pm, we'll do a quick welcome talk and some community announcements<br/>* At \\~7:10pm we'll start our talks<br/>* After the talk we'll have the knowledge exchange session<br/>* We finish at \\~8:30pm. We always go for a drink somewhere afterwards to discuss the talks and anything else that takes your fancy.</p> ",
+    "end_time": 1689192000,
+    "link": "https://www.meetup.com/php-sw/events/294294411/",
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
+    "org": "phpsw",
+    "start_time": 1689183900,
+    "title": "PHP Type system"
+}
