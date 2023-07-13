@@ -1,9 +1,16 @@
 {
     "cancelled": false,
-    "description": "<p>After our fantastically successfull 100th event, we're returning with a bang! We're joined by the excellend **Eli Holderness** to talk about WebAuthn, and gently poke fun in a constructive way at how everyone does Passwords. Eli is a developer Advocate at Scaleway and when she's not speaking at meetups and conferences, she can be found streaming and generally being awesome in the community.</p> <p>**About the talk:**</p> <p>Passwords are a pain, and we all know it. They're either insecure or impossible to remember, and password managers can only go so far. How can we do better? The answer is WebAuthn. WebAuthn is set of standards that allows you to use hardware authentication tokens (like a YubiKey) to authenticate with web services, and it's absolutely magic.</p> <p>Join us for a deep dive on what WebAuthn actually is, how it works, and how to implement it in your own web services. We'll also discuss the practicalities of using hardware tokens in practice, the protocols they use to interface with your devices, and the mysterious cryptography that they use to keep you safe.</p> <p>This will be an in-person event, and we'll post the venue details soon.</p> ",
+    "description": "<p>After our fantastically successfull 100th event, we're returning with a bang! We're joined by the excellend **Eli Holderness** to talk about WebAuthn, and gently poke fun in a constructive way at how everyone does Passwords. Eli is a developer Advocate at Scaleway and when she's not speaking at meetups and conferences, she can be found streaming and generally being awesome in the community.</p> <p>**About the talk:**</p> <p>Passwords are a pain, and we all know it. They're either insecure or impossible to remember, and password managers can only go so far. How can we do better? The answer is WebAuthn. WebAuthn is set of standards that allows you to use hardware authentication tokens (like a YubiKey) to authenticate with web services, and it's absolutely magic.</p> <p>Join us for a deep dive on what WebAuthn actually is, how it works, and how to implement it in your own web services. We'll also discuss the practicalities of using hardware tokens in practice, the protocols they use to interface with your devices, and the mysterious cryptography that they use to keep you safe.</p> <p>This will be an in-person event, hosted this time by our sponsors directly, details below.</p> <p>Looking foward to what will be an excellent evening</p> ",
     "end_time": 1690315200,
     "link": "https://www.meetup.com/dotnetsouthwest/events/294426467/",
-    "location": null,
+    "location": {
+        "address": "Lewins Mead",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.456390380859375,
+        "longitude": -2.596242904663086,
+        "name": "iO Associates - UK"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1690308000,
     "title": "Beyond Passwords: How WebAuthn Actually Works [\ud83c\udfeb In-person]"
