@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>We're coming back - and in person.</p> <p>Speakers:</p> <p>\ud83d\udde3\ufe0f Kyle Welch - Spinning a New Era: Microservices with WebAssembly</p> <p>Spin is a framework for building event driven microservice applications with WebAssembly. We'll be taking Spin for a spin and talking about some of the benefits to building our applications on top of WebAssembly.</p> <p>Kyle is a Technical Lead at Tumelo. Initially more focussed JS/TS and all things Web, he's found himself getting closer and closer to Go in the past few years.</p> <p>\ud83d\udde3\ufe0f TBC</p> <p>\u23f0 Schedule (possibly):</p> <p>* 18:00-18:05 intro/welcome<br/>* 18:05-18:35 first speaker<br/>* 18:35-18:45 small break<br/>* 18:45-19:15 second speaker<br/>* 19:15-19:30 farewell/next event info</p> <p>\u2764\ufe0f Sponsors</p> <p>* Tumelo (venue)<br/>* TBC (food/drinks)</p> <p>\ud83d\udccd - Runway East</p> ",
+    "end_time": 1692210600,
+    "link": "https://www.meetup.com/golang-bristol/events/294370340/",
+    "location": {
+        "address": "1 Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.4532356262207,
+        "longitude": -2.5910940170288086,
+        "name": "Runway East Bristol Bridge"
+    },
+    "org": "golang",
+    "start_time": 1692205200,
+    "title": "Go Talks - August"
+}
