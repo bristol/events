@@ -1,7 +1,7 @@
 {
     "cancelled": false,
     "description": "<p>[In-person \ud83c\udfeb]</p> <p>During August, as it's the summer holidays, we're getting a fun talk from the fantastic Mike Irving!</p> <p>**.NET, Hedgehogs and IoT** \\- Mike Irving</p> <p>Using C# / .NET Technologies and IoT to curate and automate video footage of garden hedgehogs. An experimental journey through device access, cloud storage, serverless functions, and a public website. With an insight into problem-solving changes necessary to bring the code cross-platform to run on Linux on a Raspberry Pi. Later in the talk, we will look at motion detection and image recognition. A light hearted look through a project that evolved fluidly, with no set plan, open sourced and at low cost.</p> <p>We'll be hosted by the lovely folks at iO associates who will be providing refreshments - look forward to seeing you there!</p> ",
-    "end_time": 1692129600,
+    "end_time": 1692127800,
     "link": "https://www.meetup.com/dotnetsouthwest/events/295066920/",
     "location": {
         "address": "Lewins Mead",
@@ -12,6 +12,6 @@
         "name": "iO Associates - UK"
     },
     "org": "dotnetsouthwest",
-    "start_time": 1692122400,
+    "start_time": 1692120600,
     "title": ".NET, IoT and Hedgehogs!"
 }
