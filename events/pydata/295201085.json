@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>\u26f1\ufe0f PyData Bristol - Summer Social \u26f1\ufe0f</p> <p>[Generated using HuggingChat]:<br/>Join us for our annual summer social at the Left Handed Giant Brewpub \\| Finzel's Reach Bristol\\! We'll have delicious wood\\-fired pizzas available all night long\\, along with plenty of cold drinks to keep you cool on this hot summer evening\\. This event is open to everyone \\- whether you're part of our regular group or just looking to make some new friends over a slice of cheesy goodness\\. Come by yourself or bring your whole crew \\- we can't wait to see you there\\!</p> <p>Next lectures session will start on September so if you would like to speak at that event or at a future event - please fill out this form: <a href=\"https://goo.gl/forms/8lsz1WA1986Ahbbs1\" class=\"linkified\">https://goo.gl/forms/8lsz1WA1986Ahbbs1</a></p> <p># \ud83d\udd56 LOGISTICS</p> <p>We will meeting at Left Handed Giant Brewpub \\| Finzel's Reach Bristol\\, You should be able to spot the organisers there\\.<br/>If you realise you can't make it, please un-RSVP in good time so we know roughly how many of us will be there.<br/>Follow @pydatabristol (<a href=\"https://twitter.com/pydatabristol\" class=\"linkified\">https://twitter.com/pydatabristol</a>) for updates on this and future events, as well as news from the global PyData community.</p> <p># \ud83d\udcdc CODE OF CONDUCT</p> <p>The PyData Code of Conduct governs this meetup (<a href=\"https://pydata.org/code-of-conduct/\" class=\"linkified\">https://pydata.org/code-of-conduct/</a>). To discuss any issues or concerns relating to the code of conduct or behavior of anyone at the PyData meetup, please contact the PyData Bristol organisers, or you can submit a report of any potential Code of Conduct violation directly to NumFOCUS (<a href=\"https://numfocus.typeform.com/to/ynjGdT\" class=\"linkified\">https://numfocus.typeform.com/to/ynjGdT</a>).</p> ",
+    "end_time": 1692910800,
+    "link": "https://www.meetup.com/pydata-bristol/events/295201085/",
+    "location": {
+        "address": "Hawkins Lane",
+        "city": "Finzels",
+        "country": "gb",
+        "latitude": 51.45438003540039,
+        "longitude": -2.589401960372925,
+        "name": "Left Handed Giant Brewpub"
+    },
+    "org": "pydata",
+    "start_time": 1692901800,
+    "title": "PyData Bristol - Summer Social \u26f1\ufe0f"
+}
