@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>After the summer break, we're back in September with a night of lightning talks.</p> <p>If you want to give a talk, then please get in touch. You can talk about anything related to PHP or the wider eco-system (talks can be between 5 and 20 minutes long).</p> <p>If you'd like to give a talk then let us know. This is a great opportunity for giving your first talk, if that's something you'd like to do.</p> <p>\\-\\-\\-</p> <p>SR2 \u2013 Socially Responsible Recruitment (<a href=\"https://www.sr2rec.co.uk/\" class=\"linkified\">https://www.sr2rec.co.uk/</a>) and Basekit (<a href=\"https://www.basekit.com/\" class=\"linkified\">https://www.basekit.com/</a>) are kindly helping us host this evening. Thanks to them!</p> <p>--</p> <p>Your first time coming to PHPSW? Welcome!</p> <p>Here's how the evening tends to run:</p> <p>* Feel free to turn up from 6:30pm.<br/>* We'll have a selection of soft drinks &amp; alcoholic drinks available from about 6:45pm, all free of charge thanks to our sponsors. It's a great chance to speak to people (we're a friendly bunch!) and do a bit of networking. Just speak to an organiser if you'd like an introduction to people, or just dive in and say \"hello!\".<br/>* At 7pm, we'll do a quick welcome talk and some community announcements<br/>* At \\~7:10pm we'll start our talks<br/>* We finish at \\~8:30pm. We always go for a drink somewhere afterwards to discuss the talks and anything else that takes your fancy.</p> ",
+    "end_time": 1694635200,
+    "link": "https://www.meetup.com/php-sw/events/295678874/",
+    "location": {
+        "address": "One Castlepark Tower Hill",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45514678955078,
+        "longitude": -2.58434796333313,
+        "name": "BaseKit"
+    },
+    "org": "phpsw",
+    "start_time": 1694627100,
+    "title": "Lightning talks night"
+}
