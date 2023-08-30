@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Sponsored by Amdaris - [<a href=\"https://amdaris.com](https://amdaris.com\" class=\"linkified\">https://amdaris.com](https://amdaris.com</a>)</p> <p>Amdaris is your trusted partner for high velocity extended delivery teams.</p> <p>Location: Amdaris, Finzels Reach, Aurora, Bristol BS1 6BX</p> <p>AGENDA</p> <p>**18.00 \u2013 18:30 Meet &amp; Greet**</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>**18:30 - 19:15 Introduction to tuning spark on databricks and fabric** by **Niall Langley**</p> <p>More details coming soon<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>**19:15 - 19:45 Pizza and Networking**</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>**19:45 - 20:30 TBC**</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>**20:30 - Pub**</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>**About Amdaris**</p> <p>Of course, we\u2019re obsessed with cutting-edge technology but it\u2019s how much we care about people that sets us apart. Whether that\u2019s looking after our clients, our staff or the next generation of tech talent, we know that exceptional software development is only possible with exceptional teamwork.</p> <p>**If you need help extending your team, building your big idea or application support, we offer a better way to do software.**</p> ",
+    "end_time": 1694721600,
+    "link": "https://www.meetup.com/databristol/events/295786274/",
+    "location": {
+        "address": "Finzels Reach",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45358657836914,
+        "longitude": -2.5879149436950684,
+        "name": "Amdaris"
+    },
+    "org": "databristol",
+    "start_time": 1694710800,
+    "title": "Databricks and Fabric"
+}
