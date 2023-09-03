@@ -1,8 +1,8 @@
 {
     "cancelled": false,
     "description": "<p>These sessions are now run \ud83c\udf89\ud83c\udf89 in person \ud83c\udf89\ud83c\udf89</p> <p>The Python Dojo is a, non-competitive, mixed group coding session, where people of all levels are welcome.</p> <p>The dojo is hosted by Ray in collaboration with the Women's Tech Hub and Code Hub, they usually occur either online (like this one) or during Workshop Wednesdays at Desk lodge house.</p> <p>There is no barrier to entry other than a browser and discord (<a href=\"https://discord.gg/qEvWWXG9xh\" class=\"linkified\">https://discord.gg/qEvWWXG9xh</a>). A replit account and laptop are recommended but not essential, (you do not need to have python installed).</p> <p>What is a Code Dojo?</p> <p>At a dojo both masters and students hone their chosen discipline through practice and group reflection, ours is python! We allow for people of all levels to share knowledge, experience and give support</p> <p>People who train in martial arts attend dojos, where they practice and try to expand their skills and achieve self-improvement. The idea is that in order to become an expert in anything you need to repeatedly perform deliberate practice. Dojos are also places where people of variable experience levels can engage with each other, share knowledge and give support.</p> <p>Our Dojo was inspired by the London Python Dojo (<a href=\"http://ldnpydojo.org.uk/\" class=\"linkified\">http://ldnpydojo.org.uk/</a>) (who seem to be no longer running.)</p> <p>A typical session at the dojo looks like:</p> <p>Arrive, meet and chat.</p> <p>Attendees suggest topics/ exercises to work on in the ideas discord channel.</p> <p>Vote to decide on 1 exercise to work on</p> <p>Split into teams of roughly 2-4 people, usually all teams will have at least one expert.</p> <p>Each team works together (using Python) to solve the exercise at hand.</p> <p>Each team presents their (complete or incomplete!) solution, talking through their creative process and explaining their chosen solutions to problems they encountered.</p> <p>Things to note:</p> <p>Even if you don't have much experience and only know some basics you can still participate and improve. You don't need to have Python installed, as our sessions use replit, an online interpreter and IDE.</p> <p>Please aim to arrive on time so we can get started earlier.</p> <p>We spend roughly the first 20 minutes making introductions and voting on ideas, so we will form teams and get started on the exercise within half an hour at the latest.</p> <p>Previous sessions (including code) can be found on the Python dojo discord (<a href=\"https://discord.gg/qEvWWXG9xh\" class=\"linkified\">https://discord.gg/qEvWWXG9xh</a>)</p> <p>All things coding related can be discussed on the Codehub slack workspace or the discord.</p> ",
-    "end_time": 1695240000,
-    "link": "https://www.meetup.com/codehub-bristol/events/295723014/",
+    "end_time": 1709758800,
+    "link": "https://www.meetup.com/codehub-bristol/events/pspvgtygcfbjb/",
     "location": {
         "address": "2 Redcliffe Way",
         "city": "Bristol",
@@ -12,6 +12,6 @@
         "name": "DeskLodge House"
     },
     "org": "CodeHub-Bristol",
-    "start_time": 1695231000,
+    "start_time": 1709749800,
     "title": "Python Code Dojo"
 }
