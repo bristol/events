@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Please visit <a href=\"https://sqlbits.com/\" class=\"linkified\">https://sqlbits.com/</a> for information and tickets.</p> ",
+    "end_time": 1711213200,
+    "link": "https://www.meetup.com/databristol/events/296102786/",
+    "location": {
+        "address": "Etps Road",
+        "city": "Farnborough",
+        "country": "gb",
+        "latitude": 51.275543212890625,
+        "longitude": -0.7610499858856201,
+        "name": "Farnborough International Exhibition and Conference Centre"
+    },
+    "org": "databristol",
+    "start_time": 1710838800,
+    "title": "SQLBits 2024"
+}

@@ -1,9 +1,16 @@
 {
     "cancelled": false,
     "description": "<p>Join us at a full day of seminars for some training, networking, and food.</p> <p>**You must register at [<a href=\"http://datarelay.co.uk/events\" class=\"linkified\">http://datarelay.co.uk/events</a> ](<a href=\"http://datarelay.co.uk/events\" class=\"linkified\">http://datarelay.co.uk/events</a>)**</p> <p>Sign up to this event for messages from us about it, and to see who else from our meetup is going that you may know.</p> ",
-    "end_time": 1696411800,
+    "end_time": 1696435200,
     "link": "https://www.meetup.com/databristol/events/291953631/",
-    "location": null,
+    "location": {
+        "address": "Bond Street",
+        "city": "Bristol City",
+        "country": "gb",
+        "latitude": 51.45820236206055,
+        "longitude": -2.583570957183838,
+        "name": "Future Inn Bristol Cabot Circus"
+    },
     "org": "databristol",
     "start_time": 1696404600,
     "title": "Data Relay Bristol"
