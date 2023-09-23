@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>We're super excited to continue our series of Golang talks.</p> <p>Speakers:</p> <p>\ud83d\udde3\ufe0f TBC</p> <p>\ud83d\udde3\ufe0f TBC</p> <p>\u23f0 Schedule (possibly):</p> <p>* 18:00-18:05 intro/welcome<br/>* 18:05-18:35 first speaker<br/>* 18:35-18:45 small break<br/>* 18:45-19:15 second speaker<br/>* 19:15-19:30 farewell/next event info</p> <p>\u2764\ufe0f Sponsors</p> <p>* Tumelo (venue)<br/>* Formula Recruitment (food/drinks)</p> <p>\ud83d\udccd - Runway East</p> ",
+    "end_time": 1697653800,
+    "link": "https://www.meetup.com/golang-bristol/events/296248999/",
+    "location": {
+        "address": "1 Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.4532356262207,
+        "longitude": -2.5910940170288086,
+        "name": "Runway East Bristol Bridge"
+    },
+    "org": "golang",
+    "start_time": 1697648400,
+    "title": "Golang Talks @ RWE"
+}
