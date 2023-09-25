@@ -1,9 +1,16 @@
 {
     "cancelled": false,
-    "description": "<p>We're back, somewhere near Queen Square, exact details to be confirmed Soon\u2122... but it should at least be on Tuesday 17th October!</p> ",
+    "description": "<p>We're back, on Tuesday 17th October, at Sage Bristol (near Queen Square).</p> <p>Chris Goff will talk about \"**Secure by Design and by Default**\", and Daniel Billing has a talk on \"**Exploring Security**\".</p> <p>More details to be confirmed Soon\u2122.</p> ",
     "end_time": 1697569200,
     "link": "https://www.meetup.com/owasp-bristol/events/295904341/",
-    "location": null,
+    "location": {
+        "address": "25 Marsh Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.452354431152344,
+        "longitude": -2.5962018966674805,
+        "name": "Prologue Works"
+    },
     "org": "OWASP-Bristol",
     "start_time": 1697562000,
     "title": "October Meetup"
