@@ -1,10 +1,10 @@
 {
     "cancelled": false,
     "description": "<p>Sadly being postpone. Details for next event will come soon, stay tuned! &lt;3</p> ",
-    "end_time": 1695929400,
+    "end_time": 1698346800,
     "link": "https://www.meetup.com/pydata-bristol/events/296142623/",
     "location": null,
     "org": "pydata",
-    "start_time": 1695920400,
-    "title": "PyData Bristol - 26th Meetup (Postponed date will be changing)"
+    "start_time": 1698339600,
+    "title": "PyData Bristol - 26th Meetup (Postponed, Placeholder Date, the date may change)"
 }
