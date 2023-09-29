@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Really looking forward to the October edition of the .Net South West Meet Up!</p> <p>We have the amazing David Whitney joining us and giving his talk on **Intentional Code - Minimalism in a World of Dogmatic Design.**</p> <p>**The talk:**</p> <p>A brief history of Design in software, reflecting on the history of the design patterns movement, clean code, and the long shadow they have cast over software development in the 2010s and beyond.</p> <p>In this session we'll talk about intentionality in software design - and how you can radically simplify the way you build applications today to make them more meaningful to the humans that maintain them.</p> <p>A radical look into why \\*every single character matters\\*, and why you should probably burn your copies of Clean Code.</p> <p>We are extremely grateful to be hosted by Amdaris in their amazing offices.</p> <p>Amdaris, an insight company, and at our core we specialise in extending teams with highly skilled software experts. With bespoke Software Development, Product Design, Strategy and Consultation, Managed Services and Data Solutions, we seamlessly integrate into your business and culture, bringing passion, care, and technical proficiency directly to you.</p> ",
+    "end_time": 1697052600,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/296429949/",
+    "location": {
+        "address": "Finzels Reach",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45358657836914,
+        "longitude": -2.5879149436950684,
+        "name": "Amdaris"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1697045400,
+    "title": "Intentional Code - Minimalism in a World of Dogmatic Design"
+}
