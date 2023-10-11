@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Workshop Wednesdays provide anyone with an interest in programming, data and web development an opportunity to advance their skills and knowledge in person.</p> <p>This week we're running our ever popular [Python Code Dojo](<a href=\"https://www.meetup.com/codehub-bristol/events/296409140/\" class=\"linkified\">https://www.meetup.com/codehub-bristol/events/296409140/</a>), a non-competitive, mixed group coding session, where people of all levels are welcome.</p> <p>Alternatively, if you just want to use the opportunity to study, have a chat with like-minded people, or perhaps you seek feedback on your ideas or just interested in socialising with people from the technology industry, come and hang out with us.</p> <p>Our eternal gratitude goes to [Womens Tech Hub](<a href=\"https://www.wthub.org/\" class=\"linkified\">https://www.wthub.org/</a>) for organising and making this happen.</p> ",
+    "end_time": 1697657400,
+    "link": "https://www.meetup.com/codehub-bristol/events/296685810/",
+    "location": {
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44868850708008,
+        "longitude": -2.5871479511260986,
+        "name": "DeskLodge House"
+    },
+    "org": "CodeHub-Bristol",
+    "start_time": 1697650200,
+    "title": "CodeHub @WorkshopWednesdays"
+}
