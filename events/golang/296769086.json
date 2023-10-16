@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>We're super excited to continue our series of Golang talks.</p> <p>Speakers:</p> <p>\ud83d\udde3\ufe0f Dafydd Thomas - TLS and SSH certificates in practice with go</p> <p>Dafydd has been working on a project for the last year where he's needed to dynamically create SSH and TLS certificates. Dafydd used to think of TLS or any certificate based authentication as a black box of magic, but having some hands-on experience has made it less bewildering.</p> <p>Dafydd is a senior software engineer at Grafana Labs. He has been working primarily in go for about five years. Outside of work, he spends his time running around the countryside with his dog, and raising his two year old child.</p> <p>\ud83d\udde3\ufe0f TBC</p> <p>\u23f0 Schedule (possibly):</p> <p>* 18:00-18:15 welcome/pizza/intro<br/>* 18:15-18:45 first speaker<br/>* 18:45-18:50 small break<br/>* 18:50-19:20 second speaker<br/>* 19:15-19:30 farewell/next event info</p> <p>\u2764\ufe0f Sponsors</p> <p>* Tumelo (venue)<br/>* Formula Recruitment (food/drinks)</p> <p>\ud83d\udccd - Runway East</p> ",
+    "end_time": 1700076600,
+    "link": "https://www.meetup.com/golang-bristol/events/296769086/",
+    "location": {
+        "address": "1 Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.4532356262207,
+        "longitude": -2.5910940170288086,
+        "name": "Runway East Bristol Bridge"
+    },
+    "org": "golang",
+    "start_time": 1700071200,
+    "title": "Golang Talks @ RWE"
+}
