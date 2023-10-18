@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Learn how to build a simple browser game using JavaScript! We'll review the basics of web development, including HTML and CSS, followed by a deep dive into manipulating the HTML DOM using JavaScript.</p> <p>No programming experience required, the only thing you'll need is a laptop and a willingness to get stuck in.</p> <p>Agenda:</p> <p>* 18:00 - 18:30 Arrival, intros and social<br/>* 18:30 - 20:20 JavaScript Workshop<br/>* 20:20 - 20:30 Wrapping up</p> <p>Please try to arrive by 18:30 or let us know in advance if you're running late.</p> ",
+    "end_time": 1698870600,
+    "link": "https://www.meetup.com/codehub-bristol/events/296819601/",
+    "location": {
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448692321777344,
+        "longitude": -2.587148904800415,
+        "name": "DeskLodge House"
+    },
+    "org": "CodeHub-Bristol",
+    "start_time": 1698863400,
+    "title": "JavaScript for Beginners - Let's build a game!"
+}
