@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Robin Fewster is going to start with a talk on **Threat modelling**,</p> <p>After the break, we will have a semi-structured **discussion** on **Threat Modeling in Practice**. the intention is to draw on the experiences of everyone in the room to learn more about the subject.</p> <p>\\-\\-\\-</p> <p>Drawing on some client experiences, Robin will discuss different threat modelling approaches and tools available, and how they went down with development teams.</p> <p>Robin Fewster has spent the last 21 years working in cyber security. His current role is\u00a0 Senior Security Testing Manager at Hargreaves Lansdown. Robin has spoken at various OWASP chapter events over the years, and used to be a chapter leader for OWASP Newcastle. Current interests are application security, specifically AI and threat modeling.\u00a0</p> ",
+    "end_time": 1701201600,
+    "link": "https://www.meetup.com/owasp-bristol/events/296990209/",
+    "location": {
+        "address": "Anchor Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.4503059387207,
+        "longitude": -2.602713108062744,
+        "name": "Hargreaves Lansdown"
+    },
+    "org": "OWASP-Bristol",
+    "start_time": 1701194400,
+    "title": "November Meetup - Threat modelling"
+}
