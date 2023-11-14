@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Hi everyone,</p> <p>Apologies, we couldn't find a venue for November's Meetup \ud83d\ude25.</p> <p>However, we have a venue agreed for January and 2 speakers \ud83d\udc83. We will publish the event soon.</p> <p>In the meantime, let's go for a social! we can talk MLOps with some drinks.</p> <p>[Venue Menu](<a href=\"http://www.lhgbrewpub.com/our-food\" class=\"linkified\">http://www.lhgbrewpub.com/our-food</a>)</p> <p>Looking forward to seeing everyone!<br/>Jose</p> ",
+    "end_time": 1701378000,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/297355108/",
+    "location": {
+        "address": "Hawkins Lane",
+        "city": "Finzels",
+        "country": "gb",
+        "latitude": 51.45438003540039,
+        "longitude": -2.589401960372925,
+        "name": "Left Handed Giant Brewpub"
+    },
+    "org": "mlops-community-bristol",
+    "start_time": 1701367200,
+    "title": "Bristol MLOps Social "
+}
