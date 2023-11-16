@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Our continued support of women in data extends to a great upcoming event and group. Please register and find out more on the link below:</p> <p>[<a href=\"https://www.eventbrite.co.uk/e/the-women-in-tech-coterie-launch-event-tickets-726243131757?aff=ebdsoporgprofile](https://www.eventbrite.co.uk/e/the-women-in-tech-coterie-launch-event-tickets-726243131757?aff=ebdsoporgprofile\" class=\"linkified\">https://www.eventbrite.co.uk/e/the-women-in-tech-coterie-launch-event-tickets-726243131757?aff=ebdsoporgprofile](https://www.eventbrite.co.uk/e/the-women-in-tech-coterie-launch-event-tickets-726243131757?aff=ebdsoporgprofile</a>)</p> ",
+    "end_time": 1701378000,
+    "link": "https://www.meetup.com/databristol/events/297395445/",
+    "location": {
+        "address": "Finzels Reach",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45358657836914,
+        "longitude": -2.5879149436950684,
+        "name": "Amdaris"
+    },
+    "org": "databristol",
+    "start_time": 1701367200,
+    "title": "Women in Tech Coterie Launch"
+}
