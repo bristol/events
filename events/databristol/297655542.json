@@ -1,10 +1,10 @@
 {
     "cancelled": false,
-    "description": "<p>Venue TBC</p> <p>IMPORTANT: Attendees will need to bring their own laptop</p> <p>AGENDA<br/>**18.00 \u2013 18:30 Meet &amp; Greet**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**18:30 - 19:15 Open AI Workshop:**<br/>Dive into the world of AI with our focused workshop on prompt engineering for OpenAI models. Designed for developers, this session will equip you with the skills to craft effective prompts, ensuring you get the best out of AI interactions. Join us to unlock the full potential of OpenAI in your projects.</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**19:15 - 19:45 Pizza and Networking**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> <p>**19:45 - 20:30 Open AI Workshop Continued...**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**20:30 - Pub**</p> ",
-    "end_time": 1702414800,
+    "description": "<p>Venue TBC</p> <p>IMPORTANT: Attendees will need to bring their own laptop</p> <p>AGENDA<br/>**17.30 \u2013 17:35 Meet &amp; Greet**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**17:35 - 19:10 Open AI Workshop:**<br/>Dive into the world of AI with our focused workshop on prompt engineering for OpenAI models. Designed for developers, this session will equip you with the skills to craft effective prompts, ensuring you get the best out of AI interactions. Join us to unlock the full potential of OpenAI in your projects.<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**19:10 - 20:30 Pizza and Networking**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> ",
+    "end_time": 1702413000,
     "link": "https://www.meetup.com/databristol/events/297655542/",
     "location": null,
     "org": "databristol",
-    "start_time": 1702404000,
+    "start_time": 1702402200,
     "title": "Learn how to use OpenAI models using prompt engineering"
 }
