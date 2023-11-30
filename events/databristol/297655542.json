@@ -1,10 +1,10 @@
 {
     "cancelled": false,
-    "description": "<p>Venue TBC</p> <p>IMPORTANT: Attendees will need to bring their own laptop</p> <p>AGENDA<br/>**17.30 \u2013 17:35 Meet &amp; Greet**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**17:35 - 19:10 Open AI Workshop:**<br/>Dive into the world of AI with our focused workshop on prompt engineering for OpenAI models. Designed for developers, this session will equip you with the skills to craft effective prompts, ensuring you get the best out of AI interactions. Join us to unlock the full potential of OpenAI in your projects.<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**19:10 - 20:30 Pizza and Networking**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> ",
+    "description": "<p>Venue TBC</p> <p>IMPORTANT: Attendees will need to bring their own laptop</p> <p>AGENDA<br/>**17.30 \u2013 17:35 Meet &amp; Greet**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**17:35 - 19:10 AzureOpenAIService Workshop:**<br/>This session is a 60-minute workshop of interaction with the OpenAI model ChatGPT (gpt-3.5-turbo).<br/>The goal of this 60-minute workhsop is to:</p> <p>* Understand the implementation and capabilities of ChatGPT<br/>* Learn how to use and customize natural language generative AI models using prompt engineering techniques</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**19:10 - 20:30 Pizza and Networking**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> ",
     "end_time": 1702413000,
     "link": "https://www.meetup.com/databristol/events/297655542/",
     "location": null,
     "org": "databristol",
     "start_time": 1702402200,
-    "title": "Learn how to use OpenAI models using prompt engineering"
+    "title": "AzureOpenAIService Workshop"
 }
