@@ -1,10 +1,17 @@
 {
     "cancelled": false,
-    "description": "<p>Venue TBC</p> <p>IMPORTANT: Attendees will need to bring their own laptop</p> <p>AGENDA<br/>**17.30 \u2013 17:35 Meet &amp; Greet**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**17:35 - 19:10 AzureOpenAIService Workshop:**<br/>This session is a 60-minute workshop of interaction with the OpenAI model ChatGPT (gpt-3.5-turbo).<br/>The goal of this 60-minute workhsop is to:</p> <p>* Understand the implementation and capabilities of ChatGPT<br/>* Learn how to use and customize natural language generative AI models using prompt engineering techniques</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**19:10 - 20:30 Pizza and Networking**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> ",
+    "description": "<p>Hosted by **OVO Energy** - [<a href=\"https://www.ovoenergy.com/](https://www.ovoenergy.com/\" class=\"linkified\">https://www.ovoenergy.com/](https://www.ovoenergy.com/</a>)<br/>OVO: We're helping millions of customer use less. And we can help you do the same</p> <p>Sponsored by **Microsoft** (as part of the **Global AI Conference**) - [<a href=\"https://www.microsoft.com/](https://www.ovoenergy.com/\" class=\"linkified\">https://www.microsoft.com/](https://www.ovoenergy.com/</a>)</p> <p>**Global AI Conference** (Around the world): [<a href=\"https://globalai.community/events/global-ai-conference-december-2023/](https://www.ovoenergy.com/\" class=\"linkified\">https://globalai.community/events/global-ai-conference-december-2023/](https://www.ovoenergy.com/</a>)</p> <p>Location: Temple Quay, 1 Rivergate, Redcliffe, Bristol BS1 6ED</p> <p>IMPORTANT: Attendees will need to bring their own laptop</p> <p>AGENDA<br/>**17.15 \u2013 17:30 Meet &amp; Greet**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**17:30 - 19:10 AzureOpenAIService Workshop:**<br/>This session is a workshop of interaction with the OpenAI model ChatGPT (gpt-3.5-turbo).</p> <p>The goal of this workshop is to:</p> <p>* Understand the implementation and capabilities of ChatGPT<br/>* Learn how to use and customize natural language generative AI models using prompt engineering techniques</p> <p>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-<br/>**19:10 - 20:30 Pizza and Networking**<br/>\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-</p> ",
     "end_time": 1702413000,
     "link": "https://www.meetup.com/databristol/events/297655542/",
-    "location": null,
+    "location": {
+        "address": "1 Rivergate",
+        "city": "Bristol BS1 6ED ",
+        "country": "gb",
+        "latitude": 51.451011657714844,
+        "longitude": -2.583268880844116,
+        "name": "Ovo Energy"
+    },
     "org": "databristol",
-    "start_time": 1702402200,
-    "title": "AzureOpenAIService Workshop"
+    "start_time": 1702401300,
+    "title": "Azure OpenAI Service Workshop"
 }
