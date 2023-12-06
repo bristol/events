@@ -4,12 +4,12 @@
     "end_time": 1701894600,
     "link": "https://www.meetup.com/agile-bath-bristol/events/296585304/",
     "location": {
-        "address": "2 Trinity Road, Avon Street",
-        "city": "Bristol",
+        "address": "Stag and Hounds Public House",
+        "city": "Bristol City",
         "country": "gb",
-        "latitude": 51.452850341796875,
-        "longitude": -2.5830390453338623,
-        "name": "NatWest Accelerator"
+        "latitude": 51.45545196533203,
+        "longitude": -2.583203077316284,
+        "name": "Stag and Hounds Public House"
     },
     "org": "agile",
     "start_time": 1701887400,
