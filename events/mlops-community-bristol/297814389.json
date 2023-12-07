@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>\ud83c\udf84 Bristolian MLOps Community\ud83c\udf84</p> <p>\ud83d\udcc5 Save the date</p> <p>Looking forward to our next Bristol Meetup?</p> <p>Our friends from Ovo Energy will be hosting us on the 10th of January for an exciting meetup.</p> <p>Agenda for the day:</p> <p>**18:00** \\- \ud83c\udf55\ud83c\udf7a Welcome \ud83c\udf55\ud83c\udf7a</p> <p>**18:25** \\- MLOps\\.Community Intro</p> <p>**18:30** \\- Talk 1 \\- \"State of the art open source LLMs\\, fine tuning and other things\" by [Luke Marsden](<a href=\"https://www.linkedin.com/in/luke-marsden-71b3789/\" class=\"linkified\">https://www.linkedin.com/in/luke-marsden-71b3789/</a>)</p> <p>**19:15** \\- Talk 2 \\- TBC</p> <p>**20:00 -** Start heading to the pub</p> <p>More info soon!</p> ",
+    "end_time": 1704920400,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/297814389/",
+    "location": {
+        "address": "1 Rivergate",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.450260162353516,
+        "longitude": -2.584162950515747,
+        "name": "OVO Energy"
+    },
+    "org": "mlops-community-bristol",
+    "start_time": 1704909600,
+    "title": "MLOps Bristol - Meetup #10"
+}
