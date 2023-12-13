@@ -1,5 +1,5 @@
 {
-    "cancelled": false,
+    "cancelled": true,
     "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>December is a busy time for all of us. Instead of talks/workshops/what have you, let's kick back and relax at TBD (probably Left Handed Giant).</p> <p>Feel free to talk about Go, or anything but Go. More details to be added soon.</p> <p>\u23f0 Schedule (possibly):<br/>\\- 18:00\\-20:00 Arrive\\, kick back\\, relax\\.</p> <p>\ud83d\udccd - TBC</p> ",
     "end_time": 1702497600,
     "link": "https://www.meetup.com/golang-bristol/events/297518103/",
