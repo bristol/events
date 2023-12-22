@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Happy 2024! Looking to kick the new year off to a bang with 2 excellent talks from Catalin Rosu</p> <p>**Evolving Clean Architecture to Reduce Tech Debt**<br/>Another modern architecture seems to have conquered the .Net Developer's hearts and minds in the last decade or so, leaving the projects created on older best practices and architectures in a \"Technical Debt\" state.<br/>Cat will uncover the evolution of software architecture, leading to the clean architecture principles that are shaping .NET development today. He'll compare popular clean architecture templates and bring theory to life with a hands-on demo.<br/>**.NET Aspire: The Local Cloud for Your Microservices**<br/>With the growing trend and challenges of microservices, Microsoft developed a new tool with the release of latest .Net 8: .NET Aspire, a descriptive way to build and deploy microservices.<br/>Cat will show how this can simplify and enhance the microservices development with a practical demo of setting up and running microservices locally to showcase the .NET Aspire key features.</p> <p>**Bio**<br/>[<a href=\"https://www.linkedin.com/in/catrosu/](https://www.linkedin.com/in/catrosu/\" class=\"linkified\">https://www.linkedin.com/in/catrosu/](https://www.linkedin.com/in/catrosu/</a>)<br/>Catalin is the Development Manager at Signal Agency, where he plays a pivotal role in building and leading the engineering team towards Agile Digital Transformation. With nearly two decades in the tech industry, Cat brings a wealth of experience, having previously worked as a Senior Software Engineer at UCAS.<br/>In his personal life, Cat is a family man at heart, particularly enjoying nature-related activities with his loved ones. Despite a busy schedule, he is committed to helping others grow in their tech careers through mentoring on various platforms.</p> ",
+    "end_time": 1704834000,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/298089979/",
+    "location": {
+        "address": "Lewins Mead",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45747756958008,
+        "longitude": -2.594620943069458,
+        "name": "Lewins Mead"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1704826800,
+    "title": "Catalin Rosu  - Double header : Clean Architecture and .NET Aspire"
+}
