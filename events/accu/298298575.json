@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Hi All,</p> <p>How is everybody? Happy New Year! Hope you all had a good Christmas break.</p> <p>Nick Deguillaume has kindly volunteered to give an updated version of his talk on the Windows File System. If you didn't see the previous version of Nick's talk in the summer, I would highly recommend this - there are some interesting (and surprising!) insights. Please find the abstract for the talk below. As usual, the talk will be hosted at the Blu Wireless offices (at One Castlepark, Tower Hill, BS2 0JA), with a trip to the Cornubia afterwards :-) !</p> <p>Looking forward to seeing you all and take care,</p> <p>Jim</p> <p>**The Windows File System**</p> <p>Programming for Windows can be challenging, especially in C++ where the wrappers and tools available in other programming environments are not so readily available.</p> <p>This talk focuses on the windows file system and makes an argument as to why we still need to use direct operating system calls rather than relying on the C++ standard library.</p> <p>The talk will include but is not limited to:</p> <p>\u2022 Long file paths<br/>\u2022 Character encoding (utf-8, wtf-8, utf-16, and wtf-16)<br/>\u2022 Securing sensitive data that may be spooled or hibernated to disk.<br/>\u2022 RAII style temporary files<br/>\u2022 The ubiquitous CreateFileW function<br/>\u2022 Checking if two file paths point to the same \u201cphysical\u201d location<br/>\u2022 File naming rules</p> <p>We focus on standard Win32 applications rather than the Universal Windows Platform (UWP) which was brought into being primarily for the now defunct \u201cWindows Mobile\u201d operating systems.</p> ",
+    "end_time": 1706218200,
+    "link": "https://www.meetup.com/accu-bristol/events/298298575/",
+    "location": {
+        "address": null,
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.455177307128906,
+        "longitude": -2.584731101989746,
+        "name": "BS2 0JA"
+    },
+    "org": "accu",
+    "start_time": 1706211000,
+    "title": "WTF? Wobbly Transformation Format and The Windows File System"
+}
