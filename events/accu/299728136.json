@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Hi Everybody,</p> <p>I am very pleased to announce, that for April's talk, we have a guest speaker!</p> <p>[Ben Walker](<a href=\"https://benjaminwalker.info/\" class=\"linkified\">https://benjaminwalker.info/</a>) is a lecturer in Applied Mathematics at the University of Bath and has very kindly offered to give a talk about [VisualPDE](visualpde.com), which is:</p> <p>*\"a website designed to bring the world of partial differential equations (PDEs) to a wider audience through the use of real-time interactive web-based simulations\"*</p> <p>Having had a look at [VisualPDE](visualpde.com), I am very excited to hear Ben's talk :-) !</p> <p>Please find the abstract for the talk below. As usual, the talk will be hosted at the Blu Wireless offices (at One Castlepark, Tower Hill, BS2 0JA), with a trip to the Cornubia afterwards :-) !</p> <p>Looking forward to seeing you all and take care,</p> <p>Jim</p> <p>**Making mathematical modelling interactive and accessible with VisualPDE**<br/>It is no secret that it can be difficult to communicate mathematical ideas to non-expert audiences, with boredom, confusion, or stupefaction being unintended but likely outcomes of our efforts. In this talk, we\u2019ll explore [VisualPDE.com](visualpde.com), a new way of engaging audiences with a broad class of mathematical models, irrespective of whether you\u2019re speaking to field experts or laypeople.</p> <p>VisualPDE allows users to interact with a live solution of partial differential equations (PDEs), all solved in real time in their web browser on whatever device they happen to be using (including mobile phones). In particular, we\u2019ll see how this interactivity brings to life cutting-edge mathematical models from industry and public health applications. We\u2019ll also see how easy it is both to create our own interactive content and also to prototype new mathematical models using VisualPDE, with the ready potential to change how we communicate and explore mathematics.</p> ",
+    "end_time": 1714077000,
+    "link": "https://www.meetup.com/accu-bristol/events/299728136/",
+    "location": {
+        "address": "One Castlepark Tower Hill",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45514678955078,
+        "longitude": -2.58434796333313,
+        "name": "Blu Wireless"
+    },
+    "org": "accu",
+    "start_time": 1714069800,
+    "title": "Making mathematical modelling interactive and accessible with VisualPDE"
+}

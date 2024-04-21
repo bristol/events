@@ -1,9 +1,16 @@
 {
     "cancelled": false,
-    "description": "<p>**Using Transactional Analysis with Teams**</p> <p>In this interactive workshop you will learn fundamental pieces of Transactional Analysis (TA) theory as well as learning how it can be used to hugely improve your relationships with yourself and other people.</p> <p>Integrated with your team coaching or facilitation work, TA can offer deeper, truer and more everlasting impact for your people and will extend your understanding and ability to manage the relational space.</p> <p>You will come away with a clear understanding of how you can use TA to recognise, understand and resolve the core issues that lie at the heart of team misalignment, interpersonal complexity and conflict. We will cover the foundational principles of TA, the ego state model, transactions, life-script and autonomy as related to teams and groups.</p> ",
+    "description": "<p>**Using Transactional Analysis with Teams**</p> <p>In this interactive workshop you will learn fundamental pieces of Transactional Analysis (TA) theory as well as learning how it can be used to hugely improve your relationships with yourself and other people.</p> <p>Integrated with your team coaching or facilitation work, TA can offer deeper, truer and more everlasting impact for your people and will extend your understanding and ability to manage the relational space.</p> <p>You will come away with a clear understanding of how you can use TA to recognise, understand and resolve the core issues that lie at the heart of team misalignment, interpersonal complexity and conflict. We will cover the foundational principles of TA, the ego state model, transactions, life-script and autonomy as related to teams and groups.</p> <p>**Location and sponsors:**</p> <p>Did Somebody Say \u201cJust Eat\u201d? Agile Bath and Bristol are proud to be sponsored by Just EAT. We will be in the welcoming Just EAT offices, and as usual they will be providing pizza and drinks for your troubles!</p> ",
     "end_time": 1708633800,
     "link": "https://www.meetup.com/agile-bath-bristol/events/298603676/",
-    "location": null,
+    "location": {
+        "address": "Broad Quay",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45178985595703,
+        "longitude": -2.5969390869140625,
+        "name": "Just Eat"
+    },
     "org": "agile",
     "start_time": 1708626600,
     "title": "Using Transactional Analysis with Teams - Lucy Power"

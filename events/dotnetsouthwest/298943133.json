@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Returning in February, we have another double-header looking at the Umbraco Content Management system.</p> <p>Umbraco is a leading .NET content management system used by brands such as Carlsberg, Volvo and The European Union. Perhaps you\u2019ve seen it mentioned in job ads, or had a play with it years ago in the .NET Framework days. It offers developers high flexibility, security and scalability whilst giving content editors an easy-to-use interface and intuitive editing experience. It\u2019s free and Open-Source, and supported by a community of friendly, highly-engaged developers.</p> <p>**If Carlsberg did .NET Content Management Systems** with Lotte Pitcher<br/>In this talk we shall learn what a .NET developer needs to know to get started with modern (.NET 8) Umbraco. We shall review its key features, including recently added ones such headless and EF core support, and where the product is heading in the future. Enough for you to determine if Umbraco is a good fit for current or upcoming projects, or if you want to extend your .NET skills and learn something new.</p> <p>Lotte Pitcher has been building websites for longer than she cares to remember, and has recently joined the Developer Relations team at Umbraco, She is a Microsoft MVP, a long-time open-source contributor and a passionate advocate for being an active member of a healthy, inclusive tech community. Follow her on Twitter @lottepitcher.</p> <p>**Umbraco and Aardman : providing a globally renowned animation company with a scalable technology platform** with Matt Sutherland from True Digital.</p> <p>In early 2022, True launched the new website for OSCAR and BAFTA-winning animation studio, Aardman. true designed and built a B2B focused site, using Umbraco in line with a rebrand for the creators of Wallace and Gromit, in a way that will scale over time, save them admin effort, and most importantly budget.</p> <p>Matt Sutherland, true\u2019s Head of Technology, will share our experience in building a composable DXP site and how this has benefitted the team at Aardman and delivered to and beyond the expectations of their brief.</p> <p>**Hosted by Io Associates**<br/>Io Associates have been supporting the .NET community in and around the South West, and the rest of the UK for many years, and will be hosting us and providing refreshments for this event</p> ",
+    "end_time": 1709065800,
+    "link": "https://www.meetup.com/dotnetsouthwest/events/298943133/",
+    "location": {
+        "address": "Lewins Mead",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.456390380859375,
+        "longitude": -2.596242904663086,
+        "name": "iO Associates - UK"
+    },
+    "org": "dotnetsouthwest",
+    "start_time": 1709058600,
+    "title": "CMS Special : If Carlsberg did .NET Content Management Systems"
+}

@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Hi Everybody,</p> <p>Hope you have a good weekend.</p> <p>This month's speaker is Chris Harpum who some of you may know from previous ACCU meet-ups. Chris has kindly offered to give a talk on the C++ type system and how we can use it to create cleaner, safer code. Please find the abstract for the talk below. As usual, the talk will be hosted at the Blu Wireless offices (at One Castlepark, Tower Hill, BS2 0JA), with a trip to the Cornubia afterwards :-) !</p> <p>Looking forward to seeing you all and take care,</p> <p>Jim</p> <p>**Why you should never use std::visit**</p> <p>One of the appeals of C++ is its powerful type system. A fundamental building block for the standard library, a conduit for compile-time metaprogramming, and a safety mechanism that can help avoid well known C language pitfalls.</p> <p>Using std::variant as an example, let\u2019s look at how we can effectively utilise the type system to create a cleaner, safer, C++.</p> ",
+    "end_time": 1711056600,
+    "link": "https://www.meetup.com/accu-bristol/events/299727741/",
+    "location": {
+        "address": null,
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.455177307128906,
+        "longitude": -2.584731101989746,
+        "name": "BS2 0JA"
+    },
+    "org": "accu",
+    "start_time": 1711049400,
+    "title": "Why you should never use std::visit"
+}

@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>\ud83e\udd41 Bristolian MLOps Community \ud83e\udd41</p> <p>\ud83d\udcc5 Save the date</p> <p>Looking forward to our next Bristol Meetup?</p> <p>Our friends from [Berkeley Square](<a href=\"https://bsqtalent.com/\" class=\"linkified\">https://bsqtalent.com/</a>) will be hosting us on the 26th of March for an exciting meetup.</p> <p>Agenda for the day:</p> <p>**18:00** \\- \ud83c\udf55\ud83c\udf7a Welcome \ud83c\udf55\ud83c\udf7a</p> <p>**18:25** \\- MLOps\\.Community Intro</p> <p>**18:30** \\- \"Under the hood of an algorithmic hedge fund\" by [Pierre Cilliers](<a href=\"https://www.linkedin.com/in/pierre-cilliers-4b778b162/\" class=\"linkified\">https://www.linkedin.com/in/pierre-cilliers-4b778b162/</a>) from [Spatialedge](<a href=\"https://www.linkedin.com/company/spatialedge/\" class=\"linkified\">https://www.linkedin.com/company/spatialedge/</a>)<br/>**19:15** \\- \"Synthetic data for machine learning\" by [Rich Riley](<a href=\"https://www.linkedin.com/in/rich-j-riley/\" class=\"linkified\">https://www.linkedin.com/in/rich-j-riley/</a>) from [Rowden](<a href=\"https://www.linkedin.com/company/rowden/\" class=\"linkified\">https://www.linkedin.com/company/rowden/</a>)<br/>**20:00 -** Start heading to the pub</p> <p>This meetup is sponsored by [Berkeley Square](<a href=\"https://bsqtalent.com\" class=\"linkified\">https://bsqtalent.com</a>) \ud83d\ude4f \ud83c\udf7b \ud83c\udf55</p> ",
+    "end_time": 1711486800,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/299629364/",
+    "location": {
+        "address": "470 Bath Road",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.441768646240234,
+        "longitude": -2.5620930194854736,
+        "name": "Here"
+    },
+    "org": "mlops-community-bristol",
+    "start_time": 1711476000,
+    "title": "MLOps Bristol - Meetup #11"
+}

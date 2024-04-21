@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>We are excited to announce the first meetup for 2024 which will be held at the Lloyds Banking Group offices located on the harbourside.</p> <p>We will be joined by Lloyds' very own [Rich James](<a href=\"https://www.linkedin.com/in/richgojames/\" class=\"linkified\">https://www.linkedin.com/in/richgojames/</a>) and [Simon Green](<a href=\"https://www.linkedin.com/in/sg01423/\" class=\"linkified\">https://www.linkedin.com/in/sg01423/</a>) who will be doing a joint talk titled \"SRE in Financial Services (by the book)\".</p> <p>This session will be followed up by [Matt Day](<a href=\"https://www.linkedin.com/in/mattsday/\" class=\"linkified\">https://www.linkedin.com/in/mattsday/</a>) and [Aly \"Alfy\" ElAlfy](<a href=\"https://www.linkedin.com/in/aalfy/\" class=\"linkified\">https://www.linkedin.com/in/aalfy/</a>) who will be taking the community through \"Google's Maturity to SRE Capability and Tooling\".</p> <p>Details for the event:</p> <p>\ud83d\udccd - Lloyds Offices - 10 Canons Way, Bristol, BS1 5LF<br/>\ud83d\uddd3\ufe0f 27th March<br/>\ud83d\udd60 18:30 kick off<br/>\ud83d\udce2 Presentation Event<br/>\ud83c\udf55\ud83c\udf7a/\ud83e\udd64 Food and drink provided</p> <p>Looking forward to welcoming everyone on the evening!</p> ",
+    "end_time": 1711571400,
+    "link": "https://www.meetup.com/bristol-devops-cloud-native/events/298953128/",
+    "location": {
+        "address": "10 Canons Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44900894165039,
+        "longitude": -2.602694034576416,
+        "name": "10 Canons Way"
+    },
+    "org": "Cloud-Native-DevOps",
+    "start_time": 1711564200,
+    "title": "2024 Bristol DevOps and Cloud Native Kick-off Event"
+}

@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>For April's meetup we have the amazing Rob Allen teaching us how to automate everything with Github actions:</p> <p>**Automate all the things with CI/CD in Github Actions**<br/>Rob Allen</p> <p>*We have many tools to help us build an application consistently with high quality from code formatting, through static analysis and testing. We can run them locally, but that's too easy to forget, so they really come into their own when we run them automatically within GitHub, and that's what we'll cover in this talk. I'll show you how to set up workflows in GitHub actions to check for all the common and not-so-common items that will make it easier to accept changes into the project and then follow on from there to show how we can also create releases and deploy automatically too. By the end of this session you'll be able to create your own workflows that will automate the your tooling.*</p> <p>\\-\\-\\-\\-<br/>SR2 \u2013 Socially Responsible Recruitment (<a href=\"https://www.sr2rec.co.uk/\" class=\"linkified\">https://www.sr2rec.co.uk/</a>) are kindly helping us host this evening. Thanks to them!</p> <p>Your first time coming to PHPSW? Welcome!<br/>Here's how the evening tends to run:</p> <p>* Feel free to turn up from 6:30pm.<br/>* We'll have a selection of soft drinks &amp; alcoholic drinks available from about 6:45pm, all free of charge thanks to our sponsors. It's a great chance to speak to people (we're a friendly bunch!) and do a bit of networking. Just speak to an organiser if you'd like an introduction to people, or just dive in and say \"hello!\".<br/>* At 7pm, we'll do a quick welcome talk and some community announcements<br/>* At \\~7:10pm we'll start our talks<br/>* We finish at \\~8:30pm. We always go for a drink somewhere afterwards to discuss the talks and anything else that takes your fancy. \ud83d\udc18</p> ",
+    "end_time": 1712779200,
+    "link": "https://www.meetup.com/php-sw/events/300170965/",
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
+    "org": "phpsw",
+    "start_time": 1712771100,
+    "title": "Automation with Github Actions"
+}

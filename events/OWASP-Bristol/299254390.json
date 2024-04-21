@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Jon Gadsden is going to start with a talk on **Threat Dragon**, as Project leader and contributor for the OWASP Threat Dragon tool, he knows a thing or two about what it does, and how it can be used.</p> <p>After the break, we will have a semi-structured **discussion** on **The Effects of our Decisions**; the intention is to draw on the experiences of everyone in the room to learn more about the subject. While the example will be about bcrypt cost, it's more about how security professionals must properly consider the decisions they make, and the effects those decisions have (see also changing passwords every 90 days).</p> <p>\\-\\-\\-</p> <p>**OWASP Threat Dragon**</p> <p>Threat Modeling is becoming more and more prominent in the security community; it is recognised as an important part of compliance, pipelines and software development.</p> <p>This talk provides the reasons for doing threat modeling, what to look for in threat modeling, and how to threat model using the OWASP Threat Dragon tool.</p> <p>It will introduce the various features of Threat Dragon and show how to use them to create a complete threat model.</p> <p>The talk will include illustrations of Threat Dragon as it goes along, and if time permits then a demonstration can be given of creating a complete threat model using Threat Dragon.</p> <p>**Jon** is a software security engineer with Ping Identity, a company that provides Identity and Access Management services.</p> <p>He is also a Co-Leader for the OWASP chapter in Bristol.</p> <p>Jon splits his time between security engineering and software development; he says that he likes it this way because it reminds him that developers are always under time pressure and that product security engineers require a whole load of tact.</p> <p>Jon has been involved with the open source software community since Linux[masked], and he is a leader of the OWASP Threat Dragon project and also the OWASP Developer Guide.</p> ",
+    "end_time": 1709668800,
+    "link": "https://www.meetup.com/owasp-bristol/events/299254390/",
+    "location": {
+        "address": "Broad Quay",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45178985595703,
+        "longitude": -2.5969390869140625,
+        "name": "Just Eat"
+    },
+    "org": "OWASP-Bristol",
+    "start_time": 1709661600,
+    "title": "March Meetup - Threat Dragon"
+}

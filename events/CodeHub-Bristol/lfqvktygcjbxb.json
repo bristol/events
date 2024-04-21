@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Hack Night agenda:</p> <p>* 18:00 - 18:30 gather at Desklodge ground floor<br/>* 18:30 - 18:45 intros and social<br/>* 18:45 - 20:00 solo or group study/hacking<br/>* 20:00 - 20:30 catch-up</p> <p>Please arrive for intros at 18:30, or let us know in advance if you're running late</p> <p>**Hack Night**<br/>This is a chance for anyone with an interest in programming and web development to code, share and learn from one another. Whether you're an experienced developer or just learning to code, interested in design or programming, you're more than welcome.<br/>All you'll need is:</p> <p>* A project you'd like to work on, or something you'd like to study<br/>* A laptop (probably)</p> <p>**What is a \"hack night\"?**<br/>Hack night is a casual social coding event where people can come together to work on projects and learn new technologies in any language at any skill level. It is a good time to work on those projects on the \"back burner\" that you never have time for.</p> <p>Some people will have personal projects that they want to work on in a social atmosphere. Others may be interested in pairing up to work on a project or learn something new together, or work through some online coding challenges. Some people may be experts, others may be noobs, and others may just want to learn how to code \u2013 all are welcome</p> <p>***</p> <p>**About CodeHub**<br/>CodeHub also runs workshops, organises mentorships and facilitates study groups. Check out our website (www.codehub.org.uk) for more information.</p> <p>Please join us on the *#hacknight* channel on our Slack board: <a href=\"https://codehubbs.slack.com/\" class=\"linkified\">https://codehubbs.slack.com/</a><br/>\u2013 request an invite during the event</p> <p>Our Code of Conduct: <a href=\"http://codehub.org.uk/code-conduct\" class=\"linkified\">http://codehub.org.uk/code-conduct</a></p> <p>**Sponsors**<br/>Thank you to our regular Sponsor:<br/>iO Academy (<a href=\"https://io-academy.uk/\" class=\"linkified\">https://io-academy.uk/</a>)</p> ",
+    "end_time": 1718739000,
+    "link": "https://www.meetup.com/codehub-bristol/events/lfqvktygcjbxb/",
+    "location": {
+        "address": "2 Redcliffe Way",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.448692321777344,
+        "longitude": -2.587148904800415,
+        "name": "DeskLodge House"
+    },
+    "org": "CodeHub-Bristol",
+    "start_time": 1718731800,
+    "title": "Hack Night"
+}
