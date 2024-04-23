@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>As some of might already know from our previous meetups communications, the MLOps.Community is migrating from Meetup.com to Luma.</p> <p>We will keep duplicating our events for as long as we can keep the Meetup.com page.</p> <p>Luma link for this meetup: [<a href=\"https://lu.ma/93ew7j0o\" class=\"linkified\">https://lu.ma/93ew7j0o</a>]( <a href=\"https://lu.ma/93ew7j0o\" class=\"linkified\">https://lu.ma/93ew7j0o</a>)</p> ",
+    "end_time": 1715284800,
+    "link": "https://www.meetup.com/mlops-community-bristol/events/300590639/",
+    "location": {
+        "address": "90 Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45136260986328,
+        "longitude": -2.586549997329712,
+        "name": "James Tudor House"
+    },
+    "org": "mlops-community-bristol",
+    "start_time": 1715274000,
+    "title": "MLOps Bristol - Meetup #12"
+}

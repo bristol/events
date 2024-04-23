@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>We have two fantastic talks lined up for May...</p> <p>**Smarter Apps: Building Generative AI Features With PHP**<br/>\\- Chris Ballard<br/>This talk will cover some foundational content on Generative AI, an overview of how it works, and how to integrate it into PHP apps with an example using the OpenAI API.</p> <p>**Modernising a ZF1 Application with Symfony**<br/>\\- Jonathan Finch<br/>How do you deal with a business critical, 15-year-old application, written in an ancient framework which no developers want to touch? In this talk, you\u2019ll find out how we regained momentum and made development great again with the introduction of Symfony 5 alongside the legacy ZF1 application</p> <p>\\-\\-\\-\\-<br/>SR2 \u2013 Socially Responsible Recruitment (<a href=\"https://www.sr2rec.co.uk/\" class=\"linkified\">https://www.sr2rec.co.uk/</a>) are kindly helping us host this evening. Thanks to them!</p> <p>Your first time coming to PHPSW? Welcome!<br/>Here's how the evening tends to run:</p> <p>* Feel free to turn up from 6:30pm.<br/>* We'll have a selection of soft drinks &amp; alcoholic drinks available from about 6:45pm, all free of charge thanks to our sponsors. It's a great chance to speak to people (we're a friendly bunch!) and do a bit of networking. Just speak to an organiser if you'd like an introduction to people, or just dive in and say \"hello!\".<br/>* At 7pm, we'll do a quick welcome talk and some community announcements<br/>* At \\~7:10pm we'll start our talks<br/>* We finish at \\~8:30pm. We always go for a drink somewhere afterwards to discuss the talks and anything else that takes your fancy. \ud83d\udc18</p> ",
+    "end_time": 1715198400,
+    "link": "https://www.meetup.com/php-sw/events/300591327/",
+    "location": {
+        "address": "1, Victoria Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.453147888183594,
+        "longitude": -2.5912439823150635,
+        "name": "Runway East"
+    },
+    "org": "phpsw",
+    "start_time": 1715190300,
+    "title": "Modernising PHP and AI"
+}
