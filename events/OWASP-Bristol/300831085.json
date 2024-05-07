@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Immersive Labs invites you to participate in an interactive cyber crisis simulation.</p> <p>You will make key decisions that could lead to mitigation and containment of the crisis or management of the fallout and potential reputational damage. You will play the role of a boardroom as you seek to make quick decisions during a cyber crisis. Attendees are encouraged to participate using their mobile phones during the session and our Head of AppSec will discuss your decisions at each stage and feedback on how you performed as a group. This is a fun session to creates discussion but also equips you with some decision making skills you can take back into the workplace.</p> <p>\\-\\-\\-</p> <p>**Directions:**<br/>In-person event, kindly **hosted by Immersive Labs**, 6th Floor, The Programme, All Saints' St, Bristol BS1 2LZ.</p> <p>To find the entrance, it might be easier to search for \"Programme, Bristol, BS1 2NB\", or use this link to [Google Maps](<a href=\"https://www.google.com/maps/?q=51.455666,-2.592341\" class=\"linkified\">https://www.google.com/maps/?q=51.455666,-2.592341</a>).</p> <p>**Venue:**<br/>Photo shows the main entrance, which is visible when walking down the right hand side of the Tesco Express on Wine Street (Google Street View sometimes shows the back entrance, which is only accessible via keycard).</p> ",
+    "end_time": 1716319800,
+    "link": "https://www.meetup.com/owasp-bristol/events/300831085/",
+    "location": {
+        "address": "All Saints' Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45588684082031,
+        "longitude": -2.5925350189208984,
+        "name": "Programme"
+    },
+    "org": "OWASP-Bristol",
+    "start_time": 1716312600,
+    "title": "Interactive cyber crisis simulation, at Immersive Labs"
+}
