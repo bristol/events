@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Join us at [The Golden Guinea in Bristol](<a href=\"https://thegoldenguinea.co.uk/function-room/\" class=\"linkified\">https://thegoldenguinea.co.uk/function-room/</a>) for a South West Ruby meetup featuring:</p> <p>\ud83d\udcac talks by [Miles Woodroofe](<a href=\"https://mileswoodroffe.com/\" class=\"linkified\">https://mileswoodroffe.com/</a>) (Mindful Chef) and [Karl Entwistle](<a href=\"https://x.com/karlentwistle?lang=en\" class=\"linkified\">https://x.com/karlentwistle?lang=en</a>) (BiggerPockets)</p> <p>**Schedule**</p> <p>18:00 - Arrive, grab a drink from the bar, have a chat</p> <p>18:45 - **\"Getting Started with Solid Queue - The new default ActiveJob backend for Rails 8**\" **-** Miles Woodroofe</p> <p>Amongst many other things, Miles is CTO at [Mindful Chef](<a href=\"https://www.mindfulchef.com/\" class=\"linkified\">https://www.mindfulchef.com/</a>) and [Rails Foundation](<a href=\"https://rubyonrails.org/foundation\" class=\"linkified\">https://rubyonrails.org/foundation</a>) board member.</p> <p>19:15 **\\- \"SyntaxTree And Me \" \\-** Karl Entwistle</p> <p>Join Karl for a brief introduction to the amazing [SyntaxTree gem](<a href=\"https://github.com/ruby-syntax-tree/syntax_tree\" class=\"linkified\">https://github.com/ruby-syntax-tree/syntax_tree</a>)! He'll share two practical examples of how it helped him solve real-world problems quickly and effortlessly\u2014without relying on a single regex.</p> <p>Karl is a Senior Application Engineer at Bigger Pockets.</p> <p>19:45 - 21:00 - More mingling</p> <p>**Slack**</p> <p>If you'd like to join us on Slack please join [Bristol &amp; Bath Ruby Slack](<a href=\"https://join.slack.com/t/bath-and-bristol-ruby/shared_invite/zt-1gnf6q40k-GfPoQThrqCj8AHq0wA4_qg\" class=\"linkified\">https://join.slack.com/t/bath-and-bristol-ruby/shared_invite/zt-1gnf6q40k-GfPoQThrqCj8AHq0wA4_qg</a>) and find us in the #south-west-ruby channel</p> ",
+    "end_time": 1720555200,
+    "link": "https://www.meetup.com/south-west-ruby/events/301511389/",
+    "location": {
+        "address": "19 Guinea Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.44729995727539,
+        "longitude": -2.592900037765503,
+        "name": "Golden Guinea"
+    },
+    "org": "south-west-ruby",
+    "start_time": 1720544400,
+    "title": "South West Ruby #44"
+}
