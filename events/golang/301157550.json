@@ -1,0 +1,17 @@
+{
+    "cancelled": false,
+    "description": "<p>Hello Bristol Gophers \ud83d\udc4b!</p> <p>We're super excited to continue our series of Golang talks.</p> <p>Speakers:</p> <p>\ud83d\udde3\ufe0f Dan Neame - Moving from Node to Golang</p> <p>Dan is an Engineering Manager at Holland &amp; Barrett with a technical background in full stack development. He lives just outside of Bristol in the Chew Valley with his wife and 1 year old daughter, and spends his free time completing the couch to 5k every year, relapsing, and obsessing over cooking.</p> <p>Dan will cover why Holland &amp; Barrett are moving from using NodeJS in their middleware to Golang services, and some similarities between the two languages for others thinking of making the jump.</p> <p>\ud83d\udde3\ufe0f TBC</p> <p>\u23f0 Schedule (possibly):</p> <p>* 18:00-18:15 welcome/pizza/intro<br/>* 18:15-18:45 first speaker<br/>* 18:45-18:50 small break<br/>* 18:50-19:20 second speaker<br/>* 19:15-19:30 farewell/next event info</p> <p>\u2764\ufe0f Sponsors</p> <p>* AJ Bell (venue)<br/>* Formula Recruitment (food/drinks)</p> <p>\ud83d\udccd - Pivot+Mark</p> ",
+    "end_time": 1719426600,
+    "link": "https://www.meetup.com/golang-bristol/events/301157550/",
+    "location": {
+        "address": "48-52 Baldwin Street",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.45335006713867,
+        "longitude": -2.5931899547576904,
+        "name": "Pivot+Mark"
+    },
+    "org": "golang",
+    "start_time": 1719421200,
+    "title": "Golang Talks @ Pivot+Mark"
+}
