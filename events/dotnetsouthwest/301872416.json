@@ -1,10 +1,17 @@
 {
     "cancelled": false,
-    "description": "<p>Full details Coming soon.</p> <p>GitHub Copilot Workspace leverages AI developer tools to streamline complex tasks across your entire repo, enhancing developer productivity and making coding faster and smarter. Ideal for navigating unfamiliar programming languages or frameworks, Copilot Workspace acts as a cloud IDE companion, deeply integrated with your project. As your ultimate coding partner, it excels in repo-wide edits and fosters programming collaboration. Whether addressing GitHub Issues or optimizing your task-centric workflow, Copilot Workspace is designed to improve your coding efficiency through its AI-generated code capabilities.</p> ",
+    "description": "<p>We're back with one of the best speakers in the international circuit with an absolutely blinding talk!</p> <p>**Aprol (Edwards) Yoho**, the Senior Developer Advocate &amp; DevOps Practice Lead at GitHub will be joining us to give us an update on some of the super cool stuff that the team at Github have been working on.</p> <p>GitHub Copilot can streamline your coding workflow in various ways. While we have all tried and tested GitHub Copilot in our IDEs, let's look at how to use Copilot to make use more efficient and better developers. In this session, we're going to go beyond the usual tips and trips, look at how we can use GitHub Copilot to write test plans, create documentation and allow us to be more productive with the tasks that we love.</p> <p>We're being hosted by our sponsors, IO in central Bristol who will be providing refreshments and a venue. We're limited in space so please make sure you RSVP if you can make it - Look forward to seeing you all there!</p> ",
     "end_time": 1721935800,
     "link": "https://www.meetup.com/dotnetsouthwest/events/301872416/",
-    "location": null,
+    "location": {
+        "address": "Lewins Mead",
+        "city": "Bristol",
+        "country": "gb",
+        "latitude": 51.456390380859375,
+        "longitude": -2.596242904663086,
+        "name": "iO Associates - UK"
+    },
     "org": "dotnetsouthwest",
     "start_time": 1721928600,
-    "title": "April Edwards - Copilot Workspace is coming soon!"
+    "title": "Beyond GitHub Tips and Tricks: .NET development and testing with GitHub"
 }
